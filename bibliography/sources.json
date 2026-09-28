@@ -308,5 +308,27 @@
     "year": 2023,
     "url": "https://doi.org/10.48676/unibo/amsdottorato/10975",
     "rights_note": "Consultation permitted for study/research; no restricted source-image dataset redistributed."
+  },
+  {
+    "source_id": "valerio2016thesis",
+    "type": "thesis",
+    "title": "Investigating the Signs and Sounds of Cypro-Minoan",
+    "authors": [
+      "Miguel Valério"
+    ],
+    "year": 2016,
+    "url": "https://hdl.handle.net/2445/99521",
+    "rights_note": "Bibliographic and research reference; no blanket redistribution rights assumed."
+  },
+  {
+    "source_id": "ferrara2013-review",
+    "type": "review",
+    "title": "Review of Cypro-Minoan Inscriptions, Volume II: The Corpus",
+    "authors": [
+      "Bryn Mawr Classical Review"
+    ],
+    "year": 2014,
+    "url": "https://bmcr.brynmawr.edu/2014/2014.08.52",
+    "rights_note": "Cited for descriptive catalogue/signary metadata; review text not redistributed wholesale."
   }
 ]
