@@ -1,0 +1,25 @@
+{
+  "version": "5.0.0",
+  "fixtures": [
+    {
+      "fixture_id": "blocked-diagnostic",
+      "expected": "accept",
+      "reason": "Scoped descriptive diagnostic with explicit warning and claims_allowed=false"
+    },
+    {
+      "fixture_id": "catalogue-coverage-structural",
+      "expected": "accept",
+      "reason": "READY gate supports structural catalogue-control claim"
+    },
+    {
+      "fixture_id": "source-specific-disagreement",
+      "expected": "accept",
+      "reason": "Competing attributed assertions coexist without forced adjudication"
+    },
+    {
+      "fixture_id": "snapshot-supersession",
+      "expected": "accept",
+      "reason": "New snapshot ID supersedes rather than mutates historical evidence identity"
+    }
+  ]
+}
