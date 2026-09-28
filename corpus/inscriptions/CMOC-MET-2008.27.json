@@ -1,0 +1,59 @@
+{
+  "id": "CMOC-MET-2008.27",
+  "identification_status": "museum_identified",
+  "identifiers": [
+    {
+      "system": "Met object number",
+      "value": "2008.27",
+      "source_id": "met-2008.27"
+    }
+  ],
+  "object": {
+    "object_type": "cylinder seal",
+    "material": "hematite",
+    "repository": "The Metropolitan Museum of Art",
+    "inventory_number": "2008.27"
+  },
+  "find_context": {
+    "findplace": "Cyprus",
+    "source_id": "met-2008.27"
+  },
+  "dating": [],
+  "classifications": [
+    {
+      "assertion_type": "script_identification",
+      "value": "Cypro-Minoan",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "met-2008.27",
+          "locator": "museum description"
+        }
+      ]
+    }
+  ],
+  "assertions": [],
+  "rights": {
+    "record_license": "Project-original structure; Met collection metadata used under CC0.",
+    "third_party_material": [
+      {
+        "source_id": "met-2008.27",
+        "material": "collection metadata",
+        "license_id": "cc0-1.0",
+        "included": true
+      },
+      {
+        "source_id": "met-2008.27",
+        "material": "museum images",
+        "license_id": "cc0-1.0-where-marked",
+        "included": false
+      }
+    ]
+  },
+  "record_version": "1.0.0",
+  "transcriptions": [],
+  "notes": [
+    "No protected transcription or restricted image redistributed."
+  ]
+}
