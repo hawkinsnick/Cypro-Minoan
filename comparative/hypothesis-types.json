@@ -1,0 +1,46 @@
+{
+  "version": "4.0.0",
+  "types": [
+    {
+      "type": "graphic_similarity",
+      "transitive": false,
+      "phonetic_implication": false
+    },
+    {
+      "type": "structural_similarity",
+      "transitive": false,
+      "phonetic_implication": false
+    },
+    {
+      "type": "distributional_similarity",
+      "transitive": false,
+      "phonetic_implication": false
+    },
+    {
+      "type": "functional_analogy",
+      "transitive": false,
+      "phonetic_implication": false
+    },
+    {
+      "type": "proposed_historical_relationship",
+      "transitive": false,
+      "phonetic_implication": false
+    },
+    {
+      "type": "proposed_phonetic_equivalence",
+      "transitive": false,
+      "phonetic_implication": "only the explicitly sourced pair; never propagated"
+    },
+    {
+      "type": "numeric_identity",
+      "transitive": false,
+      "phonetic_implication": false
+    },
+    {
+      "type": "encoding_unification",
+      "transitive": false,
+      "phonetic_implication": false
+    }
+  ],
+  "default_rule": "No cross-script relation is transitive unless a future relation type explicitly defines and justifies transitivity."
+}
