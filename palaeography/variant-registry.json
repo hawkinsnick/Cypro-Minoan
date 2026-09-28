@@ -1,0 +1,16 @@
+{
+  "version": "3.0.0",
+  "status": "framework_ready_population_sparse",
+  "principle": "Variants/allographs are authority-specific assertions until occurrence evidence supports project-level reconciliation.",
+  "authorities": [
+    "olivier2007",
+    "ferrara2013-integrated",
+    "polig-donnelly2022",
+    "unicode14plus"
+  ],
+  "variants": [],
+  "warnings": [
+    "No protected sign artwork copied.",
+    "Empty project variant list is intentional: published variant identities are not reconstructed from inaccessible/protected figures."
+  ]
+}
