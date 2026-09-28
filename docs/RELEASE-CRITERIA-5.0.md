@@ -1,0 +1,3 @@
+# Release criteria — 5.0
+
+A 5.0 release requires: coherent release versions; 4.0 reproducibility integrity; release-scoped immutable dataset snapshots; question-specific readiness profiles; evidence-graph contract plus materialized verified graph; explicit dependency direction; assertion provenance ledger; independence-counting policy; representation-level rights policy; positive and negative conformance fixtures; blocked experiments unable to support claims; no cross-script phonetic leakage; no aggregate completeness score; and an audit that distinguishes architectural maturity from evidence population.
