@@ -49,6 +49,27 @@
       "status": "blocked_experiment",
       "evidence": "research/experiment-gates.json",
       "limitations": "No transitive phonetic propagation is permitted."
+    },
+    {
+      "claim_id": "CM-C008",
+      "claim": "CM 4.0.0 represents completeness as independent evidence dimensions and prohibits an aggregate completeness score.",
+      "status": "validated_policy",
+      "evidence": "coverage/completeness-matrix.json; scripts/completeness_report.py",
+      "limitations": "Dimension denominators remain open-world where scholarship does not support a closed universe."
+    },
+    {
+      "claim_id": "CM-C009",
+      "claim": "CM 4.0.0 requires dataset, policy, gate, lineage, rights and digest metadata for a frozen reproducible result.",
+      "status": "validated_architecture",
+      "evidence": "research/reproducibility-profile.json; schemas/research-result-v1.schema.json",
+      "limitations": "Most corpus-wide inferential experiments remain blocked pending evidence population."
+    },
+    {
+      "claim_id": "CM-C010",
+      "claim": "The proposed shared Aegean core excludes native sign identity, segmentation, phonetic value and morphology.",
+      "status": "validated_architecture",
+      "evidence": "shared-core/candidate-v0.1.json",
+      "limitations": "Candidate boundary may narrow further after additional projects; it must not broaden by assumption."
     }
   ]
 }
