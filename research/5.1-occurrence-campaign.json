@@ -1,0 +1,40 @@
+{
+  "target_version": "5.1.0",
+  "state": "ACTIVE_EVIDENCE_CAMPAIGN",
+  "baseline_verified_occurrences": 3,
+  "target": "materially expand source-verified occurrence coverage; no arbitrary completeness claim",
+  "priority_sources": [
+    {
+      "source_id": "davis-maran-prillwitz-wirghova2023",
+      "use": "existing exact sign assertions and object context"
+    },
+    {
+      "source_id": "vetters2011",
+      "use": "Tiryns clay ball factual/source-attributed evidence"
+    },
+    {
+      "source_id": "davis-maran-wirghova2014",
+      "use": "TIRY Avas 002 source-attributed evidence"
+    },
+    {
+      "source_id": "louvre-cm-25..33",
+      "use": "museum metadata; images not redistributed"
+    },
+    {
+      "source_id": "olivier2007",
+      "use": "catalogue authority; protected content not presumed redistributable"
+    },
+    {
+      "source_id": "ferrara2013",
+      "use": "corpus witness; protected content not presumed redistributable"
+    }
+  ],
+  "rules": [
+    "Every occurrence requires exact source locator.",
+    "Published sign labels remain source assertions.",
+    "No sign equivalence is inferred across witnesses.",
+    "Digital copies sharing an edition do not count as independent epigraphic witnesses.",
+    "Images/drawings are not redistributed absent explicit rights."
+  ],
+  "major_release_gate": "5.1 requires committed new source-verified occurrences or witness assertions, not merely campaign architecture."
+}
