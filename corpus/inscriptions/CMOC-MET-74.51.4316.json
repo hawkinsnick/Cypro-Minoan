@@ -1,0 +1,59 @@
+{
+  "id": "CMOC-MET-74.51.4316",
+  "identification_status": "museum_proposed",
+  "identifiers": [
+    {
+      "system": "Met object number",
+      "value": "74.51.4316",
+      "source_id": "met-74.51.4316"
+    }
+  ],
+  "object": {
+    "object_type": "cylinder seal",
+    "material": "black-grey hematite",
+    "repository": "The Metropolitan Museum of Art",
+    "inventory_number": "74.51.4316"
+  },
+  "find_context": {
+    "findplace": "Cyprus",
+    "source_id": "met-74.51.4316"
+  },
+  "dating": [],
+  "classifications": [
+    {
+      "assertion_type": "script_identification",
+      "value": "possible Cypro-Minoan signs",
+      "status": "published",
+      "uncertainty": "possible",
+      "provenance": [
+        {
+          "source_id": "met-74.51.4316",
+          "locator": "museum description"
+        }
+      ]
+    }
+  ],
+  "assertions": [],
+  "rights": {
+    "record_license": "Project-original structure; Met collection metadata used under CC0.",
+    "third_party_material": [
+      {
+        "source_id": "met-74.51.4316",
+        "material": "collection metadata",
+        "license_id": "cc0-1.0",
+        "included": true
+      },
+      {
+        "source_id": "met-74.51.4316",
+        "material": "museum images",
+        "license_id": "cc0-1.0-where-marked",
+        "included": false
+      }
+    ]
+  },
+  "record_version": "1.0.0",
+  "transcriptions": [],
+  "notes": [
+    "No protected transcription or restricted image redistributed."
+  ]
+}
