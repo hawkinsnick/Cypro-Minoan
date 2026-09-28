@@ -1,0 +1,34 @@
+{
+  "version": "5.0.0",
+  "status": "minimum_materialized_ledger",
+  "assertions": [
+    {
+      "assertion_id": "CMAL-TIRY245-SEQ",
+      "subject": "CMOC-TIRY-ADD245",
+      "predicate": "published_sign_sequence",
+      "value": [
+        "CM025",
+        "CM087"
+      ],
+      "source_id": "davis-maran-prillwitz-wirghova2023",
+      "locator": "§3.4 Text",
+      "lineage_id": null,
+      "uncertainty": "certain",
+      "representation": "witnesses/assertions.json#CMW-TIRY245-SEQ-2023"
+    },
+    {
+      "assertion_id": "CMAL-TIRY245-MARK",
+      "subject": "CMOC-TIRY-ADD245",
+      "predicate": "published_potmark",
+      "value": [
+        "CM005"
+      ],
+      "source_id": "davis-maran-prillwitz-wirghova2023",
+      "locator": "§3.4 Text",
+      "lineage_id": null,
+      "uncertainty": "certain",
+      "representation": "witnesses/assertions.json#CMW-TIRY245-MARK-2023"
+    }
+  ],
+  "rule": "Ledger entries are pointers to attributable assertions, not a second editorial transcription corpus."
+}
