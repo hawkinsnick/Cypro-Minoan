@@ -1,0 +1,131 @@
+{
+  "id": "CMOC-0028",
+  "record_version": "0.3.0",
+  "identifiers": [
+    {
+      "system": "Louvre inventory",
+      "value": "AM 2231",
+      "source_id": "louvre-cm-28"
+    },
+    {
+      "system": "excavation inventory",
+      "value": "Enk. 49 4034",
+      "source_id": "louvre-cm-28"
+    },
+    {
+      "system": "Ferrara 2013 catalogue",
+      "value": "28",
+      "source_id": "louvre-cm-28"
+    },
+    {
+      "system": "Olivier 2007 catalogue",
+      "value": "28",
+      "source_id": "louvre-cm-28"
+    }
+  ],
+  "object": {
+    "object_type": "inscribed clay ball",
+    "material": "clay",
+    "repository": "Musée du Louvre, Département des Antiquités orientales",
+    "inventory_number": "AM 2231"
+  },
+  "find_context": {
+    "findplace": "Enkomi",
+    "source_id": "louvre-cm-28"
+  },
+  "dating": [
+    {
+      "assertion_type": "museum_date_range",
+      "value": {
+        "label": "Late Cypriot",
+        "start_bce": 1600,
+        "end_bce": 1050
+      },
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-28",
+          "locator": "museum record, Date"
+        }
+      ]
+    }
+  ],
+  "classifications": [
+    {
+      "assertion_type": "traditional_classification",
+      "value": "CM1",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-28",
+          "locator": "museum record, Inscriptions"
+        }
+      ]
+    }
+  ],
+  "transcriptions": [],
+  "assertions": [
+    {
+      "assertion_type": "script_classification",
+      "value": "CM1",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-28",
+          "locator": "museum record, Inscriptions"
+        }
+      ]
+    },
+    {
+      "assertion_type": "sign_count",
+      "value": 3,
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-28",
+          "locator": "museum record, Description"
+        }
+      ]
+    },
+    {
+      "assertion_type": "discovery_year",
+      "value": 1949,
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-28",
+          "locator": "museum record, Places and dates"
+        }
+      ]
+    },
+    {
+      "assertion_type": "published_cross_reference",
+      "value": {
+        "ferrara_2013_catalogue": 28,
+        "ferrara_pages": "25",
+        "olivier_2007_catalogue": 28,
+        "olivier_page": "77"
+      },
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-28",
+          "locator": "museum record, Bibliography"
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "record_license": "Project-original structured metadata; third-party assertions retain attribution",
+    "third_party_material": []
+  },
+  "notes": [
+    "Pilot record. No transcription or image copied from Olivier, Ferrara, or the Louvre. Catalogue cross-references are reported from the Louvre museum record, not independently verified against the books in this release."
+  ]
+}
