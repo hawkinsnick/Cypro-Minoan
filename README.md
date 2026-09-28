@@ -1,11 +1,13 @@
 # Cypro-Minoan Open Corpus
 
-**Version 4.0.1 — comprehensive/reproducible research platform (integrity patch)**
+**Version 5.0.0 — evidence graph and question-specific research readiness**
 
 The corpus records evidence; it does not encode a decipherment.
 
-4.0 adds first-class reproducibility, completeness accounting, acquisition governance, sensitivity analysis, null controls, evidence-package hashing and a rigorously bounded shared-core candidate while preserving Linear A-compatible Aegean Epigraphy Interchange v0.1 semantics.
+5.0 links the mature 4.x reproducibility platform to an auditable evidence graph, immutable release-scoped dataset snapshots, question-specific readiness profiles, explicit witness-independence rules, representation-level rights controls, and positive/negative conformance tests.
 
-Current evidence layers: 254 controlled historical/addendum catalogue slots; 68 exact sigla verified; 21 rich object records; 3 source-verified occurrences; 2 explicit witness assertions; 99 Unicode interoperability characters; 0 project-populated palaeographic variants. These are intentionally separate metrics. No aggregate completeness percentage is permitted.
+Current evidence remains deliberately bounded: 254 controlled catalogue slots; 68 exact sigla; 21 rich records; 3 source-verified occurrences; 2 explicit witness assertions; 99 Unicode interoperability characters; no project-populated palaeographic variants. These are separate dimensions, not one completeness score.
 
-Corpus-wide frequency and cross-script phonetic inference remain blocked until their evidence prerequisites are met. Linear B remains deferred.
+Catalogue-structure research is READY. Descriptions of the explicitly encoded occurrence subset are READY_SCOPED. Corpus-wide sign-frequency inference and cross-script phonetic inference remain BLOCKED.
+
+Native CM evidence remains authoritative. Interchange, evidence graphs and shared-core machinery may expose it but may not redefine it.
