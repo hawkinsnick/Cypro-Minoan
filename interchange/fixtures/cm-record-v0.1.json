@@ -1,0 +1,106 @@
+{
+  "project": "cypro-minoan",
+  "record_id": "CMOC-TIRY-ADD245",
+  "identifiers": [
+    {
+      "system": "Ferrara/addendum catalogue",
+      "value": "245",
+      "source_id": "davis-maran-prillwitz-wirghova2023"
+    },
+    {
+      "system": "Olivier-style siglum",
+      "value": "TIRY Avas 001",
+      "source_id": "davis-maran-prillwitz-wirghova2023"
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_type": "inscription_sign_count",
+      "value": 2,
+      "status": "published",
+      "uncertainty": "certain",
+      "physical_locus": null,
+      "lineage_id": null,
+      "provenance": [
+        {
+          "source_id": "davis-maran-prillwitz-wirghova2023",
+          "locator": "§3.4 Text",
+          "agent": null,
+          "transformation": null,
+          "source_version": null
+        }
+      ]
+    },
+    {
+      "assertion_type": "separate_potmark_sign_count",
+      "value": 1,
+      "status": "published",
+      "uncertainty": "certain",
+      "physical_locus": null,
+      "lineage_id": null,
+      "provenance": [
+        {
+          "source_id": "davis-maran-prillwitz-wirghova2023",
+          "locator": "§3.1–3.4",
+          "agent": null,
+          "transformation": null,
+          "source_version": null
+        }
+      ]
+    },
+    {
+      "assertion_type": "inscription_transnumeration",
+      "value": [
+        "CM025",
+        "CM087"
+      ],
+      "status": "published",
+      "uncertainty": "certain",
+      "physical_locus": null,
+      "lineage_id": null,
+      "provenance": [
+        {
+          "source_id": "davis-maran-prillwitz-wirghova2023",
+          "locator": "§3.4 Text",
+          "agent": null,
+          "transformation": null,
+          "source_version": null
+        }
+      ]
+    },
+    {
+      "assertion_type": "separate_potmark_transnumeration",
+      "value": [
+        "CM005"
+      ],
+      "status": "published",
+      "uncertainty": "certain",
+      "physical_locus": null,
+      "lineage_id": null,
+      "provenance": [
+        {
+          "source_id": "davis-maran-prillwitz-wirghova2023",
+          "locator": "§3.4 Text",
+          "agent": null,
+          "transformation": null,
+          "source_version": null
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "record_license": "Project-original structure; source content cited/attributed; no source figures redistributed.",
+    "third_party_material": [
+      {
+        "source_id": "davis-maran-prillwitz-wirghova2023",
+        "material": "article text/figures",
+        "license_id": "link-only-unverified",
+        "included": false
+      }
+    ]
+  },
+  "extensions": {
+    "native_ref": "corpus/inscriptions/CMOC-TIRY-ADD245.json",
+    "script_specific_note": "Inscription and separate potmark remain distinct CM zones."
+  }
+}
