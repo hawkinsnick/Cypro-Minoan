@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Aegean Research API response v1 (Cypro-Minoan adapter)",
+  "type": "object",
+  "required": [
+    "api_version",
+    "resource",
+    "records"
+  ],
+  "properties": {
+    "api_version": {
+      "const": "1.0"
+    },
+    "resource": {
+      "enum": [
+        "documents",
+        "physical_loci",
+        "representations",
+        "evidence",
+        "witness_assertions",
+        "disagreements",
+        "claims",
+        "experiments"
+      ]
+    },
+    "records": {
+      "type": "array"
+    },
+    "provenance": {
+      "type": "object"
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}
