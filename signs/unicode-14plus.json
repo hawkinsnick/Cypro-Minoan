@@ -1,0 +1,702 @@
+{
+  "unicode_version_first_encoded": "14.0",
+  "block": "U+12F90–U+12FFF",
+  "character_count": 99,
+  "scope_note": "Unicode repertoire covers CM1/CM2/CM3 and excludes CM0; labels are largely based on Olivier 2007. These are encoded characters, not a project claim of a complete palaeographic sign inventory.",
+  "source_id": "unicode16",
+  "characters": [
+    {
+      "codepoint": "U+12F90",
+      "character": "𒾐",
+      "unicode_name": "CYPRO-MINOAN SIGN CM001",
+      "olivier_style_label": "CM001",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F91",
+      "character": "𒾑",
+      "unicode_name": "CYPRO-MINOAN SIGN CM002",
+      "olivier_style_label": "CM002",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F92",
+      "character": "𒾒",
+      "unicode_name": "CYPRO-MINOAN SIGN CM004",
+      "olivier_style_label": "CM004",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F93",
+      "character": "𒾓",
+      "unicode_name": "CYPRO-MINOAN SIGN CM005",
+      "olivier_style_label": "CM005",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F94",
+      "character": "𒾔",
+      "unicode_name": "CYPRO-MINOAN SIGN CM006",
+      "olivier_style_label": "CM006",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F95",
+      "character": "𒾕",
+      "unicode_name": "CYPRO-MINOAN SIGN CM007",
+      "olivier_style_label": "CM007",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F96",
+      "character": "𒾖",
+      "unicode_name": "CYPRO-MINOAN SIGN CM008",
+      "olivier_style_label": "CM008",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F97",
+      "character": "𒾗",
+      "unicode_name": "CYPRO-MINOAN SIGN CM009",
+      "olivier_style_label": "CM009",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F98",
+      "character": "𒾘",
+      "unicode_name": "CYPRO-MINOAN SIGN CM010",
+      "olivier_style_label": "CM010",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F99",
+      "character": "𒾙",
+      "unicode_name": "CYPRO-MINOAN SIGN CM011",
+      "olivier_style_label": "CM011",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F9A",
+      "character": "𒾚",
+      "unicode_name": "CYPRO-MINOAN SIGN CM012",
+      "olivier_style_label": "CM012",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F9B",
+      "character": "𒾛",
+      "unicode_name": "CYPRO-MINOAN SIGN CM012B",
+      "olivier_style_label": "CM012B",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F9C",
+      "character": "𒾜",
+      "unicode_name": "CYPRO-MINOAN SIGN CM013",
+      "olivier_style_label": "CM013",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F9D",
+      "character": "𒾝",
+      "unicode_name": "CYPRO-MINOAN SIGN CM015",
+      "olivier_style_label": "CM015",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F9E",
+      "character": "𒾞",
+      "unicode_name": "CYPRO-MINOAN SIGN CM017",
+      "olivier_style_label": "CM017",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12F9F",
+      "character": "𒾟",
+      "unicode_name": "CYPRO-MINOAN SIGN CM019",
+      "olivier_style_label": "CM019",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FA0",
+      "character": "𒾠",
+      "unicode_name": "CYPRO-MINOAN SIGN CM021",
+      "olivier_style_label": "CM021",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FA1",
+      "character": "𒾡",
+      "unicode_name": "CYPRO-MINOAN SIGN CM023",
+      "olivier_style_label": "CM023",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FA2",
+      "character": "𒾢",
+      "unicode_name": "CYPRO-MINOAN SIGN CM024",
+      "olivier_style_label": "CM024",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FA3",
+      "character": "𒾣",
+      "unicode_name": "CYPRO-MINOAN SIGN CM025",
+      "olivier_style_label": "CM025",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FA4",
+      "character": "𒾤",
+      "unicode_name": "CYPRO-MINOAN SIGN CM026",
+      "olivier_style_label": "CM026",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FA5",
+      "character": "𒾥",
+      "unicode_name": "CYPRO-MINOAN SIGN CM027",
+      "olivier_style_label": "CM027",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FA6",
+      "character": "𒾦",
+      "unicode_name": "CYPRO-MINOAN SIGN CM028",
+      "olivier_style_label": "CM028",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FA7",
+      "character": "𒾧",
+      "unicode_name": "CYPRO-MINOAN SIGN CM029",
+      "olivier_style_label": "CM029",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FA8",
+      "character": "𒾨",
+      "unicode_name": "CYPRO-MINOAN SIGN CM030",
+      "olivier_style_label": "CM030",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FA9",
+      "character": "𒾩",
+      "unicode_name": "CYPRO-MINOAN SIGN CM033",
+      "olivier_style_label": "CM033",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FAA",
+      "character": "𒾪",
+      "unicode_name": "CYPRO-MINOAN SIGN CM034",
+      "olivier_style_label": "CM034",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FAB",
+      "character": "𒾫",
+      "unicode_name": "CYPRO-MINOAN SIGN CM035",
+      "olivier_style_label": "CM035",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FAC",
+      "character": "𒾬",
+      "unicode_name": "CYPRO-MINOAN SIGN CM036",
+      "olivier_style_label": "CM036",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FAD",
+      "character": "𒾭",
+      "unicode_name": "CYPRO-MINOAN SIGN CM037",
+      "olivier_style_label": "CM037",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FAE",
+      "character": "𒾮",
+      "unicode_name": "CYPRO-MINOAN SIGN CM038",
+      "olivier_style_label": "CM038",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FAF",
+      "character": "𒾯",
+      "unicode_name": "CYPRO-MINOAN SIGN CM039",
+      "olivier_style_label": "CM039",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FB0",
+      "character": "𒾰",
+      "unicode_name": "CYPRO-MINOAN SIGN CM040",
+      "olivier_style_label": "CM040",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FB1",
+      "character": "𒾱",
+      "unicode_name": "CYPRO-MINOAN SIGN CM041",
+      "olivier_style_label": "CM041",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FB2",
+      "character": "𒾲",
+      "unicode_name": "CYPRO-MINOAN SIGN CM044",
+      "olivier_style_label": "CM044",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FB3",
+      "character": "𒾳",
+      "unicode_name": "CYPRO-MINOAN SIGN CM046",
+      "olivier_style_label": "CM046",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FB4",
+      "character": "𒾴",
+      "unicode_name": "CYPRO-MINOAN SIGN CM047",
+      "olivier_style_label": "CM047",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FB5",
+      "character": "𒾵",
+      "unicode_name": "CYPRO-MINOAN SIGN CM049",
+      "olivier_style_label": "CM049",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FB6",
+      "character": "𒾶",
+      "unicode_name": "CYPRO-MINOAN SIGN CM050",
+      "olivier_style_label": "CM050",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FB7",
+      "character": "𒾷",
+      "unicode_name": "CYPRO-MINOAN SIGN CM051",
+      "olivier_style_label": "CM051",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FB8",
+      "character": "𒾸",
+      "unicode_name": "CYPRO-MINOAN SIGN CM052",
+      "olivier_style_label": "CM052",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FB9",
+      "character": "𒾹",
+      "unicode_name": "CYPRO-MINOAN SIGN CM053",
+      "olivier_style_label": "CM053",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FBA",
+      "character": "𒾺",
+      "unicode_name": "CYPRO-MINOAN SIGN CM054",
+      "olivier_style_label": "CM054",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FBB",
+      "character": "𒾻",
+      "unicode_name": "CYPRO-MINOAN SIGN CM055",
+      "olivier_style_label": "CM055",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FBC",
+      "character": "𒾼",
+      "unicode_name": "CYPRO-MINOAN SIGN CM056",
+      "olivier_style_label": "CM056",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FBD",
+      "character": "𒾽",
+      "unicode_name": "CYPRO-MINOAN SIGN CM058",
+      "olivier_style_label": "CM058",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FBE",
+      "character": "𒾾",
+      "unicode_name": "CYPRO-MINOAN SIGN CM059",
+      "olivier_style_label": "CM059",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FBF",
+      "character": "𒾿",
+      "unicode_name": "CYPRO-MINOAN SIGN CM060",
+      "olivier_style_label": "CM060",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FC0",
+      "character": "𒿀",
+      "unicode_name": "CYPRO-MINOAN SIGN CM061",
+      "olivier_style_label": "CM061",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FC1",
+      "character": "𒿁",
+      "unicode_name": "CYPRO-MINOAN SIGN CM062",
+      "olivier_style_label": "CM062",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FC2",
+      "character": "𒿂",
+      "unicode_name": "CYPRO-MINOAN SIGN CM063",
+      "olivier_style_label": "CM063",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FC3",
+      "character": "𒿃",
+      "unicode_name": "CYPRO-MINOAN SIGN CM064",
+      "olivier_style_label": "CM064",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FC4",
+      "character": "𒿄",
+      "unicode_name": "CYPRO-MINOAN SIGN CM066",
+      "olivier_style_label": "CM066",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FC5",
+      "character": "𒿅",
+      "unicode_name": "CYPRO-MINOAN SIGN CM067",
+      "olivier_style_label": "CM067",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FC6",
+      "character": "𒿆",
+      "unicode_name": "CYPRO-MINOAN SIGN CM068",
+      "olivier_style_label": "CM068",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FC7",
+      "character": "𒿇",
+      "unicode_name": "CYPRO-MINOAN SIGN CM069",
+      "olivier_style_label": "CM069",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FC8",
+      "character": "𒿈",
+      "unicode_name": "CYPRO-MINOAN SIGN CM070",
+      "olivier_style_label": "CM070",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FC9",
+      "character": "𒿉",
+      "unicode_name": "CYPRO-MINOAN SIGN CM071",
+      "olivier_style_label": "CM071",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FCA",
+      "character": "𒿊",
+      "unicode_name": "CYPRO-MINOAN SIGN CM072",
+      "olivier_style_label": "CM072",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FCB",
+      "character": "𒿋",
+      "unicode_name": "CYPRO-MINOAN SIGN CM073",
+      "olivier_style_label": "CM073",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FCC",
+      "character": "𒿌",
+      "unicode_name": "CYPRO-MINOAN SIGN CM074",
+      "olivier_style_label": "CM074",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FCD",
+      "character": "𒿍",
+      "unicode_name": "CYPRO-MINOAN SIGN CM075",
+      "olivier_style_label": "CM075",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FCE",
+      "character": "𒿎",
+      "unicode_name": "CYPRO-MINOAN SIGN CM075B",
+      "olivier_style_label": "CM075B",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FCF",
+      "character": "𒿏",
+      "unicode_name": "CYPRO-MINOAN SIGN CM076",
+      "olivier_style_label": "CM076",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FD0",
+      "character": "𒿐",
+      "unicode_name": "CYPRO-MINOAN SIGN CM078",
+      "olivier_style_label": "CM078",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FD1",
+      "character": "𒿑",
+      "unicode_name": "CYPRO-MINOAN SIGN CM079",
+      "olivier_style_label": "CM079",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FD2",
+      "character": "𒿒",
+      "unicode_name": "CYPRO-MINOAN SIGN CM080",
+      "olivier_style_label": "CM080",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FD3",
+      "character": "𒿓",
+      "unicode_name": "CYPRO-MINOAN SIGN CM081",
+      "olivier_style_label": "CM081",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FD4",
+      "character": "𒿔",
+      "unicode_name": "CYPRO-MINOAN SIGN CM082",
+      "olivier_style_label": "CM082",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FD5",
+      "character": "𒿕",
+      "unicode_name": "CYPRO-MINOAN SIGN CM083",
+      "olivier_style_label": "CM083",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FD6",
+      "character": "𒿖",
+      "unicode_name": "CYPRO-MINOAN SIGN CM084",
+      "olivier_style_label": "CM084",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FD7",
+      "character": "𒿗",
+      "unicode_name": "CYPRO-MINOAN SIGN CM085",
+      "olivier_style_label": "CM085",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FD8",
+      "character": "𒿘",
+      "unicode_name": "CYPRO-MINOAN SIGN CM086",
+      "olivier_style_label": "CM086",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FD9",
+      "character": "𒿙",
+      "unicode_name": "CYPRO-MINOAN SIGN CM087",
+      "olivier_style_label": "CM087",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FDA",
+      "character": "𒿚",
+      "unicode_name": "CYPRO-MINOAN SIGN CM088",
+      "olivier_style_label": "CM088",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FDB",
+      "character": "𒿛",
+      "unicode_name": "CYPRO-MINOAN SIGN CM089",
+      "olivier_style_label": "CM089",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FDC",
+      "character": "𒿜",
+      "unicode_name": "CYPRO-MINOAN SIGN CM090",
+      "olivier_style_label": "CM090",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FDD",
+      "character": "𒿝",
+      "unicode_name": "CYPRO-MINOAN SIGN CM091",
+      "olivier_style_label": "CM091",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FDE",
+      "character": "𒿞",
+      "unicode_name": "CYPRO-MINOAN SIGN CM092",
+      "olivier_style_label": "CM092",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FDF",
+      "character": "𒿟",
+      "unicode_name": "CYPRO-MINOAN SIGN CM094",
+      "olivier_style_label": "CM094",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FE0",
+      "character": "𒿠",
+      "unicode_name": "CYPRO-MINOAN SIGN CM095",
+      "olivier_style_label": "CM095",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FE1",
+      "character": "𒿡",
+      "unicode_name": "CYPRO-MINOAN SIGN CM096",
+      "olivier_style_label": "CM096",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FE2",
+      "character": "𒿢",
+      "unicode_name": "CYPRO-MINOAN SIGN CM097",
+      "olivier_style_label": "CM097",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FE3",
+      "character": "𒿣",
+      "unicode_name": "CYPRO-MINOAN SIGN CM098",
+      "olivier_style_label": "CM098",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FE4",
+      "character": "𒿤",
+      "unicode_name": "CYPRO-MINOAN SIGN CM099",
+      "olivier_style_label": "CM099",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FE5",
+      "character": "𒿥",
+      "unicode_name": "CYPRO-MINOAN SIGN CM100",
+      "olivier_style_label": "CM100",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FE6",
+      "character": "𒿦",
+      "unicode_name": "CYPRO-MINOAN SIGN CM101",
+      "olivier_style_label": "CM101",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FE7",
+      "character": "𒿧",
+      "unicode_name": "CYPRO-MINOAN SIGN CM102",
+      "olivier_style_label": "CM102",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FE8",
+      "character": "𒿨",
+      "unicode_name": "CYPRO-MINOAN SIGN CM103",
+      "olivier_style_label": "CM103",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FE9",
+      "character": "𒿩",
+      "unicode_name": "CYPRO-MINOAN SIGN CM104",
+      "olivier_style_label": "CM104",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FEA",
+      "character": "𒿪",
+      "unicode_name": "CYPRO-MINOAN SIGN CM105",
+      "olivier_style_label": "CM105",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FEB",
+      "character": "𒿫",
+      "unicode_name": "CYPRO-MINOAN SIGN CM107",
+      "olivier_style_label": "CM107",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FEC",
+      "character": "𒿬",
+      "unicode_name": "CYPRO-MINOAN SIGN CM108",
+      "olivier_style_label": "CM108",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FED",
+      "character": "𒿭",
+      "unicode_name": "CYPRO-MINOAN SIGN CM109",
+      "olivier_style_label": "CM109",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FEE",
+      "character": "𒿮",
+      "unicode_name": "CYPRO-MINOAN SIGN CM110",
+      "olivier_style_label": "CM110",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FEF",
+      "character": "𒿯",
+      "unicode_name": "CYPRO-MINOAN SIGN CM112",
+      "olivier_style_label": "CM112",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FF0",
+      "character": "𒿰",
+      "unicode_name": "CYPRO-MINOAN SIGN CM114",
+      "olivier_style_label": "CM114",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FF1",
+      "character": "𒿱",
+      "unicode_name": "CYPRO-MINOAN SIGN CM301",
+      "olivier_style_label": "CM301",
+      "status": "unicode_encoded_character"
+    },
+    {
+      "codepoint": "U+12FF2",
+      "character": "𒿲",
+      "unicode_name": "CYPRO-MINOAN SIGN CM302",
+      "olivier_style_label": "CM302",
+      "status": "unicode_encoded_character"
+    }
+  ]
+}
