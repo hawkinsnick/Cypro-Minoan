@@ -11,3 +11,4 @@ jobs:
       - run: python scripts/validate.py
       - run: python scripts/validate_current.py
       - run: python scripts/test_release_integrity.py
+      - run: python scripts/test_5_0_conformance.py
