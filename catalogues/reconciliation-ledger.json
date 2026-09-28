@@ -1,0 +1,40 @@
+{
+  "version": "3.0.0",
+  "scope": {
+    "controlled_slots": 254,
+    "exact_sigla_verified": 68,
+    "number_only_slots": 186
+  },
+  "principle": "Unverified sigla remain null; no mapping is inferred from sequence or secondary snippets.",
+  "workstreams": [
+    {
+      "range": "001-186",
+      "status": "requires_page_or_table_level_verification",
+      "preferred_sources": [
+        "olivier2007",
+        "steele2013-context"
+      ],
+      "action": "verify exact HoChyMin number↔siglum mappings from lawful source access"
+    },
+    {
+      "range": "187-217",
+      "status": "exact_sigla_verified",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "range": "218-244",
+      "status": "exact_sigla_verified",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "range": "245-253",
+      "status": "exact_sigla_verified",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "range": "254",
+      "status": "exact_siglum_verified",
+      "source_id": "valerio2017"
+    }
+  ]
+}
