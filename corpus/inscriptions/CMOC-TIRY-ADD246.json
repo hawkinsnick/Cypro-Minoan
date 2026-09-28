@@ -1,0 +1,95 @@
+{
+  "id": "CMOC-TIRY-ADD246",
+  "record_version": "1.2.0",
+  "identification_status": "scholarly_identified",
+  "identifiers": [
+    {
+      "system": "Ferrara/addendum catalogue",
+      "value": "246",
+      "source_id": "davis-maran-wirghova2014"
+    },
+    {
+      "system": "Olivier-style siglum",
+      "value": "TIRY Avas 002",
+      "source_id": "davis-maran-wirghova2014"
+    }
+  ],
+  "object": {
+    "object_type": "jar handle / vessel",
+    "material": "ceramic",
+    "repository": null,
+    "inventory_number": null
+  },
+  "find_context": {
+    "findplace": "Tiryns, Lower Citadel",
+    "source_id": "davis-maran-wirghova2014"
+  },
+  "dating": [],
+  "classifications": [
+    {
+      "assertion_type": "script_identification",
+      "value": "Cypro-Minoan",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "davis-maran-wirghova2014",
+          "locator": "designation/discussion"
+        }
+      ]
+    }
+  ],
+  "transcriptions": [],
+  "assertions": [
+    {
+      "assertion_type": "inscription_sign_count",
+      "value": 3,
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "bourogiannis2024",
+          "locator": "jug handle discussion"
+        }
+      ]
+    },
+    {
+      "assertion_type": "writing_orientation",
+      "value": "vertical, top-to-bottom",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "bourogiannis2024",
+          "locator": "jug handle discussion"
+        }
+      ]
+    },
+    {
+      "assertion_type": "inscription_timing",
+      "value": "post-firing",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "bourogiannis2024",
+          "locator": "jug handle discussion"
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "record_license": "Project-original structure; source content cited/attributed; no source figures redistributed.",
+    "third_party_material": [
+      {
+        "source_id": "davis-maran-wirghova2014",
+        "material": "article text/figures",
+        "license_id": "link-only-unverified",
+        "included": false
+      }
+    ]
+  },
+  "notes": [
+    "No figure or wholesale editorial transcription redistributed."
+  ]
+}
