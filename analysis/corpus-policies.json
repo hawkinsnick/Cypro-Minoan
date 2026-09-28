@@ -1,0 +1,35 @@
+{
+  "version": "1.2.0",
+  "policies": [
+    {
+      "policy_id": "valerio2016-inscription",
+      "source_id": "valerio2016thesis",
+      "rule": "two or more signs of formal writing; isolated marks treated separately",
+      "status": "source_defined"
+    },
+    {
+      "policy_id": "corazza2023-filtered",
+      "source_id": "corazza2023",
+      "starting_inscriptions": 230,
+      "starting_sign_images": 3499,
+      "final_inscriptions": 213,
+      "final_sign_images": 2899,
+      "exclusions": [
+        "18 inscriptions lacking usable drawings",
+        "5 single-sign inscriptions treated as marks",
+        "5 unepigraphic/doubtful objects",
+        "damaged signs",
+        "ENKO Atab 001 / CM0",
+        "6 inscriptions treated as Cypriot Greek",
+        "debated final signs of HALA Abou 001"
+      ],
+      "status": "source_defined"
+    },
+    {
+      "policy_id": "cmoc-open-evidence",
+      "source_id": null,
+      "rule": "rich records require auditable metadata/provenance; catalogue control may register existence without transcription; candidates remain partitioned",
+      "status": "project_derived"
+    }
+  ]
+}
