@@ -1,8 +1,8 @@
 # Cypro-Minoan Open Corpus
 
-**Version 0.1.0 — corpus specification and scholarly infrastructure**
+**Version 0.3.0 — provenance-first pilot corpus**
 
-An open, provenance-first framework for building a machine-readable corpus of Cypro-Minoan inscriptions. Version 0.1.0 intentionally contains **infrastructure, not a copied corpus**: schemas, citation/provenance rules, research-ethics requirements, validation tooling, and templates for future inscription and sign records.
+An open, provenance-first framework for building a machine-readable corpus of Cypro-Minoan inscriptions. The project now includes a small audited pilot corpus built on the 0.1.0 provenance framework and 0.2.0 sign infrastructure. Published scholarship remains attributed at assertion level; no bulk edition has been copied.
 
 ## Core principle
 
@@ -49,4 +49,4 @@ Project-original code and original database structure are released under MIT (`L
 
 ## Status
 
-0.1.0 is a foundation release. It should not be cited as a complete corpus of Cypro-Minoan inscriptions.
+0.3.0 is a pilot release containing six object records. It is not a complete corpus and does not yet supply scholarly transcriptions.
