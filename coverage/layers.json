@@ -1,0 +1,36 @@
+{
+  "version": "3.0.0",
+  "layers": [
+    {
+      "layer": "catalogue_control",
+      "numerator": 254,
+      "denominator": 254,
+      "status": "controlled_historical_addendum_slots"
+    },
+    {
+      "layer": "exact_siglum",
+      "numerator": 68,
+      "denominator": 254,
+      "status": "verified_not_complete"
+    },
+    {
+      "layer": "rich_object_record",
+      "numerator": 21,
+      "denominator": null,
+      "status": "open_world_denominator_not_claimed"
+    },
+    {
+      "layer": "source_verified_occurrence",
+      "numerator": 3,
+      "denominator": null,
+      "status": "sparse"
+    },
+    {
+      "layer": "unicode_encoding",
+      "numerator": 99,
+      "denominator": 99,
+      "status": "complete_for_unicode_repertoire_not_palaeographic_inventory"
+    }
+  ],
+  "warning": "These denominators answer different questions and must not be collapsed into one corpus-completeness percentage."
+}
