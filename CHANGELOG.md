@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.5.0] - 2026-09-27
+
+### Added
+- Cumulative v0.4.0 corpus expansion to 10 rights-audited records, including Enkomi tablet CMOC-0209.
+- Typed provenance-bearing cross-script concordance model.
+- Five source-explicit Aegean numeric/separator correspondences (CM203–CM207).
+- Audit, coverage, and concordance methodology documentation.
+
+### Guardrails
+- No protected scholarly transcriptions or museum images redistributed.
+- No unverified Linear A/Cypriot phonetic mapping encoded.
+- Concordances are non-transitive and do not constitute decipherment.
+
 ## [0.3.1] - 2026-09-27
 
 ### Added
