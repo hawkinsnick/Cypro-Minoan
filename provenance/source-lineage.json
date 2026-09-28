@@ -7,7 +7,7 @@
       "parent_source_id": null,
       "relationship": "primary_edition",
       "independence_class": "unknown",
-      "basis": "Foundational modern edition; individual readings may depend on excavation/publication history."
+      "basis": "Foundational modern edition; individual readings require claim-level lineage review."
     },
     {
       "lineage_id": "ferrara_olivier",
@@ -15,7 +15,7 @@
       "parent_source_id": "olivier2007",
       "relationship": "corpus_revision_and_expansion",
       "independence_class": "partially_independent",
-      "basis": "Ferrara revises/expands corpus and archaeological treatment; individual claims require claim-level lineage."
+      "basis": "Revision/expansion with inherited catalogue tradition."
     },
     {
       "lineage_id": "valerio_ferrara",
@@ -23,7 +23,7 @@
       "parent_source_id": "ferrara2013",
       "relationship": "comparative_reanalysis_and_expansion",
       "independence_class": "partially_independent",
-      "basis": "Comparative reanalysis with inherited catalogue traditions and additional material."
+      "basis": "Comparative reanalysis with inherited corpus tradition and additions."
     },
     {
       "lineage_id": "unicode_proposal",
@@ -31,7 +31,7 @@
       "parent_source_id": "olivier2007",
       "relationship": "encoding_abstraction",
       "independence_class": "shared_upstream",
-      "basis": "Unicode repertoire is largely based on Olivier numbering and is not independent epigraphic confirmation."
+      "basis": "Encoding repertoire largely follows Olivier numbering; not independent epigraphic confirmation."
     },
     {
       "lineage_id": "unicode_standard",
@@ -39,7 +39,7 @@
       "parent_source_id": "everson-ferrara-valerio2016",
       "relationship": "standards_encoding",
       "independence_class": "shared_upstream",
-      "basis": "Standardized encoding descends from proposal/repertoire work; not an independent palaeographic witness."
+      "basis": "Standardized encoding descends from proposal/repertoire work."
     }
   ]
 }
