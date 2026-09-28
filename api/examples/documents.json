@@ -1,0 +1,18 @@
+{
+  "api_version": "1.0",
+  "resource": "documents",
+  "records": [
+    {
+      "record_id": "CMOC-TIRY-ADD245",
+      "native_ref": "corpus/inscriptions/CMOC-TIRY-ADD245.json",
+      "candidate": false
+    }
+  ],
+  "provenance": {
+    "corpus_version": "3.0.0",
+    "adapter": "Aegean Epigraphy Interchange v0.1"
+  },
+  "warnings": [
+    "Example response; native record remains authoritative."
+  ]
+}
