@@ -1,0 +1,75 @@
+{
+  "id": "CMOC-MET-74.51.5057A",
+  "identification_status": "ambiguous_script_candidate",
+  "identifiers": [
+    {
+      "system": "Met object number",
+      "value": "74.51.5057a",
+      "source_id": "met-74.51.5057a"
+    }
+  ],
+  "object": {
+    "object_type": "amphoriskos",
+    "material": "chlorite",
+    "repository": "The Metropolitan Museum of Art",
+    "inventory_number": "74.51.5057a"
+  },
+  "find_context": {
+    "findplace": "Cyprus",
+    "source_id": "met-74.51.5057a"
+  },
+  "dating": [],
+  "classifications": [
+    {
+      "assertion_type": "script_identification",
+      "value": [
+        "Cypro-Minoan",
+        "very early Archaic Phoenician"
+      ],
+      "status": "published",
+      "uncertainty": "uncertain",
+      "provenance": [
+        {
+          "source_id": "met-74.51.5057a",
+          "locator": "museum description"
+        }
+      ]
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_type": "sign_count",
+      "value": 3,
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "met-74.51.5057a",
+          "locator": "museum description"
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "record_license": "Project-original structure; Met collection metadata used under CC0.",
+    "third_party_material": [
+      {
+        "source_id": "met-74.51.5057a",
+        "material": "collection metadata",
+        "license_id": "cc0-1.0",
+        "included": true
+      },
+      {
+        "source_id": "met-74.51.5057a",
+        "material": "museum images",
+        "license_id": "cc0-1.0-where-marked",
+        "included": false
+      }
+    ]
+  },
+  "record_version": "1.0.0",
+  "transcriptions": [],
+  "notes": [
+    "No protected transcription or restricted image redistributed."
+  ]
+}
