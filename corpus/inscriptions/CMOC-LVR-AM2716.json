@@ -1,0 +1,72 @@
+{
+  "id": "CMOC-LVR-AM2716",
+  "identification_status": "museum_identified",
+  "identifiers": [
+    {
+      "system": "Louvre inventory",
+      "value": "AM 2716",
+      "source_id": "louvre-am2716"
+    }
+  ],
+  "object": {
+    "object_type": "block/cube",
+    "material": "limestone",
+    "repository": "Musée du Louvre",
+    "inventory_number": "AM 2716"
+  },
+  "find_context": {
+    "findplace": "Enkomi",
+    "source_id": "louvre-am2716"
+  },
+  "dating": [],
+  "classifications": [
+    {
+      "assertion_type": "script_identification",
+      "value": "Cypro-Minoan",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-am2716",
+          "locator": "Inscriptions / Script"
+        }
+      ]
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_type": "sign_count",
+      "value": 1,
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-am2716",
+          "locator": "Description"
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "record_license": "Project-original structure; Louvre textual metadata reused under Etalab Open Licence with attribution.",
+    "third_party_material": [
+      {
+        "source_id": "louvre-am2716",
+        "material": "textual collection metadata",
+        "license_id": "etalab-open-licence",
+        "included": true
+      },
+      {
+        "source_id": "louvre-am2716",
+        "material": "museum photographs",
+        "license_id": "link-only-unverified",
+        "included": false
+      }
+    ]
+  },
+  "record_version": "1.0.0",
+  "transcriptions": [],
+  "notes": [
+    "No protected transcription or restricted image redistributed."
+  ]
+}
