@@ -1,0 +1,20 @@
+{
+  "version": "4.0.0",
+  "profile_id": "cmoc-repro-v1",
+  "required_for_frozen_result": [
+    "dataset_snapshot",
+    "corpus_policy",
+    "software_or_script",
+    "parameters",
+    "experiment_gate",
+    "source_lineage_state",
+    "rights_state",
+    "result_digest"
+  ],
+  "principles": [
+    "A result is not reproducible merely because code exists.",
+    "Dataset identity and inclusion policy are part of the result.",
+    "BLOCKED experiments may emit scoped diagnostics but not inferential claims.",
+    "Upstream source dependence must be visible when evaluating replication."
+  ]
+}
