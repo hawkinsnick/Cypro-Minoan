@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CM sign occurrence v1",
+  "type": "object",
+  "required": [
+    "occurrence_id",
+    "record_id",
+    "zone_id",
+    "position",
+    "source_id",
+    "certainty"
+  ],
+  "properties": {
+    "occurrence_id": {
+      "type": "string"
+    },
+    "record_id": {
+      "type": "string"
+    },
+    "zone_id": {
+      "type": "string"
+    },
+    "position": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "published_sign_label": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "project_sign_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "variant_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "locator": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "certainty": {
+      "enum": [
+        "certain",
+        "probable",
+        "possible",
+        "uncertain",
+        "unknown"
+      ]
+    },
+    "medium": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "technique": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}
