@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.3.0] - 2026-09-27
+
+### Added
+- Six provenance-first pilot inscription records (CMOC-0025 through CMOC-0030), all Louvre-held inscribed clay balls from Enkomi.
+- Museum catalogue sources for each pilot object.
+- Published object metadata, CM1 classification, sign counts where stated, and Olivier/Ferrara catalogue cross-references as reported by the Louvre.
+
+### Deliberately withheld
+- No published transcription has been copied.
+- No museum photograph or scholarly drawing has been redistributed.
+- Cross-references reported by the Louvre are labelled as such rather than represented as independently checked against the books.
+
+
 ## [0.2.0] - 2026-09-27
 
 ### Added
