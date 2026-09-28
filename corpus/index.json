@@ -1,14 +1,17 @@
 {
   "project": "Cypro-Minoan Open Corpus",
-  "version": "0.3.0",
-  "status": "pilot corpus release",
-  "record_count": 6,
+  "version": "0.3.1",
+  "status": "rights-audited open-data pilot",
+  "record_count": 9,
   "records": [
     "CMOC-0025",
     "CMOC-0026",
     "CMOC-0027",
     "CMOC-0028",
     "CMOC-0029",
-    "CMOC-0030"
+    "CMOC-0030",
+    "CMOC-0031",
+    "CMOC-0032",
+    "CMOC-0033"
   ]
 }
