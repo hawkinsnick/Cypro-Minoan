@@ -70,6 +70,27 @@
       "status": "validated_architecture",
       "evidence": "shared-core/candidate-v0.1.json",
       "limitations": "Candidate boundary may narrow further after additional projects; it must not broaden by assumption."
+    },
+    {
+      "claim_id": "CM-C011",
+      "claim": "Research readiness in CM 5.0.0 is question-specific rather than a global property of the corpus.",
+      "status": "validated_architecture",
+      "evidence": "research/readiness-profiles.json; research/experiment-gates.json",
+      "limitations": "A READY structural question does not make blocked inferential questions ready."
+    },
+    {
+      "claim_id": "CM-C012",
+      "claim": "CM 5.0.0 exposes a materialized evidence graph without allowing the graph to manufacture assertions or bypass blocked experiment gates.",
+      "status": "validated_architecture",
+      "evidence": "evidence/graph-contract.json; evidence/graph.json; scripts/test_5_0_conformance.py",
+      "limitations": "The graph is intentionally sparse where stable physical-locus identifiers are not yet promoted."
+    },
+    {
+      "claim_id": "CM-C013",
+      "claim": "CM 5.0.0 treats source independence as a claim-level accounting problem; unknown lineage is not counted as demonstrably independent.",
+      "status": "validated_policy",
+      "evidence": "provenance/independence-policy.json",
+      "limitations": "Claim-level lineage population remains an ongoing evidence task."
     }
   ]
 }
