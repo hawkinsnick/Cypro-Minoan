@@ -1,5 +1,17 @@
 # Changelog
 
+## [5.0.0] - 2026-09-28
+- Added question-specific research-readiness profiles; no global analysis-ready flag.
+- Added materialized evidence graph and graph contract with gate-aware claim support.
+- Added immutable release-scoped dataset snapshot succession.
+- Added dependency-direction contract across clients/interchange/research/evidence/provenance.
+- Added assertion provenance ledger and explicit witness-independence counting policy.
+- Added representation-level rights policy.
+- Added positive and negative epistemic conformance fixtures and CI tests.
+- Added 5.0 validator, architecture, audit and release criteria.
+- Preserved BLOCKED status for corpus-wide frequency and cross-script phonetic inference.
+- Added no synthetic sigla, transcriptions, variants or frontier objects to satisfy the major release.
+
 ## [4.0.1] - 2026-09-28
 - Repaired reproducibility-profile/result-schema contradiction by defining and requiring `software_or_script` and `experiment_gate`.
 - CI now runs the current major-release validator and release-integrity regression tests in addition to foundation validation.
