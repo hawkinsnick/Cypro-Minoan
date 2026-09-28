@@ -1,0 +1,73 @@
+{
+  "version": "5.0.0",
+  "status": "materialized_minimum_verified_graph",
+  "nodes": [
+    {
+      "id": "CMOC-TIRY-ADD245",
+      "type": "object_record"
+    },
+    {
+      "id": "CMOCC-TIRY245-H1-1",
+      "type": "occurrence"
+    },
+    {
+      "id": "CMOCC-TIRY245-H1-2",
+      "type": "occurrence"
+    },
+    {
+      "id": "CMOCC-TIRY245-H2-M1",
+      "type": "occurrence"
+    },
+    {
+      "id": "CMW-TIRY245-SEQ-2023",
+      "type": "witness_assertion"
+    },
+    {
+      "id": "CMW-TIRY245-MARK-2023",
+      "type": "witness_assertion"
+    },
+    {
+      "id": "davis-maran-prillwitz-wirghova2023",
+      "type": "source"
+    },
+    {
+      "id": "cmoc-5.0-occurrences",
+      "type": "dataset_snapshot"
+    },
+    {
+      "id": "cm-full-frequency-v1",
+      "type": "experiment"
+    }
+  ],
+  "edges": [
+    {
+      "from": "CMW-TIRY245-SEQ-2023",
+      "to": "davis-maran-prillwitz-wirghova2023",
+      "type": "ASSERTED_BY"
+    },
+    {
+      "from": "CMW-TIRY245-MARK-2023",
+      "to": "davis-maran-prillwitz-wirghova2023",
+      "type": "ASSERTED_BY"
+    },
+    {
+      "from": "CMW-TIRY245-SEQ-2023",
+      "to": "CMOC-TIRY-ADD245",
+      "type": "ABOUT"
+    },
+    {
+      "from": "CMW-TIRY245-MARK-2023",
+      "to": "CMOC-TIRY-ADD245",
+      "type": "ABOUT"
+    },
+    {
+      "from": "cmoc-5.0-occurrences",
+      "to": "cm-full-frequency-v1",
+      "type": "CONSUMED_BY"
+    }
+  ],
+  "warnings": [
+    "Occurrence-to-physical-locus edges are withheld until loci are promoted to stable node identifiers in native records.",
+    "No SUPPORTS edge exists for the blocked full-frequency experiment."
+  ]
+}
