@@ -1,73 +1,21 @@
 # Changelog
 
+## [1.0.0] - 2026-09-27
+- Stable open-evidence release: 18 object records (15 core, 3 candidate).
+- Hardened provenance/rights/candidate architecture and discovery queue.
+- 99-character Unicode interoperability registry retained separately from palaeographic identity.
+
+## [0.9.0] - 2026-09-27
+- Computational-resource registry and comparative-method safeguards.
+
+## [0.8.0] - 2026-09-27
+- Stronger sign-identity and autopsy-vs-photograph methodology.
+
+## [0.7.0] - 2026-09-27
+- Expanded open-evidence coverage beyond Enkomi to Ugarit/Ras Shamra, Sinda, Hala Sultan Tekke, and additional museum collections.
+
+## [0.6.0] - 2026-09-27
+- Hardened provenance, rights, candidate-state, coverage, and export architecture.
+
 ## [0.5.0] - 2026-09-27
-
-### Added
-- Cumulative v0.4.0 corpus expansion to 10 rights-audited records, including Enkomi tablet CMOC-0209.
-- Typed provenance-bearing cross-script concordance model.
-- Five source-explicit Aegean numeric/separator correspondences (CM203–CM207).
-- Audit, coverage, and concordance methodology documentation.
-
-### Guardrails
-- No protected scholarly transcriptions or museum images redistributed.
-- No unverified Linear A/Cypriot phonetic mapping encoded.
-- Concordances are non-transitive and do not constitute decipherment.
-
-## [0.3.1] - 2026-09-27
-
-### Added
-- Rights/reuse registry and third-party NOTICE.
-- Explicit Etalab Open Licence provenance for Louvre textual collection data.
-- Explicit Unicode License v3 provenance and code-chart glyph exclusion.
-- Three additional Louvre Enkomi clay-ball records (CMOC-0031 through CMOC-0033) using openly reusable textual metadata.
-- Dimensions, techniques, discovery/acquisition history, and source update dates for the new open-data records.
-
-### Rights guardrails
-- Ambiguous rights default to cite/link-only.
-- Louvre photographs remain excluded from redistribution.
-- Unicode chart glyph artwork remains excluded.
-- Published scholarly transcriptions remain excluded absent verified permission.
-
-
-## [0.3.0] - 2026-09-27
-
-### Added
-- Six provenance-first pilot inscription records (CMOC-0025 through CMOC-0030), all Louvre-held inscribed clay balls from Enkomi.
-- Museum catalogue sources for each pilot object.
-- Published object metadata, CM1 classification, sign counts where stated, and Olivier/Ferrara catalogue cross-references as reported by the Louvre.
-
-### Deliberately withheld
-- No published transcription has been copied.
-- No museum photograph or scholarly drawing has been redistributed.
-- Cross-references reported by the Louvre are labelled as such rather than represented as independently checked against the books.
-
-
-## [0.2.0] - 2026-09-27
-
-### Added
-- Complete registry of 99 Unicode-encoded Cypro-Minoan characters as an interoperability layer.
-- Structured epigraphic notation policy for uncertainty, damage, restoration, lacunae, boundaries, and directionality.
-- Sign identity policy separating occurrences, project sign concepts, and external identifiers.
-- Sign-mapping concordance template with typed relationships.
-
-### Methodological guardrail
-- Unicode repertoire is explicitly not treated as a complete palaeographic inventory; CM0 remains outside that repertoire.
-
-
-## [0.1.0] - 2026-09-27
-
-### Added
-- Initial repository architecture.
-- Research ethics and attribution policy.
-- Inscription, sign, source, and assertion JSON Schemas.
-- Provenance and uncertainty model.
-- Empty corpus index and record templates.
-- Starter scholarly source registry.
-- Unicode representation policy.
-- Validation script and test fixtures.
-- Roadmap through 1.0.0.
-
-### Deliberately not added
-- No bulk transcription copied from published editions.
-- No copyrighted plates, photographs, or drawings.
-- No project-imposed decipherment or phonetic values.
+- Typed cross-script concordance infrastructure and five source-explicit numeric/separator claims.
