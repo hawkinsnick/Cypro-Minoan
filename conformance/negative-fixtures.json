@@ -1,0 +1,35 @@
+{
+  "version": "5.0.0",
+  "fixtures": [
+    {
+      "fixture_id": "blocked-experiment-supports-claim",
+      "expected": "reject",
+      "reason": "BLOCKED experiment cannot support inferential claim"
+    },
+    {
+      "fixture_id": "unknown-lineage-counted-independent",
+      "expected": "reject",
+      "reason": "unknown independence is not independent evidence"
+    },
+    {
+      "fixture_id": "cross-script-graphic-implies-phonetic",
+      "expected": "reject",
+      "reason": "graphic relation carries no phonetic implication"
+    },
+    {
+      "fixture_id": "open-world-percent-complete",
+      "expected": "reject",
+      "reason": "unknown denominator cannot produce completeness percentage"
+    },
+    {
+      "fixture_id": "unicode-equals-palaeographic-sign",
+      "expected": "reject",
+      "reason": "encoding identity is not palaeographic identity"
+    },
+    {
+      "fixture_id": "interchange-overrides-native",
+      "expected": "reject",
+      "reason": "adapter cannot redefine native corpus truth"
+    }
+  ]
+}
