@@ -1,0 +1,13 @@
+{
+  "step": 2,
+  "name": "representative-pilot",
+  "corpus": "Cypro-Minoan",
+  "version": "5.1.0",
+  "role": "undeciphered sparse corpus",
+  "state": "READY_SCOPED",
+  "selection_rule": "Stratify the currently rich/verified subset by object type, find context, siglum reconciliation and occurrence verification; do not imply corpus-wide representativeness.",
+  "scientific_boundary": "Pilot describes encoded evidence only; corpus-wide frequency inference remains blocked.",
+  "freeze_policy": "Membership and selection rules freeze before target-result inspection.",
+  "cross_corpus_rule": "Pilot strata remain native; cross-script identity is never inferred by inclusion.",
+  "results": []
+}
