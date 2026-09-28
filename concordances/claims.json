@@ -1,0 +1,116 @@
+{
+  "version": "0.5.0",
+  "claim_count": 5,
+  "claims": [
+    {
+      "claim_id": "CMCONC-203",
+      "source": {
+        "system": "Cypro-Minoan encoding proposal",
+        "id": "CM203"
+      },
+      "target": {
+        "system": "Aegean shared symbol",
+        "id": "numeral-1"
+      },
+      "relationship_type": "numeric_identity",
+      "epistemic_status": "source_explicit",
+      "confidence": "high",
+      "proposed_value": "1",
+      "proponent": null,
+      "notes": "Technical/comparative correspondence only; not a Cypro-Minoan phonetic reading.",
+      "provenance": {
+        "source_id": "everson-ferrara-valerio2016",
+        "locator": "proposal discussion/table for CM203–CM207",
+        "quotation_used": false
+      }
+    },
+    {
+      "claim_id": "CMCONC-204",
+      "source": {
+        "system": "Cypro-Minoan encoding proposal",
+        "id": "CM204"
+      },
+      "target": {
+        "system": "Aegean shared symbol",
+        "id": "numeral-10"
+      },
+      "relationship_type": "numeric_identity",
+      "epistemic_status": "source_explicit",
+      "confidence": "high",
+      "proposed_value": "10",
+      "proponent": null,
+      "notes": "Technical/comparative correspondence only; not a Cypro-Minoan phonetic reading.",
+      "provenance": {
+        "source_id": "everson-ferrara-valerio2016",
+        "locator": "proposal discussion/table for CM203–CM207",
+        "quotation_used": false
+      }
+    },
+    {
+      "claim_id": "CMCONC-205",
+      "source": {
+        "system": "Cypro-Minoan encoding proposal",
+        "id": "CM205"
+      },
+      "target": {
+        "system": "Aegean shared symbol",
+        "id": "numeral-100"
+      },
+      "relationship_type": "numeric_identity",
+      "epistemic_status": "source_explicit",
+      "confidence": "high",
+      "proposed_value": "100",
+      "proponent": null,
+      "notes": "Technical/comparative correspondence only; not a Cypro-Minoan phonetic reading.",
+      "provenance": {
+        "source_id": "everson-ferrara-valerio2016",
+        "locator": "proposal discussion/table for CM203–CM207",
+        "quotation_used": false
+      }
+    },
+    {
+      "claim_id": "CMCONC-206",
+      "source": {
+        "system": "Cypro-Minoan encoding proposal",
+        "id": "CM206"
+      },
+      "target": {
+        "system": "Aegean shared symbol",
+        "id": "word-separator-line"
+      },
+      "relationship_type": "functional_equivalence",
+      "epistemic_status": "source_explicit",
+      "confidence": "high",
+      "proposed_value": null,
+      "proponent": null,
+      "notes": "Technical/comparative correspondence only; not a Cypro-Minoan phonetic reading.",
+      "provenance": {
+        "source_id": "everson-ferrara-valerio2016",
+        "locator": "proposal discussion/table for CM203–CM207",
+        "quotation_used": false
+      }
+    },
+    {
+      "claim_id": "CMCONC-207",
+      "source": {
+        "system": "Cypro-Minoan encoding proposal",
+        "id": "CM207"
+      },
+      "target": {
+        "system": "Aegean shared symbol",
+        "id": "word-separator-dot"
+      },
+      "relationship_type": "functional_equivalence",
+      "epistemic_status": "source_explicit",
+      "confidence": "high",
+      "proposed_value": null,
+      "proponent": null,
+      "notes": "Technical/comparative correspondence only; not a Cypro-Minoan phonetic reading.",
+      "provenance": {
+        "source_id": "everson-ferrara-valerio2016",
+        "locator": "proposal discussion/table for CM203–CM207",
+        "quotation_used": false
+      }
+    }
+  ]
+}
