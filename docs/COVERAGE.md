@@ -1,3 +1,3 @@
-# Corpus Coverage — v0.5.0
+# Coverage — v1.0.0
 
-Included: **10 object records**, all from Enkomi and held by the Musée du Louvre: 9 inscribed clay balls (catalogue 25–33) and 1 tablet (catalogue 209 / AM 2336). Louvre textual metadata is used with provenance. This is not a complete Cypro-Minoan corpus. No protected Olivier/Ferrara/Masson transcription or Louvre photograph is redistributed. No global completeness percentage is claimed without a defensible denominator.
+18 object records: 15 core/affirmative and 3 candidate/ambiguous. Coverage includes Enkomi, Sinda, Hala Sultan Tekke, Ras Shamra/Ugarit, and broader Cypriot museum records. This is an open-evidence corpus, not a claim to reproduce the complete published corpus. Source-defined totals vary by publication/date, so no global completeness percentage is asserted.
