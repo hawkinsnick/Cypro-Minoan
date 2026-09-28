@@ -1,22 +1,13 @@
 # Roadmap
 
-## 0.1.0 — Foundation
-Schemas, ethics, provenance, source registry, validation, empty corpus framework.
+## 1.2.0 — Catalogue-control checkpoint
+Historical corpus snapshots, master catalogue registry, Tiryns expansion, signary-authority registry, occurrence foundation, corpus-policy registry, stronger validation, and Linear A interoperability design.
 
-## 0.2.0 — Sign infrastructure
-Audit sign-list systems; formalize uncertainty/damage notation; establish Unicode and published-ID concordance architecture without forced equivalence.
+## 1.3–1.5
+Expand exact HoChyMin/Ferrara/addendum reconciliation; deepen rich object metadata; build source-verifiable sign occurrence corpus and variant graph.
 
-## 0.3.0 — Pilot corpus
-Enter a small, independently auditable set of inscriptions with full source-level provenance. Use the pilot to stress-test schemas.
+## 1.6–1.9
+Archaeological/contextual analytics, reproducible computational laboratory, typed cross-script hypothesis testing, API/export layer, and release-candidate audits.
 
-## 0.4.0 — Corpus expansion and audit
-Expand object records and source-specific transcriptions; reconcile identifiers and duplicate objects; rights audit.
-
-## 0.5.0 — Cross-script concordance framework
-Represent proposed Cypro-Minoan ↔ Linear A ↔ later Cypriot relationships as sourced hypotheses, distinguishing graphic similarity, historical relationship, and proposed phonetic equivalence.
-
-## 0.6.0+ — Analytical layer
-Frequencies, positional distributions, sequences, clustering, reproducible analyses. Derived outputs must identify corpus version and assumptions.
-
-## 1.0.0 — Audited public corpus
-A documented, validated, citable release with coverage/completeness statements that can be independently checked.
+## 2.0.0
+Stable open research platform: source → object → zone → occurrence → sign authority/variant → scholarly assertion → comparative hypothesis → reproducible result. Linear B enters only after Linear A and Cypro-Minoan shared abstractions are mature.
