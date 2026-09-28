@@ -1,0 +1,142 @@
+{
+  "interchange_version": "0.1",
+  "script": "Cypro-Minoan",
+  "resource": "records",
+  "records": [
+    {
+      "record_id": "CMOC-0025",
+      "native_id": "CMOC-0025",
+      "native_ref": "corpus/inscriptions/CMOC-0025.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-0026",
+      "native_id": "CMOC-0026",
+      "native_ref": "corpus/inscriptions/CMOC-0026.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-0027",
+      "native_id": "CMOC-0027",
+      "native_ref": "corpus/inscriptions/CMOC-0027.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-0028",
+      "native_id": "CMOC-0028",
+      "native_ref": "corpus/inscriptions/CMOC-0028.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-0029",
+      "native_id": "CMOC-0029",
+      "native_ref": "corpus/inscriptions/CMOC-0029.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-0030",
+      "native_id": "CMOC-0030",
+      "native_ref": "corpus/inscriptions/CMOC-0030.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-0031",
+      "native_id": "CMOC-0031",
+      "native_ref": "corpus/inscriptions/CMOC-0031.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-0032",
+      "native_id": "CMOC-0032",
+      "native_ref": "corpus/inscriptions/CMOC-0032.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-0033",
+      "native_id": "CMOC-0033",
+      "native_ref": "corpus/inscriptions/CMOC-0033.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-0209",
+      "native_id": "CMOC-0209",
+      "native_ref": "corpus/inscriptions/CMOC-0209.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-0216",
+      "native_id": "CMOC-0216",
+      "native_ref": "corpus/inscriptions/CMOC-0216.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-BM-1898.1201.204",
+      "native_id": "CMOC-BM-1898.1201.204",
+      "native_ref": "corpus/inscriptions/CMOC-BM-1898.1201.204.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-LVR-AM1639",
+      "native_id": "CMOC-LVR-AM1639",
+      "native_ref": "corpus/inscriptions/CMOC-LVR-AM1639.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-LVR-AM2716",
+      "native_id": "CMOC-LVR-AM2716",
+      "native_ref": "corpus/inscriptions/CMOC-LVR-AM2716.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-MET-2008.27",
+      "native_id": "CMOC-MET-2008.27",
+      "native_ref": "corpus/inscriptions/CMOC-MET-2008.27.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-MET-74.51.1312",
+      "native_id": "CMOC-MET-74.51.1312",
+      "native_ref": "corpus/inscriptions/CMOC-MET-74.51.1312.json",
+      "warnings": [
+        "candidate_or_ambiguous_identification"
+      ]
+    },
+    {
+      "record_id": "CMOC-MET-74.51.4316",
+      "native_id": "CMOC-MET-74.51.4316",
+      "native_ref": "corpus/inscriptions/CMOC-MET-74.51.4316.json",
+      "warnings": [
+        "candidate_or_ambiguous_identification"
+      ]
+    },
+    {
+      "record_id": "CMOC-MET-74.51.5057A",
+      "native_id": "CMOC-MET-74.51.5057A",
+      "native_ref": "corpus/inscriptions/CMOC-MET-74.51.5057A.json",
+      "warnings": [
+        "candidate_or_ambiguous_identification"
+      ]
+    },
+    {
+      "record_id": "CMOC-TIRY-ADD244",
+      "native_id": "CMOC-TIRY-ADD244",
+      "native_ref": "corpus/inscriptions/CMOC-TIRY-ADD244.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-TIRY-ADD245",
+      "native_id": "CMOC-TIRY-ADD245",
+      "native_ref": "corpus/inscriptions/CMOC-TIRY-ADD245.json",
+      "warnings": []
+    },
+    {
+      "record_id": "CMOC-TIRY-ADD246",
+      "native_id": "CMOC-TIRY-ADD246",
+      "native_ref": "corpus/inscriptions/CMOC-TIRY-ADD246.json",
+      "warnings": []
+    }
+  ],
+  "warnings": [
+    "Native CM records are authoritative; adapter references preserve native semantics and imply no cross-script identity."
+  ]
+}
