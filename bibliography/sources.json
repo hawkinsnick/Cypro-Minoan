@@ -330,5 +330,27 @@
     "year": 2014,
     "url": "https://bmcr.brynmawr.edu/2014/2014.08.52",
     "rights_note": "Cited for descriptive catalogue/signary metadata; review text not redistributed wholesale."
+  },
+  {
+    "source_id": "cross-stager2006",
+    "type": "article",
+    "title": "Cypro-Minoan Inscriptions Found in Ashkelon",
+    "authors": [
+      "Frank Moore Cross",
+      "Lawrence E. Stager"
+    ],
+    "year": 2006,
+    "rights_note": "Bibliographic frontier-identification reference; no article figures/text redistributed."
+  },
+  {
+    "source_id": "maeir-hitchcock2014",
+    "type": "article",
+    "title": "Disentangling Entangled Objects: Iron Age Inscriptions from Philistia as a Reflection of Cultural Processes",
+    "authors": [
+      "Aren M. Maeir",
+      "Louise A. Hitchcock"
+    ],
+    "year": 2014,
+    "rights_note": "Bibliographic frontier-adjudication reference; cited for uncertainty of Cypro-Minoan identification; no figures redistributed."
   }
 ]
