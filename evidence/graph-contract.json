@@ -1,0 +1,64 @@
+{
+  "version": "5.0.0",
+  "node_types": [
+    "object_record",
+    "physical_locus",
+    "occurrence",
+    "witness_assertion",
+    "source",
+    "lineage",
+    "catalogue_slot",
+    "frontier_item",
+    "dataset_snapshot",
+    "experiment",
+    "claim"
+  ],
+  "edge_types": [
+    {
+      "type": "LOCATED_ON",
+      "from": "occurrence",
+      "to": "physical_locus"
+    },
+    {
+      "type": "ASSERTED_BY",
+      "from": "witness_assertion",
+      "to": "source"
+    },
+    {
+      "type": "ABOUT",
+      "from": "witness_assertion",
+      "to": "object_record"
+    },
+    {
+      "type": "DERIVES_FROM",
+      "from": "source",
+      "to": "source"
+    },
+    {
+      "type": "REGISTERED_AS",
+      "from": "object_record",
+      "to": "catalogue_slot"
+    },
+    {
+      "type": "INCLUDED_IN",
+      "from": "object_record",
+      "to": "dataset_snapshot"
+    },
+    {
+      "type": "CONSUMED_BY",
+      "from": "dataset_snapshot",
+      "to": "experiment"
+    },
+    {
+      "type": "SUPPORTS",
+      "from": "experiment",
+      "to": "claim"
+    }
+  ],
+  "constraints": [
+    "Edges never create missing scholarly assertions.",
+    "SUPPORTS is forbidden when experiment claim_allowed=false.",
+    "DERIVES_FROM must not be interpreted as independent confirmation.",
+    "Cross-script sign identity is not an evidence-graph edge type."
+  ]
+}
