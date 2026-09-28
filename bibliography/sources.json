@@ -122,5 +122,41 @@
     "year": 2025,
     "url": "https://collections.louvre.fr/ark:/53355/cl010131604",
     "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+  },
+  {
+    "source_id": "louvre-cm-31",
+    "type": "museum_record",
+    "title": "Musée du Louvre Collections: inscribed Cypro-Minoan clay ball AM 2233",
+    "authors": [
+      "Musée du Louvre"
+    ],
+    "year": 2025,
+    "url": "https://collections.louvre.fr/ark:/53355/cl010131605",
+    "rights_note": "Textual entry reused under Licence Ouverte / Open Licence Etalab; Louvre entry last updated 2025-12-08. No Louvre images redistributed.",
+    "notes": "Attribution: Musée du Louvre. Museum entry warns that its contents may not reflect the latest state of knowledge."
+  },
+  {
+    "source_id": "louvre-cm-32",
+    "type": "museum_record",
+    "title": "Musée du Louvre Collections: inscribed Cypro-Minoan clay ball AM 2235",
+    "authors": [
+      "Musée du Louvre"
+    ],
+    "year": 2025,
+    "url": "https://collections.louvre.fr/ark:/53355/cl010131607",
+    "rights_note": "Textual entry reused under Licence Ouverte / Open Licence Etalab; Louvre entry last updated 2025-12-08. No Louvre images redistributed.",
+    "notes": "Attribution: Musée du Louvre. Museum entry warns that its contents may not reflect the latest state of knowledge."
+  },
+  {
+    "source_id": "louvre-cm-33",
+    "type": "museum_record",
+    "title": "Musée du Louvre Collections: inscribed Cypro-Minoan clay ball AM 2234",
+    "authors": [
+      "Musée du Louvre"
+    ],
+    "year": 2025,
+    "url": "https://collections.louvre.fr/ark:/53355/cl010131606",
+    "rights_note": "Textual entry reused under Licence Ouverte / Open Licence Etalab; Louvre entry last updated 2025-12-08. No Louvre images redistributed.",
+    "notes": "Attribution: Musée du Louvre. Museum entry warns that its contents may not reflect the latest state of knowledge."
   }
 ]
