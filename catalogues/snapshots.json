@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "principle": "Catalogue counts are source-defined snapshots, not a timeless universal denominator.",
+  "snapshots": [
+    {
+      "snapshot_id": "hochym2007",
+      "source_id": "olivier2007",
+      "count": 217,
+      "range": "##001-##217",
+      "inclusion_note": "Olivier 2007 edited corpus."
+    },
+    {
+      "snapshot_id": "ferrara2013",
+      "source_id": "ferrara2013",
+      "count": 243,
+      "range": "##001-##243",
+      "inclusion_note": "Ferrara Volume II published corpus; later ADD244 not part of the 243-item appendix baseline."
+    },
+    {
+      "snapshot_id": "valerio2016-working",
+      "source_id": "valerio2016thesis",
+      "count": 253,
+      "range": "##001-ADD##253",
+      "inclusion_note": "217 HoChyMin + Ferrara ADD218-244 + further ADD245-253; single marks excluded by Valério working definition."
+    },
+    {
+      "snapshot_id": "polig2022-study",
+      "source_id": "polig2022",
+      "count": 258,
+      "range": "source reports tally of 258 objects",
+      "inclusion_note": "Later palaeographic corpus tally; identities beyond verified addenda are not inferred here."
+    },
+    {
+      "snapshot_id": "donnelly2025-frontier",
+      "source_id": "donnelly2025-uncatalogued",
+      "count": null,
+      "range": "approximately 40+ uncatalogued inscriptions beyond HoChyMin/CM II",
+      "inclusion_note": "Research-frontier estimate, not assigned consecutive project catalogue numbers."
+    }
+  ]
+}
