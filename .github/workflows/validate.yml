@@ -9,3 +9,5 @@ jobs:
         with:
           python-version: '3.12'
       - run: python scripts/validate.py
+      - run: python scripts/validate_current.py
+      - run: python scripts/test_release_integrity.py
