@@ -1,0 +1,26 @@
+{
+  "version": "3.0.0",
+  "snapshots": [
+    {
+      "snapshot_id": "cmoc-3.0-rich-records",
+      "record_count": 21,
+      "source": "corpus/index.json",
+      "unit": "rich object record",
+      "scope": "project-ingested open-evidence records"
+    },
+    {
+      "snapshot_id": "cmoc-3.0-catalogue-control",
+      "record_count": 254,
+      "source": "catalogues/master.json",
+      "unit": "historical/addendum catalogue slot",
+      "scope": "numbered control layer; not transcription corpus"
+    },
+    {
+      "snapshot_id": "cmoc-3.0-occurrences",
+      "record_count": 3,
+      "source": "occurrences/occurrences.json",
+      "unit": "source-verified sign occurrence",
+      "scope": "TIRY Avas 001 verified subset only"
+    }
+  ]
+}
