@@ -1,0 +1,173 @@
+{
+  "id": "CMOC-0032",
+  "record_version": "0.3.1",
+  "identifiers": [
+    {
+      "system": "Louvre inventory",
+      "value": "AM 2235",
+      "source_id": "louvre-cm-32"
+    },
+    {
+      "system": "excavation inventory",
+      "value": "Enk 1955-54",
+      "source_id": "louvre-cm-32"
+    },
+    {
+      "system": "Ferrara 2013 catalogue",
+      "value": "32",
+      "source_id": "louvre-cm-32"
+    },
+    {
+      "system": "Olivier 2007 catalogue",
+      "value": "32",
+      "source_id": "louvre-cm-32"
+    }
+  ],
+  "object": {
+    "object_type": "inscribed clay ball",
+    "material": "clay",
+    "repository": "Musée du Louvre, Département des Antiquités orientales",
+    "inventory_number": "AM 2235"
+  },
+  "find_context": {
+    "findplace": "Enkomi",
+    "source_id": "louvre-cm-32"
+  },
+  "dating": [
+    {
+      "assertion_type": "museum_date_range",
+      "value": {
+        "label": "Late Cypriot",
+        "start_bce": 1600,
+        "end_bce": 1050
+      },
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-32",
+          "locator": "Places and dates"
+        }
+      ]
+    }
+  ],
+  "classifications": [
+    {
+      "assertion_type": "traditional_classification",
+      "value": "CM1",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-32",
+          "locator": "Inscriptions"
+        }
+      ]
+    }
+  ],
+  "transcriptions": [],
+  "assertions": [
+    {
+      "assertion_type": "diameter_cm",
+      "value": 2.3,
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-32",
+          "locator": "Physical characteristics"
+        }
+      ]
+    },
+    {
+      "assertion_type": "techniques",
+      "value": [
+        "modeled",
+        "incised"
+      ],
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-32",
+          "locator": "Materials and techniques"
+        }
+      ]
+    },
+    {
+      "assertion_type": "discovery_year",
+      "value": 1955,
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-32",
+          "locator": "Places and dates"
+        }
+      ]
+    },
+    {
+      "assertion_type": "acquisition",
+      "value": "share after excavations",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-32",
+          "locator": "History"
+        }
+      ]
+    },
+    {
+      "assertion_type": "excavator",
+      "value": "Claude Schaeffer",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-32",
+          "locator": "History"
+        }
+      ]
+    },
+    {
+      "assertion_type": "published_cross_reference",
+      "value": {
+        "ferrara_2013_catalogue": 32,
+        "ferrara_pages": "26",
+        "olivier_2007_catalogue": 32,
+        "olivier_page": "79"
+      },
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-32",
+          "locator": "Bibliography"
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "record_license": "Project-original structure; Louvre textual source data reused under Licence Ouverte / Open Licence Etalab with attribution.",
+    "third_party_material": [
+      {
+        "source_id": "louvre-cm-32",
+        "material": "textual collection metadata",
+        "license_id": "etalab-open-licence",
+        "source_update_date": "2025-12-08",
+        "attribution": "Musée du Louvre"
+      },
+      {
+        "source_id": "louvre-cm-32",
+        "material": "museum photographs",
+        "license_id": "link-only-unverified",
+        "included": false
+      }
+    ]
+  },
+  "notes": [
+    "No transcription, museum photograph, or scholarly drawing redistributed.",
+    "The Louvre's suggestion that these balls may contain personal names is not adopted as a project conclusion."
+  ]
+}
