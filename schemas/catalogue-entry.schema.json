@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "catalogue_number",
+    "display_id",
+    "authority_layer",
+    "verification_status",
+    "ingestion_status",
+    "source_id"
+  ],
+  "properties": {
+    "catalogue_number": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "display_id": {
+      "type": "string"
+    },
+    "authority_layer": {
+      "type": "string"
+    },
+    "siglum": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "verification_status": {
+      "enum": [
+        "numbered_slot_verified",
+        "number_and_siglum_verified"
+      ]
+    },
+    "ingestion_status": {
+      "enum": [
+        "rich_record_available",
+        "not_yet_rich_record"
+      ]
+    },
+    "source_id": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}
