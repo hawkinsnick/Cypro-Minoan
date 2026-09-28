@@ -181,5 +181,132 @@
     "publisher": "Oxbow Books",
     "url": "https://cris.unibo.it/handle/11585/722704",
     "rights_note": "Bibliographic/abstract-level reference only. No protected tables, figures, or substantial text reproduced."
+  },
+  {
+    "source_id": "valerio2014",
+    "type": "article",
+    "title": "Seven uncollected Cypro-Minoan inscriptions",
+    "authors": [
+      "Miguel Valério"
+    ],
+    "year": 2014,
+    "url": "https://doi.org/10.1515/kadmos-2014-0006",
+    "rights_note": "Bibliographic and catalogue-control use; article copyright retained."
+  },
+  {
+    "source_id": "davis-maran-wirghova2014",
+    "type": "article",
+    "title": "A new Cypro-Minoan inscription from Tiryns: TIRY Avas 002",
+    "authors": [
+      "Brent Davis",
+      "Joseph Maran",
+      "Soňa Wirghová"
+    ],
+    "year": 2014,
+    "url": "https://doi.org/10.1515/kadmos-2014-0005",
+    "rights_note": "Bibliographic/object metadata and attributed factual assertions; no figures redistributed."
+  },
+  {
+    "source_id": "davis-maran-prillwitz-wirghova2023",
+    "type": "article",
+    "title": "A Canaanite jar with a Cypro-Minoan inscription from Tiryns: TIRY Avas 001",
+    "authors": [
+      "Brent Davis",
+      "Joseph Maran",
+      "Susanne Prillwitz",
+      "Soňa Wirghová"
+    ],
+    "year": 2023,
+    "url": "https://doi.org/10.1515/kadmos-2023-0001",
+    "rights_note": "Open repository copy consulted; source-attributed factual/sign assertions only; figures not redistributed."
+  },
+  {
+    "source_id": "vetters2011",
+    "type": "article",
+    "title": "A Clay Ball with a Cypro-Minoan Inscription from Tiryns",
+    "authors": [
+      "Melissa Vetters"
+    ],
+    "year": 2011,
+    "url": "https://publications.dainst.org/journals/aa/article/download/99/4770",
+    "rights_note": "Source-attributed factual metadata; no figures redistributed."
+  },
+  {
+    "source_id": "bourogiannis2024",
+    "type": "article",
+    "title": "Contextualising Cypriot writing overseas: Cypro-Minoan and Cypro-Syllabic inscriptions found in Greece",
+    "authors": [
+      "Giorgos Bourogiannis"
+    ],
+    "year": 2024,
+    "url": "https://www.researchgate.net/publication/384690092",
+    "rights_note": "Bibliographic/contextual verification only; no figures redistributed."
+  },
+  {
+    "source_id": "polig-donnelly2022",
+    "type": "article",
+    "title": "Between Frustration and Progress: An Integrated Cypro-Minoan Signary and Its Paleographic Diversity",
+    "authors": [
+      "Martina Polig",
+      "Cassandra M. Donnelly"
+    ],
+    "year": 2022,
+    "url": "https://nardecchiadigital.it/index.php?journal=SMEA-LERMA&op=view&page=article&path%5B%5D=2181",
+    "rights_note": "Abstract-level signary metadata; no sign figures/database content redistributed."
+  },
+  {
+    "source_id": "polig2022",
+    "type": "thesis",
+    "title": "3D Approaches to Cypro-Minoan Writing: Advanced 3D Methods of Documentation, Visualization and Analysis",
+    "authors": [
+      "Martina Polig"
+    ],
+    "year": 2022,
+    "url": "https://hdl.handle.net/1854/LU-8749802",
+    "rights_note": "Bibliographic/methodological metadata; thesis is in copyright with no general reuse license."
+  },
+  {
+    "source_id": "donnelly2025-uncatalogued",
+    "type": "article",
+    "title": "Considering Three New Cypro-Minoan Inscriptions",
+    "authors": [
+      "Cassandra M. Donnelly"
+    ],
+    "year": 2025,
+    "url": "https://blogs.uned.es/madridmycenaeancolloquium/wp-content/uploads/sites/601/2025/09/Book-of-abstracts.pdf",
+    "rights_note": "Conference abstract metadata; used to document 40+ uncatalogued-inscription research frontier."
+  },
+  {
+    "source_id": "steele2013-context",
+    "type": "book",
+    "title": "Syllabic Writing on Cyprus and its Context",
+    "authors": [
+      "Philippa M. Steele"
+    ],
+    "year": 2013,
+    "url": "https://www.cambridge.org/core/books/syllabic-writing-on-cyprus-and-its-context/",
+    "rights_note": "Bibliographic/concordance reference; no protected illustrations/transcriptions redistributed."
+  },
+  {
+    "source_id": "unicode16-core",
+    "type": "standard",
+    "title": "The Unicode Standard Version 16.0, §8.4 Cypro-Minoan",
+    "authors": [
+      "Unicode Consortium"
+    ],
+    "year": 2024,
+    "url": "https://www.unicode.org/versions/Unicode16.0.0/UnicodeStandard-16.0.pdf",
+    "rights_note": "Standard used for current technical assertions; no code-chart artwork redistributed."
+  },
+  {
+    "source_id": "corazza2023",
+    "type": "thesis",
+    "title": "Computational methods applied to undeciphered scripts from the Aegean and Cyprus: Linear A and Cypro-Minoan",
+    "authors": [
+      "Michele Corazza"
+    ],
+    "year": 2023,
+    "url": "https://doi.org/10.48676/unibo/amsdottorato/10975",
+    "rights_note": "Consultation permitted for study/research; no restricted source-image dataset redistributed."
   }
 ]
