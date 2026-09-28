@@ -19,7 +19,7 @@
     }
   ],
   "provenance": {
-    "corpus_version": "3.0.0",
+    "corpus_version": "4.0.1",
     "source": "research/experiment-gates.json"
   },
   "warnings": [
