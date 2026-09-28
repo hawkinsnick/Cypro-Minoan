@@ -1,0 +1,35 @@
+{
+  "version": "1.2.0",
+  "occurrences": [
+    {
+      "occurrence_id": "CMOCC-TIRY245-H1-1",
+      "record_id": "CMOC-TIRY-ADD245",
+      "zone_id": "handle-1-inscription",
+      "position": 1,
+      "published_sign_label": "CM025",
+      "source_id": "davis-maran-prillwitz-wirghova2023",
+      "locator": "§3.4 Text",
+      "certainty": "certain"
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY245-H1-2",
+      "record_id": "CMOC-TIRY-ADD245",
+      "zone_id": "handle-1-inscription",
+      "position": 2,
+      "published_sign_label": "CM087",
+      "source_id": "davis-maran-prillwitz-wirghova2023",
+      "locator": "§3.4 Text",
+      "certainty": "certain"
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY245-H2-M1",
+      "record_id": "CMOC-TIRY-ADD245",
+      "zone_id": "handle-2-potmark",
+      "position": 1,
+      "published_sign_label": "CM005",
+      "source_id": "davis-maran-prillwitz-wirghova2023",
+      "locator": "§3.4 Text",
+      "certainty": "certain"
+    }
+  ]
+}
