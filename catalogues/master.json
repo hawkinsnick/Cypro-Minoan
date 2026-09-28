@@ -1,0 +1,2292 @@
+{
+  "version": "1.2.0",
+  "entry_count": 254,
+  "entries": [
+    {
+      "catalogue_number": 1,
+      "display_id": "##001",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 2,
+      "display_id": "##002",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 3,
+      "display_id": "##003",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 4,
+      "display_id": "##004",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 5,
+      "display_id": "##005",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 6,
+      "display_id": "##006",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 7,
+      "display_id": "##007",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 8,
+      "display_id": "##008",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 9,
+      "display_id": "##009",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 10,
+      "display_id": "##010",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 11,
+      "display_id": "##011",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 12,
+      "display_id": "##012",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 13,
+      "display_id": "##013",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 14,
+      "display_id": "##014",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 15,
+      "display_id": "##015",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 16,
+      "display_id": "##016",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 17,
+      "display_id": "##017",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 18,
+      "display_id": "##018",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 19,
+      "display_id": "##019",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 20,
+      "display_id": "##020",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 21,
+      "display_id": "##021",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 22,
+      "display_id": "##022",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 23,
+      "display_id": "##023",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 24,
+      "display_id": "##024",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 25,
+      "display_id": "##025",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 26,
+      "display_id": "##026",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 27,
+      "display_id": "##027",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 28,
+      "display_id": "##028",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 29,
+      "display_id": "##029",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 30,
+      "display_id": "##030",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 31,
+      "display_id": "##031",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 32,
+      "display_id": "##032",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 33,
+      "display_id": "##033",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 34,
+      "display_id": "##034",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 35,
+      "display_id": "##035",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 36,
+      "display_id": "##036",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 37,
+      "display_id": "##037",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 38,
+      "display_id": "##038",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 39,
+      "display_id": "##039",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 40,
+      "display_id": "##040",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 41,
+      "display_id": "##041",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 42,
+      "display_id": "##042",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 43,
+      "display_id": "##043",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 44,
+      "display_id": "##044",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 45,
+      "display_id": "##045",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 46,
+      "display_id": "##046",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 47,
+      "display_id": "##047",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 48,
+      "display_id": "##048",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 49,
+      "display_id": "##049",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 50,
+      "display_id": "##050",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 51,
+      "display_id": "##051",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 52,
+      "display_id": "##052",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 53,
+      "display_id": "##053",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 54,
+      "display_id": "##054",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 55,
+      "display_id": "##055",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 56,
+      "display_id": "##056",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 57,
+      "display_id": "##057",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 58,
+      "display_id": "##058",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 59,
+      "display_id": "##059",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 60,
+      "display_id": "##060",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 61,
+      "display_id": "##061",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 62,
+      "display_id": "##062",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 63,
+      "display_id": "##063",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 64,
+      "display_id": "##064",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 65,
+      "display_id": "##065",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 66,
+      "display_id": "##066",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 67,
+      "display_id": "##067",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 68,
+      "display_id": "##068",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 69,
+      "display_id": "##069",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 70,
+      "display_id": "##070",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 71,
+      "display_id": "##071",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 72,
+      "display_id": "##072",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 73,
+      "display_id": "##073",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 74,
+      "display_id": "##074",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 75,
+      "display_id": "##075",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 76,
+      "display_id": "##076",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 77,
+      "display_id": "##077",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 78,
+      "display_id": "##078",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 79,
+      "display_id": "##079",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 80,
+      "display_id": "##080",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 81,
+      "display_id": "##081",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 82,
+      "display_id": "##082",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 83,
+      "display_id": "##083",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 84,
+      "display_id": "##084",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 85,
+      "display_id": "##085",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 86,
+      "display_id": "##086",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 87,
+      "display_id": "##087",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 88,
+      "display_id": "##088",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 89,
+      "display_id": "##089",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 90,
+      "display_id": "##090",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 91,
+      "display_id": "##091",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 92,
+      "display_id": "##092",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 93,
+      "display_id": "##093",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 94,
+      "display_id": "##094",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 95,
+      "display_id": "##095",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 96,
+      "display_id": "##096",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 97,
+      "display_id": "##097",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 98,
+      "display_id": "##098",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 99,
+      "display_id": "##099",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 100,
+      "display_id": "##100",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 101,
+      "display_id": "##101",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 102,
+      "display_id": "##102",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 103,
+      "display_id": "##103",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 104,
+      "display_id": "##104",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 105,
+      "display_id": "##105",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 106,
+      "display_id": "##106",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 107,
+      "display_id": "##107",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 108,
+      "display_id": "##108",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 109,
+      "display_id": "##109",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 110,
+      "display_id": "##110",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 111,
+      "display_id": "##111",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 112,
+      "display_id": "##112",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 113,
+      "display_id": "##113",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 114,
+      "display_id": "##114",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 115,
+      "display_id": "##115",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 116,
+      "display_id": "##116",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 117,
+      "display_id": "##117",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 118,
+      "display_id": "##118",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 119,
+      "display_id": "##119",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 120,
+      "display_id": "##120",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 121,
+      "display_id": "##121",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 122,
+      "display_id": "##122",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 123,
+      "display_id": "##123",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 124,
+      "display_id": "##124",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 125,
+      "display_id": "##125",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 126,
+      "display_id": "##126",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 127,
+      "display_id": "##127",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 128,
+      "display_id": "##128",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 129,
+      "display_id": "##129",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 130,
+      "display_id": "##130",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 131,
+      "display_id": "##131",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 132,
+      "display_id": "##132",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 133,
+      "display_id": "##133",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 134,
+      "display_id": "##134",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 135,
+      "display_id": "##135",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 136,
+      "display_id": "##136",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 137,
+      "display_id": "##137",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 138,
+      "display_id": "##138",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 139,
+      "display_id": "##139",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 140,
+      "display_id": "##140",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 141,
+      "display_id": "##141",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 142,
+      "display_id": "##142",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 143,
+      "display_id": "##143",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 144,
+      "display_id": "##144",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 145,
+      "display_id": "##145",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 146,
+      "display_id": "##146",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 147,
+      "display_id": "##147",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 148,
+      "display_id": "##148",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 149,
+      "display_id": "##149",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 150,
+      "display_id": "##150",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 151,
+      "display_id": "##151",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 152,
+      "display_id": "##152",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 153,
+      "display_id": "##153",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 154,
+      "display_id": "##154",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 155,
+      "display_id": "##155",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 156,
+      "display_id": "##156",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 157,
+      "display_id": "##157",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 158,
+      "display_id": "##158",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 159,
+      "display_id": "##159",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 160,
+      "display_id": "##160",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 161,
+      "display_id": "##161",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 162,
+      "display_id": "##162",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 163,
+      "display_id": "##163",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 164,
+      "display_id": "##164",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 165,
+      "display_id": "##165",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 166,
+      "display_id": "##166",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 167,
+      "display_id": "##167",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 168,
+      "display_id": "##168",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 169,
+      "display_id": "##169",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 170,
+      "display_id": "##170",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 171,
+      "display_id": "##171",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 172,
+      "display_id": "##172",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 173,
+      "display_id": "##173",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 174,
+      "display_id": "##174",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 175,
+      "display_id": "##175",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 176,
+      "display_id": "##176",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 177,
+      "display_id": "##177",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 178,
+      "display_id": "##178",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 179,
+      "display_id": "##179",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 180,
+      "display_id": "##180",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 181,
+      "display_id": "##181",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 182,
+      "display_id": "##182",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 183,
+      "display_id": "##183",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 184,
+      "display_id": "##184",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 185,
+      "display_id": "##185",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 186,
+      "display_id": "##186",
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "verification_status": "numbered_slot_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "olivier2007"
+    },
+    {
+      "catalogue_number": 187,
+      "display_id": "##187",
+      "authority_layer": "Olivier 2007",
+      "siglum": "ENKO Pblo 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 188,
+      "display_id": "##188",
+      "authority_layer": "Olivier 2007",
+      "siglum": "KITI Pblo 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 189,
+      "display_id": "##189",
+      "authority_layer": "Olivier 2007",
+      "siglum": "PPAP Pblo 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 190,
+      "display_id": "##190",
+      "authority_layer": "Olivier 2007",
+      "siglum": "PPAP Pblo 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 191,
+      "display_id": "##191",
+      "authority_layer": "Olivier 2007",
+      "siglum": "KALA Ppla 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 192,
+      "display_id": "##192",
+      "authority_layer": "Olivier 2007",
+      "siglum": "KALA Ppla 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 193,
+      "display_id": "##193",
+      "authority_layer": "Olivier 2007",
+      "siglum": "CYPR? Psce 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 194,
+      "display_id": "##194",
+      "authority_layer": "Olivier 2007",
+      "siglum": "CYPR? Psce 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 195,
+      "display_id": "##195",
+      "authority_layer": "Olivier 2007",
+      "siglum": "CYPR Psce 003",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 196,
+      "display_id": "##196",
+      "authority_layer": "Olivier 2007",
+      "siglum": "CYPR? Psce 004",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 197,
+      "display_id": "##197",
+      "authority_layer": "Olivier 2007",
+      "siglum": "CYPR? Psce 005",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 198,
+      "display_id": "##198",
+      "authority_layer": "Olivier 2007",
+      "siglum": "CYPR? Psce 006",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 199,
+      "display_id": "##199",
+      "authority_layer": "Olivier 2007",
+      "siglum": "ENKO Psce 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 200,
+      "display_id": "##200",
+      "authority_layer": "Olivier 2007",
+      "siglum": "ENKO? Psce 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 201,
+      "display_id": "##201",
+      "authority_layer": "Olivier 2007",
+      "siglum": "HALA Psce 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 202,
+      "display_id": "##202",
+      "authority_layer": "Olivier 2007",
+      "siglum": "KOUR Psce 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 203,
+      "display_id": "##203",
+      "authority_layer": "Olivier 2007",
+      "siglum": "PARA Psce 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 204,
+      "display_id": "##204",
+      "authority_layer": "Olivier 2007",
+      "siglum": "PYLA Psce 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 205,
+      "display_id": "##205",
+      "authority_layer": "Olivier 2007",
+      "siglum": "SALA Psce 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 206,
+      "display_id": "##206",
+      "authority_layer": "Olivier 2007",
+      "siglum": "PPAP Vsce 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 207,
+      "display_id": "##207",
+      "authority_layer": "Olivier 2007",
+      "siglum": "ENKO Atab 002a-b",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 208,
+      "display_id": "##208",
+      "authority_layer": "Olivier 2007",
+      "siglum": "ENKO Atab 003",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 209,
+      "display_id": "##209",
+      "authority_layer": "Olivier 2007",
+      "siglum": "ENKO Atab 004",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 210,
+      "display_id": "##210",
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Aéti 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 211,
+      "display_id": "##211",
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Aéti 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 212,
+      "display_id": "##212",
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Atab 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 213,
+      "display_id": "##213",
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Atab 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 214,
+      "display_id": "##214",
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Atab 003",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 215,
+      "display_id": "##215",
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Atab 004",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 216,
+      "display_id": "##216",
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Mvas 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 217,
+      "display_id": "##217",
+      "authority_layer": "Olivier 2007",
+      "siglum": "SYRI Psce 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 218,
+      "display_id": "ADD##218",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "PARA Psce 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 219,
+      "display_id": "ADD##219",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "APLI Psce 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 220,
+      "display_id": "ADD##220",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "CYPR Psce 007",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 221,
+      "display_id": "ADD##221",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "DHEN Avas 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 222,
+      "display_id": "ADD##222",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Apes 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 223,
+      "display_id": "ADD##223",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Apes 003",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 224,
+      "display_id": "ADD##224",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Pblo 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 225,
+      "display_id": "ADD##225",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Psce 003",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 226,
+      "display_id": "ADD##226",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Psce 004",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 227,
+      "display_id": "ADD##227",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Psce 005",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 228,
+      "display_id": "ADD##228",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Mins 003",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 229,
+      "display_id": "ADD##229",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Mins 004",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 230,
+      "display_id": "ADD##230",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Mins 005",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 231,
+      "display_id": "ADD##231",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "KLAV Avas 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 232,
+      "display_id": "ADD##232",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "IDAL Psce 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 233,
+      "display_id": "ADD##233",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "IDAL Avas 003",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 234,
+      "display_id": "ADD##234",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "IDAL Pfus 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 235,
+      "display_id": "ADD##235",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "KALO Avas 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 236,
+      "display_id": "ADD##236",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "KITI Avas 020",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 237,
+      "display_id": "ADD##237",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "KITI Avas 021",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 238,
+      "display_id": "ADD##238",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "MAAP Avas 005",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 239,
+      "display_id": "ADD##239",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "MARO Avas 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 240,
+      "display_id": "ADD##240",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "MARO Avas 003",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 241,
+      "display_id": "ADD##241",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "MARO Avas 004",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 242,
+      "display_id": "ADD##242",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "SANI Avas 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 243,
+      "display_id": "ADD##243",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "RASH Avas 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 244,
+      "display_id": "ADD##244",
+      "authority_layer": "Ferrara 2013",
+      "siglum": "TIRY Abou 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 245,
+      "display_id": "ADD##245",
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "TIRY Avas 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 246,
+      "display_id": "ADD##246",
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "TIRY Avas 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "rich_record_available",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 247,
+      "display_id": "ADD##247",
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "ENKO Abou 084",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 248,
+      "display_id": "ADD##248",
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "KOUR Avas 005",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 249,
+      "display_id": "ADD##249",
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "KOUR Avas 006",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 250,
+      "display_id": "ADD##250",
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "KOUR Avas 007",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 251,
+      "display_id": "ADD##251",
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "RASH Avas 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 252,
+      "display_id": "ADD##252",
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "CYPR? Psce 008",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 253,
+      "display_id": "ADD##253",
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "PPAP Psce 001",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2016thesis"
+    },
+    {
+      "catalogue_number": 254,
+      "display_id": "ADD##254",
+      "authority_layer": "Egetmeyer 2016 / later bibliography",
+      "siglum": "PPAP Mvas 002",
+      "verification_status": "number_and_siglum_verified",
+      "ingestion_status": "not_yet_rich_record",
+      "source_id": "valerio2017"
+    }
+  ]
+}
