@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "items": [
+    {
+      "key": "TIRY Avas 001",
+      "status": "published_not_ingested",
+      "reason": "Requires authoritative/open object-level verification and rights audit."
+    },
+    {
+      "key": "TIRY Avas 002",
+      "status": "published_not_ingested",
+      "reason": "Requires authoritative/open object-level verification and rights audit."
+    },
+    {
+      "key": "TIRY Abou 001",
+      "status": "published_not_ingested",
+      "reason": "Requires authoritative/open object-level verification and rights audit."
+    },
+    {
+      "key": "PARA Psce 001",
+      "status": "published_not_ingested",
+      "reason": "Requires authoritative/open object-level verification and rights audit."
+    },
+    {
+      "key": "Kalavassos cylinders",
+      "status": "published_not_ingested",
+      "reason": "Requires authoritative/open object-level verification and rights audit."
+    },
+    {
+      "key": "additional Enkomi tablets/cylinder",
+      "status": "published_not_ingested",
+      "reason": "Requires authoritative/open object-level verification and rights audit."
+    }
+  ]
+}
