@@ -1,6 +1,6 @@
 # Cypro-Minoan Open Corpus
 
-**Version 4.0.0 — comprehensive/reproducible research platform**
+**Version 4.0.1 — comprehensive/reproducible research platform (integrity patch)**
 
 The corpus records evidence; it does not encode a decipherment.
 
