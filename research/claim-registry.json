@@ -1,16 +1,16 @@
 {
-  "version": "4.0.0",
+  "version": "4.0.1",
   "claims": [
     {
       "claim_id": "CM-C001",
-      "claim": "CM 3.0.0 controls 254 historical/addendum catalogue slots, with 68 exact sigla currently verified.",
+      "claim": "The current CM release controls 254 historical/addendum catalogue slots, with 68 exact sigla currently verified.",
       "status": "validated_structure",
       "evidence": "catalogues/master.json; catalogues/reconciliation-ledger.json",
       "limitations": "Catalogue control is not rich-record or transcription completeness."
     },
     {
       "claim_id": "CM-C002",
-      "claim": "CM 3.0.0 contains 21 rich open-evidence object records.",
+      "claim": "The current CM release contains 21 rich open-evidence object records.",
       "status": "validated_structure",
       "evidence": "corpus/index.json",
       "limitations": "Open-world corpus denominator is not claimed."
