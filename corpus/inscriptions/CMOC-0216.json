@@ -1,0 +1,90 @@
+{
+  "id": "CMOC-0216",
+  "identification_status": "museum_identified",
+  "identifiers": [
+    {
+      "system": "Louvre inventory",
+      "value": "AO 14747",
+      "source_id": "louvre-ao14747"
+    },
+    {
+      "system": "excavation inventory",
+      "value": "RS 3.389",
+      "source_id": "louvre-ao14747"
+    },
+    {
+      "system": "Ferrara 2013 catalogue",
+      "value": "216",
+      "source_id": "louvre-ao14747"
+    },
+    {
+      "system": "Olivier 2007 catalogue",
+      "value": "216",
+      "source_id": "louvre-ao14747"
+    }
+  ],
+  "object": {
+    "object_type": "cup/vessel",
+    "material": "silver",
+    "repository": "Musée du Louvre",
+    "inventory_number": "AO 14747"
+  },
+  "find_context": {
+    "findplace": "Ras Shamra acropolis (Ugarit)",
+    "source_id": "louvre-ao14747"
+  },
+  "dating": [],
+  "classifications": [
+    {
+      "assertion_type": "script_identification",
+      "value": "Cypro-Minoan",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-ao14747",
+          "locator": "Inscriptions / Script"
+        }
+      ]
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_type": "published_cross_reference",
+      "value": {
+        "ferrara": 216,
+        "olivier": 216
+      },
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-ao14747",
+          "locator": "Bibliography"
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "record_license": "Project-original structure; Louvre textual metadata reused under Etalab Open Licence with attribution.",
+    "third_party_material": [
+      {
+        "source_id": "louvre-ao14747",
+        "material": "textual collection metadata",
+        "license_id": "etalab-open-licence",
+        "included": true
+      },
+      {
+        "source_id": "louvre-ao14747",
+        "material": "museum photographs",
+        "license_id": "link-only-unverified",
+        "included": false
+      }
+    ]
+  },
+  "record_version": "1.0.0",
+  "transcriptions": [],
+  "notes": [
+    "No protected transcription or restricted image redistributed."
+  ]
+}
