@@ -1,0 +1,108 @@
+{
+  "id": "CMOC-0209",
+  "record_version": "0.5.0",
+  "identifiers": [
+    {
+      "system": "Louvre inventory",
+      "value": "AM 2336",
+      "source_id": "louvre-cm-209"
+    },
+    {
+      "system": "excavation inventory",
+      "value": "Enk. 53 5",
+      "source_id": "louvre-cm-209"
+    },
+    {
+      "system": "Ferrara 2013 catalogue",
+      "value": "209",
+      "source_id": "louvre-cm-209"
+    },
+    {
+      "system": "Olivier 2007 catalogue",
+      "value": "209",
+      "source_id": "louvre-cm-209"
+    }
+  ],
+  "object": {
+    "object_type": "tablet",
+    "material": "terracotta (brown)",
+    "repository": "Musée du Louvre, Département des Antiquités orientales",
+    "inventory_number": "AM 2336"
+  },
+  "find_context": {
+    "findplace": "Enkomi",
+    "source_id": "louvre-cm-209"
+  },
+  "dating": [
+    {
+      "assertion_type": "museum_date_range",
+      "value": {
+        "label": "Late Cypriot III",
+        "start_bce": 1230,
+        "end_bce": 1050
+      },
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-209",
+          "locator": "Places and dates"
+        }
+      ]
+    }
+  ],
+  "classifications": [],
+  "transcriptions": [],
+  "assertions": [
+    {
+      "assertion_type": "discovery_year",
+      "value": 1953,
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-209",
+          "locator": "Places and dates"
+        }
+      ]
+    },
+    {
+      "assertion_type": "height_cm",
+      "value": 8,
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-209",
+          "locator": "Physical characteristics"
+        }
+      ]
+    },
+    {
+      "assertion_type": "length_cm",
+      "value": 12.1,
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-cm-209",
+          "locator": "Physical characteristics"
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "record_license": "Project-original structure; Louvre textual source data reused under Licence Ouverte / Open Licence Etalab with attribution.",
+    "third_party_material": [
+      {
+        "source_id": "louvre-cm-209",
+        "material": "museum photographs",
+        "license_id": "link-only-unverified",
+        "included": false
+      }
+    ]
+  },
+  "notes": [
+    "No transcription, museum photograph, or scholarly drawing redistributed."
+  ]
+}
