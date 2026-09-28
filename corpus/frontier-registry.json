@@ -1,0 +1,42 @@
+{
+  "version": "3.0.0",
+  "statuses": [
+    "confirmed",
+    "proposed",
+    "cm_like",
+    "disputed",
+    "unresolved"
+  ],
+  "items": [
+    {
+      "frontier_id": "CMFR-ASHKELON-OSTRACON",
+      "label": "Ashkelon painted ostracon RN 9794 / inscription 4.5",
+      "place": "Ashkelon",
+      "identification_status": "disputed",
+      "sources": [
+        {
+          "source_id": "cross-stager2006",
+          "position": "Cypro-Minoan relationship proposed"
+        },
+        {
+          "source_id": "maeir-hitchcock2014",
+          "position": "Cypro-Minoan-like; identification not certain"
+        }
+      ],
+      "project_action": "Do not promote to core CM corpus without stronger adjudication."
+    },
+    {
+      "frontier_id": "CMFR-UNCATALOGUED-2025",
+      "label": "Uncatalogued inscription frontier reported by Donnelly",
+      "place": null,
+      "identification_status": "unresolved",
+      "sources": [
+        {
+          "source_id": "donnelly2025-uncatalogued",
+          "position": "approximately 40+ inscriptions beyond HoChyMin/CM II reported"
+        }
+      ],
+      "project_action": "Resolve individual objects/sigla/publications; do not create anonymous pseudo-records."
+    }
+  ]
+}
