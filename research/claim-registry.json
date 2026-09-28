@@ -52,14 +52,14 @@
     },
     {
       "claim_id": "CM-C008",
-      "claim": "CM 4.0.0 represents completeness as independent evidence dimensions and prohibits an aggregate completeness score.",
+      "claim": "The current CM release represents completeness as independent evidence dimensions and prohibits an aggregate completeness score.",
       "status": "validated_policy",
       "evidence": "coverage/completeness-matrix.json; scripts/completeness_report.py",
       "limitations": "Dimension denominators remain open-world where scholarship does not support a closed universe."
     },
     {
       "claim_id": "CM-C009",
-      "claim": "CM 4.0.0 requires dataset, policy, gate, lineage, rights and digest metadata for a frozen reproducible result.",
+      "claim": "The current CM release requires dataset, policy, gate, lineage, rights and digest metadata for a frozen reproducible result.",
       "status": "validated_architecture",
       "evidence": "research/reproducibility-profile.json; schemas/research-result-v1.schema.json",
       "limitations": "Most corpus-wide inferential experiments remain blocked pending evidence population."
