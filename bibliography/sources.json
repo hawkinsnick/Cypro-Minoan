@@ -158,5 +158,28 @@
     "url": "https://collections.louvre.fr/ark:/53355/cl010131606",
     "rights_note": "Textual entry reused under Licence Ouverte / Open Licence Etalab; Louvre entry last updated 2025-12-08. No Louvre images redistributed.",
     "notes": "Attribution: Musée du Louvre. Museum entry warns that its contents may not reflect the latest state of knowledge."
+  },
+  {
+    "source_id": "louvre-cm-209",
+    "type": "museum_record",
+    "title": "Musée du Louvre Collections: Cypro-Minoan object AM 2336",
+    "authors": [
+      "Musée du Louvre"
+    ],
+    "year": 2026,
+    "url": "https://collections.louvre.fr/ark:/53355/cl010131738",
+    "rights_note": "Textual collection data reused under Licence Ouverte / Open Licence Etalab; no images redistributed."
+  },
+  {
+    "source_id": "valerio2017",
+    "type": "chapter",
+    "title": "Script Comparison in the Investigation of Cypro-Minoan",
+    "authors": [
+      "Miguel Valério"
+    ],
+    "year": 2017,
+    "publisher": "Oxbow Books",
+    "url": "https://cris.unibo.it/handle/11585/722704",
+    "rights_note": "Bibliographic/abstract-level reference only. No protected tables, figures, or substantial text reproduced."
   }
 ]
