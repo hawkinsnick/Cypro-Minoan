@@ -1,0 +1,42 @@
+{
+  "version": "4.0.0",
+  "priorities": [
+    {
+      "priority": 1,
+      "target": "HoChyMin 001-186 exact number↔siglum reconciliation",
+      "required_evidence": "authoritative page/table-level access",
+      "allowed_outcome": "verified mapping or explicitly unresolved"
+    },
+    {
+      "priority": 2,
+      "target": "individually identify post-corpus/uncatalogued inscriptions",
+      "required_evidence": "publication, museum, excavation or equivalent object-level source",
+      "allowed_outcome": "core candidate, disputed frontier item, rejected, or unresolved"
+    },
+    {
+      "priority": 3,
+      "target": "long-text witnesses including Enkomi/Kalavassos material",
+      "required_evidence": "lawful source-specific transcription access or independent observation",
+      "allowed_outcome": "witness/occurrence population or citation-only registration"
+    },
+    {
+      "priority": 4,
+      "target": "palaeographic variants",
+      "required_evidence": "lawfully reusable occurrence evidence or independently encoded observation",
+      "allowed_outcome": "authority-specific variant assertions; no artwork copying"
+    },
+    {
+      "priority": 5,
+      "target": "rich archaeological metadata",
+      "required_evidence": "museum/excavation/publication assertions with locators",
+      "allowed_outcome": "additional rich records and competing metadata assertions"
+    }
+  ],
+  "prohibited_shortcuts": [
+    "infer sigla from catalogue order",
+    "copy protected editorial transcriptions wholesale",
+    "extract protected sign artwork",
+    "treat repeated downstream sources as independent witnesses",
+    "promote CM-like/disputed material to core without adjudication"
+  ]
+}
