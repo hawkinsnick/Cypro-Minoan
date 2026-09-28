@@ -1,7 +1,7 @@
 # Cypro-Minoan Open Corpus
 
-**Version 1.0.0 — stable open-evidence research release**
+**Version 1.2.0 — catalogue-control and research-infrastructure checkpoint**
 
-An open, provenance-first corpus and research toolkit. **The corpus records evidence; it does not encode a decipherment.**
+The corpus records evidence; it does not encode a decipherment.
 
-v1.0.0 contains 18 rights-audited object records (15 core, 3 candidate), the 99-character Unicode interoperability registry, typed non-transitive concordance claims, source/rights registries, computational-resource registry, and discovery queue. No protected scholarly transcriptions, drawings, or restricted museum photographs are redistributed.
+v1.2.0 separates **catalogue completeness**, **rich object-record coverage**, and **sign-sequence coverage**. It provides 21 auditable object records, a 254-slot historical/addendum catalogue-control registry (68 exact sigla currently verified), source-defined corpus snapshots, multiple signary authorities, an occurrence/zone foundation, corpus-policy metadata for reproducible computational work, typed concordance claims, and a Linear A interoperability design. Protected editions, figures, and restricted images are not redistributed.
