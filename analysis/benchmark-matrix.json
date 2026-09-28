@@ -1,0 +1,54 @@
+{
+  "version": "1.2.0",
+  "dimensions": [
+    "catalogue_control",
+    "rich_object_metadata",
+    "signary_authorities",
+    "variant_model",
+    "occurrence_model",
+    "rights_provenance",
+    "uncertainty",
+    "computational_reproducibility",
+    "cross_script_interop"
+  ],
+  "resources": [
+    {
+      "resource": "HoChyMin",
+      "strengths": [
+        "217 edited inscriptions",
+        "stable sigla/numbering"
+      ],
+      "cmoc_goal": "interoperate without copying protected edition content"
+    },
+    {
+      "resource": "Ferrara CMI",
+      "strengths": [
+        "archaeological/contextual corpus",
+        "integrated sign analysis"
+      ],
+      "cmoc_goal": "preserve identifiers/context assertions with source provenance"
+    },
+    {
+      "resource": "Polig-Donnelly",
+      "strengths": [
+        "88-sign/278-variant integrated palaeography",
+        "3D-based methodology"
+      ],
+      "cmoc_goal": "authority-aware variant model without appropriating protected database/artwork"
+    },
+    {
+      "resource": "SigLA",
+      "strengths": [
+        "Linear A palaeographic database"
+      ],
+      "cmoc_goal": "compatible occurrence/query abstractions for later cross-project API"
+    },
+    {
+      "resource": "pyaegean",
+      "strengths": [
+        "unified computational API/export formats"
+      ],
+      "cmoc_goal": "deep CM data layer capable of later adapter/interoperability"
+    }
+  ]
+}
