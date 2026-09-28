@@ -1,19 +1,15 @@
 # Roadmap
 
-## 4.0.0 — Comprehensive/reproducible research platform
-Reproducibility profiles, multidimensional completeness, evidence packages, sensitivity/null controls, claim-gate enforcement and a rigorously bounded shared-core candidate.
+## 5.0.0 — Evidence graph and question-specific research readiness
+Auditable evidence graph, immutable snapshot succession, readiness profiles, independence accounting, representation-level rights and negative conformance tests.
 
-## 4.x — Evidence population
-The principal bottleneck is evidence, not architecture:
-1. resolve HoChyMin 001–186 exact sigla from authoritative access;
-2. identify reported uncatalogued/post-corpus inscriptions individually;
-3. expand rich archaeological records;
-4. populate lawful source-specific transcription witnesses and occurrences;
-5. populate authority-aware palaeographic variants without copying protected artwork;
-6. unlock experiment gates only when declared evidence thresholds are met.
+## 5.x — Evidence density
+Architecture is no longer the principal constraint. Priorities are authoritative identifier reconciliation, individually resolved frontier material, rich object/context population, lawful source-specific witnesses/occurrences, and authority-aware palaeography.
 
-## Cross-project synchronization
-Bring each independent script project to a comparable architecture/reproducibility maturity level without forcing identical native schemas. Shared-core promotion requires demonstrated same-semantics use in at least Linear A and Cypro-Minoan.
+Experiment gates open only when the evidence needed for a particular question supports them.
 
-## Linear B
-Still deferred as a full comparative corpus until the neutral core is stable. When admitted, use it as a known-answer calibration/falsification corpus, not as the ontology template for undeciphered scripts.
+## Cross-project program
+Bring Linear A, Linear B, Cretan Hieroglyphic and related projects to comparable integrity/readiness semantics while preserving independent native schemas. Promote only genuinely neutral abstractions into shared core.
+
+## Comparative work
+Use deciphered scripts as calibration/falsification controls where appropriate; never as ontological templates or automatic phonetic keys for undeciphered scripts.
