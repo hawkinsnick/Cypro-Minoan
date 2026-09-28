@@ -1,0 +1,66 @@
+{
+  "id": "CMOC-BM-1898.1201.204",
+  "identification_status": "museum_identified",
+  "identifiers": [
+    {
+      "system": "British Museum registration",
+      "value": "1898,1201.204",
+      "source_id": "bm-1898.1201.204"
+    }
+  ],
+  "object": {
+    "object_type": "inscribed clay ball",
+    "material": "terracotta",
+    "repository": "The British Museum",
+    "inventory_number": "1898,1201.204"
+  },
+  "find_context": {
+    "findplace": "Hala Sultan Tekke",
+    "source_id": "bm-1898.1201.204"
+  },
+  "dating": [],
+  "classifications": [
+    {
+      "assertion_type": "script_identification",
+      "value": "Cypro-Minoan",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "bm-1898.1201.204",
+          "locator": "collection record"
+        }
+      ]
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_type": "sign_count",
+      "value": 6,
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "bm-1898.1201.204",
+          "locator": "museum-linked description"
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "record_license": "Project-original structure; citation/link only.",
+    "third_party_material": [
+      {
+        "source_id": "bm-1898.1201.204",
+        "material": "museum record text/images",
+        "license_id": "link-only-unverified",
+        "included": false
+      }
+    ]
+  },
+  "record_version": "1.0.0",
+  "transcriptions": [],
+  "notes": [
+    "No protected transcription or restricted image redistributed."
+  ]
+}
