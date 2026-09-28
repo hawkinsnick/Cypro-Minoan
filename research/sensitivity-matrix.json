@@ -1,0 +1,50 @@
+{
+  "version": "4.0.0",
+  "dimensions": [
+    {
+      "id": "candidate_objects",
+      "states": [
+        "exclude",
+        "include_explicitly_flagged"
+      ]
+    },
+    {
+      "id": "single_sign_marks",
+      "states": [
+        "exclude_from_inscription_corpus",
+        "separate_mark_class",
+        "include_when_source_policy_requires"
+      ]
+    },
+    {
+      "id": "uncertain_readings",
+      "states": [
+        "exclude",
+        "include_flagged",
+        "probability_weighted_if_model_declared"
+      ]
+    },
+    {
+      "id": "cm0",
+      "states": [
+        "separate",
+        "include_only_under_declared_source_policy"
+      ]
+    },
+    {
+      "id": "segmentation",
+      "states": [
+        "source_specific",
+        "alternative_explicit_hypothesis"
+      ]
+    },
+    {
+      "id": "sign_authority",
+      "states": [
+        "source_specific",
+        "project_reconciled_where_evidence_supports"
+      ]
+    }
+  ],
+  "rule": "A comparative or statistical result intended as robust must report which permitted states were tested and whether the conclusion changes."
+}
