@@ -1,0 +1,38 @@
+{
+  "version": "4.0.0",
+  "packages": [
+    {
+      "package_id": "CMPKG-CATALOGUE-4.0",
+      "scope": "catalogue control",
+      "inputs": [
+        "catalogues/master.json",
+        "catalogues/snapshots.json",
+        "catalogues/reconciliation-ledger.json"
+      ],
+      "gate": "cm-catalogue-coverage-v1",
+      "status": "reproducible_ready"
+    },
+    {
+      "package_id": "CMPKG-OCCURRENCES-4.0",
+      "scope": "source-verified occurrence subset",
+      "inputs": [
+        "occurrences/occurrences.json",
+        "witnesses/assertions.json",
+        "research/dataset-snapshots.json"
+      ],
+      "gate": "cm-full-frequency-v1",
+      "status": "diagnostic_only_blocked_for_corpus_inference"
+    },
+    {
+      "package_id": "CMPKG-COMPARATIVE-4.0",
+      "scope": "typed cross-script hypotheses",
+      "inputs": [
+        "concordances/claims.json",
+        "research/experiment-gates.json",
+        "research/sensitivity-matrix.json"
+      ],
+      "gate": "cm-cross-script-phonetic-test-v1",
+      "status": "blocked"
+    }
+  ]
+}
