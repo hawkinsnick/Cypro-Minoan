@@ -1,0 +1,29 @@
+{
+  "version": "3.0.0",
+  "specifications": [
+    {
+      "experiment_id": "cm-full-frequency-v1",
+      "unit": "sign occurrence",
+      "dataset": "cmoc-3.0-occurrences",
+      "minimum_gate": "coverage must be declared adequate for requested inference",
+      "null_model": null,
+      "interpretation_limit": "Descriptive frequency only until representativeness is justified."
+    },
+    {
+      "experiment_id": "cm-cross-script-phonetic-test-v1",
+      "unit": "typed concordance claim",
+      "dataset": "concordances/claims.json",
+      "minimum_gate": "individual mappings require exact source and relationship type",
+      "null_model": "No phonetic equivalence follows from graphic/historical relation.",
+      "interpretation_limit": "No transitive phonetic propagation."
+    },
+    {
+      "experiment_id": "cm-catalogue-coverage-v1",
+      "unit": "catalogue slot",
+      "dataset": "cmoc-3.0-catalogue-control",
+      "minimum_gate": "catalogue snapshot and inclusion policy declared",
+      "null_model": null,
+      "interpretation_limit": "Measures registry control, not inscription-content completeness."
+    }
+  ]
+}
