@@ -1,5 +1,5 @@
 {
-  "version": "4.0.1",
+  "version": "5.0.0",
   "profile_id": "cmoc-repro-v1",
   "required_for_frozen_result": [
     "dataset_snapshot",
