@@ -698,5 +698,11 @@
       "olivier_style_label": "CM302",
       "status": "unicode_encoded_character"
     }
-  ]
+  ],
+  "license": {
+    "license_id": "unicode-3.0",
+    "scope_note": "Unicode data files are generally Unicode-3.0; this registry uses Unicode characters/code points and project-generated mappings. No code-chart glyph artwork is extracted.",
+    "verified": "2026-09-27",
+    "source": "https://www.unicode.org/policies/licensing_policy.html"
+  }
 }
