@@ -1,0 +1,56 @@
+{
+  "version": "5.0.0",
+  "profiles": [
+    {
+      "profile_id": "catalogue-structure",
+      "question_class": "catalogue-control and identifier accounting",
+      "required_layers": [
+        "catalogue_control",
+        "snapshot_policy"
+      ],
+      "minimums": {
+        "controlled_slots": 254
+      },
+      "state": "READY"
+    },
+    {
+      "profile_id": "occurrence-descriptive-subset",
+      "question_class": "descriptive statements about explicitly encoded occurrences only",
+      "required_layers": [
+        "source_verified_occurrences",
+        "scope_warning"
+      ],
+      "minimums": {
+        "occurrences": 1
+      },
+      "state": "READY_SCOPED"
+    },
+    {
+      "profile_id": "corpus-frequency",
+      "question_class": "corpus-wide sign-frequency inference",
+      "required_layers": [
+        "representative_occurrence_coverage",
+        "declared_sampling_frame",
+        "sensitivity_analysis"
+      ],
+      "minimums": {
+        "representative_coverage": "must_be_empirically_justified"
+      },
+      "state": "BLOCKED"
+    },
+    {
+      "profile_id": "cross-script-phonetic",
+      "question_class": "phonetic equivalence across scripts",
+      "required_layers": [
+        "exact_mapping_sources",
+        "independent_support",
+        "null_controls"
+      ],
+      "minimums": {
+        "mapping_support": "claim_specific"
+      },
+      "state": "BLOCKED"
+    }
+  ],
+  "rule": "Readiness is question-specific. A corpus is never globally 'analysis ready'."
+}
