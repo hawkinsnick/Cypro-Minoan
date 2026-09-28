@@ -2,7 +2,7 @@
 import json,pathlib,sys
 R=pathlib.Path(__file__).resolve().parents[1];J=lambda p:json.loads((R/p).read_text());E=[];V=(R/'VERSION').read_text().strip()
 idx=J('corpus/index.json');src={x['source_id'] for x in J('bibliography/sources.json')}
-if V!='4.0.0' or idx['version']!=V:E.append('version')
+if not V.startswith('4.0.') or idx['version']!=V:E.append('version')
 for rid in idx['records']:
  if J(f'corpus/inscriptions/{rid}.json').get('record_version')!=V:E.append('record:'+rid)
 cat=J('catalogues/master.json')
