@@ -1,6 +1,6 @@
 # Cypro-Minoan Open Corpus
 
-**Version 0.3.0 — provenance-first pilot corpus**
+**Version 0.5.0 — audited corpus expansion and cross-script concordance**
 
 An open, provenance-first framework for building a machine-readable corpus of Cypro-Minoan inscriptions. The project now includes a small audited pilot corpus built on the 0.1.0 provenance framework and 0.2.0 sign infrastructure. Published scholarship remains attributed at assertion level; no bulk edition has been copied.
 
@@ -49,4 +49,9 @@ Project-original code and original database structure are released under MIT (`L
 
 ## Status
 
-0.3.0 is a pilot release containing six object records. It is not a complete corpus and does not yet supply scholarly transcriptions.
+0.5.0 contains 10 rights-audited object records and a separate provenance-bearing cross-script concordance layer. It is not a complete corpus and does not encode a decipherment.
+
+
+## Cross-script concordance
+
+Version 0.5.0 adds typed, provenance-bearing comparison claims. Graphic similarity, historical derivation, proposed phonetic equivalence, functional equivalence, encoding unification, and numeric identity are distinct and non-transitive. No unverified Linear A or Cypriot phonetic values are assigned.
