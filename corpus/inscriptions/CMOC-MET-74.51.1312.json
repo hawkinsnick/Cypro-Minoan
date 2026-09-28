@@ -1,0 +1,72 @@
+{
+  "id": "CMOC-MET-74.51.1312",
+  "identification_status": "museum_proposed",
+  "identifiers": [
+    {
+      "system": "Met object number",
+      "value": "74.51.1312",
+      "source_id": "met-74.51.1312"
+    }
+  ],
+  "object": {
+    "object_type": "lentoid flask",
+    "material": "terracotta",
+    "repository": "The Metropolitan Museum of Art",
+    "inventory_number": "74.51.1312"
+  },
+  "find_context": {
+    "findplace": "Cyprus",
+    "source_id": "met-74.51.1312"
+  },
+  "dating": [],
+  "classifications": [
+    {
+      "assertion_type": "script_identification",
+      "value": "possibly Cypro-Minoan",
+      "status": "published",
+      "uncertainty": "possible",
+      "provenance": [
+        {
+          "source_id": "met-74.51.1312",
+          "locator": "museum description"
+        }
+      ]
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_type": "height_cm",
+      "value": 26.2,
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "met-74.51.1312",
+          "locator": "Object Information"
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "record_license": "Project-original structure; Met collection metadata used under CC0.",
+    "third_party_material": [
+      {
+        "source_id": "met-74.51.1312",
+        "material": "collection metadata",
+        "license_id": "cc0-1.0",
+        "included": true
+      },
+      {
+        "source_id": "met-74.51.1312",
+        "material": "museum images",
+        "license_id": "cc0-1.0-where-marked",
+        "included": false
+      }
+    ]
+  },
+  "record_version": "1.0.0",
+  "transcriptions": [],
+  "notes": [
+    "No protected transcription or restricted image redistributed."
+  ]
+}
