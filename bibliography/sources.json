@@ -1,7 +1,126 @@
 [
-  {"source_id":"olivier2007","type":"book","title":"Édition holistique des textes chypro-minoens","authors":["Jean-Pierre Olivier"],"year":2007,"rights_note":"Bibliographic reference. No redistribution rights to publication content asserted.","notes":"Major modern edition; future record-level use requires precise locators."},
-  {"source_id":"ferrara2012","type":"book","title":"Cypro-Minoan Inscriptions, Volume 1: Analysis","authors":["Silvia Ferrara"],"year":2012,"publisher":"Oxford University Press","rights_note":"Bibliographic reference only; no redistribution rights asserted."},
-  {"source_id":"ferrara2013","type":"book","title":"Cypro-Minoan Inscriptions, Volume 2: The Corpus","authors":["Silvia Ferrara"],"year":2013,"publisher":"Oxford University Press","isbn":"9780199693825","rights_note":"Bibliographic reference only; photographs, drawings, editorial text/transcriptions are not presumed redistributable."},
-  {"source_id":"unicode16","type":"standard","title":"The Unicode Standard, Version 16.0, §8.4 Cypro-Minoan","authors":["Unicode Consortium"],"year":2024,"url":"https://www.unicode.org/versions/Unicode16.0.0/","rights_note":"External standard; consult Unicode terms of use."},
-  {"source_id":"everson-ferrara-valerio2016","type":"other","title":"Proposal to encode the Cypro-Minoan script in the SMP of the UCS","authors":["Michael Everson","Silvia Ferrara","Miguel Valério"],"year":2016,"url":"https://www.unicode.org/L2/L2016/16089-n4715-cyprominoan.pdf","rights_note":"External proposal; cite authors and source."}
+  {
+    "source_id": "olivier2007",
+    "type": "book",
+    "title": "Édition holistique des textes chypro-minoens",
+    "authors": [
+      "Jean-Pierre Olivier"
+    ],
+    "year": 2007,
+    "rights_note": "Bibliographic reference. No redistribution rights to publication content asserted.",
+    "notes": "Major modern edition; future record-level use requires precise locators."
+  },
+  {
+    "source_id": "ferrara2012",
+    "type": "book",
+    "title": "Cypro-Minoan Inscriptions, Volume 1: Analysis",
+    "authors": [
+      "Silvia Ferrara"
+    ],
+    "year": 2012,
+    "publisher": "Oxford University Press",
+    "rights_note": "Bibliographic reference only; no redistribution rights asserted."
+  },
+  {
+    "source_id": "ferrara2013",
+    "type": "book",
+    "title": "Cypro-Minoan Inscriptions, Volume 2: The Corpus",
+    "authors": [
+      "Silvia Ferrara"
+    ],
+    "year": 2013,
+    "publisher": "Oxford University Press",
+    "isbn": "9780199693825",
+    "rights_note": "Bibliographic reference only; photographs, drawings, editorial text/transcriptions are not presumed redistributable."
+  },
+  {
+    "source_id": "unicode16",
+    "type": "standard",
+    "title": "The Unicode Standard, Version 16.0, §8.4 Cypro-Minoan",
+    "authors": [
+      "Unicode Consortium"
+    ],
+    "year": 2024,
+    "url": "https://www.unicode.org/versions/Unicode16.0.0/",
+    "rights_note": "External standard; consult Unicode terms of use."
+  },
+  {
+    "source_id": "everson-ferrara-valerio2016",
+    "type": "other",
+    "title": "Proposal to encode the Cypro-Minoan script in the SMP of the UCS",
+    "authors": [
+      "Michael Everson",
+      "Silvia Ferrara",
+      "Miguel Valério"
+    ],
+    "year": 2016,
+    "url": "https://www.unicode.org/L2/L2016/16089-n4715-cyprominoan.pdf",
+    "rights_note": "External proposal; cite authors and source."
+  },
+  {
+    "source_id": "louvre-cm-25",
+    "type": "museum_record",
+    "title": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 25)",
+    "authors": [
+      "Musée du Louvre"
+    ],
+    "year": 2025,
+    "url": "https://collections.louvre.fr/ark:/53355/cl010131597",
+    "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+  },
+  {
+    "source_id": "louvre-cm-26",
+    "type": "museum_record",
+    "title": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 26)",
+    "authors": [
+      "Musée du Louvre"
+    ],
+    "year": 2025,
+    "url": "https://collections.louvre.fr/ark:/53355/cl010131598",
+    "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+  },
+  {
+    "source_id": "louvre-cm-27",
+    "type": "museum_record",
+    "title": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 27)",
+    "authors": [
+      "Musée du Louvre"
+    ],
+    "year": 2025,
+    "url": "https://collections.louvre.fr/ark:/53355/cl010131602",
+    "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+  },
+  {
+    "source_id": "louvre-cm-28",
+    "type": "museum_record",
+    "title": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 28)",
+    "authors": [
+      "Musée du Louvre"
+    ],
+    "year": 2025,
+    "url": "https://collections.louvre.fr/ark:/53355/cl010131603",
+    "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+  },
+  {
+    "source_id": "louvre-cm-29",
+    "type": "museum_record",
+    "title": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 29)",
+    "authors": [
+      "Musée du Louvre"
+    ],
+    "year": 2025,
+    "url": "https://collections.louvre.fr/ark:/53355/cl010131601",
+    "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+  },
+  {
+    "source_id": "louvre-cm-30",
+    "type": "museum_record",
+    "title": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 30)",
+    "authors": [
+      "Musée du Louvre"
+    ],
+    "year": 2025,
+    "url": "https://collections.louvre.fr/ark:/53355/cl010131604",
+    "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+  }
 ]
