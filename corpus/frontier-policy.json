@@ -1,5 +1,5 @@
 {
-  "version": "4.0.1",
+  "version": "5.0.0",
   "statuses": {
     "confirmed": "May enter core when object identity/provenance are adequate.",
     "proposed": "Retain outside core unless project inclusion policy explicitly supports candidate partition.",
