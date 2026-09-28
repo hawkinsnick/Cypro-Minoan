@@ -1,0 +1,98 @@
+{
+  "id": "CMOC-TIRY-ADD244",
+  "record_version": "1.2.0",
+  "identification_status": "scholarly_identified",
+  "identifiers": [
+    {
+      "system": "Ferrara/addendum catalogue",
+      "value": "244",
+      "source_id": "vetters2011"
+    },
+    {
+      "system": "Olivier-style siglum",
+      "value": "TIRY Abou 001",
+      "source_id": "vetters2011"
+    }
+  ],
+  "object": {
+    "object_type": "inscribed clay ball",
+    "material": "clay",
+    "repository": null,
+    "inventory_number": null
+  },
+  "find_context": {
+    "findplace": "Tiryns, Lower Citadel",
+    "source_id": "vetters2011"
+  },
+  "dating": [],
+  "classifications": [
+    {
+      "assertion_type": "script_identification",
+      "value": "Cypro-Minoan",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "vetters2011",
+          "locator": "designation/discussion"
+        }
+      ]
+    }
+  ],
+  "transcriptions": [],
+  "assertions": [
+    {
+      "assertion_type": "diameter_cm",
+      "value": {
+        "min": 1.7,
+        "max": 1.75
+      },
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "bourogiannis2024",
+          "locator": "clay ball discussion"
+        }
+      ]
+    },
+    {
+      "assertion_type": "sign_count",
+      "value": 3,
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "bourogiannis2024",
+          "locator": "clay ball discussion"
+        }
+      ]
+    },
+    {
+      "assertion_type": "inscription_timing",
+      "value": "pre-firing",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "bourogiannis2024",
+          "locator": "clay ball discussion"
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "record_license": "Project-original structure; source content cited/attributed; no source figures redistributed.",
+    "third_party_material": [
+      {
+        "source_id": "vetters2011",
+        "material": "article text/figures",
+        "license_id": "link-only-unverified",
+        "included": false
+      }
+    ]
+  },
+  "notes": [
+    "No figure or wholesale editorial transcription redistributed."
+  ]
+}
