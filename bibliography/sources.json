@@ -1,0 +1,7 @@
+[
+  {"source_id":"olivier2007","type":"book","title":"Édition holistique des textes chypro-minoens","authors":["Jean-Pierre Olivier"],"year":2007,"rights_note":"Bibliographic reference. No redistribution rights to publication content asserted.","notes":"Major modern edition; future record-level use requires precise locators."},
+  {"source_id":"ferrara2012","type":"book","title":"Cypro-Minoan Inscriptions, Volume 1: Analysis","authors":["Silvia Ferrara"],"year":2012,"publisher":"Oxford University Press","rights_note":"Bibliographic reference only; no redistribution rights asserted."},
+  {"source_id":"ferrara2013","type":"book","title":"Cypro-Minoan Inscriptions, Volume 2: The Corpus","authors":["Silvia Ferrara"],"year":2013,"publisher":"Oxford University Press","isbn":"9780199693825","rights_note":"Bibliographic reference only; photographs, drawings, editorial text/transcriptions are not presumed redistributable."},
+  {"source_id":"unicode16","type":"standard","title":"The Unicode Standard, Version 16.0, §8.4 Cypro-Minoan","authors":["Unicode Consortium"],"year":2024,"url":"https://www.unicode.org/versions/Unicode16.0.0/","rights_note":"External standard; consult Unicode terms of use."},
+  {"source_id":"everson-ferrara-valerio2016","type":"other","title":"Proposal to encode the Cypro-Minoan script in the SMP of the UCS","authors":["Michael Everson","Silvia Ferrara","Miguel Valério"],"year":2016,"url":"https://www.unicode.org/L2/L2016/16089-n4715-cyprominoan.pdf","rights_note":"External proposal; cite authors and source."}
+]
