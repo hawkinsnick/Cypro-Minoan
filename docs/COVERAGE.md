@@ -1,3 +1,13 @@
-# Coverage — v1.0.0
+# Coverage — v4.0.1
 
-18 object records: 15 core/affirmative and 3 candidate/ambiguous. Coverage includes Enkomi, Sinda, Hala Sultan Tekke, Ras Shamra/Ugarit, and broader Cypriot museum records. This is an open-evidence corpus, not a claim to reproduce the complete published corpus. Source-defined totals vary by publication/date, so no global completeness percentage is asserted.
+Coverage is multidimensional; the project prohibits a single aggregate completeness percentage.
+
+- Historical/addendum catalogue control: **254/254 slots** through ADD254 under the project's controlled sequence.
+- Exact siglum reconciliation: **68/254**; 186 remain deliberately unresolved pending authoritative verification.
+- Rich object records: **21** (18 core, 3 candidate), with an open-world denominator.
+- Source-verified sign occurrences: **3**, a sparse subset unsuitable for corpus-wide frequency inference.
+- Explicit witness assertions: **2** exemplars.
+- Unicode interoperability repertoire: **99/99 encoded characters**; this is not palaeographic completeness.
+- Project-populated palaeographic variants: **0**; protected or inaccessible variant inventories are not reconstructed.
+
+The machine-readable authority for these dimensions is `coverage/completeness-matrix.json`. Source-defined corpus totals vary by publication, date and inclusion policy.
