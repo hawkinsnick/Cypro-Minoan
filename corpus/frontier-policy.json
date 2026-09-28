@@ -1,0 +1,13 @@
+{
+  "version": "4.0.0",
+  "statuses": {
+    "confirmed": "May enter core when object identity/provenance are adequate.",
+    "proposed": "Retain outside core unless project inclusion policy explicitly supports candidate partition.",
+    "cm_like": "Do not count as core CM.",
+    "disputed": "Preserve competing source positions; do not resolve by database fiat.",
+    "rejected": "Retain audit trail when historically relevant.",
+    "unresolved": "Await evidence; do not create pseudo-record."
+  },
+  "open_world": true,
+  "snapshot_rule": "Every corpus-size statement must name its source snapshot/date and inclusion policy."
+}
