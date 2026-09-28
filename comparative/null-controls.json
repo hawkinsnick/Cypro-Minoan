@@ -1,0 +1,26 @@
+{
+  "version": "4.0.0",
+  "controls": [
+    {
+      "control_id": "sequence_shuffle",
+      "purpose": "Test whether sequence-level similarity exceeds structure preserved by sign frequencies alone.",
+      "required_before": "strong distributional relationship claim"
+    },
+    {
+      "control_id": "label_permutation",
+      "purpose": "Test sensitivity to arbitrary sign-label correspondence.",
+      "required_before": "cross-script mapping claim"
+    },
+    {
+      "control_id": "policy_sensitivity",
+      "purpose": "Repeat under permitted corpus-policy states.",
+      "required_before": "robustness claim"
+    },
+    {
+      "control_id": "lineage_collapse",
+      "purpose": "Collapse dependent scholarly witnesses to avoid pseudo-replication.",
+      "required_before": "independent-support count"
+    }
+  ],
+  "rule": "A null/control failure weakens or blocks the associated claim; it is not hidden."
+}
