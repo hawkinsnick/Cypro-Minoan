@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Aegean Epigraphy Interchange v0.1 envelope",
+  "type": "object",
+  "required": [
+    "interchange_version",
+    "script",
+    "resource",
+    "records"
+  ],
+  "properties": {
+    "interchange_version": {
+      "const": "0.1"
+    },
+    "script": {
+      "const": "Cypro-Minoan"
+    },
+    "resource": {
+      "enum": [
+        "records",
+        "identifiers",
+        "assertions",
+        "provenance",
+        "uncertainty",
+        "rights",
+        "source_lineage",
+        "physical_loci",
+        "representations",
+        "occurrences",
+        "hypotheses"
+      ]
+    },
+    "records": {
+      "type": "array"
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}
