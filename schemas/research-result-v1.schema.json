@@ -8,9 +8,14 @@
     "state",
     "dataset_snapshot",
     "corpus_policy",
+    "software_or_script",
     "parameters",
+    "experiment_gate",
     "gate_state",
     "claims_allowed",
+    "source_lineage_state",
+    "rights_state",
+    "result_digest",
     "warnings"
   ],
   "properties": {
@@ -71,6 +76,14 @@
       "items": {
         "type": "string"
       }
+    },
+    "software_or_script": {
+      "type": "string",
+      "minLength": 1
+    },
+    "experiment_gate": {
+      "type": "string",
+      "minLength": 1
     }
   },
   "additionalProperties": false
