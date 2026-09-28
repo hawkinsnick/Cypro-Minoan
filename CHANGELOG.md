@@ -1,21 +1,16 @@
 # Changelog
 
+## [1.2.0] - 2026-09-27
+- Added catalogue-control registry through verified ADD254 slot and source-defined corpus snapshots.
+- Added rich metadata records for three Tiryns inscriptions (ADD244–246).
+- Added signary-authority registry and occurrence/zone model.
+- Added corpus-policy and benchmark registries for reproducibility.
+- Fixed inscription schema ID mismatch and strengthened validator.
+- Restored precise concordance provenance and separator encoding-unification semantics.
+- Added Linear A interoperability architecture; Linear B remains deferred.
+
+## [1.1.0] - 2026-09-27
+- Research/benchmark phase: reconciled historical catalogue boundaries, post-corpus addenda, signary snapshots, and computational filtering policies.
+
 ## [1.0.0] - 2026-09-27
-- Stable open-evidence release: 18 object records (15 core, 3 candidate).
-- Hardened provenance/rights/candidate architecture and discovery queue.
-- 99-character Unicode interoperability registry retained separately from palaeographic identity.
-
-## [0.9.0] - 2026-09-27
-- Computational-resource registry and comparative-method safeguards.
-
-## [0.8.0] - 2026-09-27
-- Stronger sign-identity and autopsy-vs-photograph methodology.
-
-## [0.7.0] - 2026-09-27
-- Expanded open-evidence coverage beyond Enkomi to Ugarit/Ras Shamra, Sinda, Hala Sultan Tekke, and additional museum collections.
-
-## [0.6.0] - 2026-09-27
-- Hardened provenance, rights, candidate-state, coverage, and export architecture.
-
-## [0.5.0] - 2026-09-27
-- Typed cross-script concordance infrastructure and five source-explicit numeric/separator claims.
+- Stable open-evidence baseline.
