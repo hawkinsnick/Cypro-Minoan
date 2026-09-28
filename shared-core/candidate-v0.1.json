@@ -1,5 +1,5 @@
 {
-  "version": "4.0.1",
+  "version": "5.0.0",
   "status": "candidate_not_separate_package",
   "eligibility_rule": "Only abstractions independently required with the same semantics by Linear A and Cypro-Minoan may enter the future neutral core.",
   "eligible": [
