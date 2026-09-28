@@ -1,0 +1,56 @@
+{
+  "version": "4.0.0",
+  "as_of": "2026-09-27",
+  "dimensions": [
+    {
+      "dimension": "historical_catalogue_control",
+      "known": 254,
+      "covered": 254,
+      "unit": "slots",
+      "interpretation": "complete for project-controlled Olivier/Ferrara/addendum sequence through ADD254; not a claim about all known CM objects"
+    },
+    {
+      "dimension": "exact_siglum_reconciliation",
+      "known": 254,
+      "covered": 68,
+      "unit": "slots",
+      "interpretation": "186 deliberately unresolved pending authoritative verification"
+    },
+    {
+      "dimension": "rich_object_records",
+      "known": null,
+      "covered": 21,
+      "unit": "records",
+      "interpretation": "open-world denominator; do not calculate percent complete"
+    },
+    {
+      "dimension": "source_verified_occurrences",
+      "known": null,
+      "covered": 3,
+      "unit": "occurrences",
+      "interpretation": "sparse subset; corpus-wide inference blocked"
+    },
+    {
+      "dimension": "explicit_witness_assertions",
+      "known": null,
+      "covered": 2,
+      "unit": "witnesses",
+      "interpretation": "populated exemplar layer, not comprehensive"
+    },
+    {
+      "dimension": "unicode_repertoire",
+      "known": 99,
+      "covered": 99,
+      "unit": "encoded_characters",
+      "interpretation": "complete only for Unicode repertoire; not palaeographic inventory"
+    },
+    {
+      "dimension": "project_variant_population",
+      "known": null,
+      "covered": 0,
+      "unit": "variants",
+      "interpretation": "framework present; protected/inaccessible variant data not reconstructed"
+    }
+  ],
+  "rule": "No aggregate completeness score is permitted."
+}
