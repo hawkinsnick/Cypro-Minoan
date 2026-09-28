@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "authorities": [
+    {
+      "authority_id": "olivier2007",
+      "source_id": "olivier2007",
+      "inventory_statement": "96 syllabograms reported in later summaries of HoChyMin",
+      "scope": "published sign repertory",
+      "project_position": "source-defined inventory; not canonicalized"
+    },
+    {
+      "authority_id": "ferrara2013-integrated",
+      "source_id": "ferrara2013-review",
+      "inventory_statement": "83 graphemes in Appendix 2; archaic/CM0 variants excluded",
+      "scope": "integrated sign variants",
+      "project_position": "source-defined inventory; not canonicalized"
+    },
+    {
+      "authority_id": "polig-donnelly2022",
+      "source_id": "polig-donnelly2022",
+      "inventory_statement": "88 unique signs comprising 278 variants",
+      "scope": "integrated palaeographic signary from digital/3D analysis",
+      "project_position": "registered benchmark; sign artwork/variant database not copied"
+    },
+    {
+      "authority_id": "unicode14plus",
+      "source_id": "unicode16-core",
+      "inventory_statement": "99 encoded characters; CM1/CM2/CM3 coverage, CM0 excluded",
+      "scope": "interoperability encoding",
+      "project_position": "encoding layer only; not palaeographic identity"
+    }
+  ]
+}
