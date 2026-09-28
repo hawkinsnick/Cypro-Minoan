@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Source lineage edge v1",
+  "type": "object",
+  "required": [
+    "lineage_id",
+    "source_id",
+    "relationship",
+    "independence_class",
+    "basis"
+  ],
+  "properties": {
+    "lineage_id": {
+      "type": "string"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "parent_source_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "relationship": {
+      "type": "string"
+    },
+    "independence_class": {
+      "enum": [
+        "independent_epigraphic",
+        "partially_independent",
+        "shared_upstream",
+        "unknown"
+      ]
+    },
+    "basis": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}
