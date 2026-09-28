@@ -1,0 +1,59 @@
+{
+  "version": "2.0.0",
+  "experiments": [
+    {
+      "experiment_id": "cm-full-frequency-v1",
+      "state": "BLOCKED",
+      "prerequisites": [
+        {
+          "id": "verified_occurrence_coverage",
+          "satisfied": false,
+          "evidence": "Only source-verified occurrence subset currently encoded."
+        },
+        {
+          "id": "corpus_policy_declared",
+          "satisfied": true,
+          "evidence": "analysis/corpus-policies.json"
+        }
+      ],
+      "claim_allowed": false,
+      "result_ref": null
+    },
+    {
+      "experiment_id": "cm-cross-script-phonetic-test-v1",
+      "state": "BLOCKED",
+      "prerequisites": [
+        {
+          "id": "exact_mapping_sources",
+          "satisfied": false,
+          "evidence": "Individual Linear A/Cypriot phonetic mappings remain verification-queued."
+        },
+        {
+          "id": "nontransitive_claim_model",
+          "satisfied": true,
+          "evidence": "concordances/claims.json"
+        }
+      ],
+      "claim_allowed": false,
+      "result_ref": null
+    },
+    {
+      "experiment_id": "cm-catalogue-coverage-v1",
+      "state": "READY",
+      "prerequisites": [
+        {
+          "id": "catalogue_registry",
+          "satisfied": true,
+          "evidence": "catalogues/master.json"
+        },
+        {
+          "id": "snapshot_policy",
+          "satisfied": true,
+          "evidence": "catalogues/snapshots.json"
+        }
+      ],
+      "claim_allowed": true,
+      "result_ref": null
+    }
+  ]
+}
