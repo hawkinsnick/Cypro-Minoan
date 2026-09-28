@@ -1,0 +1,40 @@
+{
+  "version": "3.0.0",
+  "witnesses": [
+    {
+      "witness_id": "CMW-TIRY245-SEQ-2023",
+      "record_id": "CMOC-TIRY-ADD245",
+      "physical_locus": "handle-1-inscription",
+      "assertion_type": "published_sign_sequence",
+      "value": [
+        "CM025",
+        "CM087"
+      ],
+      "source_id": "davis-maran-prillwitz-wirghova2023",
+      "locator": "§3.4 Text",
+      "lineage_id": null,
+      "uncertainty": "certain",
+      "supersedes": null,
+      "notes": [
+        "Source-attributed sequence; not a project decipherment."
+      ]
+    },
+    {
+      "witness_id": "CMW-TIRY245-MARK-2023",
+      "record_id": "CMOC-TIRY-ADD245",
+      "physical_locus": "handle-2-potmark",
+      "assertion_type": "published_sign_sequence",
+      "value": [
+        "CM005"
+      ],
+      "source_id": "davis-maran-prillwitz-wirghova2023",
+      "locator": "§3.4 Text",
+      "lineage_id": null,
+      "uncertainty": "certain",
+      "supersedes": null,
+      "notes": [
+        "Editors distinguish this potmark from the two-sign inscription."
+      ]
+    }
+  ]
+}
