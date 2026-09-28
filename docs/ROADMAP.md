@@ -1,13 +1,10 @@
 # Roadmap
 
-## 1.2.0 — Catalogue-control checkpoint
-Historical corpus snapshots, master catalogue registry, Tiryns expansion, signary-authority registry, occurrence foundation, corpus-policy registry, stronger validation, and Linear A interoperability design.
+## 3.0.0 — Evidence research platform
+Catalogue reconciliation ledger, layered coverage accounting, frontier adjudication, witness assertions, occurrence/palaeographic schemas, source-lineage independence, reproducible dataset snapshots and experiment gates, executable scoped analysis, and Linear A-conformant Aegean interchange.
 
-## 1.3–1.5
-Expand exact HoChyMin/Ferrara/addendum reconciliation; deepen rich object metadata; build source-verifiable sign occurrence corpus and variant graph.
+## 3.x — Evidence population
+Resolve exact HoChyMin sigla from lawful page/table-level sources; expand rich object records; populate source-specific transcriptions and occurrences where rights permit; reconcile authority-specific variants; deepen claim-level source lineage.
 
-## 1.6–1.9
-Archaeological/contextual analytics, reproducible computational laboratory, typed cross-script hypothesis testing, API/export layer, and release-candidate audits.
-
-## 2.0.0
-Stable open research platform: source → object → zone → occurrence → sign authority/variant → scholarly assertion → comparative hypothesis → reproducible result. Linear B enters only after Linear A and Cypro-Minoan shared abstractions are mature.
+## 4.0 — Mature comparative platform
+Consider only after evidence population supports robust CM analyses and the shared core has survived both Linear A and Cypro-Minoan. Linear B may then enter as a separately modeled known-answer/control corpus; deciphered-language phonetics and morphology remain optional extensions, not shared-core requirements.
