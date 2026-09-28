@@ -1,0 +1,24 @@
+{
+  "version": "4.0.0",
+  "status": "candidate_not_separate_package",
+  "eligibility_rule": "Only abstractions independently required with the same semantics by Linear A and Cypro-Minoan may enter the future neutral core.",
+  "eligible": [
+    "assertion_provenance",
+    "rights_metadata",
+    "source_lineage",
+    "uncertainty",
+    "experiment_gate",
+    "dataset_snapshot",
+    "claim_registry",
+    "aegean_interchange_validation"
+  ],
+  "excluded_as_script_specific": [
+    "Linear_A_source_word",
+    "Cypro_Minoan_catalogue_slot",
+    "script_specific_sign_identity",
+    "phonetic_value",
+    "morphology",
+    "native_segmentation"
+  ],
+  "linear_b_status": "deferred"
+}
