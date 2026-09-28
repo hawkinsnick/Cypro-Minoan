@@ -1,0 +1,40 @@
+{
+  "version": "2.0.0",
+  "claims": [
+    {
+      "claim_id": "CM-C001",
+      "claim": "CM 2.0.0 exposes 21 rich object records and a 254-slot catalogue-control registry.",
+      "status": "validated_structure",
+      "evidence": "corpus/index.json; catalogues/master.json",
+      "limitations": "Catalogue-control slots are not equivalent to rich records or verified transcriptions."
+    },
+    {
+      "claim_id": "CM-C002",
+      "claim": "Cypro-Minoan native data can be exposed through Aegean Epigraphy Interchange v0.1 without merging native schemas with Linear A.",
+      "status": "validated_architecture",
+      "evidence": "interchange adapter + conformance tests",
+      "limitations": "Interoperability does not imply sign, segmentation, or phonetic equivalence."
+    },
+    {
+      "claim_id": "CM-C003",
+      "claim": "Unicode, published signaries, and project sign identity remain separate authority layers.",
+      "status": "validated_architecture",
+      "evidence": "signs/authorities.json; docs/SIGN_IDENTITY.md",
+      "limitations": "Source-by-source variant population remains incomplete."
+    },
+    {
+      "claim_id": "CM-C004",
+      "claim": "No decipherment or phonetic assignment may be promoted from graphic similarity or historical relationship alone.",
+      "status": "validated_policy",
+      "evidence": "concordance policy and experiment gates",
+      "limitations": "Does not adjudicate external decipherment proposals."
+    },
+    {
+      "claim_id": "CM-C005",
+      "claim": "Full-corpus statistical conclusions remain blocked while sign-sequence/occurrence coverage is sparse.",
+      "status": "blocked_experiment",
+      "evidence": "research/experiment-gates.json",
+      "limitations": "Descriptive tests on explicitly scoped subsets remain possible."
+    }
+  ]
+}
