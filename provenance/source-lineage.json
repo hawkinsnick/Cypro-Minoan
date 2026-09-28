@@ -1,0 +1,45 @@
+{
+  "version": "2.0.0",
+  "lineages": [
+    {
+      "lineage_id": "olivier_primary_edition",
+      "source_id": "olivier2007",
+      "parent_source_id": null,
+      "relationship": "primary_edition",
+      "independence_class": "unknown",
+      "basis": "Foundational modern edition; individual readings may depend on excavation/publication history."
+    },
+    {
+      "lineage_id": "ferrara_olivier",
+      "source_id": "ferrara2013",
+      "parent_source_id": "olivier2007",
+      "relationship": "corpus_revision_and_expansion",
+      "independence_class": "partially_independent",
+      "basis": "Ferrara revises/expands corpus and archaeological treatment; individual claims require claim-level lineage."
+    },
+    {
+      "lineage_id": "valerio_ferrara",
+      "source_id": "valerio2016thesis",
+      "parent_source_id": "ferrara2013",
+      "relationship": "comparative_reanalysis_and_expansion",
+      "independence_class": "partially_independent",
+      "basis": "Comparative reanalysis with inherited catalogue traditions and additional material."
+    },
+    {
+      "lineage_id": "unicode_proposal",
+      "source_id": "everson-ferrara-valerio2016",
+      "parent_source_id": "olivier2007",
+      "relationship": "encoding_abstraction",
+      "independence_class": "shared_upstream",
+      "basis": "Unicode repertoire is largely based on Olivier numbering and is not independent epigraphic confirmation."
+    },
+    {
+      "lineage_id": "unicode_standard",
+      "source_id": "unicode16-core",
+      "parent_source_id": "everson-ferrara-valerio2016",
+      "relationship": "standards_encoding",
+      "independence_class": "shared_upstream",
+      "basis": "Standardized encoding descends from proposal/repertoire work; not an independent palaeographic witness."
+    }
+  ]
+}
