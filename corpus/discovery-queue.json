@@ -1,35 +1,40 @@
 {
-  "version": "1.0.0",
+  "version": "3.0.0",
   "items": [
     {
       "key": "TIRY Avas 001",
-      "status": "published_not_ingested",
-      "reason": "Requires authoritative/open object-level verification and rights audit."
+      "status": "ingested",
+      "record_id": "CMOC-TIRY-ADD245"
     },
     {
       "key": "TIRY Avas 002",
-      "status": "published_not_ingested",
-      "reason": "Requires authoritative/open object-level verification and rights audit."
+      "status": "ingested",
+      "record_id": "CMOC-TIRY-ADD246"
     },
     {
       "key": "TIRY Abou 001",
-      "status": "published_not_ingested",
-      "reason": "Requires authoritative/open object-level verification and rights audit."
+      "status": "ingested",
+      "record_id": "CMOC-TIRY-ADD244"
     },
     {
       "key": "PARA Psce 001",
       "status": "published_not_ingested",
-      "reason": "Requires authoritative/open object-level verification and rights audit."
+      "reason": "Requires authoritative object-level verification and rights audit."
     },
     {
       "key": "Kalavassos cylinders",
       "status": "published_not_ingested",
-      "reason": "Requires authoritative/open object-level verification and rights audit."
+      "reason": "Priority long-text witnesses; exact object-level metadata/transcriptions require source verification and rights audit."
     },
     {
       "key": "additional Enkomi tablets/cylinder",
       "status": "published_not_ingested",
-      "reason": "Requires authoritative/open object-level verification and rights audit."
+      "reason": "Priority long-text witnesses; exact object-level verification required."
+    },
+    {
+      "key": "post-2013 / uncatalogued inscriptions",
+      "status": "active_discovery",
+      "reason": "Donnelly 2025 reports 40+ inscriptions outside established corpora; identify individually before ingestion."
     }
   ]
 }
