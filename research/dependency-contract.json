@@ -1,0 +1,18 @@
+{
+  "version": "5.0.0",
+  "direction": [
+    "clients",
+    "interchange",
+    "research",
+    "evidence",
+    "provenance_sources"
+  ],
+  "rules": [
+    "A downstream layer may reference an upstream layer; upstream evidence may not depend on interpretive results.",
+    "Claims require an experiment or direct structural evidence reference appropriate to claim type.",
+    "Blocked experiments cannot support inferential claims.",
+    "Dataset snapshots are immutable identities; changed evidence creates a new snapshot ID.",
+    "Native records remain authoritative over interchange adapters.",
+    "Shared-core contracts may not redefine script-specific evidence."
+  ]
+}
