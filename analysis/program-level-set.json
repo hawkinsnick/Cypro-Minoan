@@ -1,0 +1,15 @@
+{
+  "contract_version": "1.0",
+  "repository": "hawkinsnick/Cypro-Minoan",
+  "repository_version": "5.0.1",
+  "script": "cypro-minoan",
+  "dimensions": {
+    "architecture": "MATURE_EVIDENCE_GRAPH",
+    "authenticated_evidence": "BOUNDED",
+    "source_checked_coverage": "3_VERIFIED_OCCURRENCES",
+    "executed_analysis": "CATALOGUE_READY_OCCURRENCE_DESCRIPTIVE_SCOPED",
+    "external_control_validation": "BLOCKED",
+    "rights_provenance": "MATURE"
+  },
+  "global_ready_claim": false
+}
