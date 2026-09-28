@@ -1,0 +1,72 @@
+{
+  "id": "CMOC-LVR-AM1639",
+  "identification_status": "museum_identified",
+  "identifiers": [
+    {
+      "system": "Louvre inventory",
+      "value": "AM 1639",
+      "source_id": "louvre-am1639"
+    }
+  ],
+  "object": {
+    "object_type": "cylinder seal",
+    "material": null,
+    "repository": "Musée du Louvre",
+    "inventory_number": "AM 1639"
+  },
+  "find_context": {
+    "findplace": "Sinda, tomb 1",
+    "source_id": "louvre-am1639"
+  },
+  "dating": [],
+  "classifications": [
+    {
+      "assertion_type": "script_identification",
+      "value": "Cypro-Minoan",
+      "status": "published",
+      "uncertainty": "certain",
+      "provenance": [
+        {
+          "source_id": "louvre-am1639",
+          "locator": "Inscriptions / Script"
+        }
+      ]
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_type": "scholarly_sign_identification",
+      "value": "CM102",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "donnelly2020",
+          "locator": "AM 1639 / CM102"
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "record_license": "Project-original structure; Louvre textual metadata reused under Etalab Open Licence with attribution.",
+    "third_party_material": [
+      {
+        "source_id": "louvre-am1639",
+        "material": "textual collection metadata",
+        "license_id": "etalab-open-licence",
+        "included": true
+      },
+      {
+        "source_id": "louvre-am1639",
+        "material": "museum photographs",
+        "license_id": "link-only-unverified",
+        "included": false
+      }
+    ]
+  },
+  "record_version": "1.0.0",
+  "transcriptions": [],
+  "notes": [
+    "No protected transcription or restricted image redistributed."
+  ]
+}
