@@ -1,0 +1,32 @@
+[
+  {
+    "id": "etalab-open-licence",
+    "name": "Licence Ouverte / Open Licence Etalab",
+    "scope": "Musée du Louvre textual collection entries",
+    "reuse": "permitted",
+    "requirements": [
+      "acknowledge authorship/source (at least Musée du Louvre)",
+      "provide most recent update date; source hyperlink may satisfy attribution"
+    ],
+    "source_url": "https://collections.louvre.fr/en/page/cgu",
+    "verified": "2026-09-27"
+  },
+  {
+    "id": "unicode-3.0",
+    "name": "Unicode License v3",
+    "spdx": "Unicode-3.0",
+    "scope": "Unicode data files and software unless a specific release states otherwise",
+    "reuse": "permitted",
+    "source_url": "https://www.unicode.org/policies/licensing_policy.html",
+    "verified": "2026-09-27"
+  },
+  {
+    "id": "link-only-unverified",
+    "name": "Unverified or restricted third-party material",
+    "scope": "Material without an affirmative redistribution basis",
+    "reuse": "do_not_redistribute",
+    "requirements": [
+      "cite/link only until rights are verified"
+    ]
+  }
+]
