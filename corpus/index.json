@@ -1,9 +1,9 @@
 {
   "project": "Cypro-Minoan Open Corpus",
-  "version": "1.0.0",
-  "status": "stable open-evidence research release",
-  "record_count": 18,
-  "core_record_count": 15,
+  "version": "1.2.0",
+  "status": "catalogue-control and research-infrastructure checkpoint",
+  "record_count": 21,
+  "core_record_count": 18,
   "candidate_record_count": 3,
   "records": [
     "CMOC-0025",
@@ -17,13 +17,16 @@
     "CMOC-0033",
     "CMOC-0209",
     "CMOC-0216",
-    "CMOC-LVR-AM2716",
+    "CMOC-BM-1898.1201.204",
     "CMOC-LVR-AM1639",
+    "CMOC-LVR-AM2716",
+    "CMOC-MET-2008.27",
     "CMOC-MET-74.51.1312",
     "CMOC-MET-74.51.4316",
-    "CMOC-MET-2008.27",
     "CMOC-MET-74.51.5057A",
-    "CMOC-BM-1898.1201.204"
+    "CMOC-TIRY-ADD244",
+    "CMOC-TIRY-ADD245",
+    "CMOC-TIRY-ADD246"
   ],
   "core_records": [
     "CMOC-0025",
@@ -37,10 +40,13 @@
     "CMOC-0033",
     "CMOC-0209",
     "CMOC-0216",
-    "CMOC-LVR-AM2716",
+    "CMOC-BM-1898.1201.204",
     "CMOC-LVR-AM1639",
+    "CMOC-LVR-AM2716",
     "CMOC-MET-2008.27",
-    "CMOC-BM-1898.1201.204"
+    "CMOC-TIRY-ADD244",
+    "CMOC-TIRY-ADD245",
+    "CMOC-TIRY-ADD246"
   ],
   "candidate_records": [
     "CMOC-MET-74.51.1312",
