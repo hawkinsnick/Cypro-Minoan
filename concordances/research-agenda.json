@@ -1,0 +1,15 @@
+{
+  "version": "0.5.0",
+  "items": [
+    {
+      "topic": "Linear A sign-level comparisons",
+      "status": "deferred",
+      "requirement": "Verify individual claims against exact pages/tables before encoding."
+    },
+    {
+      "topic": "Cypriot syllabary phonetic comparisons",
+      "status": "deferred",
+      "requirement": "Encode as attributed hypotheses only after primary-source verification."
+    }
+  ]
+}
