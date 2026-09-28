@@ -1,0 +1,31 @@
+{
+  "version": "5.0.0",
+  "representations": [
+    {
+      "kind": "factual_metadata",
+      "default": "store_with_provenance",
+      "conditions": "respect source/database terms"
+    },
+    {
+      "kind": "editorial_transcription",
+      "default": "citation_or_pointer_only",
+      "conditions": "redistribute only with verified permission/license or qualifying independent encoding"
+    },
+    {
+      "kind": "photograph",
+      "default": "link_only",
+      "conditions": "bundle only after item-level reusable-rights verification"
+    },
+    {
+      "kind": "sign_drawing_or_glyph_artwork",
+      "default": "do_not_copy",
+      "conditions": "use only with verified reusable rights; Unicode code point identity does not license chart artwork"
+    },
+    {
+      "kind": "project_derived_structure",
+      "default": "store",
+      "conditions": "label transformation and inputs"
+    }
+  ],
+  "rule": "Public accessibility is not redistribution permission."
+}
