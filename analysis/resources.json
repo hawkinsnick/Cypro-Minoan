@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "resources": [
+    {
+      "resource_id": "corazza2022-sign2vec",
+      "source_id": "corazza2022",
+      "resource_type": "computational_study",
+      "project_status": "registered_not_vendored",
+      "excluded_components": [
+        "copyright-restricted source images"
+      ],
+      "notes": "Study reports 2,899 retained signs from 213 inscriptions after filtering."
+    }
+  ]
+}
