@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.3.1] - 2026-09-27
+
+### Added
+- Rights/reuse registry and third-party NOTICE.
+- Explicit Etalab Open Licence provenance for Louvre textual collection data.
+- Explicit Unicode License v3 provenance and code-chart glyph exclusion.
+- Three additional Louvre Enkomi clay-ball records (CMOC-0031 through CMOC-0033) using openly reusable textual metadata.
+- Dimensions, techniques, discovery/acquisition history, and source update dates for the new open-data records.
+
+### Rights guardrails
+- Ambiguous rights default to cite/link-only.
+- Louvre photographs remain excluded from redistribution.
+- Unicode chart glyph artwork remains excluded.
+- Published scholarly transcriptions remain excluded absent verified permission.
+
+
 ## [0.3.0] - 2026-09-27
 
 ### Added
