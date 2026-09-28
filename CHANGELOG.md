@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.0.1] - 2026-09-28
+- Repaired reproducibility-profile/result-schema contradiction by defining and requiring `software_or_script` and `experiment_gate`.
+- CI now runs the current major-release validator and release-integrity regression tests in addition to foundation validation.
+- Added regression checks for blocked experiment claims and stale API fixture versions.
+- Updated Research API examples, citation metadata and coverage documentation to the current release.
+- Clarified current-release wording in the claim registry without changing scholarly evidence.
+- No new inscriptions, readings, sign variants or inferential claims were added.
+
 ## [4.0.0] - 2026-09-27
 - Added machine-readable multidimensional completeness matrix; aggregate completeness scores prohibited.
 - Added prioritized evidence-acquisition queue and prohibited-shortcut registry.
