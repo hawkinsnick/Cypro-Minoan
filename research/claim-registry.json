@@ -3,38 +3,52 @@
   "claims": [
     {
       "claim_id": "CM-C001",
-      "claim": "CM 2.0.0 exposes 21 rich object records and a 254-slot catalogue-control registry.",
+      "claim": "CM 3.0.0 controls 254 historical/addendum catalogue slots, with 68 exact sigla currently verified.",
       "status": "validated_structure",
-      "evidence": "corpus/index.json; catalogues/master.json",
-      "limitations": "Catalogue slots are not rich records or verified transcriptions."
+      "evidence": "catalogues/master.json; catalogues/reconciliation-ledger.json",
+      "limitations": "Catalogue control is not rich-record or transcription completeness."
     },
     {
       "claim_id": "CM-C002",
-      "claim": "CM native data can be exposed through Aegean Epigraphy Interchange v0.1 without merging native schemas with Linear A.",
-      "status": "validated_architecture",
-      "evidence": "interchange adapter + conformance tests",
-      "limitations": "No sign, segmentation, or phonetic equivalence implied."
+      "claim": "CM 3.0.0 contains 21 rich open-evidence object records.",
+      "status": "validated_structure",
+      "evidence": "corpus/index.json",
+      "limitations": "Open-world corpus denominator is not claimed."
     },
     {
       "claim_id": "CM-C003",
-      "claim": "Unicode, published signaries, and project sign identity remain separate authority layers.",
-      "status": "validated_architecture",
-      "evidence": "signs/authorities.json",
-      "limitations": "Variant population remains incomplete."
+      "claim": "The source-verified occurrence layer currently contains three occurrences and is insufficient for corpus-wide frequency inference.",
+      "status": "blocked_experiment",
+      "evidence": "occurrences/occurrences.json; research/experiment-gates.json",
+      "limitations": "Descriptive subset counts are permitted only with scope warning."
     },
     {
       "claim_id": "CM-C004",
-      "claim": "No phonetic assignment may be promoted from graphic similarity or historical relationship alone.",
-      "status": "validated_policy",
-      "evidence": "concordance policy and experiment gates",
-      "limitations": "Does not adjudicate external decipherments."
+      "claim": "CM native records conform to the shared Aegean Epigraphy Interchange v0.1 semantics without merging native schemas with Linear A.",
+      "status": "validated_architecture",
+      "evidence": "schemas/aegean-interop-v0.1.schema.json; interchange/fixtures/cm-record-v0.1.json",
+      "limitations": "Interoperability implies no sign, segmentation, phonetic or linguistic equivalence."
     },
     {
       "claim_id": "CM-C005",
-      "claim": "Full-corpus statistical conclusions remain blocked while occurrence coverage is sparse.",
+      "claim": "Unicode, published signary authorities and project palaeographic identity remain separate layers.",
+      "status": "validated_architecture",
+      "evidence": "signs/authorities.json; palaeography/variant-registry.json",
+      "limitations": "Project variant population remains intentionally sparse pending lawful occurrence-level evidence."
+    },
+    {
+      "claim_id": "CM-C006",
+      "claim": "Disputed or merely Cypro-Minoan-like frontier material is not silently promoted into the core corpus.",
+      "status": "validated_policy",
+      "evidence": "corpus/frontier-registry.json",
+      "limitations": "Frontier adjudications may change with new scholarship."
+    },
+    {
+      "claim_id": "CM-C007",
+      "claim": "Cross-script phonetic testing remains blocked until exact mapping sources and adequate evidence are available.",
       "status": "blocked_experiment",
       "evidence": "research/experiment-gates.json",
-      "limitations": "Scoped descriptive tests remain possible."
+      "limitations": "No transitive phonetic propagation is permitted."
     }
   ]
 }
