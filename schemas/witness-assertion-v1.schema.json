@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CM witness assertion v1",
+  "type": "object",
+  "required": [
+    "witness_id",
+    "record_id",
+    "assertion_type",
+    "value",
+    "source_id",
+    "lineage_id",
+    "uncertainty"
+  ],
+  "properties": {
+    "witness_id": {
+      "type": "string"
+    },
+    "record_id": {
+      "type": "string"
+    },
+    "physical_locus": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "assertion_type": {
+      "type": "string"
+    },
+    "value": {},
+    "source_id": {
+      "type": "string"
+    },
+    "locator": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "lineage_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "uncertainty": {
+      "enum": [
+        "certain",
+        "probable",
+        "possible",
+        "uncertain",
+        "unknown",
+        "not_stated"
+      ]
+    },
+    "supersedes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}
