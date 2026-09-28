@@ -1,11 +1,11 @@
 # Cypro-Minoan Open Corpus
 
-**Version 3.0.0 — evidence research platform**
+**Version 4.0.0 — comprehensive/reproducible research platform**
 
 The corpus records evidence; it does not encode a decipherment.
 
-3.0 turns the 2.0 architecture into an auditable evidence-depth platform while preserving conformance with Linear A's Aegean Epigraphy Interchange v0.1. It separates catalogue control, exact identifier reconciliation, rich object records, witnesses, occurrences, palaeographic authorities, dataset snapshots and inferential experiment gates. Missing or rights-restricted evidence remains explicitly missing; blocked experiments cannot make claims.
+4.0 adds first-class reproducibility, completeness accounting, acquisition governance, sensitivity analysis, null controls, evidence-package hashing and a rigorously bounded shared-core candidate while preserving Linear A-compatible Aegean Epigraphy Interchange v0.1 semantics.
 
-Current release layers: 254 controlled historical/addendum catalogue slots; 68 exact sigla verified; 21 rich object records; 3 source-verified occurrences; 2 explicit witness assertions; 99 Unicode interoperability characters. These are different coverage layers and are never collapsed into a single completeness percentage.
+Current evidence layers: 254 controlled historical/addendum catalogue slots; 68 exact sigla verified; 21 rich object records; 3 source-verified occurrences; 2 explicit witness assertions; 99 Unicode interoperability characters; 0 project-populated palaeographic variants. These are intentionally separate metrics. No aggregate completeness percentage is permitted.
 
-Linear B remains deferred until the shared architecture has matured independently in Linear A and Cypro-Minoan.
+Corpus-wide frequency and cross-script phonetic inference remain blocked until their evidence prerequisites are met. Linear B remains deferred.
