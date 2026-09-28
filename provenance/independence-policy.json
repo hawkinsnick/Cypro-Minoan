@@ -1,0 +1,16 @@
+{
+  "version": "5.0.0",
+  "classes": [
+    "independent_epigraphic",
+    "partially_independent",
+    "shared_upstream",
+    "unknown"
+  ],
+  "counting_rules": [
+    "unknown never counts as demonstrably independent",
+    "shared_upstream sources collapse to the relevant upstream lineage for independent-support counts",
+    "partially_independent support must state which component is independent",
+    "database or encoding reuse is not independent epigraphic observation"
+  ],
+  "claim_rule": "Any claim reporting N independent witnesses must expose the lineage calculation that produced N."
+}
