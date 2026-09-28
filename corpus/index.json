@@ -1,7 +1,7 @@
 {
   "project": "Cypro-Minoan Open Corpus",
-  "version": "1.2.0",
-  "status": "catalogue-control and research-infrastructure checkpoint",
+  "version": "2.0.0",
+  "status": "stable interoperable research-platform release",
   "record_count": 21,
   "core_record_count": 18,
   "candidate_record_count": 3,
