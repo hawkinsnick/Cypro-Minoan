@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Reproducible research result v1",
+  "type": "object",
+  "required": [
+    "result_id",
+    "experiment_id",
+    "state",
+    "dataset_snapshot",
+    "corpus_policy",
+    "parameters",
+    "gate_state",
+    "claims_allowed",
+    "warnings"
+  ],
+  "properties": {
+    "result_id": {
+      "type": "string"
+    },
+    "experiment_id": {
+      "type": "string"
+    },
+    "state": {
+      "enum": [
+        "diagnostic",
+        "frozen_result",
+        "superseded"
+      ]
+    },
+    "dataset_snapshot": {
+      "type": "string"
+    },
+    "corpus_policy": {
+      "type": "string"
+    },
+    "parameters": {
+      "type": "object"
+    },
+    "gate_state": {
+      "enum": [
+        "READY",
+        "BLOCKED",
+        "RUNNING",
+        "FROZEN_RESULT",
+        "SUPERSEDED"
+      ]
+    },
+    "claims_allowed": {
+      "type": "boolean"
+    },
+    "source_lineage_state": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "rights_state": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "result_digest": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}
