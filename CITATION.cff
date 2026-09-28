@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Cypro-Minoan Open Corpus"
+message: "Please cite this repository and also cite the original scholarly sources materially used in your analysis."
+type: dataset
+version: 0.1.0
+date-released: 2026-09-27
+license: MIT
+repository-code: "https://github.com/hawkinsnick/Cypro-Minoan"
+keywords:
+  - Cypro-Minoan
+  - epigraphy
+  - corpus
+  - Bronze Age Cyprus
+  - undeciphered scripts
