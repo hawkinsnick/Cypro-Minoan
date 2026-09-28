@@ -1,0 +1,28 @@
+{
+  "api_version": "1.0",
+  "resource": "experiments",
+  "records": [
+    {
+      "experiment_id": "cm-full-frequency-v1",
+      "state": "BLOCKED",
+      "claim_allowed": false
+    },
+    {
+      "experiment_id": "cm-cross-script-phonetic-test-v1",
+      "state": "BLOCKED",
+      "claim_allowed": false
+    },
+    {
+      "experiment_id": "cm-catalogue-coverage-v1",
+      "state": "READY",
+      "claim_allowed": true
+    }
+  ],
+  "provenance": {
+    "corpus_version": "3.0.0",
+    "source": "research/experiment-gates.json"
+  },
+  "warnings": [
+    "BLOCKED states are substantive research outputs: missing prerequisites must not be converted into conclusions."
+  ]
+}
