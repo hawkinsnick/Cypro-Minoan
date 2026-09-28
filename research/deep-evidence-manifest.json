@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "project": "Cypro-Minoan",
+  "target_milestone": "5.1.0",
+  "principle": "A milestone is earned by new verified evidence, an executed falsifiable experiment, or an independently auditable control.",
+  "blockers": [
+    {
+      "id": "OCCURRENCE_COVERAGE",
+      "state": "3_VERIFIED_OCCURRENCES",
+      "need": "material expansion"
+    },
+    {
+      "id": "WITNESS_INDEPENDENCE",
+      "state": "PARTIAL",
+      "need": "lineage classification for each new assertion"
+    }
+  ],
+  "unlock_conditions": [
+    "new source-verified occurrences committed with exact locators",
+    "source-specific sign labels preserved",
+    "rights reviewed",
+    "no false independence"
+  ],
+  "claim_policy": {
+    "blocked_means_no_positive_claim": true,
+    "null_results_preserved": true,
+    "source_locator_required": true,
+    "rights_follow_data": true
+  }
+}

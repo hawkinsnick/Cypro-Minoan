@@ -1,0 +1,58 @@
+{
+  "version": "5.0.3",
+  "queue": [
+    {
+      "priority": 1,
+      "source_id": "davis-maran-wirghova2014",
+      "target": "TIRY Avas 002",
+      "extract": [
+        "object metadata",
+        "zones",
+        "published sign sequence/assertions",
+        "certainty"
+      ],
+      "requires": "exact page/section/figure locator; no protected figure redistribution"
+    },
+    {
+      "priority": 2,
+      "source_id": "vetters2011",
+      "target": "Tiryns clay ball",
+      "extract": [
+        "object metadata",
+        "published sign assertions",
+        "context"
+      ],
+      "requires": "exact locator"
+    },
+    {
+      "priority": 3,
+      "source_id": "louvre-cm-25..33",
+      "target": "Louvre clay balls",
+      "extract": [
+        "museum identifiers",
+        "object metadata",
+        "provenance"
+      ],
+      "requires": "retain Louvre attribution; no image redistribution"
+    },
+    {
+      "priority": 4,
+      "source_id": "olivier2007",
+      "target": "catalogue reconciliation",
+      "extract": [
+        "identifier concordance",
+        "source-attributed catalogue assertions"
+      ],
+      "requires": "precise locators; no protected corpus reproduction"
+    },
+    {
+      "priority": 5,
+      "source_id": "ferrara2013",
+      "target": "competing corpus witness",
+      "extract": [
+        "concordance/disagreement assertions"
+      ],
+      "requires": "lineage separated from Olivier; no protected bulk transcription"
+    }
+  ]
+}
