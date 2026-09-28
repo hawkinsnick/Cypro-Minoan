@@ -1,10 +1,19 @@
 # Roadmap
 
-## 3.0.0 — Evidence research platform
-Catalogue reconciliation ledger, layered coverage accounting, frontier adjudication, witness assertions, occurrence/palaeographic schemas, source-lineage independence, reproducible dataset snapshots and experiment gates, executable scoped analysis, and Linear A-conformant Aegean interchange.
+## 4.0.0 — Comprehensive/reproducible research platform
+Reproducibility profiles, multidimensional completeness, evidence packages, sensitivity/null controls, claim-gate enforcement and a rigorously bounded shared-core candidate.
 
-## 3.x — Evidence population
-Resolve exact HoChyMin sigla from lawful page/table-level sources; expand rich object records; populate source-specific transcriptions and occurrences where rights permit; reconcile authority-specific variants; deepen claim-level source lineage.
+## 4.x — Evidence population
+The principal bottleneck is evidence, not architecture:
+1. resolve HoChyMin 001–186 exact sigla from authoritative access;
+2. identify reported uncatalogued/post-corpus inscriptions individually;
+3. expand rich archaeological records;
+4. populate lawful source-specific transcription witnesses and occurrences;
+5. populate authority-aware palaeographic variants without copying protected artwork;
+6. unlock experiment gates only when declared evidence thresholds are met.
 
-## 4.0 — Mature comparative platform
-Consider only after evidence population supports robust CM analyses and the shared core has survived both Linear A and Cypro-Minoan. Linear B may then enter as a separately modeled known-answer/control corpus; deciphered-language phonetics and morphology remain optional extensions, not shared-core requirements.
+## Cross-project synchronization
+Bring each independent script project to a comparable architecture/reproducibility maturity level without forcing identical native schemas. Shared-core promotion requires demonstrated same-semantics use in at least Linear A and Cypro-Minoan.
+
+## Linear B
+Still deferred as a full comparative corpus until the neutral core is stable. When admitted, use it as a known-answer calibration/falsification corpus, not as the ontology template for undeciphered scripts.
