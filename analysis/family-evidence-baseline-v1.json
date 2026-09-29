@@ -1,0 +1,39 @@
+{
+  "step": "2.5",
+  "name": "family-evidence-baseline-v1",
+  "version": "5.1.1",
+  "state": "BASELINE_FROZEN_SPARSE",
+  "metrics": {
+    "catalogue_control_slots": {
+      "value": 254,
+      "status": "bounded"
+    },
+    "rich_records": {
+      "value": 21,
+      "status": "measured_open_denominator"
+    },
+    "source_verified_occurrences": {
+      "value": 3,
+      "status": "measured_sparse"
+    },
+    "exact_siglum_reconciliation": {
+      "value": 68,
+      "status": "measured"
+    },
+    "sign_density": {
+      "status": "unknown"
+    }
+  },
+  "rules": [
+    "Unknown is not zero.",
+    "Bounded is not complete.",
+    "Catalogue presence is not transcription coverage.",
+    "Only definition-compatible measured dimensions may be compared.",
+    "Source lineage and rights survive derived exports."
+  ],
+  "acquisition_queue": [
+    "Expand museum/object metadata with exact source locators and concordances.",
+    "Increase exact siglum reconciliation without treating 254 slots as a proven complete corpus.",
+    "Encode source-verified occurrences before deriving sign-density targets."
+  ]
+}
