@@ -1,0 +1,15 @@
+{
+  "version": "5.2.3",
+  "record": "CMOC-TIRY-ADD244",
+  "upgrade": "PRIMARY_PUBLICATION_SOURCE_CHECKED",
+  "primary_source": "Melissa Vetters, A Clay Ball with a Cypro-Minoan Inscription from Tiryns, Archäologischer Anzeiger 2011/2, 1–49",
+  "locator": "pp. 16–17, Interpretation of the Signs",
+  "verified_sequence": [
+    "41",
+    "41",
+    "97"
+  ],
+  "context_locator": "pp. 20ff., The Archaeological Context of the Tiryns Clay Ball",
+  "dependent_witness": "Bourogiannis 2024 retained separately but not counted as independent epigraphic evidence",
+  "interpretation_ceiling": "sign occurrence/transnumeration and archaeological context only"
+}

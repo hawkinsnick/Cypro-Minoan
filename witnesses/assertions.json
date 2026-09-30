@@ -1,5 +1,5 @@
 {
-  "version": "5.2.2",
+  "version": "5.2.3",
   "witnesses": [
     {
       "witness_id": "CMW-TIRY245-SEQ-2023",
@@ -74,6 +74,26 @@
       "notes": [
         "Bourogiannis explicitly attributes the underlying inscription to Davis et al. 2014; do not count as independent epigraphic lineage.",
         "Terminal stictogram/divider is recorded as punctuation context, not a sign occurrence."
+      ]
+    },
+    {
+      "witness_id": "CMW-TIRY244-SEQ-VETTERS-PRIMARY",
+      "record_id": "CMOC-TIRY-ADD244",
+      "physical_locus": "clay-ball-inscription",
+      "assertion_type": "published_sign_sequence",
+      "value": [
+        "41",
+        "41",
+        "97"
+      ],
+      "source_id": "vetters2011",
+      "locator": "pp. 16–17, Interpretation of the Signs",
+      "lineage_id": "TIRY244-VETTERS-PRIMARY",
+      "uncertainty": "certain",
+      "supersedes": null,
+      "notes": [
+        "Primary publication explicitly identifies the first two signs as 41 followed by 97.",
+        "Project does not adopt phonetic interpretations or broader sign-equivalence claims."
       ]
     }
   ]
