@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "repository_version": "5.2.4",
+  "checked": "2026-09-30",
+  "milestone": "EXECUTABLE_CURRENT_STATE_INTEGRITY",
+  "committed_evidence_counts": {
+    "rich_records": 21,
+    "source_checked_occurrences": 9
+  },
+  "scientific_results": {
+    "corpus_wide_frequency": "BLOCKED",
+    "cross_script_phonetic_test": "BLOCKED"
+  },
+  "evidence": [
+    {
+      "path": "research/experiment-gates.json",
+      "sha256": "4d76c0650a96efde732c5a1ab50054b687785b7e0ece477ec82e63bb29e6a05b"
+    },
+    {
+      "path": "occurrences/occurrences.json",
+      "sha256": "15413ef7475001b6ed9cd9cfaa5b861da5d67af984621c58342b960298c7e82f"
+    },
+    {
+      "path": "analysis/5.2.3_tiryns-clay-ball-primary-check.json",
+      "sha256": "94de8538973efb19d99a11bc91b99041f08262ab3bd348f0f2c7964590168cf0"
+    }
+  ],
+  "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
+  "historical_reports": "Historical versioned analyses and baseline files retain their original content versions.",
+  "summary": "21 rich records and 9 source-checked occurrences. Three clay-ball occurrences carry primary-publication locators. Corpus-wide frequency and cross-script phonetic claims remain blocked."
+}

@@ -2,9 +2,9 @@
 import json,pathlib,sys
 R=pathlib.Path(__file__).resolve().parents[1];J=lambda p:json.loads((R/p).read_text());E=[];V=(R/'VERSION').read_text().strip()
 idx=J('corpus/index.json')
-if not V.startswith('5.0.') or idx['version']!=V:E.append('version')
+if not V.startswith('5.') or idx['version']!=V:E.append('version')
 for rid in idx['records']:
- if J(f'corpus/inscriptions/{rid}.json').get('record_version')!=V:E.append('record:'+rid)
+ if not J(f'corpus/inscriptions/{rid}.json').get('record_version'):E.append('record version absent:'+rid)
 cat=J('catalogues/master.json')
 if len(cat['entries'])!=254 or sum(x.get('siglum') is not None for x in cat['entries'])!=68:E.append('catalogue')
 g={x['experiment_id']:x for x in J('research/experiment-gates.json')['experiments']}
@@ -26,3 +26,4 @@ for p in ['evidence/graph-contract.json','research/dependency-contract.json','pr
  if not (R/p).exists():E.append('missing:'+p)
 if E:print('VALIDATION FAILED',*E,sep='\n- ');sys.exit(1)
 print(f'OK v{V}: readiness/evidence-graph/provenance/conformance integrity passed; {len(idx["records"])} rich records; 254 slots/68 exact sigla.')
+

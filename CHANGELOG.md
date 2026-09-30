@@ -1,3 +1,10 @@
+## 5.2.4 — current-state integrity and evidence gate reconciliation
+
+- Repair malformed schemas and enforce schema semantics with positive/negative fixtures.
+- Replace obsolete release-number assertions with evidence and current-metadata checks.
+- Synchronize current citation, family and native index/API/manifest metadata while preserving historical content versions.
+- 21 rich records and 9 source-checked occurrences. Three clay-ball occurrences carry primary-publication locators. Corpus-wide frequency and cross-script phonetic claims remain blocked.
+
 # Changelog
 
 ## [5.0.0] - 2026-09-28
@@ -37,3 +44,4 @@ Adversarial audit → reproducibility enforcement → completeness accounting �
 
 ## [3.0.0] - 2026-09-27
 - Evidence research platform with catalogue reconciliation, frontier registry, witnesses, occurrence/palaeographic architecture, dataset snapshots and experiment gates.
+

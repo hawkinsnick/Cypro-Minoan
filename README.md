@@ -1,5 +1,20 @@
 # Cypro-Minoan Open Corpus
 
+## Current status — 5.2.4
+
+21 rich records and 9 source-checked occurrences. Three clay-ball occurrences carry primary-publication locators. Corpus-wide frequency and cross-script phonetic claims remain blocked.
+
+The authoritative current gate summary is [`analysis/current-status.json`](analysis/current-status.json). Historical release reports below retain their original versions and claims.
+
+Validate this checkout with:
+
+```sh
+python -m pip install -r requirements-validation.txt
+python scripts/validate_current_state.py
+python scripts/test_current_state.py
+```
+
+
 **Version 5.0.0 — evidence graph and question-specific research readiness**
 
 The corpus records evidence; it does not encode a decipherment.
@@ -11,3 +26,4 @@ Current evidence remains deliberately bounded: 254 controlled catalogue slots; 6
 Catalogue-structure research is READY. Descriptions of the explicitly encoded occurrence subset are READY_SCOPED. Corpus-wide sign-frequency inference and cross-script phonetic inference remain BLOCKED.
 
 Native CM evidence remains authoritative. Interchange, evidence graphs and shared-core machinery may expose it but may not redefine it.
+
