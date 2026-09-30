@@ -1,0 +1,14 @@
+{
+  "version": "5.2.2",
+  "campaign": "Tiryns source-checked occurrence expansion",
+  "source": "Bourogiannis 2024, Contextualising Cypriot writing overseas",
+  "access": "author-uploaded/open-access online chapter; online book states CC BY 3.0, third-party materials retain their rights",
+  "new_occurrences": 6,
+  "total_source_checked_occurrences": 9,
+  "records": [
+    "CMOC-TIRY-ADD244",
+    "CMOC-TIRY-ADD246"
+  ],
+  "interpretation_ceiling": "Published transnumerations and object/context assertions only; no phonetic, linguistic, or sign-equivalence claim adopted.",
+  "lineage_warning": "Bourogiannis depends on Vetters 2011 / Davis et al. 2014 and is not counted as independent epigraphic evidence."
+}

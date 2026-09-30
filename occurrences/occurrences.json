@@ -1,5 +1,5 @@
 {
-  "version": "5.0.0",
+  "version": "5.2.2",
   "occurrences": [
     {
       "occurrence_id": "CMOCC-TIRY245-H1-1",
@@ -30,6 +30,84 @@
       "source_id": "davis-maran-prillwitz-wirghova2023",
       "locator": "§3.4 Text",
       "certainty": "certain"
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY244-1",
+      "record_id": "CMOC-TIRY-ADD244",
+      "zone_id": "clay-ball-inscription",
+      "position": 1,
+      "published_sign_label": "41",
+      "source_id": "bourogiannis2024",
+      "locator": "p. 55, clay ball discussion",
+      "certainty": "certain",
+      "notes": [
+        "Source-attributed transnumeration; no project sign-equivalence inference."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY244-2",
+      "record_id": "CMOC-TIRY-ADD244",
+      "zone_id": "clay-ball-inscription",
+      "position": 2,
+      "published_sign_label": "41",
+      "source_id": "bourogiannis2024",
+      "locator": "p. 55, clay ball discussion",
+      "certainty": "certain",
+      "notes": [
+        "Source-attributed transnumeration; no project sign-equivalence inference."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY244-3",
+      "record_id": "CMOC-TIRY-ADD244",
+      "zone_id": "clay-ball-inscription",
+      "position": 3,
+      "published_sign_label": "97",
+      "source_id": "bourogiannis2024",
+      "locator": "p. 55, clay ball discussion",
+      "certainty": "certain",
+      "notes": [
+        "Source-attributed transnumeration; no project sign-equivalence inference."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY246-1",
+      "record_id": "CMOC-TIRY-ADD246",
+      "zone_id": "jar-handle-inscription",
+      "position": 1,
+      "published_sign_label": "87",
+      "source_id": "bourogiannis2024",
+      "locator": "p. 56, jug handle discussion",
+      "certainty": "certain",
+      "notes": [
+        "Source-attributed transnumeration; no project sign-equivalence inference."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY246-2",
+      "record_id": "CMOC-TIRY-ADD246",
+      "zone_id": "jar-handle-inscription",
+      "position": 2,
+      "published_sign_label": "50",
+      "source_id": "bourogiannis2024",
+      "locator": "p. 56, jug handle discussion",
+      "certainty": "certain",
+      "notes": [
+        "Source-attributed transnumeration; no project sign-equivalence inference."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY246-3",
+      "record_id": "CMOC-TIRY-ADD246",
+      "zone_id": "jar-handle-inscription",
+      "position": 3,
+      "published_sign_label": "05",
+      "source_id": "bourogiannis2024",
+      "locator": "p. 56, jug handle discussion",
+      "certainty": "certain",
+      "notes": [
+        "Source-attributed transnumeration; no project sign-equivalence inference."
+      ]
     }
   ]
 }

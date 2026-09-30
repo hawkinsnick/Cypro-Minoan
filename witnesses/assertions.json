@@ -1,5 +1,5 @@
 {
-  "version": "5.0.0",
+  "version": "5.2.2",
   "witnesses": [
     {
       "witness_id": "CMW-TIRY245-SEQ-2023",
@@ -34,6 +34,46 @@
       "supersedes": null,
       "notes": [
         "Editors distinguish this potmark from the two-sign inscription."
+      ]
+    },
+    {
+      "witness_id": "CMW-TIRY244-SEQ-2024",
+      "record_id": "CMOC-TIRY-ADD244",
+      "physical_locus": "clay-ball-inscription",
+      "assertion_type": "published_sign_sequence",
+      "value": [
+        "41",
+        "41",
+        "97"
+      ],
+      "source_id": "bourogiannis2024",
+      "locator": "p. 55, clay ball discussion",
+      "lineage_id": null,
+      "uncertainty": "certain",
+      "supersedes": null,
+      "notes": [
+        "Bourogiannis cites Vetters 2011 and Valério 2016; this is a source-attributed witness, not independent rediscovery.",
+        "Published phonetic speculation is not adopted as project interpretation."
+      ]
+    },
+    {
+      "witness_id": "CMW-TIRY246-SEQ-2024",
+      "record_id": "CMOC-TIRY-ADD246",
+      "physical_locus": "jar-handle-inscription",
+      "assertion_type": "published_sign_sequence",
+      "value": [
+        "87",
+        "50",
+        "05"
+      ],
+      "source_id": "bourogiannis2024",
+      "locator": "p. 56, jug handle discussion",
+      "lineage_id": null,
+      "uncertainty": "certain",
+      "supersedes": null,
+      "notes": [
+        "Bourogiannis explicitly attributes the underlying inscription to Davis et al. 2014; do not count as independent epigraphic lineage.",
+        "Terminal stictogram/divider is recorded as punctuation context, not a sign occurrence."
       ]
     }
   ]
