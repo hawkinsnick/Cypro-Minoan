@@ -1,0 +1,23 @@
+{
+  "version": "5.2.1",
+  "checked": "2026-09-29",
+  "sources": [
+    {
+      "source_id": "davis-maran-wirghova2014",
+      "target": "TIRY Avas 002",
+      "bibliographic_identity": "VERIFIED",
+      "citation": "Kadmos 53 (2014), 91-109; DOI 10.1515/kadmos-2014-0005",
+      "full_text_access": "BLOCKED_CURRENT_ROUTE",
+      "occurrence_ingest": "NOT_PERMITTED_FROM_METADATA_OR_SNIPPETS",
+      "next_legitimate_route": "author/institutional copy or other authorized full text"
+    },
+    {
+      "source_id": "vetters2011",
+      "target": "Tiryns clay ball",
+      "bibliographic_identity": "CORROBORATED_AS_REFERENCE",
+      "occurrence_ingest": "BLOCKED_PENDING_PRIMARY_TEXT"
+    }
+  ],
+  "new_source_verified_occurrences": 0,
+  "principle": "Bibliographic verification is not occurrence verification."
+}
