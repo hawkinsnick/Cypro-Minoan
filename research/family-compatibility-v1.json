@@ -21,7 +21,7 @@
   "pilot": "representative-pilot-step2",
   "next_family_gate": "At least one executable known-answer control plus measured compatible target vectors.",
   "member": "Cypro-Minoan",
-  "member_version": "5.2.4",
+  "member_version": "5.2.5",
   "native_state": "READY_FOR_EVIDENCE_EXPANSION",
   "next_action": "Expand object metadata, concordances and verified occurrences with exact provenance.",
   "blocked_claim": "Corpus-wide frequency targets remain blocked."

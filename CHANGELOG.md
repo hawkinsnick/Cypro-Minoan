@@ -1,3 +1,7 @@
+## 5.2.5 — mapping/statistical repair and stronger scientific-claim guards
+
+21 rich records and 9 source-checked occurrences. Three clay-ball occurrences carry primary-publication locators. Corpus-wide frequency and cross-script phonetic claims remain blocked.
+
 ## 5.2.4 — current-state integrity and evidence gate reconciliation
 
 - Repair malformed schemas and enforce schema semantics with positive/negative fixtures.

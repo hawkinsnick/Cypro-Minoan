@@ -1,6 +1,6 @@
 # Current-state integrity milestone
 
-Repository version: 5.2.4.
+Repository version: 5.2.5.
 
 21 rich records and 9 source-checked occurrences. Three clay-ball occurrences carry primary-publication locators. Corpus-wide frequency and cross-script phonetic claims remain blocked.
 
