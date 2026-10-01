@@ -1,6 +1,6 @@
 # Cypro-Minoan Open Corpus
 
-## Current status — 5.2.7
+## Current status — 5.2.8
 
 21 rich records and 9 source-checked occurrences. Three clay-ball occurrences carry primary-publication locators. Corpus-wide frequency and cross-script phonetic claims remain blocked.
 
@@ -29,3 +29,7 @@ Catalogue-structure research is READY. Descriptions of the explicitly encoded oc
 
 Native CM evidence remains authoritative. Interchange, evidence graphs and shared-core machinery may expose it but may not redefine it.
 
+
+### Evidence progress in 5.2.8
+
+Adds replayable source-stratified occurrence coverage: 9 encoded occurrences on 3 of 21 rich records, comprising 6 primary-publication and 3 dependent-secondary occurrences. Published labels remain separate. Whole-corpus frequencies and independent-witness claims remain blocked.

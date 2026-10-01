@@ -86,6 +86,8 @@ def validate():
         gold=load("research/gold-acquisition-gate.json")
         require(gold["release_5_0_allowed"] is False,"gold gate unexpectedly opened")
         require(not state["scientific_results"]["calibration_executed"],"unsupported calibration claim")
+    from occurrence_coverage import coverage
+    require(coverage(load('corpus/index.json')['records'], load('occurrences/occurrences.json')['occurrences']) == load('analysis/occurrence-coverage-v1.json'), 'occurrence coverage replay drift')
     from validate_family_readiness import validate as validate_readiness
     validate_readiness(R)
     print(json.dumps({"status":"PASS","version":version,"json_files":len(files),"schemas":len(list((R/"schemas").glob("*.json"))),"evidence_counts":counts,"scientific_gate_claim":"UNCHANGED"}))

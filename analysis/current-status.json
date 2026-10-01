@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "repository_version": "5.2.7",
-  "checked": "2026-09-30",
+  "repository_version": "5.2.8",
+  "checked": "2026-10-01",
   "milestone": "EXECUTABLE_CURRENT_STATE_INTEGRITY",
   "committed_evidence_counts": {
     "rich_records": 21,
@@ -23,9 +23,21 @@
     {
       "path": "analysis/5.2.3_tiryns-clay-ball-primary-check.json",
       "sha256": "94de8538973efb19d99a11bc91b99041f08262ab3bd348f0f2c7964590168cf0"
+    },
+    {
+      "path": "analysis/occurrence-coverage-v1.json",
+      "sha256": "1d9b0c276c2428fbd42aa637e09b9ac2435e2928e89a7c55f708c51463bb8470"
+    },
+    {
+      "path": "scripts/occurrence_coverage.py",
+      "sha256": "cb005b5fdbc2ec7c5670ace5630a1187b09dce86913c050783d3025d2decb2e0"
+    },
+    {
+      "path": "scripts/validate_current_state.py",
+      "sha256": "6594f9e4ce566c083257b4fc2ab9fd5f758515d1e5d1bf0da48b03d7e93f8e2e"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
   "historical_reports": "Historical versioned analyses and baseline files retain their original content versions.",
-  "summary": "21 rich records and 9 source-checked occurrences. Three clay-ball occurrences carry primary-publication locators. Corpus-wide frequency and cross-script phonetic claims remain blocked."
+  "summary": "Adds replayable source-stratified occurrence coverage: 9 encoded occurrences on 3 of 21 rich records, comprising 6 primary-publication and 3 dependent-secondary occurrences. Published labels remain separate. Whole-corpus frequencies and independent-witness claims remain blocked."
 }

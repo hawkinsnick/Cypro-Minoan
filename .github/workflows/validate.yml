@@ -16,3 +16,4 @@ jobs:
       - run: python scripts/test_release_integrity.py
       - run: python scripts/test_5_0_conformance.py
 
+      - run: python scripts/test_occurrence_coverage.py
