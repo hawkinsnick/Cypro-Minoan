@@ -39,3 +39,7 @@ The shared family report now targets the Disc [2.0.0-rc.2 prerelease](https://gi
 ### Research evidence workbench 1.0
 
 Download the research workbench ZIP, extract it, and open [workbench/evidence.html](workbench/evidence.html). It includes searchable pinned evidence, coverage definitions and unverified inspection-note export. See the [reading and review guide](research/workbench-guide.md). This engineering milestone grants no independent epigraphic acceptance.
+
+### Research workbench 1.1
+
+Download the [research workbench 1.1 package](https://github.com/hawkinsnick/Cypro-Minoan/releases/tag/research-workbench-v1.1.0), extract it, and open `workbench/evidence.html`. It adds snapshot-bound inspection collections and includes the immutable release correction tracker. The Disc explorer also presents readable scenario comparisons. This engineering release grants no scientific acceptance.

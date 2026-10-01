@@ -38,43 +38,59 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "e43686c4497875d0899920235b9b2e47315a19e8810ff610787dbb34bee57251"
+      "sha256": "e17625716660da70731459252e2b1bbca429d7183640b79f0733162313148b3e"
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "fc8ecf5d7422fb1663f32ed8dd04a862dee432d9d0b4a7f1e51cc169c97d574c"
+      "sha256": "f394439a2a93214fb4974edbf4a3ebe6cc456ed2c507c98b76f799bf22b84455"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "a22d687f72facc4fcf32001b19b75b9a6d6e360ff52ff7c237199e582af2d57a"
+      "sha256": "f626d5811a9ebf5e49684ded8f9498d37c178c7ca9a872c206db13bc53533733"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "e773328be1c331baac35fdb53163953311a851858af686c55e0a79e8f593db61"
+      "sha256": "cd624f198046f68de7f3bf5ac35861751565a1745160f08bdcaf9dd2e714939a"
     },
     {
       "path": "research/workbench-milestone-v1.json",
-      "sha256": "5525ea0f4d413740482ae1209533248eaa42939efdded99bdabaf46da1d37812"
+      "sha256": "6e73523259c9131bdda1f2237a120f59a402be8294fb2026076cd0e67c13a44e"
     },
     {
       "path": "scripts/evidence_workbench.py",
-      "sha256": "3a567a5d8bdde774357c01636ed69e1699e892680e61ba94ada45dfffeca3c87"
+      "sha256": "682a350d9457b1e88ff3a3c4d1263880e4fdf98e1012578580b7d2b9d877c916"
     },
     {
       "path": "scripts/test_evidence_workbench.py",
-      "sha256": "a03a741f070cc1deda4c02182caca662819b0fdad476687871177990182d8385"
+      "sha256": "071d52a7996556919876d35182f2fdcc1a4e46a6ad60c97c3508c639b259c1e4"
     },
     {
       "path": "scripts/test_evidence_browser.cjs",
-      "sha256": "1bb199e91747e1f49171e03e703c9e5056dbbd73f74767650fea955decd6fc2c"
+      "sha256": "8c007db6b2a96d7f686e55d7dd3e59cf05a8a9951d15921509e88c35fd3af091"
     },
     {
       "path": "workbench/evidence-template.html",
-      "sha256": "f1636f0fa50debe8b71412e5dc6c9d3dcda037af538688de345faf7391d23c27"
+      "sha256": "009519821451a9b8d90eb42e46c12e5c7b5f834d1b2fb5825872d94a1d3f3762"
     },
     {
       "path": "research/workbench-guide.md",
-      "sha256": "92442e6480b5bb3b391efa9ed621f2f10e6a2fd07cfc8461ea2abe281225f316"
+      "sha256": "5fcdf0b3aefab7e5e85a4e95e6780ba1d6eab90ac0d4718d736157c6b86a375f"
+    },
+    {
+      "path": "scripts/release_change_ledger.py",
+      "sha256": "e6a5c228421531c00fde3493b8f14606126447f5f561ddf226045395c50b8cee"
+    },
+    {
+      "path": "scripts/test_release_change_ledger.py",
+      "sha256": "268230c02e2555159362e6312563a65904771d57b2c7bb32cfbfc9562acc4c94"
+    },
+    {
+      "path": "research/correction-tracking.md",
+      "sha256": "24d551d7de6d497145ae30670cd8d29cfcc7172c329abd963863ae5dfed49e15"
+    },
+    {
+      "path": ".github/workflows/release-change-ledger.yml",
+      "sha256": "acad59395f7ff8b4353bc6eea69dfec6d8e6b342e08df87617c897dcd27d8a1f"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
