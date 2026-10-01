@@ -35,3 +35,7 @@ Native CM evidence remains authoritative. Interchange, evidence graphs and share
 Adds replayable source-stratified occurrence coverage: 9 encoded occurrences on 3 of 21 rich records, comprising 6 primary-publication and 3 dependent-secondary occurrences. Published labels remain separate. Whole-corpus frequencies and independent-witness claims remain blocked.
 
 The shared family report now targets the Disc [2.0.0-rc.2 prerelease](https://github.com/hawkinsnick/Phaistos-Disc/releases/tag/v2.0.0-rc.2). Final independently reviewed Disc 2.0 remains blocked; compatibility does not confer linguistic equivalence or independent review. Native evidence and this repository’s release version are unchanged.
+
+### Research evidence workbench 1.0
+
+Download the research workbench ZIP, extract it, and open [workbench/evidence.html](workbench/evidence.html). It includes searchable pinned evidence, coverage definitions and unverified inspection-note export. See the [reading and review guide](research/workbench-guide.md). This engineering milestone grants no independent epigraphic acceptance.

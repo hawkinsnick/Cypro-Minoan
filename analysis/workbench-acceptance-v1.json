@@ -1,0 +1,15 @@
+{
+  "format": "research-workbench-acceptance-v1",
+  "milestone_version": "1.0.0",
+  "project": "Cypro-Minoan",
+  "status": "PASS_ARTIFACT_REPLAY",
+  "evidence_files": 8,
+  "index_sha256": "fc8ecf5d7422fb1663f32ed8dd04a862dee432d9d0b4a7f1e51cc169c97d574c",
+  "viewer_sha256": "e773328be1c331baac35fdb53163953311a851858af686c55e0a79e8f593db61",
+  "disc_comparison_rows": null,
+  "disc_scenarios": null,
+  "native_changes_applied": false,
+  "expert_review_granted": false,
+  "final_epigraphic_acceptance_granted": false,
+  "boundary": "Engineering milestone only. Browser behavior and adversarial controls are tested separately in CI."
+}
