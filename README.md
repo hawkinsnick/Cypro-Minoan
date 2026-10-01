@@ -1,10 +1,10 @@
 # Cypro-Minoan Open Corpus
 
-## Current status — 5.2.6
+## Current status — 5.2.7
 
 21 rich records and 9 source-checked occurrences. Three clay-ball occurrences carry primary-publication locators. Corpus-wide frequency and cross-script phonetic claims remain blocked.
 
-Family contract 1.1 adds [Phaistos Disc](https://github.com/hawkinsnick/Phaistos-Disc) as a fifth member with its own native evidence and blocked transcription gate. Membership authorizes no pooled analysis or linguistic relationship claim. See [`research/family-extension-1.1.md`](research/family-extension-1.1.md).
+Family contract 1.2 aligns all five projects with [Phaistos Disc 1.0](https://github.com/hawkinsnick/Phaistos-Disc/releases/tag/v1.0.0). The shared readiness report preserves native sampling units, source rights and blocked linguistic controls. It authorizes no pooling or linguistic relationship claim. See [`research/family-readiness-v1.json`](research/family-readiness-v1.json).
 
 The authoritative current gate summary is [`analysis/current-status.json`](analysis/current-status.json). Historical release reports below retain their original versions and claims.
 
