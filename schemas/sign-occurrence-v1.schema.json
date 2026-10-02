@@ -8,7 +8,8 @@
     "zone_id",
     "position",
     "source_id",
-    "certainty"
+    "certainty",
+    "source_role"
   ],
   "properties": {
     "occurrence_id": {
@@ -77,6 +78,12 @@
       "items": {
         "type": "string"
       }
+    },
+    "source_role": {
+      "enum": [
+        "primary_publication",
+        "dependent_secondary"
+      ]
     }
   },
   "additionalProperties": false

@@ -13,8 +13,8 @@
     },
     {
       "path": "occurrences/occurrences.json",
-      "sha256": "15413ef7475001b6ed9cd9cfaa5b861da5d67af984621c58342b960298c7e82f",
-      "bytes": 3591,
+      "sha256": "eab6eedab31dca8ea74ebe4dbfbdbc3ef314222d15a7343540e16f9808ac9c8e",
+      "bytes": 5976,
       "category": "occurrences",
       "summary": {}
     },
@@ -27,8 +27,8 @@
     },
     {
       "path": "analysis/occurrence-coverage-v1.json",
-      "sha256": "1d9b0c276c2428fbd42aa637e09b9ac2435e2928e89a7c55f708c51463bb8470",
-      "bytes": 1738,
+      "sha256": "7b247bb067606e98ec3a1130434ca7dff113530a3df7786a0739e524464e3181",
+      "bytes": 1945,
       "category": "analysis",
       "summary": {
         "scope": "Committed rich-record subset only; catalogue placeholders are outside this denominator."
@@ -36,8 +36,8 @@
     },
     {
       "path": "scripts/occurrence_coverage.py",
-      "sha256": "cb005b5fdbc2ec7c5670ace5630a1187b09dce86913c050783d3025d2decb2e0",
-      "bytes": 2166,
+      "sha256": "cfd116ce21e352b7c40fce7822b7937a6b7b343760bef4c3fe54b23c18da6c80",
+      "bytes": 2812,
       "category": "scripts",
       "summary": {}
     },
@@ -50,8 +50,8 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "e17625716660da70731459252e2b1bbca429d7183640b79f0733162313148b3e",
-      "bytes": 14067,
+      "sha256": "8dd2c4dd6ec2dcbaadc52b8510387971e84e7e7d58fe672bd6cfc240f2b78aae",
+      "bytes": 14131,
       "category": "research",
       "summary": {
         "scope": "Comparison readiness and software/governance alignment, not permission for cross-script inference. Exact snapshot commits pin native evidence; target versions describe the coordinated rollout. Snapshot versions may precede report-only maintenance."
@@ -91,6 +91,36 @@
       "bytes": 732,
       "category": ".github",
       "summary": {}
+    },
+    {
+      "path": "research/source-inspection-2026-10-02.json",
+      "sha256": "09e06c64feba4e5035a8fe6e5a61aeb11837a74a658fbbd177e6577b4ad98994",
+      "bytes": 1691,
+      "category": "research",
+      "summary": {
+        "scope": "Three partial Enkomi occurrence assertions; evidence role is specific to record locus."
+      }
+    },
+    {
+      "path": "schemas/sign-occurrence-v1.schema.json",
+      "sha256": "0b1ffc477db066d1316c5db453096557b32bb1abdbe9a9756b34e11a5a856d3b",
+      "bytes": 1451,
+      "category": "schemas",
+      "summary": {}
+    },
+    {
+      "path": "scripts/test_occurrence_coverage.py",
+      "sha256": "04f6ae96ca29ccaf8c1e49b63c768c6467d1755a702d3eedc99d2b83cb50f271",
+      "bytes": 1937,
+      "category": "scripts",
+      "summary": {}
+    },
+    {
+      "path": "research/pre-expert-maximum.json",
+      "sha256": "21fd4b905f8a0107ffd28566162c569a9140acf1c681c2ed3755b12b81074479",
+      "bytes": 2793,
+      "category": "research",
+      "summary": {}
     }
   ],
   "scientific_results": {
@@ -108,14 +138,20 @@
       "definition": "Committed rich inscription records; not complete occurrence coverage.",
       "status": "measured"
     },
-    "checked_occurrence_objects": {
-      "value": 9,
-      "unit": "native_occurrence_objects",
-      "definition": "Committed source-checked subset, not all corpus impressions.",
+    "encoded_occurrences": {
+      "value": 12,
+      "unit": "encoded_source_occurrence_assertions",
+      "definition": "Six primary-publication and six dependent-secondary occurrence assertions; no independent witness count.",
+      "status": "measured"
+    },
+    "records_with_encoded_occurrences": {
+      "value": 6,
+      "unit": "rich_record_ids",
+      "definition": "Partial or complete occurrence coverage on six of 21 rich records; not six complete sign sequences.",
       "status": "measured"
     }
   },
-  "family_report_sha256": "e17625716660da70731459252e2b1bbca429d7183640b79f0733162313148b3e",
+  "family_report_sha256": "8dd2c4dd6ec2dcbaadc52b8510387971e84e7e7d58fe672bd6cfc240f2b78aae",
   "implementation_sha256": "682a350d9457b1e88ff3a3c4d1263880e4fdf98e1012578580b7d2b9d877c916",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."
 }

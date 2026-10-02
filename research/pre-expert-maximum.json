@@ -17,7 +17,7 @@
     {
       "gate": "occurrence_denominator",
       "status": "PASS",
-      "evidence": "9 source-checked occurrences on 3/21 rich records; uncovered record IDs are machine-enumerated"
+      "evidence": "12 source-checked occurrences on 6/21 rich records; uncovered record IDs are machine-enumerated"
     },
     {
       "gate": "source_dependence_model",
@@ -38,7 +38,7 @@
   "remaining_nonexpert_work": [
     {
       "id": "CM-PRE-001",
-      "scope": "18 rich records without encoded occurrences",
+      "scope": "15 rich records without encoded occurrences",
       "action": "Acquire lawful primary-publication sign evidence where accessible; otherwise preserve citation-only/source-lead status.",
       "blocked_by": "source_access"
     },
