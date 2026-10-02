@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-02",
+  "target": "PRE_EXPERT_SOURCE_EXHAUSTION",
+  "dispositions": [
+    {
+      "id": "CM-PRE-001",
+      "scope": "18 rich records without encoded occurrences",
+      "status": "SOURCE_BLOCKED_OR_CITATION_ONLY",
+      "evidence": "Existing acquisition audit and occurrence denominator enumerate uncovered records; lawful primary sign sequences have not been established for these records. Museum metadata does not license reconstruction of protected editorial transcriptions.",
+      "next_route": "primary publication or independently encoded observation"
+    },
+    {
+      "id": "CM-PRE-002",
+      "scope": "HoChyMin exact number-siglum reconciliation",
+      "status": "SOURCE_BLOCKED",
+      "evidence": "68/254 mappings established; 186 remain deliberately unresolved because authoritative page/table evidence is required.",
+      "next_route": "authorized HoChyMin page/table access"
+    },
+    {
+      "id": "CM-PRE-003",
+      "scope": "post-corpus additions and uncatalogued objects",
+      "status": "DISCOVERY_OPEN",
+      "evidence": "Later ADD identifiers and uncatalogued research frontier are registered; terminal catalogue number is not assumed.",
+      "next_route": "publication, museum or excavation object-level evidence"
+    },
+    {
+      "id": "CM-PRE-004",
+      "scope": "Louvre 25-33 and 209 object metadata",
+      "status": "MUSEUM_METADATA_REGISTERED",
+      "evidence": "Ten Louvre rich records carry museum identifiers/provenance/cross-references where supplied. Museum text is treated as metadata evidence, not independent sign-reading evidence."
+    },
+    {
+      "id": "CM-PRE-005",
+      "scope": "Ferrara open thesis/corpus precursor",
+      "status": "REFERENCE_ROUTE_CONFIRMED",
+      "evidence": "UCL Discovery exposes Ferrara's open-access thesis; use as a source-lineage and catalogue research route, not as permission to bulk-copy later OUP corpus material."
+    }
+  ],
+  "claim_boundary": {
+    "corpus_wide_frequency": "BLOCKED",
+    "cross_script_phonetic_test": "BLOCKED",
+    "independent_witness_claims": "BLOCKED"
+  },
+  "completion_assessment": "PRE_EXPERT_MAXIMUM_REACHED_FOR_CURRENT_LAWFUL_SOURCE_ROUTES",
+  "qualification": "Discovery remains open-world. New authoritative lawful evidence reopens acquisition without weakening current claim gates."
+}
