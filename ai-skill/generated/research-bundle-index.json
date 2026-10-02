@@ -1,0 +1,71 @@
+{
+  "schema_version": "0.3.1",
+  "skill_version": "0.3.1",
+  "source_commit": "b84a269c0d3580aaf763d69374b78b612ab41dbb",
+  "generated_at_utc": "2026-10-02T23:18:40+00:00",
+  "canonical_repository": true,
+  "contract": {
+    "corpus_is_authoritative": true,
+    "missing_means_unknown": true,
+    "cross_corpus_equivalence_requires_explicit_evidence": true,
+    "preserve_uncertainty": true,
+    "preserve_source_independence": true,
+    "preserve_rights": true
+  },
+  "artifacts": [
+    {
+      "role": "current_status",
+      "path": "analysis/current-status.json",
+      "sha256": "1777ea9eb8b49c49ec16ed2dd40211df0ff477716657e8936f2522a4f956a7b0",
+      "bytes": 6022
+    },
+    {
+      "role": "source_inspection",
+      "path": "research/source-inspection-2026-10-02.json",
+      "sha256": "09e06c64feba4e5035a8fe6e5a61aeb11837a74a658fbbd177e6577b4ad98994",
+      "bytes": 1691
+    },
+    {
+      "role": "experiment_gates",
+      "path": "research/experiment-gates.json",
+      "sha256": "4d76c0650a96efde732c5a1ab50054b687785b7e0ece477ec82e63bb29e6a05b",
+      "bytes": 1514
+    },
+    {
+      "role": "occurrence_coverage",
+      "path": "analysis/occurrence-coverage-v1.json",
+      "sha256": "7b247bb067606e98ec3a1130434ca7dff113530a3df7786a0739e524464e3181",
+      "bytes": 1945
+    },
+    {
+      "role": "coverage_delta",
+      "path": "research/coverage-delta-register.json",
+      "sha256": "d1edffa003e9536b649dff10d8ab57e36018b02d84272fa0859dd7eb06af7063",
+      "bytes": 1437
+    },
+    {
+      "role": "pre_expert_maximum",
+      "path": "research/pre-expert-maximum.json",
+      "sha256": "21fd4b905f8a0107ffd28566162c569a9140acf1c681c2ed3755b12b81074479",
+      "bytes": 2793
+    },
+    {
+      "role": "pre_expert_source_exhaustion",
+      "path": "research/pre-expert-source-exhaustion.json",
+      "sha256": "97df39566a9b693baac6774fc859a2cc316af7873386dafb9951ce5ea222ebb5",
+      "bytes": 2510
+    },
+    {
+      "role": "occurrences",
+      "path": "occurrences/occurrences.json",
+      "sha256": "eab6eedab31dca8ea74ebe4dbfbdbc3ef314222d15a7343540e16f9808ac9c8e",
+      "bytes": 5976
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE",
+      "sha256": "974b7da7d1b021d64df8dcc1b2a0ddfaba5fda9c8f68124d29cff227b1742bdf",
+      "bytes": 1040
+    }
+  ]
+}
