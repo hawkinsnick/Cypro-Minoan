@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Cypro-Minoan",
+  "target": "PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-02",
+  "machine_source_complete": [
+    {
+      "gate": "catalogue_spine",
+      "status": "PASS",
+      "evidence": "254 project-controlled Olivier/Ferrara/addendum slots registered"
+    },
+    {
+      "gate": "rich_record_denominator",
+      "status": "PASS",
+      "evidence": "21 rich records explicitly enumerated"
+    },
+    {
+      "gate": "occurrence_denominator",
+      "status": "PASS",
+      "evidence": "9 source-checked occurrences on 3/21 rich records; uncovered record IDs are machine-enumerated"
+    },
+    {
+      "gate": "source_dependence_model",
+      "status": "PASS",
+      "evidence": "primary and dependent-secondary occurrences remain distinct"
+    },
+    {
+      "gate": "claim_sealing",
+      "status": "PASS",
+      "evidence": "corpus-wide frequency and cross-script phonetic inference remain blocked"
+    },
+    {
+      "gate": "rights_boundary",
+      "status": "PASS",
+      "evidence": "museum/publication metadata may be registered without redistributing protected images or bulk editorial transcriptions"
+    }
+  ],
+  "remaining_nonexpert_work": [
+    {
+      "id": "CM-PRE-001",
+      "scope": "18 rich records without encoded occurrences",
+      "action": "Acquire lawful primary-publication sign evidence where accessible; otherwise preserve citation-only/source-lead status.",
+      "blocked_by": "source_access"
+    },
+    {
+      "id": "CM-PRE-002",
+      "scope": "HoChyMin catalogue mapping",
+      "action": "Resolve remaining number-to-siglum mappings only from authoritative page/table-level evidence.",
+      "blocked_by": "authoritative_source_access"
+    },
+    {
+      "id": "CM-PRE-003",
+      "scope": "post-corpus additions",
+      "action": "Identify later ADD-numbered and uncatalogued objects from publication/museum/excavation records.",
+      "blocked_by": "source_discovery_and_access"
+    }
+  ],
+  "human_only_boundary": [
+    {
+      "id": "CM-HUM-001",
+      "decision": "adjudicate disputed readings/sign identities and uncertainty"
+    },
+    {
+      "id": "CM-HUM-002",
+      "decision": "adjudicate equivalence between authority-specific sign-label systems"
+    },
+    {
+      "id": "CM-HUM-003",
+      "decision": "independently review witness/source lineage where publication dependence is ambiguous"
+    },
+    {
+      "id": "CM-HUM-004",
+      "decision": "review palaeographic interpretation and any proposed cross-script correspondence"
+    }
+  ],
+  "completion_rule": "Pre-Expert Maximum is reached only when every remaining nonexpert item is either completed from authoritative lawful evidence or explicitly source-blocked with a locator/acquisition route; human-only decisions must remain unasserted."
+}
