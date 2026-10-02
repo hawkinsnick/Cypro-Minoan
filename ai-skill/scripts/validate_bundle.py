@@ -1,16 +1,21 @@
 #!/usr/bin/env python3
-import json,sys
+import hashlib,json,re,sys
 from pathlib import Path
-p=Path(__file__).resolve().parents[1]/"generated"/"research-bundle-index.json"
-d=json.loads(p.read_text(encoding="utf-8"))
-errors=[]
-for k in ("schema_version","skill_version","source_commit","contract","artifacts"):
- if k not in d: errors.append("missing "+k)
-seen=set()
-for a in d.get("artifacts",[]):
- if a.get("path") in seen: errors.append("duplicate artifact "+str(a.get("path")))
- seen.add(a.get("path"))
- if not a.get("sha256") or len(a["sha256"])!=64: errors.append("bad sha256 "+str(a.get("path")))
-if errors:
- print("\n".join(errors)); sys.exit(1)
-print(f"AI bundle valid: {len(d['artifacts'])} indexed canonical artifacts")
+R=Path(__file__).resolve().parents[2];A=R/"ai-skill";errors=[]
+d=json.loads((A/"generated"/"research-bundle-index.json").read_text())
+m=json.loads((A/"manifest.json").read_text())
+p=json.loads((A/"references"/"authority-profile.json").read_text())
+s=(A/"SKILL.md").read_text()
+x=re.search(r"^version:\s*([^\s]+)",s,re.M);sv=x.group(1) if x else None
+if sv!=m.get("skill_version"):errors.append("skill manifest mismatch")
+if d.get("skill_version")!=m.get("skill_version"):errors.append("bundle manifest mismatch")
+if d.get("schema_version")!=m.get("bundle_schema"):errors.append("bundle schema mismatch")
+idx={a.get("path"):a for a in d.get("artifacts",[])}
+for q in p.get("required_authorities",[]):
+ f=R/q["path"]
+ if not f.is_file():errors.append("missing authority "+q["path"]);continue
+ a=idx.get(q["path"])
+ if not a:errors.append("authority not indexed "+q["path"]);continue
+ if a.get("sha256")!=hashlib.sha256(f.read_bytes()).hexdigest():errors.append("authority hash mismatch "+q["path"])
+if errors:print("\n".join(errors));sys.exit(1)
+print("Cypro-Minoan AI integration validation PASS")
