@@ -109,5 +109,36 @@
       "Require explicit coverage denominator before any frequency claim",
       "Keep cross-script phonetic testing blocked until exact mapping sources are independently established"
     ]
+  },
+  "external_verification": {
+    "tiryns_primary_open_publication": {
+      "source": "Davis, Maran, Prillwitz & Wirghová, Kadmos 2023",
+      "record": "CMOC-TIRY-ADD245",
+      "published_transnumeration": {
+        "inscription": [
+          "025",
+          "087"
+        ],
+        "potmark": [
+          "005"
+        ]
+      },
+      "project_occurrences": [
+        "CMOCC-TIRY245-H1-1",
+        "CMOCC-TIRY245-H1-2",
+        "CMOCC-TIRY245-H2-M1"
+      ],
+      "status": "MATCHES_PROJECT_ENCODING"
+    },
+    "tiryns_clay_ball": {
+      "source": "Vetters, Archäologischer Anzeiger 2011/2",
+      "record": "CMOC-TIRY-ADD244",
+      "project_occurrences": [
+        "CMOCC-TIRY244-1",
+        "CMOCC-TIRY244-2",
+        "CMOCC-TIRY244-3"
+      ],
+      "status": "PRIMARY_PUBLICATION_LOCATOR_PRESENT"
+    }
   }
 }
