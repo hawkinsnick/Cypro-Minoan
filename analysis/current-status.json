@@ -95,5 +95,19 @@
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
   "historical_reports": "Historical versioned analyses and baseline files retain their original content versions.",
-  "summary": "Adds replayable source-stratified occurrence coverage: 9 encoded occurrences on 3 of 21 rich records, comprising 6 primary-publication and 3 dependent-secondary occurrences. Published labels remain separate. Whole-corpus frequencies and independent-witness claims remain blocked."
+  "summary": "Adds replayable source-stratified occurrence coverage: 9 encoded occurrences on 3 of 21 rich records, comprising 6 primary-publication and 3 dependent-secondary occurrences. Published labels remain separate. Whole-corpus frequencies and independent-witness claims remain blocked.",
+  "acceleration": {
+    "target": "Expand source-checked occurrence coverage toward full rich-record coverage before corpus-wide statistics",
+    "current_coverage": {
+      "rich_records": 21,
+      "source_checked_occurrences": 9
+    },
+    "priority_gates": [
+      "Verify occurrences record-by-record from primary publications where available",
+      "Track source dependence separately from occurrence count",
+      "Reconcile published sign-label systems without silently asserting equivalence",
+      "Require explicit coverage denominator before any frequency claim",
+      "Keep cross-script phonetic testing blocked until exact mapping sources are independently established"
+    ]
+  }
 }
