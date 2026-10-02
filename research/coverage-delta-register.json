@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "benchmark_sources": [
+    {
+      "source": "Olivier 2007 HoChyMin",
+      "role": "major corpus",
+      "rights": "source terms control"
+    },
+    {
+      "source": "Ferrara 2012/2013 CMI",
+      "role": "comprehensive archaeological corpus benchmark",
+      "rights": "copyrighted; catalogue facts/locators may guide verification but no wholesale redistribution"
+    },
+    {
+      "source": "Valério 2014 Seven uncollected Cypro-Minoan inscriptions",
+      "role": "post-corpus coverage delta",
+      "rights": "article copyright applies"
+    }
+  ],
+  "known_post_corpus_delta": [
+    "ADD##247",
+    "ADD##248",
+    "ADD##249",
+    "ADD##250",
+    "ADD##251",
+    "ADD##252",
+    "ADD##253"
+  ],
+  "policy": "Each delta item must be reconciled against canonical project object identity and a permissible source before being marked covered. Bibliographic discovery alone does not admit signs or transcriptions.",
+  "status": "verification_pending"
+}
