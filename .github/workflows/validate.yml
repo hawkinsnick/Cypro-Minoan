@@ -17,6 +17,7 @@ jobs:
       - run: python scripts/test_5_0_conformance.py
 
       - run: python scripts/test_occurrence_coverage.py
+      - run: python scripts/test_scholarly_boundary.py
 
   publish:
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
