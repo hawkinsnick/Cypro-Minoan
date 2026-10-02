@@ -18,6 +18,7 @@ jobs:
 
       - run: python scripts/test_occurrence_coverage.py
       - run: python scripts/test_scholarly_boundary.py
+      - run: python scripts/test_pre_expert_maximum.py
 
   publish:
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
