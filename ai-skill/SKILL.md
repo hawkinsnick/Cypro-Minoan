@@ -1,7 +1,7 @@
 ---
 name: cypro-minoan-research
 description: Evidence-first AI research skill for the Cypro-Minoan corpus.
-version: 0.1.0
+version: 0.3.1
 ---
 
 # Cypro-Minoan Research Skill
@@ -26,3 +26,9 @@ Give the direct answer, followed as relevant by Evidence; Evidentiary status; Un
 
 ## Synchronization
 Read `ai-skill/generated/source-state.json` before substantive work. It records the corpus commit from which the AI-facing package was synchronized. Generated files are rebuildable views; canonical corpus files govern if a discrepancy is found.
+
+## Academic-scrutiny gates
+- Corpus-wide sign frequency remains BLOCKED until canonical status changes
+- Cross-script phonetic inference remains BLOCKED
+- Primary and dependent-secondary occurrences must not be counted as independent witnesses
+- Interchange mappings do not redefine native Cypro-Minoan evidence
