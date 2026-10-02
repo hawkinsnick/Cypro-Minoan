@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Cypro-Minoan",
+  "generated_for": "expert_validation",
+  "principle": "Expert review may validate readings, object identity and source lineage; it must not silently convert sign correspondences into decipherment.",
+  "items": [
+    {
+      "id": "CM-VAL-001",
+      "priority": "critical",
+      "object_scope": "21 rich records",
+      "task": "Continue record-by-record primary-publication verification until the explicit coverage denominator is closed.",
+      "decision_needed": "published sign labels, uncertainty and source locator",
+      "status": "in_progress_requires_expert_review"
+    },
+    {
+      "id": "CM-VAL-002",
+      "priority": "critical",
+      "object_scope": "sign-label systems",
+      "task": "Reconcile published sign-label systems while preserving each authority's notation.",
+      "decision_needed": "equivalence status and disagreement representation",
+      "status": "awaiting_expert"
+    },
+    {
+      "id": "CM-VAL-003",
+      "priority": "high",
+      "object_scope": "primary vs dependent-secondary occurrences",
+      "task": "Review source-dependence assignments.",
+      "decision_needed": "independent-witness status",
+      "status": "awaiting_expert"
+    },
+    {
+      "id": "CM-VAL-004",
+      "priority": "high",
+      "object_scope": "cross-script mappings",
+      "task": "Review exact mapping-source provenance before any comparative phonetic experiment can be considered.",
+      "decision_needed": "mapping evidence quality only; no automatic phonetic inference",
+      "status": "blocked_pending_expert_and_sources"
+    }
+  ],
+  "admission_rule": "Corpus-wide frequency and cross-script phonetic claims remain blocked until their explicit evidence gates are satisfied."
+}
