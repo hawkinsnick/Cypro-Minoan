@@ -16,12 +16,28 @@
       "role": "notice",
       "path": "NOTICE",
       "required": true
+    },
+    {
+      "role": "experiment_gates",
+      "path": "research/experiment-gates.json",
+      "required": true
+    },
+    {
+      "role": "occurrence_coverage",
+      "path": "analysis/occurrence-coverage-v1.json",
+      "required": true
+    },
+    {
+      "role": "coverage_delta",
+      "path": "research/coverage-delta-register.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
     "Corpus-wide sign frequency remains BLOCKED until canonical status changes",
     "Cross-script phonetic inference remains BLOCKED",
     "Primary and dependent-secondary occurrences must not be counted as independent witnesses",
-    "Interchange mappings do not redefine native Cypro-Minoan evidence"
+    "Interchange mappings do not redefine native Cypro-Minoan evidence",
+    "Frequency remains blocked until verified occurrence coverage and its denominator are explicitly sufficient for the stated population."
   ]
 }
