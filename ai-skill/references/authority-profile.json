@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Cypro-Minoan",
+  "required_authorities": [
+    {
+      "role": "current_status",
+      "path": "analysis/current-status.json",
+      "required": true
+    },
+    {
+      "role": "occurrences",
+      "path": "occurrences/occurrences.json",
+      "required": true
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE",
+      "required": true
+    }
+  ],
+  "behavioral_gates": [
+    "Corpus-wide sign frequency remains BLOCKED until canonical status changes",
+    "Cross-script phonetic inference remains BLOCKED",
+    "Primary and dependent-secondary occurrences must not be counted as independent witnesses",
+    "Interchange mappings do not redefine native Cypro-Minoan evidence"
+  ]
+}
