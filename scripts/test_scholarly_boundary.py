@@ -10,9 +10,14 @@ state = load("analysis/current-status.json")
 coverage = load("analysis/occurrence-coverage-v1.json")
 queue = load("research/expert-review-queue.json")
 gates = load("research/experiment-gates.json")["experiments"]
+completeness = load("coverage/completeness-matrix.json")
+exhaustion = load("research/pre-expert-source-exhaustion.json")
 
 assert state["committed_evidence_counts"]["rich_records"] == coverage["rich_records"] == 21
 assert state["committed_evidence_counts"]["source_checked_occurrences"] == coverage["encoded_occurrences"] == 9
+occ_dim = next(d for d in completeness["dimensions"] if d["dimension"] == "source_verified_occurrences")
+assert occ_dim["covered"] == 9
+assert exhaustion["completion_assessment"] == "PRE_EXPERT_MAXIMUM_REACHED_FOR_CURRENT_LAWFUL_SOURCE_ROUTES"
 assert coverage["records_with_encoded_occurrences"] + len(coverage["records_without_encoded_occurrences"]) == coverage["rich_records"]
 assert coverage["sign_labels_merged"] is False
 assert coverage["witness_independence_established"] is False

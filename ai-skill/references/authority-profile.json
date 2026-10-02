@@ -31,6 +31,16 @@
       "role": "coverage_delta",
       "path": "research/coverage-delta-register.json",
       "required": true
+    },
+    {
+      "role": "pre_expert_maximum",
+      "path": "research/pre-expert-maximum.json",
+      "required": true
+    },
+    {
+      "role": "pre_expert_source_exhaustion",
+      "path": "research/pre-expert-source-exhaustion.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -38,6 +48,7 @@
     "Cross-script phonetic inference remains BLOCKED",
     "Primary and dependent-secondary occurrences must not be counted as independent witnesses",
     "Interchange mappings do not redefine native Cypro-Minoan evidence",
-    "Frequency remains blocked until verified occurrence coverage and its denominator are explicitly sufficient for the stated population."
+    "Frequency remains blocked until verified occurrence coverage and its denominator are explicitly sufficient for the stated population.",
+    "PRE_EXPERT_MAXIMUM means currently reachable lawful source routes are dispositioned; it does not mean world-corpus completeness or expert validation."
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "version": "5.0.0",
-  "as_of": "2026-09-28",
+  "version": "5.2.9",
+  "as_of": "2026-10-02",
   "dimensions": [
     {
       "dimension": "historical_catalogue_control",
@@ -26,9 +26,9 @@
     {
       "dimension": "source_verified_occurrences",
       "known": null,
-      "covered": 3,
+      "covered": 9,
       "unit": "occurrences",
-      "interpretation": "sparse subset; corpus-wide inference blocked"
+      "interpretation": "9 encoded source-checked occurrences on 3 of 21 rich records; corpus-wide inference blocked"
     },
     {
       "dimension": "explicit_witness_assertions",
