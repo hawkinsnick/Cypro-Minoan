@@ -13,3 +13,7 @@ Bring Linear A, Linear B, Cretan Hieroglyphic and related projects to comparable
 
 ## Comparative work
 Use deciphered scripts as calibration/falsification controls where appropriate; never as ontological templates or automatic phonetic keys for undeciphered scripts.
+
+## Machine-verifiable scholarly boundary
+
+CI now asserts the 21-record denominator, 9 encoded source-checked occurrences, explicit uncovered-record set, unmerged sign-label systems, unestablished witness independence, and continued blocking of corpus-wide frequency and cross-script phonetic claims. The expert-review queue remains the handoff for judgments that automation cannot establish.
