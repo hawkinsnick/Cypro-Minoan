@@ -26,6 +26,11 @@
       "role": "occurrence_coverage",
       "path": "analysis/occurrence-coverage-v1.json",
       "required": true
+    },
+    {
+      "role": "coverage_delta",
+      "path": "research/coverage-delta-register.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
