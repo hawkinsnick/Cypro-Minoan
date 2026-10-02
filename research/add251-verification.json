@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0",
+  "accession": "ADD##251",
+  "label": "RASH Avas 002",
+  "published_sequence": ["106", "96"],
+  "status": "source-lead-verified-not-admitted",
+  "independent_review": false,
+  "caution": "A two-sign mark is not automatically admitted as an inscription."
+}
