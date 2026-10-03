@@ -26,9 +26,9 @@
     {
       "dimension": "source_verified_occurrences",
       "known": null,
-      "covered": 9,
+      "covered": 12,
       "unit": "occurrences",
-      "interpretation": "9 encoded source-checked occurrences on 3 of 21 rich records; corpus-wide inference blocked"
+      "interpretation": "12 encoded source-attributed occurrences on 6 of 21 rich records; three newly covered records have partial dependent-secondary coverage. Corpus-wide inference remains blocked."
     },
     {
       "dimension": "explicit_witness_assertions",

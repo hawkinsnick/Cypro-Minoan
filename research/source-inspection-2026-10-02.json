@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-02",
+  "scope": "Three partial Enkomi occurrence assertions; evidence role is specific to record locus.",
+  "sources": [
+    {
+      "source_id": "vetters2011",
+      "url": "https://publications.dainst.org/journals/aa/article/download/99/4770",
+      "locator": "printed p. 16, footnote 126 (PDF page 17)",
+      "role": "primary_for_Tiryns_secondary_for_Enkomi",
+      "inspection": [
+        {
+          "file_name": "vetters2011.pdf",
+          "sha256": "d303242bba1e547c4da5688c033758d55747d162042b2bf82f974effd3c99132",
+          "bytes": 587527,
+          "redistributed": false
+        }
+      ]
+    }
+  ],
+  "assertions": [
+    {
+      "record_id": "CMOC-0029",
+      "position": 3,
+      "published_sign_label": "97",
+      "source_role": "dependent_secondary",
+      "upstream_edition": "Olivier 2007",
+      "identity_source": "louvre-cm-29"
+    },
+    {
+      "record_id": "CMOC-0030",
+      "position": 7,
+      "published_sign_label": "97",
+      "source_role": "dependent_secondary",
+      "upstream_edition": "Olivier 2007",
+      "identity_source": "louvre-cm-30"
+    },
+    {
+      "record_id": "CMOC-0031",
+      "position": 3,
+      "published_sign_label": "97",
+      "source_role": "dependent_secondary",
+      "upstream_edition": "Olivier 2007",
+      "identity_source": "louvre-cm-31"
+    }
+  ],
+  "independent_review": false,
+  "canonical_admission_granted": false,
+  "limitations": [
+    "Restricted publication remains local; only bounded factual occurrence assertions and attribution are committed.",
+    "No inferred missing positions, source independence, phonetic values or representative frequency."
+  ]
+}

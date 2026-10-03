@@ -5,7 +5,7 @@
   "dispositions": [
     {
       "id": "CM-PRE-001",
-      "scope": "18 rich records without encoded occurrences",
+      "scope": "15 rich records without encoded occurrences; three newly covered Enkomi records still have only partial secondary coverage",
       "status": "SOURCE_BLOCKED_OR_CITATION_ONLY",
       "evidence": "Existing acquisition audit and occurrence denominator enumerate uncovered records; lawful primary sign sequences have not been established for these records. Museum metadata does not license reconstruction of protected editorial transcriptions.",
       "next_route": "primary publication or independently encoded observation"
@@ -42,6 +42,7 @@
     "cross_script_phonetic_test": "BLOCKED",
     "independent_witness_claims": "BLOCKED"
   },
-  "completion_assessment": "PRE_EXPERT_MAXIMUM_REACHED_FOR_CURRENT_LAWFUL_SOURCE_ROUTES",
-  "qualification": "Discovery remains open-world. New authoritative lawful evidence reopens acquisition without weakening current claim gates."
+  "completion_assessment": "PARTIAL_OCCURRENCE_EXPANSION_PRIMARY_COLLATION_PENDING",
+  "qualification": "Discovery remains open-world. New authoritative lawful evidence reopens acquisition without weakening current claim gates.",
+  "latest_source_inspection": "research/source-inspection-2026-10-02.json"
 }

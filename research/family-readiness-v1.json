@@ -105,23 +105,23 @@
     },
     {
       "repository": "Cypro-Minoan",
-      "snapshot_commit": "59615e482f08098bf3f0d02339911aa4e6ba1f25",
+      "snapshot_commit": null,
       "snapshot_version": "5.2.8",
       "native_evidence": [
         {
           "path": "occurrences/occurrences.json",
-          "sha256": "15413ef7475001b6ed9cd9cfaa5b861da5d67af984621c58342b960298c7e82f",
-          "url": "https://github.com/hawkinsnick/Cypro-Minoan/blob/59615e482f08098bf3f0d02339911aa4e6ba1f25/occurrences/occurrences.json"
+          "sha256": "eab6eedab31dca8ea74ebe4dbfbdbc3ef314222d15a7343540e16f9808ac9c8e",
+          "url": null
         },
         {
           "path": "analysis/occurrence-coverage-v1.json",
-          "sha256": "1d9b0c276c2428fbd42aa637e09b9ac2435e2928e89a7c55f708c51463bb8470",
-          "url": "https://github.com/hawkinsnick/Cypro-Minoan/blob/59615e482f08098bf3f0d02339911aa4e6ba1f25/analysis/occurrence-coverage-v1.json"
+          "sha256": "7b247bb067606e98ec3a1130434ca7dff113530a3df7786a0739e524464e3181",
+          "url": null
         },
         {
           "path": "analysis/5.2.3_tiryns-clay-ball-primary-check.json",
           "sha256": "94de8538973efb19d99a11bc91b99041f08262ab3bd348f0f2c7964590168cf0",
-          "url": "https://github.com/hawkinsnick/Cypro-Minoan/blob/59615e482f08098bf3f0d02339911aa4e6ba1f25/analysis/5.2.3_tiryns-clay-ball-primary-check.json"
+          "url": null
         }
       ],
       "metrics": {
@@ -131,10 +131,16 @@
           "definition": "Committed rich inscription records; not complete occurrence coverage.",
           "status": "measured"
         },
-        "checked_occurrence_objects": {
-          "value": 9,
-          "unit": "native_occurrence_objects",
-          "definition": "Committed source-checked subset, not all corpus impressions.",
+        "encoded_occurrences": {
+          "value": 12,
+          "unit": "encoded_source_occurrence_assertions",
+          "definition": "Six primary-publication and six dependent-secondary occurrence assertions; no independent witness count.",
+          "status": "measured"
+        },
+        "records_with_encoded_occurrences": {
+          "value": 6,
+          "unit": "rich_record_ids",
+          "definition": "Partial or complete occurrence coverage on six of 21 rich records; not six complete sign sequences.",
           "status": "measured"
         }
       },
@@ -142,7 +148,8 @@
         "Verified full occurrence coverage incomplete",
         "Phonetic mapping provenance incomplete"
       ],
-      "comparison_status": "BLOCKED"
+      "comparison_status": "BLOCKED",
+      "snapshot_note": "Current native evidence is pinned by content hashes in this report; historical remote snapshot is superseded for this member only."
     },
     {
       "repository": "Cretan-hieroglpyhs",

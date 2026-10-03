@@ -41,6 +41,11 @@
       "role": "pre_expert_source_exhaustion",
       "path": "research/pre-expert-source-exhaustion.json",
       "required": true
+    },
+    {
+      "role": "source_inspection",
+      "path": "research/source-inspection-2026-10-02.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
