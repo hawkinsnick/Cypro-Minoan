@@ -1,53 +1,4 @@
 {
-  "schema_version": "1.0",
-  "corpus": "Cypro-Minoan",
-  "required_authorities": [
-    {
-      "role": "current_status",
-      "path": "analysis/current-status.json",
-      "required": true
-    },
-    {
-      "role": "occurrences",
-      "path": "occurrences/occurrences.json",
-      "required": true
-    },
-    {
-      "role": "notice",
-      "path": "NOTICE",
-      "required": true
-    },
-    {
-      "role": "experiment_gates",
-      "path": "research/experiment-gates.json",
-      "required": true
-    },
-    {
-      "role": "occurrence_coverage",
-      "path": "analysis/occurrence-coverage-v1.json",
-      "required": true
-    },
-    {
-      "role": "coverage_delta",
-      "path": "research/coverage-delta-register.json",
-      "required": true
-    },
-    {
-      "role": "pre_expert_maximum",
-      "path": "research/pre-expert-maximum.json",
-      "required": true
-    },
-    {
-      "role": "pre_expert_source_exhaustion",
-      "path": "research/pre-expert-source-exhaustion.json",
-      "required": true
-    },
-    {
-      "role": "source_inspection",
-      "path": "research/source-inspection-2026-10-02.json",
-      "required": true
-    }
-  ],
   "behavioral_gates": [
     "Corpus-wide sign frequency remains BLOCKED until canonical status changes",
     "Cross-script phonetic inference remains BLOCKED",
@@ -55,5 +6,64 @@
     "Interchange mappings do not redefine native Cypro-Minoan evidence",
     "Frequency remains blocked until verified occurrence coverage and its denominator are explicitly sufficient for the stated population.",
     "PRE_EXPERT_MAXIMUM means currently reachable lawful source routes are dispositioned; it does not mean world-corpus completeness or expert validation."
-  ]
+  ],
+  "corpus": "Cypro-Minoan",
+  "required_authorities": [
+    {
+      "path": "analysis/current-status.json",
+      "required": true,
+      "role": "current_status"
+    },
+    {
+      "path": "occurrences/occurrences.json",
+      "required": true,
+      "role": "occurrences"
+    },
+    {
+      "path": "NOTICE",
+      "required": true,
+      "role": "notice"
+    },
+    {
+      "path": "research/experiment-gates.json",
+      "required": true,
+      "role": "experiment_gates"
+    },
+    {
+      "path": "analysis/occurrence-coverage-v1.json",
+      "required": true,
+      "role": "occurrence_coverage"
+    },
+    {
+      "path": "research/coverage-delta-register.json",
+      "required": true,
+      "role": "coverage_delta"
+    },
+    {
+      "path": "research/pre-expert-maximum.json",
+      "required": true,
+      "role": "pre_expert_maximum"
+    },
+    {
+      "path": "research/pre-expert-source-exhaustion.json",
+      "required": true,
+      "role": "pre_expert_source_exhaustion"
+    },
+    {
+      "path": "research/source-inspection-2026-10-02.json",
+      "required": true,
+      "role": "source_inspection"
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "required": true,
+      "role": "collection_work_ledger"
+    },
+    {
+      "path": "review/collection-packet.json",
+      "required": true,
+      "role": "collection_review_packet"
+    }
+  ],
+  "schema_version": "1.0"
 }
