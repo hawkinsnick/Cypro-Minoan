@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "d0407467303ccf62e48d6d6e8cc18eadb424d1a6",
-  "generated_at_utc": "2026-10-03T00:40:00+00:00",
+  "source_commit": "a626c872e3f06fb9fce1e6f3aa0f5e5d5eb0b73e",
+  "generated_at_utc": "2026-10-05T01:28:08+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -14,10 +14,40 @@
   },
   "artifacts": [
     {
+      "role": "readable_dossiers",
+      "path": "docs/RECORD-DOSSIERS.md",
+      "sha256": "4f3e043f580d67c482a039a4d3e5725001ac1c17e6d9f02df1f0bfb73299e216",
+      "bytes": 24097
+    },
+    {
+      "role": "record_dossiers",
+      "path": "research/record-dossiers.json",
+      "sha256": "4d160b76248e990819d8e9599175ff1a7c410e481ecced8f8556c2c6b3d3cada",
+      "bytes": 95057
+    },
+    {
+      "role": "context_coverage",
+      "path": "analysis/context-coverage-v1.json",
+      "sha256": "23efc2fea983c2fc30cda81585059c1bb7ce4ec4f79008e93213a7c89dd9d4fc",
+      "bytes": 71974
+    },
+    {
+      "role": "bibliography",
+      "path": "bibliography/sources.json",
+      "sha256": "9bd6ccf0b9f83134cd9bdde132040a66c91914959a9304c3ad73579fd67d922a",
+      "bytes": 18597
+    },
+    {
+      "role": "context_guide",
+      "path": "docs/CONTEXT-AND-DOSSIERS.md",
+      "sha256": "8fb30728dfda6f782db184396d4ce064d8137128a5e9f215011e061c539f3610",
+      "bytes": 1867
+    },
+    {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "1777ea9eb8b49c49ec16ed2dd40211df0ff477716657e8936f2522a4f956a7b0",
-      "bytes": 6022
+      "sha256": "48c511fd91a9b042773702d04e8d8f2cf9009279df7ca726c066cfa0eff55a5b",
+      "bytes": 7355
     },
     {
       "role": "source_inspection",
@@ -46,14 +76,14 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "21fd4b905f8a0107ffd28566162c569a9140acf1c681c2ed3755b12b81074479",
-      "bytes": 2793
+      "sha256": "2728efbd5b9d851df4b65a6196ead36dbcb6e27a7d482c631f165ede3b1f9a4f",
+      "bytes": 3007
     },
     {
       "role": "pre_expert_source_exhaustion",
       "path": "research/pre-expert-source-exhaustion.json",
-      "sha256": "97df39566a9b693baac6774fc859a2cc316af7873386dafb9951ce5ea222ebb5",
-      "bytes": 2510
+      "sha256": "72cf1354f51b71fa371cc21bcdd34bdc88d8bc11151d07cbd7b0dd31fe51c84c",
+      "bytes": 2568
     },
     {
       "role": "occurrences",
