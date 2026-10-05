@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "corpus": "Cypro-Minoan",
   "target": "PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "machine_source_complete": [
     {
       "gate": "catalogue_spine",
@@ -73,5 +73,12 @@
       "decision": "review palaeographic interpretation and any proposed cross-script correspondence"
     }
   ],
-  "completion_rule": "Pre-Expert Maximum is reached only when every remaining nonexpert item is either completed from authoritative lawful evidence or explicitly source-blocked with a locator/acquisition route; human-only decisions must remain unasserted."
+  "completion_rule": "Pre-Expert Maximum is reached only when every remaining nonexpert item is either completed from authoritative lawful evidence or explicitly source-blocked with a locator/acquisition route; human-only decisions must remain unasserted.",
+  "context_milestone": {
+    "release": "5.3.0",
+    "dossiers": 21,
+    "guide": "docs/CONTEXT-AND-DOSSIERS.md",
+    "coverage": "analysis/context-coverage-v1.json",
+    "source_or_human_gates_closed": false
+  }
 }

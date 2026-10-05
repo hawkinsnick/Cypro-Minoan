@@ -1,0 +1,9 @@
+# Context and review dossiers
+
+Adds eight date/period assertions on four Met records, closes nine missing bibliography references with explicit access/verification limits, and generates dossiers for all 21 rich records plus accounting for 254 catalogue slots. Twelve occurrences on six records remain unchanged; partial positions are not full transcriptions.
+
+For a readable view, open [record dossiers](RECORD-DOSSIERS.md). For an inscription, find its `record_id` in `research/record-dossiers.json`. Follow `native_ref` to the canonical evidence. Read source-specific assertions and their locators separately from encoded readings/occurrences. Read `missing_evidence` before drawing conclusions. A source-reported findspot, date or script classification is an attributed assertion, not an independent project finding.
+
+Use `analysis/context-coverage-v1.json` to check the denominator. All 21 rich records have dossiers; the 254 numbered slots have separate source-reported record-link accounting. Repeated catalogue numbers across authority layers are not certified object matches. Twelve encoded occurrences cover six rich records and may be partial or secondary. Four Met records now retain literal date and period labels. Registering a bibliography entry does not reverify legacy script/sign assertions; the British Museum locator remains inaccessible and Donnelly 2020 is bibliographically identified through the Louvre, with the article uninspected.
+
+Rebuild: `python scripts/research_dossiers.py --write`. Verify: `python scripts/research_dossiers.py` and `python scripts/test_research_dossiers.py`. The coverage audit pins all native inputs by SHA-256. Counts and dossiers must replay exactly; orphan sources and generated-view tampering are rejected. Independent review, palaeographic adjudication and linguistic interpretation remain separate future work.

@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-05",
+  "new_assertions": [
+    {
+      "record_id": "CMOC-MET-74.51.5057A",
+      "assertion_type": "museum_date_label",
+      "value": "early 12th century BCE",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-74.51.5057a",
+          "locator": "Artwork Details / Date"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    },
+    {
+      "record_id": "CMOC-MET-74.51.5057A",
+      "assertion_type": "museum_period_label",
+      "value": "Late Bronze Age",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-74.51.5057a",
+          "locator": "Artwork Details / Period"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    },
+    {
+      "record_id": "CMOC-MET-74.51.1312",
+      "assertion_type": "museum_date_label",
+      "value": "ca. 1600–1050 BCE",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-74.51.1312",
+          "locator": "Artwork Details / Date"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    },
+    {
+      "record_id": "CMOC-MET-74.51.1312",
+      "assertion_type": "museum_period_label",
+      "value": "Late Cypriot",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-74.51.1312",
+          "locator": "Artwork Details / Period"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    },
+    {
+      "record_id": "CMOC-MET-74.51.4316",
+      "assertion_type": "museum_date_label",
+      "value": "ca. 14th–13th century BCE",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-74.51.4316",
+          "locator": "Artwork Details / Date"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    },
+    {
+      "record_id": "CMOC-MET-74.51.4316",
+      "assertion_type": "museum_period_label",
+      "value": "Late Cypriot II",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-74.51.4316",
+          "locator": "Artwork Details / Period"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    },
+    {
+      "record_id": "CMOC-MET-2008.27",
+      "assertion_type": "museum_date_label",
+      "value": "ca. 14th century BC",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-2008.27",
+          "locator": "Artwork Details / Date"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    },
+    {
+      "record_id": "CMOC-MET-2008.27",
+      "assertion_type": "museum_period_label",
+      "value": "Late Cypriot II",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-2008.27",
+          "locator": "Artwork Details / Period"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    }
+  ],
+  "sources_registered": [
+    "met-74.51.5057a",
+    "met-74.51.1312",
+    "met-74.51.4316",
+    "met-2008.27",
+    "louvre-am2716",
+    "louvre-am1639",
+    "louvre-ao14747",
+    "bm-1898.1201.204",
+    "donnelly2020"
+  ],
+  "source_access_failures": [
+    "bm-1898.1201.204",
+    "donnelly2020"
+  ],
+  "claim_boundary": "Date/period metadata only; no reading, independent review, script equivalence or excavation findspot verification added."
+}

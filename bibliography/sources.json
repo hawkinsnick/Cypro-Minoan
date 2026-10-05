@@ -352,5 +352,109 @@
     ],
     "year": 2014,
     "rights_note": "Bibliographic frontier-adjudication reference; cited for uncertainty of Cypro-Minoan identification; no figures redistributed."
+  },
+  {
+    "source_id": "met-74.51.5057a",
+    "type": "museum-record",
+    "title": "The Metropolitan Museum of Art collection record 74.51.5057a",
+    "publisher": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/243938",
+    "checked": "2026-10-05",
+    "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+    "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+    "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+  },
+  {
+    "source_id": "met-74.51.1312",
+    "type": "museum-record",
+    "title": "The Metropolitan Museum of Art collection record 74.51.1312",
+    "publisher": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/240899",
+    "checked": "2026-10-05",
+    "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+    "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+    "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+  },
+  {
+    "source_id": "met-74.51.4316",
+    "type": "museum-record",
+    "title": "The Metropolitan Museum of Art collection record 74.51.4316",
+    "publisher": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/321391",
+    "checked": "2026-10-05",
+    "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+    "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+    "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+  },
+  {
+    "source_id": "met-2008.27",
+    "type": "museum-record",
+    "title": "The Metropolitan Museum of Art collection record 2008.27",
+    "publisher": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/331665",
+    "checked": "2026-10-05",
+    "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+    "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+    "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+  },
+  {
+    "source_id": "louvre-am2716",
+    "type": "museum-record",
+    "title": "Musée du Louvre collection record AM 2716",
+    "publisher": "Musée du Louvre",
+    "url": "https://collections.louvre.fr/ark:/53355/cl010132112",
+    "checked": "2026-10-05",
+    "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+    "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+    "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+  },
+  {
+    "source_id": "louvre-am1639",
+    "type": "museum-record",
+    "title": "Musée du Louvre collection record AM 1639",
+    "publisher": "Musée du Louvre",
+    "url": "https://collections.louvre.fr/ark:/53355/cl010131034",
+    "checked": "2026-10-05",
+    "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+    "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+    "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+  },
+  {
+    "source_id": "louvre-ao14747",
+    "type": "museum-record",
+    "title": "Musée du Louvre collection record AO 14747",
+    "publisher": "Musée du Louvre",
+    "url": "https://collections.louvre.fr/ark:/53355/cl010139586",
+    "checked": "2026-10-05",
+    "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+    "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+    "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+  },
+  {
+    "source_id": "bm-1898.1201.204",
+    "type": "museum-record",
+    "title": "The British Museum collection record 1898,1201.204",
+    "publisher": "The British Museum",
+    "url": "https://www.britishmuseum.org/collection/object/G_1898-1201-204",
+    "checked": "2026-10-05",
+    "verification_status": "LOCATOR_LEAD_ACCESS_FAILED",
+    "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+    "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+  },
+  {
+    "source_id": "donnelly2020",
+    "type": "article",
+    "authors": [
+      "Cassandra M. Donnelly"
+    ],
+    "title": "Signs, marks, and Olivier Masson",
+    "journal": "Cahiers du Centre d’Études Chypriotes",
+    "volume": "50",
+    "year": 2020,
+    "pages": "91–107",
+    "doi": "10.4000/cchyp.498",
+    "url": "https://doi.org/10.4000/cchyp.498",
+    "verification_status": "BIBLIOGRAPHY_CHECKED_VIA_LOUVRE_ARTICLE_UNINSPECTED",
+    "rights_note": "Citation only; legacy CM102 assertion remains probable and not reverified."
   }
 ]

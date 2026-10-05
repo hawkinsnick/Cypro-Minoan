@@ -2,7 +2,7 @@
   "format": "research-evidence-index-v1",
   "workbench_version": "1.1.0",
   "project": "Cypro-Minoan",
-  "repository_version": "5.2.8",
+  "repository_version": "5.3.0",
   "evidence": [
     {
       "path": "research/experiment-gates.json",
@@ -43,15 +43,15 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "6594f9e4ce566c083257b4fc2ab9fd5f758515d1e5d1bf0da48b03d7e93f8e2e",
-      "bytes": 7861,
+      "sha256": "fd646f1c1a4eca58febfcc8363e076eebc1acfb6a9d54c6200c350ad0e1d4d30",
+      "bytes": 8610,
       "category": "scripts",
       "summary": {}
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "8dd2c4dd6ec2dcbaadc52b8510387971e84e7e7d58fe672bd6cfc240f2b78aae",
-      "bytes": 14131,
+      "sha256": "2095ee4694bf125f939cda6e36edd9321ce052db988d87e5ad32e3976d733118",
+      "bytes": 14099,
       "category": "research",
       "summary": {
         "scope": "Comparison readiness and software/governance alignment, not permission for cross-script inference. Exact snapshot commits pin native evidence; target versions describe the coordinated rollout. Snapshot versions may precede report-only maintenance."
@@ -117,9 +117,60 @@
     },
     {
       "path": "research/pre-expert-maximum.json",
-      "sha256": "21fd4b905f8a0107ffd28566162c569a9140acf1c681c2ed3755b12b81074479",
-      "bytes": 2793,
+      "sha256": "2728efbd5b9d851df4b65a6196ead36dbcb6e27a7d482c631f165ede3b1f9a4f",
+      "bytes": 3007,
       "category": "research",
+      "summary": {}
+    },
+    {
+      "path": "research/record-dossiers.json",
+      "sha256": "4d160b76248e990819d8e9599175ff1a7c410e481ecced8f8556c2c6b3d3cada",
+      "bytes": 95057,
+      "category": "research",
+      "summary": {}
+    },
+    {
+      "path": "analysis/context-coverage-v1.json",
+      "sha256": "23efc2fea983c2fc30cda81585059c1bb7ce4ec4f79008e93213a7c89dd9d4fc",
+      "bytes": 71974,
+      "category": "analysis",
+      "summary": {
+        "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."
+      }
+    },
+    {
+      "path": "scripts/research_dossiers.py",
+      "sha256": "393822929c446b9b33bb69bcba5ce8ca98b01d078ad94dc03448686727833682",
+      "bytes": 9977,
+      "category": "scripts",
+      "summary": {}
+    },
+    {
+      "path": "scripts/test_research_dossiers.py",
+      "sha256": "684b6570d7abc95fc1a63190684427b9373b042f452ab693bca09e49af9fbb43",
+      "bytes": 1972,
+      "category": "scripts",
+      "summary": {}
+    },
+    {
+      "path": "bibliography/sources.json",
+      "sha256": "9bd6ccf0b9f83134cd9bdde132040a66c91914959a9304c3ad73579fd67d922a",
+      "bytes": 18597,
+      "category": "bibliography",
+      "summary": {}
+    },
+    {
+      "path": "research/context-acquisition-5.3.json",
+      "sha256": "276f5d7c9257709a1505c23fff7927208ed4a0e51f16d563480306ef9a76b07d",
+      "bytes": 3937,
+      "category": "research",
+      "summary": {}
+    },
+    {
+      "path": "docs/RECORD-DOSSIERS.md",
+      "sha256": "4f3e043f580d67c482a039a4d3e5725001ac1c17e6d9f02df1f0bfb73299e216",
+      "bytes": 24097,
+      "category": "docs",
       "summary": {}
     }
   ],
@@ -151,7 +202,7 @@
       "status": "measured"
     }
   },
-  "family_report_sha256": "8dd2c4dd6ec2dcbaadc52b8510387971e84e7e7d58fe672bd6cfc240f2b78aae",
+  "family_report_sha256": "2095ee4694bf125f939cda6e36edd9321ce052db988d87e5ad32e3976d733118",
   "implementation_sha256": "682a350d9457b1e88ff3a3c4d1263880e4fdf98e1012578580b7d2b9d877c916",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."
 }

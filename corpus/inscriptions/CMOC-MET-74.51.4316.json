@@ -18,7 +18,34 @@
     "findplace": "Cyprus",
     "source_id": "met-74.51.4316"
   },
-  "dating": [],
+  "dating": [
+    {
+      "assertion_type": "museum_date_label",
+      "value": "ca. 14th–13th century BCE",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-74.51.4316",
+          "locator": "Artwork Details / Date"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    },
+    {
+      "assertion_type": "museum_period_label",
+      "value": "Late Cypriot II",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-74.51.4316",
+          "locator": "Artwork Details / Period"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    }
+  ],
   "classifications": [
     {
       "assertion_type": "script_identification",
@@ -51,7 +78,7 @@
       }
     ]
   },
-  "record_version": "5.0.0",
+  "record_version": "5.3.0",
   "transcriptions": [],
   "notes": [
     "No protected transcription or restricted image redistributed."

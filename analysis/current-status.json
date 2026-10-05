@@ -1,11 +1,14 @@
 {
   "schema_version": "1.0",
-  "repository_version": "5.2.8",
-  "checked": "2026-10-02",
-  "milestone": "EXECUTABLE_CURRENT_STATE_INTEGRITY",
+  "repository_version": "5.3.0",
+  "checked": "2026-10-05",
+  "milestone": "CONTEXT_AND_REVIEW_DOSSIERS_V1",
   "committed_evidence_counts": {
     "rich_records": 21,
-    "source_checked_occurrences": 12
+    "source_checked_occurrences": 12,
+    "review_dossiers": 21,
+    "records_with_dating": 14,
+    "new_date_period_assertions": 8
   },
   "scientific_results": {
     "corpus_wide_frequency": "BLOCKED",
@@ -34,23 +37,23 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "6594f9e4ce566c083257b4fc2ab9fd5f758515d1e5d1bf0da48b03d7e93f8e2e"
+      "sha256": "fd646f1c1a4eca58febfcc8363e076eebc1acfb6a9d54c6200c350ad0e1d4d30"
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "8dd2c4dd6ec2dcbaadc52b8510387971e84e7e7d58fe672bd6cfc240f2b78aae"
+      "sha256": "2095ee4694bf125f939cda6e36edd9321ce052db988d87e5ad32e3976d733118"
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "c8002589e28903f3f2ab5097de1c85e406f66187fe11cd395d80230458cf1205"
+      "sha256": "176c0e0216af765bc64947159f6ac2ed0ad2f5294f23f5a16464f2a80b8c8fcd"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "36e9fd9e65d3b68ff667c204560f608c666839bdf96659ed6c672da8b3d124b8"
+      "sha256": "cf6a1fc16459c663acf9ad86c932c01a1c195789996b66423839ba91036a17df"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "19c324193f567a58d4c2a0c70f60287c36e0019955f4d9d7643ee0e0aee51510"
+      "sha256": "ae8731fb973e6550572cb7ac5d47fb5df8fe793e2f2d60e9160765b5edf95f20"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -106,12 +109,40 @@
     },
     {
       "path": "research/pre-expert-maximum.json",
-      "sha256": "21fd4b905f8a0107ffd28566162c569a9140acf1c681c2ed3755b12b81074479"
+      "sha256": "2728efbd5b9d851df4b65a6196ead36dbcb6e27a7d482c631f165ede3b1f9a4f"
+    },
+    {
+      "path": "research/record-dossiers.json",
+      "sha256": "4d160b76248e990819d8e9599175ff1a7c410e481ecced8f8556c2c6b3d3cada"
+    },
+    {
+      "path": "analysis/context-coverage-v1.json",
+      "sha256": "23efc2fea983c2fc30cda81585059c1bb7ce4ec4f79008e93213a7c89dd9d4fc"
+    },
+    {
+      "path": "scripts/research_dossiers.py",
+      "sha256": "393822929c446b9b33bb69bcba5ce8ca98b01d078ad94dc03448686727833682"
+    },
+    {
+      "path": "scripts/test_research_dossiers.py",
+      "sha256": "684b6570d7abc95fc1a63190684427b9373b042f452ab693bca09e49af9fbb43"
+    },
+    {
+      "path": "bibliography/sources.json",
+      "sha256": "9bd6ccf0b9f83134cd9bdde132040a66c91914959a9304c3ad73579fd67d922a"
+    },
+    {
+      "path": "research/context-acquisition-5.3.json",
+      "sha256": "276f5d7c9257709a1505c23fff7927208ed4a0e51f16d563480306ef9a76b07d"
+    },
+    {
+      "path": "docs/RECORD-DOSSIERS.md",
+      "sha256": "4f3e043f580d67c482a039a4d3e5725001ac1c17e6d9f02df1f0bfb73299e216"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
   "historical_reports": "Historical versioned analyses and baseline files retain their original content versions.",
-  "summary": "12 encoded occurrences on 6 of 21 rich records: 6 primary-publication and 6 dependent-secondary occurrences. Vetters is primary for Tiryns but secondary for three cited Enkomi occurrences. Partial sequences and source dependence remain explicit; corpus-wide frequency remains blocked.",
+  "summary": "Adds eight date/period assertions on four Met records, closes nine missing bibliography references with explicit access/verification limits, and generates dossiers for all 21 rich records plus accounting for 254 catalogue slots. Twelve occurrences on six records remain unchanged; partial positions are not full transcriptions.",
   "acceleration": {
     "target": "Expand source-checked occurrence coverage toward full rich-record coverage before corpus-wide statistics",
     "current_coverage": {
@@ -156,5 +187,11 @@
       ],
       "status": "PRIMARY_PUBLICATION_LOCATOR_PRESENT"
     }
+  },
+  "context_checkpoint": {
+    "coverage": "analysis/context-coverage-v1.json",
+    "dossiers": "research/record-dossiers.json",
+    "independent_reviews_added": 0,
+    "source_only": true
   }
 }

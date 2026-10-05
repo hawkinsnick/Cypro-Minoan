@@ -18,7 +18,34 @@
     "findplace": "Cyprus",
     "source_id": "met-74.51.5057a"
   },
-  "dating": [],
+  "dating": [
+    {
+      "assertion_type": "museum_date_label",
+      "value": "early 12th century BCE",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-74.51.5057a",
+          "locator": "Artwork Details / Date"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    },
+    {
+      "assertion_type": "museum_period_label",
+      "value": "Late Bronze Age",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-74.51.5057a",
+          "locator": "Artwork Details / Period"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    }
+  ],
   "classifications": [
     {
       "assertion_type": "script_identification",
@@ -67,7 +94,7 @@
       }
     ]
   },
-  "record_version": "5.0.0",
+  "record_version": "5.3.0",
   "transcriptions": [],
   "notes": [
     "No protected transcription or restricted image redistributed."

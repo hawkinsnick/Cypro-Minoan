@@ -49,3 +49,9 @@ Adversarial audit → reproducibility enforcement → completeness accounting �
 ## [3.0.0] - 2026-09-27
 - Evidence research platform with catalogue reconciliation, frontier registry, witnesses, occurrence/palaeographic architecture, dataset snapshots and experiment gates.
 
+
+## 5.3.0 — context and review dossiers
+
+Adds eight date/period assertions on four Met records, closes nine missing bibliography references with explicit access/verification limits, and generates dossiers for all 21 rich records plus accounting for 254 catalogue slots. Twelve occurrences on six records remain unchanged; partial positions are not full transcriptions.
+
+Adds source-reference closure checks, full dossier/coverage replay and hostile tests for orphan sources, duplicate identities and metadata-to-reading promotion. Existing scientific gates retain their prior state.

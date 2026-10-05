@@ -1,0 +1,3026 @@
+{
+  "schema_version": "1.0",
+  "project": "Cypro-Minoan",
+  "release": "5.3.0",
+  "dossiers": [
+    {
+      "record_id": "CMOC-0025",
+      "native_ref": "corpus/inscriptions/CMOC-0025.json",
+      "native_sha256": "bbf2004de392733adc985bd54e2fe3adb6ed02dd501e85ce350d18efcc7e694f",
+      "object": {
+        "object_type": "inscribed clay ball",
+        "material": "clay",
+        "repository": "Musée du Louvre, Département des Antiquités orientales",
+        "inventory_number": "AM 2225"
+      },
+      "find_context": {
+        "findplace": "Enkomi",
+        "source_id": "louvre-cm-25"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_range",
+          "value": {
+            "label": "Late Cypriot",
+            "start_bce": 1600,
+            "end_bce": 1050
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-25",
+              "locator": "museum record, Date"
+            }
+          ]
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AM 2225",
+          "source_id": "louvre-cm-25"
+        },
+        {
+          "system": "excavation inventory",
+          "value": "Enk. 49 5115",
+          "source_id": "louvre-cm-25"
+        },
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "25",
+          "source_id": "louvre-cm-25"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "25",
+          "source_id": "louvre-cm-25"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "traditional_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-25",
+              "locator": "museum record, Inscriptions"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "script_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-25",
+              "locator": "museum record, Inscriptions"
+            }
+          ]
+        },
+        {
+          "assertion_type": "sign_count",
+          "value": 8,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-25",
+              "locator": "museum record, Description"
+            }
+          ]
+        },
+        {
+          "assertion_type": "discovery_year",
+          "value": 1949,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-25",
+              "locator": "museum record, Places and dates"
+            }
+          ]
+        },
+        {
+          "assertion_type": "published_cross_reference",
+          "value": {
+            "ferrara_2013_catalogue": 25,
+            "ferrara_pages": "23-24",
+            "olivier_2007_catalogue": 25,
+            "olivier_page": "76"
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-25",
+              "locator": "museum record, Bibliography"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "louvre-cm-25"
+      ],
+      "rights": {
+        "record_license": "Project-original structured metadata; third-party assertions retain attribution",
+        "third_party_material": []
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "louvre-cm-25",
+          "type": "museum_record",
+          "title": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 25)",
+          "authors": [
+            "Musée du Louvre"
+          ],
+          "year": 2025,
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131597",
+          "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-0026",
+      "native_ref": "corpus/inscriptions/CMOC-0026.json",
+      "native_sha256": "ff502a93180a7c18b86848974536608d998a9b9060b274e2d8e3f5fec73fb97a",
+      "object": {
+        "object_type": "inscribed clay ball",
+        "material": "clay",
+        "repository": "Musée du Louvre, Département des Antiquités orientales",
+        "inventory_number": "AM 2226"
+      },
+      "find_context": {
+        "findplace": "Enkomi",
+        "source_id": "louvre-cm-26"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_range",
+          "value": {
+            "label": "Late Cypriot",
+            "start_bce": 1600,
+            "end_bce": 1050
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-26",
+              "locator": "museum record, Date"
+            }
+          ]
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AM 2226",
+          "source_id": "louvre-cm-26"
+        },
+        {
+          "system": "excavation inventory",
+          "value": "Enk. 49 4072",
+          "source_id": "louvre-cm-26"
+        },
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "26",
+          "source_id": "louvre-cm-26"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "26",
+          "source_id": "louvre-cm-26"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "traditional_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-26",
+              "locator": "museum record, Inscriptions"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "script_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-26",
+              "locator": "museum record, Inscriptions"
+            }
+          ]
+        },
+        {
+          "assertion_type": "sign_count",
+          "value": 5,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-26",
+              "locator": "museum record, Description"
+            }
+          ]
+        },
+        {
+          "assertion_type": "discovery_year",
+          "value": 1949,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-26",
+              "locator": "museum record, Places and dates"
+            }
+          ]
+        },
+        {
+          "assertion_type": "published_cross_reference",
+          "value": {
+            "ferrara_2013_catalogue": 26,
+            "ferrara_pages": "24",
+            "olivier_2007_catalogue": 26,
+            "olivier_page": "76"
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-26",
+              "locator": "museum record, Bibliography"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "louvre-cm-26"
+      ],
+      "rights": {
+        "record_license": "Project-original structured metadata; third-party assertions retain attribution",
+        "third_party_material": []
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "louvre-cm-26",
+          "type": "museum_record",
+          "title": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 26)",
+          "authors": [
+            "Musée du Louvre"
+          ],
+          "year": 2025,
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131598",
+          "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-0027",
+      "native_ref": "corpus/inscriptions/CMOC-0027.json",
+      "native_sha256": "88471888e303edcae20c0127d31bdd2d4eb67babd07bc9ee5819e0a9e91a03f7",
+      "object": {
+        "object_type": "inscribed clay ball",
+        "material": "clay",
+        "repository": "Musée du Louvre, Département des Antiquités orientales",
+        "inventory_number": "AM 2230"
+      },
+      "find_context": {
+        "findplace": "Enkomi",
+        "source_id": "louvre-cm-27"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_range",
+          "value": {
+            "label": "Late Cypriot",
+            "start_bce": 1600,
+            "end_bce": 1050
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-27",
+              "locator": "museum record, Date"
+            }
+          ]
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AM 2230",
+          "source_id": "louvre-cm-27"
+        },
+        {
+          "system": "excavation inventory",
+          "value": "Enk. 5523",
+          "source_id": "louvre-cm-27"
+        },
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "27",
+          "source_id": "louvre-cm-27"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "27",
+          "source_id": "louvre-cm-27"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "traditional_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-27",
+              "locator": "museum record, Inscriptions"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "script_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-27",
+              "locator": "museum record, Inscriptions"
+            }
+          ]
+        },
+        {
+          "assertion_type": "sign_count",
+          "value": 4,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-27",
+              "locator": "museum record, Description"
+            }
+          ]
+        },
+        {
+          "assertion_type": "discovery_year",
+          "value": 1950,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-27",
+              "locator": "museum record, Places and dates"
+            }
+          ]
+        },
+        {
+          "assertion_type": "published_cross_reference",
+          "value": {
+            "ferrara_2013_catalogue": 27,
+            "ferrara_pages": "24",
+            "olivier_2007_catalogue": 27,
+            "olivier_page": "77"
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-27",
+              "locator": "museum record, Bibliography"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "louvre-cm-27"
+      ],
+      "rights": {
+        "record_license": "Project-original structured metadata; third-party assertions retain attribution",
+        "third_party_material": []
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "louvre-cm-27",
+          "type": "museum_record",
+          "title": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 27)",
+          "authors": [
+            "Musée du Louvre"
+          ],
+          "year": 2025,
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131602",
+          "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-0028",
+      "native_ref": "corpus/inscriptions/CMOC-0028.json",
+      "native_sha256": "e18a9d3cd8c72007e04e7045752b3a6858066773989a6708095edaf2e81b0548",
+      "object": {
+        "object_type": "inscribed clay ball",
+        "material": "clay",
+        "repository": "Musée du Louvre, Département des Antiquités orientales",
+        "inventory_number": "AM 2231"
+      },
+      "find_context": {
+        "findplace": "Enkomi",
+        "source_id": "louvre-cm-28"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_range",
+          "value": {
+            "label": "Late Cypriot",
+            "start_bce": 1600,
+            "end_bce": 1050
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-28",
+              "locator": "museum record, Date"
+            }
+          ]
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AM 2231",
+          "source_id": "louvre-cm-28"
+        },
+        {
+          "system": "excavation inventory",
+          "value": "Enk. 49 4034",
+          "source_id": "louvre-cm-28"
+        },
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "28",
+          "source_id": "louvre-cm-28"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "28",
+          "source_id": "louvre-cm-28"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "traditional_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-28",
+              "locator": "museum record, Inscriptions"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "script_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-28",
+              "locator": "museum record, Inscriptions"
+            }
+          ]
+        },
+        {
+          "assertion_type": "sign_count",
+          "value": 3,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-28",
+              "locator": "museum record, Description"
+            }
+          ]
+        },
+        {
+          "assertion_type": "discovery_year",
+          "value": 1949,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-28",
+              "locator": "museum record, Places and dates"
+            }
+          ]
+        },
+        {
+          "assertion_type": "published_cross_reference",
+          "value": {
+            "ferrara_2013_catalogue": 28,
+            "ferrara_pages": "25",
+            "olivier_2007_catalogue": 28,
+            "olivier_page": "77"
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-28",
+              "locator": "museum record, Bibliography"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "louvre-cm-28"
+      ],
+      "rights": {
+        "record_license": "Project-original structured metadata; third-party assertions retain attribution",
+        "third_party_material": []
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "louvre-cm-28",
+          "type": "museum_record",
+          "title": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 28)",
+          "authors": [
+            "Musée du Louvre"
+          ],
+          "year": 2025,
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131603",
+          "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-0029",
+      "native_ref": "corpus/inscriptions/CMOC-0029.json",
+      "native_sha256": "ec23dd2f40ce2db54e86d688a23c907ece775a42baba40907d9fbbf7e7f80ea8",
+      "object": {
+        "object_type": "inscribed clay ball",
+        "material": "clay",
+        "repository": "Musée du Louvre, Département des Antiquités orientales",
+        "inventory_number": "AM 2229"
+      },
+      "find_context": {
+        "findplace": "Enkomi",
+        "source_id": "louvre-cm-29"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_range",
+          "value": {
+            "label": "Late Cypriot",
+            "start_bce": 1600,
+            "end_bce": 1050
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-29",
+              "locator": "museum record, Date"
+            }
+          ]
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AM 2229",
+          "source_id": "louvre-cm-29"
+        },
+        {
+          "system": "excavation inventory",
+          "value": "Enk. 49 4091",
+          "source_id": "louvre-cm-29"
+        },
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "29",
+          "source_id": "louvre-cm-29"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "29",
+          "source_id": "louvre-cm-29"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "traditional_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-29",
+              "locator": "museum record, Inscriptions"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "script_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-29",
+              "locator": "museum record, Inscriptions"
+            }
+          ]
+        },
+        {
+          "assertion_type": "sign_count",
+          "value": 4,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-29",
+              "locator": "museum record, Description"
+            }
+          ]
+        },
+        {
+          "assertion_type": "discovery_year",
+          "value": 1949,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-29",
+              "locator": "museum record, Places and dates"
+            }
+          ]
+        },
+        {
+          "assertion_type": "published_cross_reference",
+          "value": {
+            "ferrara_2013_catalogue": 29,
+            "ferrara_pages": "25",
+            "olivier_2007_catalogue": 29,
+            "olivier_page": "78"
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-29",
+              "locator": "museum record, Bibliography"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [
+        {
+          "occurrence_id": "CMOCC-ENK029-VETTERS2011-3",
+          "record_id": "CMOC-0029",
+          "zone_id": "source-numbered-sequence",
+          "position": 3,
+          "published_sign_label": "97",
+          "source_id": "vetters2011",
+          "source_role": "dependent_secondary",
+          "locator": "p. 16, footnote 126, Olivier 2007 no. 029 (3rd sign)",
+          "certainty": "certain",
+          "notes": [
+            "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+            "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+          ]
+        }
+      ],
+      "source_ids": [
+        "louvre-cm-29",
+        "vetters2011"
+      ],
+      "rights": {
+        "record_license": "Project-original structured metadata; third-party assertions retain attribution",
+        "third_party_material": []
+      },
+      "missing_evidence": [
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "louvre-cm-29",
+          "type": "museum_record",
+          "title": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 29)",
+          "authors": [
+            "Musée du Louvre"
+          ],
+          "year": 2025,
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131601",
+          "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+        },
+        {
+          "source_id": "vetters2011",
+          "type": "article",
+          "title": "A Clay Ball with a Cypro-Minoan Inscription from Tiryns",
+          "authors": [
+            "Melissa Vetters"
+          ],
+          "year": 2011,
+          "url": "https://publications.dainst.org/journals/aa/article/download/99/4770",
+          "rights_note": "Source-attributed factual metadata; no figures redistributed."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-0030",
+      "native_ref": "corpus/inscriptions/CMOC-0030.json",
+      "native_sha256": "4f00a3953ef27a56344e081922aa8078de8517e09b4f995ecef8bc1b38de4d3e",
+      "object": {
+        "object_type": "inscribed clay ball",
+        "material": "clay",
+        "repository": "Musée du Louvre, Département des Antiquités orientales",
+        "inventory_number": "AM 2232"
+      },
+      "find_context": {
+        "findplace": "Enkomi",
+        "source_id": "louvre-cm-30"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_range",
+          "value": {
+            "label": "Late Cypriot",
+            "start_bce": 1600,
+            "end_bce": 1050
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-30",
+              "locator": "museum record, Date"
+            }
+          ]
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AM 2232",
+          "source_id": "louvre-cm-30"
+        },
+        {
+          "system": "excavation inventory",
+          "value": "Enk 1953-6",
+          "source_id": "louvre-cm-30"
+        },
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "30",
+          "source_id": "louvre-cm-30"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "30",
+          "source_id": "louvre-cm-30"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "traditional_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-30",
+              "locator": "museum record, Inscriptions"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "script_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-30",
+              "locator": "museum record, Inscriptions"
+            }
+          ]
+        },
+        {
+          "assertion_type": "discovery_year",
+          "value": 1953,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-30",
+              "locator": "museum record, Places and dates"
+            }
+          ]
+        },
+        {
+          "assertion_type": "published_cross_reference",
+          "value": {
+            "ferrara_2013_catalogue": 30,
+            "ferrara_pages": "25-26",
+            "olivier_2007_catalogue": 30,
+            "olivier_page": "78"
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-30",
+              "locator": "museum record, Bibliography"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [
+        {
+          "occurrence_id": "CMOCC-ENK030-VETTERS2011-7",
+          "record_id": "CMOC-0030",
+          "zone_id": "source-numbered-sequence",
+          "position": 7,
+          "published_sign_label": "97",
+          "source_id": "vetters2011",
+          "source_role": "dependent_secondary",
+          "locator": "p. 16, footnote 126, Olivier 2007 no. 030 (7th sign)",
+          "certainty": "certain",
+          "notes": [
+            "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+            "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+          ]
+        }
+      ],
+      "source_ids": [
+        "louvre-cm-30",
+        "vetters2011"
+      ],
+      "rights": {
+        "record_license": "Project-original structured metadata; third-party assertions retain attribution",
+        "third_party_material": []
+      },
+      "missing_evidence": [
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "louvre-cm-30",
+          "type": "museum_record",
+          "title": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 30)",
+          "authors": [
+            "Musée du Louvre"
+          ],
+          "year": 2025,
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131604",
+          "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+        },
+        {
+          "source_id": "vetters2011",
+          "type": "article",
+          "title": "A Clay Ball with a Cypro-Minoan Inscription from Tiryns",
+          "authors": [
+            "Melissa Vetters"
+          ],
+          "year": 2011,
+          "url": "https://publications.dainst.org/journals/aa/article/download/99/4770",
+          "rights_note": "Source-attributed factual metadata; no figures redistributed."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-0031",
+      "native_ref": "corpus/inscriptions/CMOC-0031.json",
+      "native_sha256": "45ce25e590907af426befe70cd7fc690e4b281416bdb8c9b5b292997c90d2ed7",
+      "object": {
+        "object_type": "inscribed clay ball",
+        "material": "clay",
+        "repository": "Musée du Louvre, Département des Antiquités orientales",
+        "inventory_number": "AM 2233"
+      },
+      "find_context": {
+        "findplace": "Enkomi",
+        "source_id": "louvre-cm-31"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_range",
+          "value": {
+            "label": "Late Cypriot",
+            "start_bce": 1600,
+            "end_bce": 1050
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-31",
+              "locator": "Places and dates"
+            }
+          ]
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AM 2233",
+          "source_id": "louvre-cm-31"
+        },
+        {
+          "system": "excavation inventory",
+          "value": "Enk 1955-96",
+          "source_id": "louvre-cm-31"
+        },
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "31",
+          "source_id": "louvre-cm-31"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "31",
+          "source_id": "louvre-cm-31"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "traditional_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-31",
+              "locator": "Inscriptions"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "diameter_cm",
+          "value": 2.1,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-31",
+              "locator": "Physical characteristics"
+            }
+          ]
+        },
+        {
+          "assertion_type": "techniques",
+          "value": [
+            "modeled",
+            "incised"
+          ],
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-31",
+              "locator": "Materials and techniques"
+            }
+          ]
+        },
+        {
+          "assertion_type": "discovery_year",
+          "value": 1955,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-31",
+              "locator": "Places and dates"
+            }
+          ]
+        },
+        {
+          "assertion_type": "acquisition",
+          "value": "share after excavations",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-31",
+              "locator": "History"
+            }
+          ]
+        },
+        {
+          "assertion_type": "excavator",
+          "value": "Claude Schaeffer",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-31",
+              "locator": "History"
+            }
+          ]
+        },
+        {
+          "assertion_type": "published_cross_reference",
+          "value": {
+            "ferrara_2013_catalogue": 31,
+            "ferrara_pages": "26",
+            "olivier_2007_catalogue": 31,
+            "olivier_page": "79"
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-31",
+              "locator": "Bibliography"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [
+        {
+          "occurrence_id": "CMOCC-ENK031-VETTERS2011-3",
+          "record_id": "CMOC-0031",
+          "zone_id": "source-numbered-sequence",
+          "position": 3,
+          "published_sign_label": "97",
+          "source_id": "vetters2011",
+          "source_role": "dependent_secondary",
+          "locator": "p. 16, footnote 126, Olivier 2007 no. 031 (3rd sign)",
+          "certainty": "certain",
+          "notes": [
+            "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+            "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+          ]
+        }
+      ],
+      "source_ids": [
+        "louvre-cm-31",
+        "vetters2011"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; Louvre textual source data reused under Licence Ouverte / Open Licence Etalab with attribution.",
+        "third_party_material": [
+          {
+            "source_id": "louvre-cm-31",
+            "material": "textual collection metadata",
+            "license_id": "etalab-open-licence",
+            "source_update_date": "2025-12-08",
+            "attribution": "Musée du Louvre"
+          },
+          {
+            "source_id": "louvre-cm-31",
+            "material": "museum photographs",
+            "license_id": "link-only-unverified",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "louvre-cm-31",
+          "type": "museum_record",
+          "title": "Musée du Louvre Collections: inscribed Cypro-Minoan clay ball AM 2233",
+          "authors": [
+            "Musée du Louvre"
+          ],
+          "year": 2025,
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131605",
+          "rights_note": "Textual entry reused under Licence Ouverte / Open Licence Etalab; Louvre entry last updated 2025-12-08. No Louvre images redistributed.",
+          "notes": "Attribution: Musée du Louvre. Museum entry warns that its contents may not reflect the latest state of knowledge."
+        },
+        {
+          "source_id": "vetters2011",
+          "type": "article",
+          "title": "A Clay Ball with a Cypro-Minoan Inscription from Tiryns",
+          "authors": [
+            "Melissa Vetters"
+          ],
+          "year": 2011,
+          "url": "https://publications.dainst.org/journals/aa/article/download/99/4770",
+          "rights_note": "Source-attributed factual metadata; no figures redistributed."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-0032",
+      "native_ref": "corpus/inscriptions/CMOC-0032.json",
+      "native_sha256": "2ea5ca155967348b5fc62bb78d6fa6f13851e3c24bee19c1c7d1827e72a7bdd2",
+      "object": {
+        "object_type": "inscribed clay ball",
+        "material": "clay",
+        "repository": "Musée du Louvre, Département des Antiquités orientales",
+        "inventory_number": "AM 2235"
+      },
+      "find_context": {
+        "findplace": "Enkomi",
+        "source_id": "louvre-cm-32"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_range",
+          "value": {
+            "label": "Late Cypriot",
+            "start_bce": 1600,
+            "end_bce": 1050
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-32",
+              "locator": "Places and dates"
+            }
+          ]
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AM 2235",
+          "source_id": "louvre-cm-32"
+        },
+        {
+          "system": "excavation inventory",
+          "value": "Enk 1955-54",
+          "source_id": "louvre-cm-32"
+        },
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "32",
+          "source_id": "louvre-cm-32"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "32",
+          "source_id": "louvre-cm-32"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "traditional_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-32",
+              "locator": "Inscriptions"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "diameter_cm",
+          "value": 2.3,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-32",
+              "locator": "Physical characteristics"
+            }
+          ]
+        },
+        {
+          "assertion_type": "techniques",
+          "value": [
+            "modeled",
+            "incised"
+          ],
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-32",
+              "locator": "Materials and techniques"
+            }
+          ]
+        },
+        {
+          "assertion_type": "discovery_year",
+          "value": 1955,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-32",
+              "locator": "Places and dates"
+            }
+          ]
+        },
+        {
+          "assertion_type": "acquisition",
+          "value": "share after excavations",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-32",
+              "locator": "History"
+            }
+          ]
+        },
+        {
+          "assertion_type": "excavator",
+          "value": "Claude Schaeffer",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-32",
+              "locator": "History"
+            }
+          ]
+        },
+        {
+          "assertion_type": "published_cross_reference",
+          "value": {
+            "ferrara_2013_catalogue": 32,
+            "ferrara_pages": "26",
+            "olivier_2007_catalogue": 32,
+            "olivier_page": "79"
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-32",
+              "locator": "Bibliography"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "louvre-cm-32"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; Louvre textual source data reused under Licence Ouverte / Open Licence Etalab with attribution.",
+        "third_party_material": [
+          {
+            "source_id": "louvre-cm-32",
+            "material": "textual collection metadata",
+            "license_id": "etalab-open-licence",
+            "source_update_date": "2025-12-08",
+            "attribution": "Musée du Louvre"
+          },
+          {
+            "source_id": "louvre-cm-32",
+            "material": "museum photographs",
+            "license_id": "link-only-unverified",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "louvre-cm-32",
+          "type": "museum_record",
+          "title": "Musée du Louvre Collections: inscribed Cypro-Minoan clay ball AM 2235",
+          "authors": [
+            "Musée du Louvre"
+          ],
+          "year": 2025,
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131607",
+          "rights_note": "Textual entry reused under Licence Ouverte / Open Licence Etalab; Louvre entry last updated 2025-12-08. No Louvre images redistributed.",
+          "notes": "Attribution: Musée du Louvre. Museum entry warns that its contents may not reflect the latest state of knowledge."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-0033",
+      "native_ref": "corpus/inscriptions/CMOC-0033.json",
+      "native_sha256": "fa65a3ac8b63b3a4835f4f69aa7c4076fc5a11ad054c08f38894670ed93a8e0e",
+      "object": {
+        "object_type": "inscribed clay ball",
+        "material": "clay",
+        "repository": "Musée du Louvre, Département des Antiquités orientales",
+        "inventory_number": "AM 2234"
+      },
+      "find_context": {
+        "findplace": "Enkomi",
+        "source_id": "louvre-cm-33"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_range",
+          "value": {
+            "label": "Late Cypriot",
+            "start_bce": 1600,
+            "end_bce": 1050
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-33",
+              "locator": "Places and dates"
+            }
+          ]
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AM 2234",
+          "source_id": "louvre-cm-33"
+        },
+        {
+          "system": "excavation inventory",
+          "value": "Enk 1955-63",
+          "source_id": "louvre-cm-33"
+        },
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "33",
+          "source_id": "louvre-cm-33"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "33",
+          "source_id": "louvre-cm-33"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "traditional_classification",
+          "value": "CM1",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-33",
+              "locator": "Inscriptions"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "diameter_cm",
+          "value": 1.9,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-33",
+              "locator": "Physical characteristics"
+            }
+          ]
+        },
+        {
+          "assertion_type": "techniques",
+          "value": [
+            "modeled",
+            "incised"
+          ],
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-33",
+              "locator": "Materials and techniques"
+            }
+          ]
+        },
+        {
+          "assertion_type": "discovery_year",
+          "value": 1955,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-33",
+              "locator": "Places and dates"
+            }
+          ]
+        },
+        {
+          "assertion_type": "acquisition",
+          "value": "share after excavations",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-33",
+              "locator": "History"
+            }
+          ]
+        },
+        {
+          "assertion_type": "excavator",
+          "value": "Claude Schaeffer",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-33",
+              "locator": "History"
+            }
+          ]
+        },
+        {
+          "assertion_type": "published_cross_reference",
+          "value": {
+            "ferrara_2013_catalogue": 33,
+            "ferrara_pages": "26-27",
+            "olivier_2007_catalogue": 33,
+            "olivier_page": "80"
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-33",
+              "locator": "Bibliography"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "louvre-cm-33"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; Louvre textual source data reused under Licence Ouverte / Open Licence Etalab with attribution.",
+        "third_party_material": [
+          {
+            "source_id": "louvre-cm-33",
+            "material": "textual collection metadata",
+            "license_id": "etalab-open-licence",
+            "source_update_date": "2025-12-08",
+            "attribution": "Musée du Louvre"
+          },
+          {
+            "source_id": "louvre-cm-33",
+            "material": "museum photographs",
+            "license_id": "link-only-unverified",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "louvre-cm-33",
+          "type": "museum_record",
+          "title": "Musée du Louvre Collections: inscribed Cypro-Minoan clay ball AM 2234",
+          "authors": [
+            "Musée du Louvre"
+          ],
+          "year": 2025,
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131606",
+          "rights_note": "Textual entry reused under Licence Ouverte / Open Licence Etalab; Louvre entry last updated 2025-12-08. No Louvre images redistributed.",
+          "notes": "Attribution: Musée du Louvre. Museum entry warns that its contents may not reflect the latest state of knowledge."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-0209",
+      "native_ref": "corpus/inscriptions/CMOC-0209.json",
+      "native_sha256": "e09a1c23570e16d84977213cf4ab48e79948b621159f69a6066bb89a6761882a",
+      "object": {
+        "object_type": "tablet",
+        "material": "terracotta (brown)",
+        "repository": "Musée du Louvre, Département des Antiquités orientales",
+        "inventory_number": "AM 2336"
+      },
+      "find_context": {
+        "findplace": "Enkomi",
+        "source_id": "louvre-cm-209"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_range",
+          "value": {
+            "label": "Late Cypriot III",
+            "start_bce": 1230,
+            "end_bce": 1050
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-209",
+              "locator": "Places and dates"
+            }
+          ]
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AM 2336",
+          "source_id": "louvre-cm-209"
+        },
+        {
+          "system": "excavation inventory",
+          "value": "Enk. 53 5",
+          "source_id": "louvre-cm-209"
+        },
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "209",
+          "source_id": "louvre-cm-209"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "209",
+          "source_id": "louvre-cm-209"
+        }
+      ],
+      "classifications": [],
+      "assertions": [
+        {
+          "assertion_type": "discovery_year",
+          "value": 1953,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-209",
+              "locator": "Places and dates"
+            }
+          ]
+        },
+        {
+          "assertion_type": "height_cm",
+          "value": 8,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-209",
+              "locator": "Physical characteristics"
+            }
+          ]
+        },
+        {
+          "assertion_type": "length_cm",
+          "value": 12.1,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-cm-209",
+              "locator": "Physical characteristics"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "louvre-cm-209"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; Louvre textual source data reused under Licence Ouverte / Open Licence Etalab with attribution.",
+        "third_party_material": [
+          {
+            "source_id": "louvre-cm-209",
+            "material": "museum photographs",
+            "license_id": "link-only-unverified",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "louvre-cm-209",
+          "type": "museum_record",
+          "title": "Musée du Louvre Collections: Cypro-Minoan object AM 2336",
+          "authors": [
+            "Musée du Louvre"
+          ],
+          "year": 2026,
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131738",
+          "rights_note": "Textual collection data reused under Licence Ouverte / Open Licence Etalab; no images redistributed."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-0216",
+      "native_ref": "corpus/inscriptions/CMOC-0216.json",
+      "native_sha256": "40ad38ba845c4b49eda4415c233f4cd8bc4d5ba243f0ce231370960867962e54",
+      "object": {
+        "object_type": "cup/vessel",
+        "material": "silver",
+        "repository": "Musée du Louvre",
+        "inventory_number": "AO 14747"
+      },
+      "find_context": {
+        "findplace": "Ras Shamra acropolis (Ugarit)",
+        "source_id": "louvre-ao14747"
+      },
+      "dating": [],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AO 14747",
+          "source_id": "louvre-ao14747"
+        },
+        {
+          "system": "excavation inventory",
+          "value": "RS 3.389",
+          "source_id": "louvre-ao14747"
+        },
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "216",
+          "source_id": "louvre-ao14747"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "216",
+          "source_id": "louvre-ao14747"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "script_identification",
+          "value": "Cypro-Minoan",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-ao14747",
+              "locator": "Inscriptions / Script"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "published_cross_reference",
+          "value": {
+            "ferrara": 216,
+            "olivier": 216
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-ao14747",
+              "locator": "Bibliography"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "louvre-ao14747"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; Louvre textual metadata reused under Etalab Open Licence with attribution.",
+        "third_party_material": [
+          {
+            "source_id": "louvre-ao14747",
+            "material": "textual collection metadata",
+            "license_id": "etalab-open-licence",
+            "included": true
+          },
+          {
+            "source_id": "louvre-ao14747",
+            "material": "museum photographs",
+            "license_id": "link-only-unverified",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "DATED_ASSERTION_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "louvre-ao14747",
+          "type": "museum-record",
+          "title": "Musée du Louvre collection record AO 14747",
+          "publisher": "Musée du Louvre",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010139586",
+          "checked": "2026-10-05",
+          "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+          "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+          "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-BM-1898.1201.204",
+      "native_ref": "corpus/inscriptions/CMOC-BM-1898.1201.204.json",
+      "native_sha256": "83dd6a2f35d892e9175d16997bd120c229868cb7a179dd7279678fd57931a4b5",
+      "object": {
+        "object_type": "inscribed clay ball",
+        "material": "terracotta",
+        "repository": "The British Museum",
+        "inventory_number": "1898,1201.204"
+      },
+      "find_context": {
+        "findplace": "Hala Sultan Tekke",
+        "source_id": "bm-1898.1201.204"
+      },
+      "dating": [],
+      "identifiers": [
+        {
+          "system": "British Museum registration",
+          "value": "1898,1201.204",
+          "source_id": "bm-1898.1201.204"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "script_identification",
+          "value": "Cypro-Minoan",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "bm-1898.1201.204",
+              "locator": "collection record"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "sign_count",
+          "value": 6,
+          "status": "published",
+          "uncertainty": "probable",
+          "provenance": [
+            {
+              "source_id": "bm-1898.1201.204",
+              "locator": "museum-linked description"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "bm-1898.1201.204"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; citation/link only.",
+        "third_party_material": [
+          {
+            "source_id": "bm-1898.1201.204",
+            "material": "museum record text/images",
+            "license_id": "link-only-unverified",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "DATED_ASSERTION_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "bm-1898.1201.204",
+          "type": "museum-record",
+          "title": "The British Museum collection record 1898,1201.204",
+          "publisher": "The British Museum",
+          "url": "https://www.britishmuseum.org/collection/object/G_1898-1201-204",
+          "checked": "2026-10-05",
+          "verification_status": "LOCATOR_LEAD_ACCESS_FAILED",
+          "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+          "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-LVR-AM1639",
+      "native_ref": "corpus/inscriptions/CMOC-LVR-AM1639.json",
+      "native_sha256": "60b92eafc6c1fb085d555e965b689d641ea269536fb08620975b30efa83c9633",
+      "object": {
+        "object_type": "cylinder seal",
+        "material": null,
+        "repository": "Musée du Louvre",
+        "inventory_number": "AM 1639"
+      },
+      "find_context": {
+        "findplace": "Sinda, tomb 1",
+        "source_id": "louvre-am1639"
+      },
+      "dating": [],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AM 1639",
+          "source_id": "louvre-am1639"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "script_identification",
+          "value": "Cypro-Minoan",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-am1639",
+              "locator": "Inscriptions / Script"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "scholarly_sign_identification",
+          "value": "CM102",
+          "status": "published",
+          "uncertainty": "probable",
+          "provenance": [
+            {
+              "source_id": "donnelly2020",
+              "locator": "AM 1639 / CM102"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "donnelly2020",
+        "louvre-am1639"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; Louvre textual metadata reused under Etalab Open Licence with attribution.",
+        "third_party_material": [
+          {
+            "source_id": "louvre-am1639",
+            "material": "textual collection metadata",
+            "license_id": "etalab-open-licence",
+            "included": true
+          },
+          {
+            "source_id": "louvre-am1639",
+            "material": "museum photographs",
+            "license_id": "link-only-unverified",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "DATED_ASSERTION_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "donnelly2020",
+          "type": "article",
+          "authors": [
+            "Cassandra M. Donnelly"
+          ],
+          "title": "Signs, marks, and Olivier Masson",
+          "journal": "Cahiers du Centre d’Études Chypriotes",
+          "volume": "50",
+          "year": 2020,
+          "pages": "91–107",
+          "doi": "10.4000/cchyp.498",
+          "url": "https://doi.org/10.4000/cchyp.498",
+          "verification_status": "BIBLIOGRAPHY_CHECKED_VIA_LOUVRE_ARTICLE_UNINSPECTED",
+          "rights_note": "Citation only; legacy CM102 assertion remains probable and not reverified."
+        },
+        {
+          "source_id": "louvre-am1639",
+          "type": "museum-record",
+          "title": "Musée du Louvre collection record AM 1639",
+          "publisher": "Musée du Louvre",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131034",
+          "checked": "2026-10-05",
+          "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+          "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+          "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-LVR-AM2716",
+      "native_ref": "corpus/inscriptions/CMOC-LVR-AM2716.json",
+      "native_sha256": "a0f3453c038c2fad98a175775f718a2ab1a74e424496fa45ac7df87e001adf41",
+      "object": {
+        "object_type": "block/cube",
+        "material": "limestone",
+        "repository": "Musée du Louvre",
+        "inventory_number": "AM 2716"
+      },
+      "find_context": {
+        "findplace": "Enkomi",
+        "source_id": "louvre-am2716"
+      },
+      "dating": [],
+      "identifiers": [
+        {
+          "system": "Louvre inventory",
+          "value": "AM 2716",
+          "source_id": "louvre-am2716"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "script_identification",
+          "value": "Cypro-Minoan",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-am2716",
+              "locator": "Inscriptions / Script"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "sign_count",
+          "value": 1,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "louvre-am2716",
+              "locator": "Description"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "louvre-am2716"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; Louvre textual metadata reused under Etalab Open Licence with attribution.",
+        "third_party_material": [
+          {
+            "source_id": "louvre-am2716",
+            "material": "textual collection metadata",
+            "license_id": "etalab-open-licence",
+            "included": true
+          },
+          {
+            "source_id": "louvre-am2716",
+            "material": "museum photographs",
+            "license_id": "link-only-unverified",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "DATED_ASSERTION_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "louvre-am2716",
+          "type": "museum-record",
+          "title": "Musée du Louvre collection record AM 2716",
+          "publisher": "Musée du Louvre",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010132112",
+          "checked": "2026-10-05",
+          "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+          "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+          "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-MET-2008.27",
+      "native_ref": "corpus/inscriptions/CMOC-MET-2008.27.json",
+      "native_sha256": "8f6f9f7f9773d1528898cc7999e53a419cc6ddd6385908d37ccc17f8d871e59c",
+      "object": {
+        "object_type": "cylinder seal",
+        "material": "hematite",
+        "repository": "The Metropolitan Museum of Art",
+        "inventory_number": "2008.27"
+      },
+      "find_context": {
+        "findplace": "Cyprus",
+        "source_id": "met-2008.27"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_label",
+          "value": "ca. 14th century BC",
+          "status": "published",
+          "uncertainty": "probable",
+          "provenance": [
+            {
+              "source_id": "met-2008.27",
+              "locator": "Artwork Details / Date"
+            }
+          ],
+          "note": "Keep the literal date approximation; no numerical date bounds inferred."
+        },
+        {
+          "assertion_type": "museum_period_label",
+          "value": "Late Cypriot II",
+          "status": "published",
+          "uncertainty": "probable",
+          "provenance": [
+            {
+              "source_id": "met-2008.27",
+              "locator": "Artwork Details / Period"
+            }
+          ],
+          "note": "Keep the literal date approximation; no numerical date bounds inferred."
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Met object number",
+          "value": "2008.27",
+          "source_id": "met-2008.27"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "script_identification",
+          "value": "Cypro-Minoan",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "met-2008.27",
+              "locator": "museum description"
+            }
+          ]
+        }
+      ],
+      "assertions": [],
+      "source_occurrences": [],
+      "source_ids": [
+        "met-2008.27"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; Met collection metadata used under CC0.",
+        "third_party_material": [
+          {
+            "source_id": "met-2008.27",
+            "material": "collection metadata",
+            "license_id": "cc0-1.0",
+            "included": true
+          },
+          {
+            "source_id": "met-2008.27",
+            "material": "museum images",
+            "license_id": "cc0-1.0-where-marked",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "met-2008.27",
+          "type": "museum-record",
+          "title": "The Metropolitan Museum of Art collection record 2008.27",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/331665",
+          "checked": "2026-10-05",
+          "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+          "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+          "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-MET-74.51.1312",
+      "native_ref": "corpus/inscriptions/CMOC-MET-74.51.1312.json",
+      "native_sha256": "c204b8c6f97eaca6877ad1b6ecf5b043d5b30d35462006631b53f6ad02113d3c",
+      "object": {
+        "object_type": "lentoid flask",
+        "material": "terracotta",
+        "repository": "The Metropolitan Museum of Art",
+        "inventory_number": "74.51.1312"
+      },
+      "find_context": {
+        "findplace": "Cyprus",
+        "source_id": "met-74.51.1312"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_label",
+          "value": "ca. 1600–1050 BCE",
+          "status": "published",
+          "uncertainty": "probable",
+          "provenance": [
+            {
+              "source_id": "met-74.51.1312",
+              "locator": "Artwork Details / Date"
+            }
+          ],
+          "note": "Keep the literal date approximation; no numerical date bounds inferred."
+        },
+        {
+          "assertion_type": "museum_period_label",
+          "value": "Late Cypriot",
+          "status": "published",
+          "uncertainty": "probable",
+          "provenance": [
+            {
+              "source_id": "met-74.51.1312",
+              "locator": "Artwork Details / Period"
+            }
+          ],
+          "note": "Keep the literal date approximation; no numerical date bounds inferred."
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Met object number",
+          "value": "74.51.1312",
+          "source_id": "met-74.51.1312"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "script_identification",
+          "value": "possibly Cypro-Minoan",
+          "status": "published",
+          "uncertainty": "possible",
+          "provenance": [
+            {
+              "source_id": "met-74.51.1312",
+              "locator": "museum description"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "height_cm",
+          "value": 26.2,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "met-74.51.1312",
+              "locator": "Object Information"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "met-74.51.1312"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; Met collection metadata used under CC0.",
+        "third_party_material": [
+          {
+            "source_id": "met-74.51.1312",
+            "material": "collection metadata",
+            "license_id": "cc0-1.0",
+            "included": true
+          },
+          {
+            "source_id": "met-74.51.1312",
+            "material": "museum images",
+            "license_id": "cc0-1.0-where-marked",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "met-74.51.1312",
+          "type": "museum-record",
+          "title": "The Metropolitan Museum of Art collection record 74.51.1312",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/240899",
+          "checked": "2026-10-05",
+          "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+          "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+          "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-MET-74.51.4316",
+      "native_ref": "corpus/inscriptions/CMOC-MET-74.51.4316.json",
+      "native_sha256": "ee82175fd14c9a8e06cd609ed1b124e6751ce6ccdd17cefbd0b473bd9521522a",
+      "object": {
+        "object_type": "cylinder seal",
+        "material": "black-grey hematite",
+        "repository": "The Metropolitan Museum of Art",
+        "inventory_number": "74.51.4316"
+      },
+      "find_context": {
+        "findplace": "Cyprus",
+        "source_id": "met-74.51.4316"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_label",
+          "value": "ca. 14th–13th century BCE",
+          "status": "published",
+          "uncertainty": "probable",
+          "provenance": [
+            {
+              "source_id": "met-74.51.4316",
+              "locator": "Artwork Details / Date"
+            }
+          ],
+          "note": "Keep the literal date approximation; no numerical date bounds inferred."
+        },
+        {
+          "assertion_type": "museum_period_label",
+          "value": "Late Cypriot II",
+          "status": "published",
+          "uncertainty": "probable",
+          "provenance": [
+            {
+              "source_id": "met-74.51.4316",
+              "locator": "Artwork Details / Period"
+            }
+          ],
+          "note": "Keep the literal date approximation; no numerical date bounds inferred."
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Met object number",
+          "value": "74.51.4316",
+          "source_id": "met-74.51.4316"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "script_identification",
+          "value": "possible Cypro-Minoan signs",
+          "status": "published",
+          "uncertainty": "possible",
+          "provenance": [
+            {
+              "source_id": "met-74.51.4316",
+              "locator": "museum description"
+            }
+          ]
+        }
+      ],
+      "assertions": [],
+      "source_occurrences": [],
+      "source_ids": [
+        "met-74.51.4316"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; Met collection metadata used under CC0.",
+        "third_party_material": [
+          {
+            "source_id": "met-74.51.4316",
+            "material": "collection metadata",
+            "license_id": "cc0-1.0",
+            "included": true
+          },
+          {
+            "source_id": "met-74.51.4316",
+            "material": "museum images",
+            "license_id": "cc0-1.0-where-marked",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "met-74.51.4316",
+          "type": "museum-record",
+          "title": "The Metropolitan Museum of Art collection record 74.51.4316",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/321391",
+          "checked": "2026-10-05",
+          "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+          "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+          "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-MET-74.51.5057A",
+      "native_ref": "corpus/inscriptions/CMOC-MET-74.51.5057A.json",
+      "native_sha256": "fb4c8d71101fcf2526144a7e4f08228d861f63d85a5259df42faa28e3716d4df",
+      "object": {
+        "object_type": "amphoriskos",
+        "material": "chlorite",
+        "repository": "The Metropolitan Museum of Art",
+        "inventory_number": "74.51.5057a"
+      },
+      "find_context": {
+        "findplace": "Cyprus",
+        "source_id": "met-74.51.5057a"
+      },
+      "dating": [
+        {
+          "assertion_type": "museum_date_label",
+          "value": "early 12th century BCE",
+          "status": "published",
+          "uncertainty": "probable",
+          "provenance": [
+            {
+              "source_id": "met-74.51.5057a",
+              "locator": "Artwork Details / Date"
+            }
+          ],
+          "note": "Keep the literal date approximation; no numerical date bounds inferred."
+        },
+        {
+          "assertion_type": "museum_period_label",
+          "value": "Late Bronze Age",
+          "status": "published",
+          "uncertainty": "probable",
+          "provenance": [
+            {
+              "source_id": "met-74.51.5057a",
+              "locator": "Artwork Details / Period"
+            }
+          ],
+          "note": "Keep the literal date approximation; no numerical date bounds inferred."
+        }
+      ],
+      "identifiers": [
+        {
+          "system": "Met object number",
+          "value": "74.51.5057a",
+          "source_id": "met-74.51.5057a"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "script_identification",
+          "value": [
+            "Cypro-Minoan",
+            "very early Archaic Phoenician"
+          ],
+          "status": "published",
+          "uncertainty": "uncertain",
+          "provenance": [
+            {
+              "source_id": "met-74.51.5057a",
+              "locator": "museum description"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "sign_count",
+          "value": 3,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "met-74.51.5057a",
+              "locator": "museum description"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [],
+      "source_ids": [
+        "met-74.51.5057a"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; Met collection metadata used under CC0.",
+        "third_party_material": [
+          {
+            "source_id": "met-74.51.5057a",
+            "material": "collection metadata",
+            "license_id": "cc0-1.0",
+            "included": true
+          },
+          {
+            "source_id": "met-74.51.5057a",
+            "material": "museum images",
+            "license_id": "cc0-1.0-where-marked",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "ENCODED_OCCURRENCES_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "met-74.51.5057a",
+          "type": "museum-record",
+          "title": "The Metropolitan Museum of Art collection record 74.51.5057a",
+          "publisher": "The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/243938",
+          "checked": "2026-10-05",
+          "verification_status": "LOCATOR_AND_INVENTORY_CHECKED",
+          "rights_note": "Attributed metadata only; no museum images or editorial sign transcriptions included. Source-specific rights retained.",
+          "verification_scope": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-TIRY-ADD244",
+      "native_ref": "corpus/inscriptions/CMOC-TIRY-ADD244.json",
+      "native_sha256": "a859c8f0f1c523eec45dddf960cd5c7e66a3a1cd50d13ba12cb375bcef042671",
+      "object": {
+        "object_type": "inscribed clay ball",
+        "material": "clay",
+        "repository": null,
+        "inventory_number": null
+      },
+      "find_context": {
+        "findplace": "Tiryns, Lower Citadel",
+        "source_id": "vetters2011"
+      },
+      "dating": [],
+      "identifiers": [
+        {
+          "system": "Ferrara/addendum catalogue",
+          "value": "244",
+          "source_id": "vetters2011"
+        },
+        {
+          "system": "Olivier-style siglum",
+          "value": "TIRY Abou 001",
+          "source_id": "vetters2011"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "script_identification",
+          "value": "Cypro-Minoan",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "vetters2011",
+              "locator": "designation/discussion"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "diameter_cm",
+          "value": {
+            "min": 1.7,
+            "max": 1.75
+          },
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "bourogiannis2024",
+              "locator": "clay ball discussion"
+            }
+          ]
+        },
+        {
+          "assertion_type": "sign_count",
+          "value": 3,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "bourogiannis2024",
+              "locator": "clay ball discussion"
+            }
+          ]
+        },
+        {
+          "assertion_type": "inscription_timing",
+          "value": "pre-firing",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "bourogiannis2024",
+              "locator": "clay ball discussion"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [
+        {
+          "occurrence_id": "CMOCC-TIRY244-1",
+          "record_id": "CMOC-TIRY-ADD244",
+          "zone_id": "clay-ball-inscription",
+          "position": 1,
+          "published_sign_label": "41",
+          "source_id": "vetters2011",
+          "locator": "pp. 16–17, Interpretation of the Signs",
+          "certainty": "certain",
+          "notes": [
+            "Primary-publication occurrence check; published sign numbering retained as source assertion."
+          ],
+          "source_role": "primary_publication"
+        },
+        {
+          "occurrence_id": "CMOCC-TIRY244-2",
+          "record_id": "CMOC-TIRY-ADD244",
+          "zone_id": "clay-ball-inscription",
+          "position": 2,
+          "published_sign_label": "41",
+          "source_id": "vetters2011",
+          "locator": "pp. 16–17, Interpretation of the Signs",
+          "certainty": "certain",
+          "notes": [
+            "Primary-publication occurrence check; published sign numbering retained as source assertion."
+          ],
+          "source_role": "primary_publication"
+        },
+        {
+          "occurrence_id": "CMOCC-TIRY244-3",
+          "record_id": "CMOC-TIRY-ADD244",
+          "zone_id": "clay-ball-inscription",
+          "position": 3,
+          "published_sign_label": "97",
+          "source_id": "vetters2011",
+          "locator": "pp. 16–17, Interpretation of the Signs",
+          "certainty": "certain",
+          "notes": [
+            "Primary-publication occurrence check; published sign numbering retained as source assertion."
+          ],
+          "source_role": "primary_publication"
+        }
+      ],
+      "source_ids": [
+        "bourogiannis2024",
+        "vetters2011"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; source content cited/attributed; no source figures redistributed.",
+        "third_party_material": [
+          {
+            "source_id": "vetters2011",
+            "material": "article text/figures",
+            "license_id": "link-only-unverified",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "DATED_ASSERTION_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "bourogiannis2024",
+          "type": "article",
+          "title": "Contextualising Cypriot writing overseas: Cypro-Minoan and Cypro-Syllabic inscriptions found in Greece",
+          "authors": [
+            "Giorgos Bourogiannis"
+          ],
+          "year": 2024,
+          "url": "https://www.researchgate.net/publication/384690092",
+          "rights_note": "Bibliographic/contextual verification only; no figures redistributed."
+        },
+        {
+          "source_id": "vetters2011",
+          "type": "article",
+          "title": "A Clay Ball with a Cypro-Minoan Inscription from Tiryns",
+          "authors": [
+            "Melissa Vetters"
+          ],
+          "year": 2011,
+          "url": "https://publications.dainst.org/journals/aa/article/download/99/4770",
+          "rights_note": "Source-attributed factual metadata; no figures redistributed."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-TIRY-ADD245",
+      "native_ref": "corpus/inscriptions/CMOC-TIRY-ADD245.json",
+      "native_sha256": "f1fe47bd611bbfb433b039c37d95d8ec1371664fa4a4263ba5c64f49e371b7fb",
+      "object": {
+        "object_type": "Canaanite jar",
+        "material": "ceramic",
+        "repository": null,
+        "inventory_number": null
+      },
+      "find_context": {
+        "findplace": "Tiryns, Lower Citadel",
+        "source_id": "davis-maran-prillwitz-wirghova2023"
+      },
+      "dating": [],
+      "identifiers": [
+        {
+          "system": "Ferrara/addendum catalogue",
+          "value": "245",
+          "source_id": "davis-maran-prillwitz-wirghova2023"
+        },
+        {
+          "system": "Olivier-style siglum",
+          "value": "TIRY Avas 001",
+          "source_id": "davis-maran-prillwitz-wirghova2023"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "script_identification",
+          "value": "Cypro-Minoan",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "davis-maran-prillwitz-wirghova2023",
+              "locator": "designation/discussion"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "inscription_sign_count",
+          "value": 2,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "davis-maran-prillwitz-wirghova2023",
+              "locator": "§3.4 Text"
+            }
+          ]
+        },
+        {
+          "assertion_type": "separate_potmark_sign_count",
+          "value": 1,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "davis-maran-prillwitz-wirghova2023",
+              "locator": "§3.1–3.4"
+            }
+          ]
+        },
+        {
+          "assertion_type": "inscription_transnumeration",
+          "value": [
+            "CM025",
+            "CM087"
+          ],
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "davis-maran-prillwitz-wirghova2023",
+              "locator": "§3.4 Text"
+            }
+          ]
+        },
+        {
+          "assertion_type": "separate_potmark_transnumeration",
+          "value": [
+            "CM005"
+          ],
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "davis-maran-prillwitz-wirghova2023",
+              "locator": "§3.4 Text"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [
+        {
+          "occurrence_id": "CMOCC-TIRY245-H1-1",
+          "record_id": "CMOC-TIRY-ADD245",
+          "zone_id": "handle-1-inscription",
+          "position": 1,
+          "published_sign_label": "CM025",
+          "source_id": "davis-maran-prillwitz-wirghova2023",
+          "locator": "§3.4 Text",
+          "certainty": "certain",
+          "source_role": "primary_publication"
+        },
+        {
+          "occurrence_id": "CMOCC-TIRY245-H1-2",
+          "record_id": "CMOC-TIRY-ADD245",
+          "zone_id": "handle-1-inscription",
+          "position": 2,
+          "published_sign_label": "CM087",
+          "source_id": "davis-maran-prillwitz-wirghova2023",
+          "locator": "§3.4 Text",
+          "certainty": "certain",
+          "source_role": "primary_publication"
+        },
+        {
+          "occurrence_id": "CMOCC-TIRY245-H2-M1",
+          "record_id": "CMOC-TIRY-ADD245",
+          "zone_id": "handle-2-potmark",
+          "position": 1,
+          "published_sign_label": "CM005",
+          "source_id": "davis-maran-prillwitz-wirghova2023",
+          "locator": "§3.4 Text",
+          "certainty": "certain",
+          "source_role": "primary_publication"
+        }
+      ],
+      "source_ids": [
+        "davis-maran-prillwitz-wirghova2023"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; source content cited/attributed; no source figures redistributed.",
+        "third_party_material": [
+          {
+            "source_id": "davis-maran-prillwitz-wirghova2023",
+            "material": "article text/figures",
+            "license_id": "link-only-unverified",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "DATED_ASSERTION_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "davis-maran-prillwitz-wirghova2023",
+          "type": "article",
+          "title": "A Canaanite jar with a Cypro-Minoan inscription from Tiryns: TIRY Avas 001",
+          "authors": [
+            "Brent Davis",
+            "Joseph Maran",
+            "Susanne Prillwitz",
+            "Soňa Wirghová"
+          ],
+          "year": 2023,
+          "url": "https://doi.org/10.1515/kadmos-2023-0001",
+          "rights_note": "Open repository copy consulted; source-attributed factual/sign assertions only; figures not redistributed."
+        }
+      ]
+    },
+    {
+      "record_id": "CMOC-TIRY-ADD246",
+      "native_ref": "corpus/inscriptions/CMOC-TIRY-ADD246.json",
+      "native_sha256": "0238aa43b50263ef995bcc9578a45903f5a1f41ace3e518c382a07fbc5a98eaa",
+      "object": {
+        "object_type": "jar handle / vessel",
+        "material": "ceramic",
+        "repository": null,
+        "inventory_number": null
+      },
+      "find_context": {
+        "findplace": "Tiryns, Lower Citadel",
+        "source_id": "davis-maran-wirghova2014"
+      },
+      "dating": [],
+      "identifiers": [
+        {
+          "system": "Ferrara/addendum catalogue",
+          "value": "246",
+          "source_id": "davis-maran-wirghova2014"
+        },
+        {
+          "system": "Olivier-style siglum",
+          "value": "TIRY Avas 002",
+          "source_id": "davis-maran-wirghova2014"
+        }
+      ],
+      "classifications": [
+        {
+          "assertion_type": "script_identification",
+          "value": "Cypro-Minoan",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "davis-maran-wirghova2014",
+              "locator": "designation/discussion"
+            }
+          ]
+        }
+      ],
+      "assertions": [
+        {
+          "assertion_type": "inscription_sign_count",
+          "value": 3,
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "bourogiannis2024",
+              "locator": "jug handle discussion"
+            }
+          ]
+        },
+        {
+          "assertion_type": "writing_orientation",
+          "value": "vertical, top-to-bottom",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "bourogiannis2024",
+              "locator": "jug handle discussion"
+            }
+          ]
+        },
+        {
+          "assertion_type": "inscription_timing",
+          "value": "post-firing",
+          "status": "published",
+          "uncertainty": "certain",
+          "provenance": [
+            {
+              "source_id": "bourogiannis2024",
+              "locator": "jug handle discussion"
+            }
+          ]
+        }
+      ],
+      "source_occurrences": [
+        {
+          "occurrence_id": "CMOCC-TIRY246-1",
+          "record_id": "CMOC-TIRY-ADD246",
+          "zone_id": "jar-handle-inscription",
+          "position": 1,
+          "published_sign_label": "87",
+          "source_id": "bourogiannis2024",
+          "locator": "p. 56, jug handle discussion",
+          "certainty": "certain",
+          "notes": [
+            "Source-attributed transnumeration; no project sign-equivalence inference."
+          ],
+          "source_role": "dependent_secondary"
+        },
+        {
+          "occurrence_id": "CMOCC-TIRY246-2",
+          "record_id": "CMOC-TIRY-ADD246",
+          "zone_id": "jar-handle-inscription",
+          "position": 2,
+          "published_sign_label": "50",
+          "source_id": "bourogiannis2024",
+          "locator": "p. 56, jug handle discussion",
+          "certainty": "certain",
+          "notes": [
+            "Source-attributed transnumeration; no project sign-equivalence inference."
+          ],
+          "source_role": "dependent_secondary"
+        },
+        {
+          "occurrence_id": "CMOCC-TIRY246-3",
+          "record_id": "CMOC-TIRY-ADD246",
+          "zone_id": "jar-handle-inscription",
+          "position": 3,
+          "published_sign_label": "05",
+          "source_id": "bourogiannis2024",
+          "locator": "p. 56, jug handle discussion",
+          "certainty": "certain",
+          "notes": [
+            "Source-attributed transnumeration; no project sign-equivalence inference."
+          ],
+          "source_role": "dependent_secondary"
+        }
+      ],
+      "source_ids": [
+        "bourogiannis2024",
+        "davis-maran-wirghova2014"
+      ],
+      "rights": {
+        "record_license": "Project-original structure; source content cited/attributed; no source figures redistributed.",
+        "third_party_material": [
+          {
+            "source_id": "davis-maran-wirghova2014",
+            "material": "article text/figures",
+            "license_id": "link-only-unverified",
+            "included": false
+          }
+        ]
+      },
+      "missing_evidence": [
+        "DATED_ASSERTION_ABSENT",
+        "INDEPENDENT_REVIEW_PENDING"
+      ],
+      "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
+      "sources": [
+        {
+          "source_id": "bourogiannis2024",
+          "type": "article",
+          "title": "Contextualising Cypriot writing overseas: Cypro-Minoan and Cypro-Syllabic inscriptions found in Greece",
+          "authors": [
+            "Giorgos Bourogiannis"
+          ],
+          "year": 2024,
+          "url": "https://www.researchgate.net/publication/384690092",
+          "rights_note": "Bibliographic/contextual verification only; no figures redistributed."
+        },
+        {
+          "source_id": "davis-maran-wirghova2014",
+          "type": "article",
+          "title": "A new Cypro-Minoan inscription from Tiryns: TIRY Avas 002",
+          "authors": [
+            "Brent Davis",
+            "Joseph Maran",
+            "Soňa Wirghová"
+          ],
+          "year": 2014,
+          "url": "https://doi.org/10.1515/kadmos-2014-0005",
+          "rights_note": "Bibliographic/object metadata and attributed factual assertions; no figures redistributed."
+        }
+      ]
+    }
+  ],
+  "claim_boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."
+}

@@ -46,6 +46,14 @@
       "role": "source_inspection",
       "path": "research/source-inspection-2026-10-02.json",
       "required": true
+    },
+    {
+      "role": "record_dossiers",
+      "path": "research/record-dossiers.json"
+    },
+    {
+      "role": "context_coverage",
+      "path": "analysis/context-coverage-v1.json"
     }
   ],
   "behavioral_gates": [

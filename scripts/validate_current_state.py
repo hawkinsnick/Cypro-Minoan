@@ -88,6 +88,16 @@ def validate():
         require(not state["scientific_results"]["calibration_executed"],"unsupported calibration claim")
     from occurrence_coverage import coverage
     require(coverage(load('corpus/index.json')['records'], load('occurrences/occurrences.json')['occurrences']) == load('analysis/occurrence-coverage-v1.json'), 'occurrence coverage replay drift')
+    from research_dossiers import validate as validate_dossiers
+    validate_dossiers(R)
+    context=load('analysis/context-coverage-v1.json')
+    require(counts['review_dossiers']==context['dossier_count'], 'dossier current count drift')
+    require(counts['records_with_dating']==context['records_with_dating'], 'dating count drift')
+    acquisition=load('research/context-acquisition-5.3.json')
+    require(counts['new_date_period_assertions']==len(acquisition['new_assertions']), 'new date assertion count drift')
+    for a in acquisition['new_assertions']:
+        native=load('corpus/inscriptions/'+a['record_id']+'.json')['dating']
+        require({k:v for k,v in a.items() if k!='record_id'} in native, 'new date assertion/native mismatch')
     from validate_family_readiness import validate as validate_readiness
     validate_readiness(R)
     print(json.dumps({"status":"PASS","version":version,"json_files":len(files),"schemas":len(list((R/"schemas").glob("*.json"))),"evidence_counts":counts,"scientific_gate_claim":"UNCHANGED"}))

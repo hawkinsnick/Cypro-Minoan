@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "target": "PRE_EXPERT_SOURCE_EXHAUSTION",
   "dispositions": [
     {
@@ -42,7 +42,8 @@
     "cross_script_phonetic_test": "BLOCKED",
     "independent_witness_claims": "BLOCKED"
   },
-  "completion_assessment": "PARTIAL_OCCURRENCE_EXPANSION_PRIMARY_COLLATION_PENDING",
+  "completion_assessment": "CONTEXT_DOSSIERS_COMPLETE_SOURCE_ACQUISITION_REMAINS_OPEN",
   "qualification": "Discovery remains open-world. New authoritative lawful evidence reopens acquisition without weakening current claim gates.",
-  "latest_source_inspection": "research/source-inspection-2026-10-02.json"
+  "latest_source_inspection": "research/source-inspection-2026-10-02.json",
+  "context_milestone": "docs/CONTEXT-AND-DOSSIERS.md"
 }

@@ -1,0 +1,2300 @@
+{
+  "schema_version": "1.0",
+  "project": "Cypro-Minoan",
+  "release": "5.3.0",
+  "independent_reviews_added": 0,
+  "scientific_gates_changed": false,
+  "controlled_catalogue_slots": 254,
+  "dossier_count": 21,
+  "rich_records": 21,
+  "records_with_occurrences": 6,
+  "encoded_occurrences": 12,
+  "records_with_dating": 14,
+  "catalogue_slot_accounting": [
+    {
+      "catalogue_number": 1,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 2,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 3,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 4,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 5,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 6,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 7,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 8,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 9,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 10,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 11,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 12,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 13,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 14,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 15,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 16,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 17,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 18,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 19,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 20,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 21,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 22,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 23,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 24,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 25,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-0025",
+          "authority": "Ferrara 2013 catalogue",
+          "source_id": "louvre-cm-25"
+        },
+        {
+          "record_id": "CMOC-0025",
+          "authority": "Olivier 2007 catalogue",
+          "source_id": "louvre-cm-25"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 26,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-0026",
+          "authority": "Ferrara 2013 catalogue",
+          "source_id": "louvre-cm-26"
+        },
+        {
+          "record_id": "CMOC-0026",
+          "authority": "Olivier 2007 catalogue",
+          "source_id": "louvre-cm-26"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 27,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-0027",
+          "authority": "Ferrara 2013 catalogue",
+          "source_id": "louvre-cm-27"
+        },
+        {
+          "record_id": "CMOC-0027",
+          "authority": "Olivier 2007 catalogue",
+          "source_id": "louvre-cm-27"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 28,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-0028",
+          "authority": "Ferrara 2013 catalogue",
+          "source_id": "louvre-cm-28"
+        },
+        {
+          "record_id": "CMOC-0028",
+          "authority": "Olivier 2007 catalogue",
+          "source_id": "louvre-cm-28"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 29,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-0029",
+          "authority": "Ferrara 2013 catalogue",
+          "source_id": "louvre-cm-29"
+        },
+        {
+          "record_id": "CMOC-0029",
+          "authority": "Olivier 2007 catalogue",
+          "source_id": "louvre-cm-29"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 30,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-0030",
+          "authority": "Ferrara 2013 catalogue",
+          "source_id": "louvre-cm-30"
+        },
+        {
+          "record_id": "CMOC-0030",
+          "authority": "Olivier 2007 catalogue",
+          "source_id": "louvre-cm-30"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 31,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-0031",
+          "authority": "Ferrara 2013 catalogue",
+          "source_id": "louvre-cm-31"
+        },
+        {
+          "record_id": "CMOC-0031",
+          "authority": "Olivier 2007 catalogue",
+          "source_id": "louvre-cm-31"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 32,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-0032",
+          "authority": "Ferrara 2013 catalogue",
+          "source_id": "louvre-cm-32"
+        },
+        {
+          "record_id": "CMOC-0032",
+          "authority": "Olivier 2007 catalogue",
+          "source_id": "louvre-cm-32"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 33,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-0033",
+          "authority": "Ferrara 2013 catalogue",
+          "source_id": "louvre-cm-33"
+        },
+        {
+          "record_id": "CMOC-0033",
+          "authority": "Olivier 2007 catalogue",
+          "source_id": "louvre-cm-33"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 34,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 35,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 36,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 37,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 38,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 39,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 40,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 41,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 42,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 43,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 44,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 45,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 46,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 47,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 48,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 49,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 50,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 51,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 52,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 53,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 54,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 55,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 56,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 57,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 58,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 59,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 60,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 61,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 62,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 63,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 64,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 65,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 66,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 67,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 68,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 69,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 70,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 71,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 72,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 73,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 74,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 75,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 76,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 77,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 78,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 79,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 80,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 81,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 82,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 83,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 84,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 85,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 86,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 87,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 88,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 89,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 90,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 91,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 92,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 93,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 94,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 95,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 96,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 97,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 98,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 99,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 100,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 101,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 102,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 103,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 104,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 105,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 106,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 107,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 108,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 109,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 110,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 111,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 112,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 113,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 114,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 115,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 116,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 117,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 118,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 119,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 120,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 121,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 122,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 123,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 124,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 125,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 126,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 127,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 128,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 129,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 130,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 131,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 132,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 133,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 134,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 135,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 136,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 137,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 138,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 139,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 140,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 141,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 142,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 143,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 144,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 145,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 146,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 147,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 148,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 149,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 150,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 151,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 152,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 153,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 154,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 155,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 156,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 157,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 158,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 159,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 160,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 161,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 162,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 163,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 164,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 165,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 166,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 167,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 168,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 169,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 170,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 171,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 172,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 173,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 174,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 175,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 176,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 177,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 178,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 179,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 180,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 181,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 182,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 183,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 184,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 185,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 186,
+      "authority_layer": "Olivier 2007",
+      "siglum": null,
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 187,
+      "authority_layer": "Olivier 2007",
+      "siglum": "ENKO Pblo 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 188,
+      "authority_layer": "Olivier 2007",
+      "siglum": "KITI Pblo 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 189,
+      "authority_layer": "Olivier 2007",
+      "siglum": "PPAP Pblo 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 190,
+      "authority_layer": "Olivier 2007",
+      "siglum": "PPAP Pblo 002",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 191,
+      "authority_layer": "Olivier 2007",
+      "siglum": "KALA Ppla 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 192,
+      "authority_layer": "Olivier 2007",
+      "siglum": "KALA Ppla 002",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 193,
+      "authority_layer": "Olivier 2007",
+      "siglum": "CYPR? Psce 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 194,
+      "authority_layer": "Olivier 2007",
+      "siglum": "CYPR? Psce 002",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 195,
+      "authority_layer": "Olivier 2007",
+      "siglum": "CYPR Psce 003",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 196,
+      "authority_layer": "Olivier 2007",
+      "siglum": "CYPR? Psce 004",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 197,
+      "authority_layer": "Olivier 2007",
+      "siglum": "CYPR? Psce 005",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 198,
+      "authority_layer": "Olivier 2007",
+      "siglum": "CYPR? Psce 006",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 199,
+      "authority_layer": "Olivier 2007",
+      "siglum": "ENKO Psce 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 200,
+      "authority_layer": "Olivier 2007",
+      "siglum": "ENKO? Psce 002",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 201,
+      "authority_layer": "Olivier 2007",
+      "siglum": "HALA Psce 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 202,
+      "authority_layer": "Olivier 2007",
+      "siglum": "KOUR Psce 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 203,
+      "authority_layer": "Olivier 2007",
+      "siglum": "PARA Psce 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 204,
+      "authority_layer": "Olivier 2007",
+      "siglum": "PYLA Psce 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 205,
+      "authority_layer": "Olivier 2007",
+      "siglum": "SALA Psce 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 206,
+      "authority_layer": "Olivier 2007",
+      "siglum": "PPAP Vsce 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 207,
+      "authority_layer": "Olivier 2007",
+      "siglum": "ENKO Atab 002a-b",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 208,
+      "authority_layer": "Olivier 2007",
+      "siglum": "ENKO Atab 003",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 209,
+      "authority_layer": "Olivier 2007",
+      "siglum": "ENKO Atab 004",
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-0209",
+          "authority": "Ferrara 2013 catalogue",
+          "source_id": "louvre-cm-209"
+        },
+        {
+          "record_id": "CMOC-0209",
+          "authority": "Olivier 2007 catalogue",
+          "source_id": "louvre-cm-209"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 210,
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Aéti 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 211,
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Aéti 002",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 212,
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Atab 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 213,
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Atab 002",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 214,
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Atab 003",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 215,
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Atab 004",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 216,
+      "authority_layer": "Olivier 2007",
+      "siglum": "RASH Mvas 001",
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-0216",
+          "authority": "Ferrara 2013 catalogue",
+          "source_id": "louvre-ao14747"
+        },
+        {
+          "record_id": "CMOC-0216",
+          "authority": "Olivier 2007 catalogue",
+          "source_id": "louvre-ao14747"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 217,
+      "authority_layer": "Olivier 2007",
+      "siglum": "SYRI Psce 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 218,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "PARA Psce 002",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 219,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "APLI Psce 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 220,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "CYPR Psce 007",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 221,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "DHEN Avas 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 222,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Apes 002",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 223,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Apes 003",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 224,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Pblo 002",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 225,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Psce 003",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 226,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Psce 004",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 227,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Psce 005",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 228,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Mins 003",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 229,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Mins 004",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 230,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "ENKO Mins 005",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 231,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "KLAV Avas 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 232,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "IDAL Psce 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 233,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "IDAL Avas 003",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 234,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "IDAL Pfus 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 235,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "KALO Avas 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 236,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "KITI Avas 020",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 237,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "KITI Avas 021",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 238,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "MAAP Avas 005",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 239,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "MARO Avas 002",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 240,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "MARO Avas 003",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 241,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "MARO Avas 004",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 242,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "SANI Avas 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 243,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "RASH Avas 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 244,
+      "authority_layer": "Ferrara 2013",
+      "siglum": "TIRY Abou 001",
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-TIRY-ADD244",
+          "authority": "Ferrara/addendum catalogue",
+          "source_id": "vetters2011"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 245,
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "TIRY Avas 001",
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-TIRY-ADD245",
+          "authority": "Ferrara/addendum catalogue",
+          "source_id": "davis-maran-prillwitz-wirghova2023"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 246,
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "TIRY Avas 002",
+      "ingestion_status": "rich_record_available",
+      "reported_record_links": [
+        {
+          "record_id": "CMOC-TIRY-ADD246",
+          "authority": "Ferrara/addendum catalogue",
+          "source_id": "davis-maran-wirghova2014"
+        }
+      ],
+      "mapping_status": "SOURCE_REPORTED_LINK"
+    },
+    {
+      "catalogue_number": 247,
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "ENKO Abou 084",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 248,
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "KOUR Avas 005",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 249,
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "KOUR Avas 006",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 250,
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "KOUR Avas 007",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 251,
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "RASH Avas 002",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 252,
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "CYPR? Psce 008",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 253,
+      "authority_layer": "Valério 2014/2016",
+      "siglum": "PPAP Psce 001",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    },
+    {
+      "catalogue_number": 254,
+      "authority_layer": "Egetmeyer 2016 / later bibliography",
+      "siglum": "PPAP Mvas 002",
+      "ingestion_status": "not_yet_rich_record",
+      "reported_record_links": [],
+      "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
+    }
+  ],
+  "slots_with_reported_record_links": 14,
+  "source_locator_limits": [
+    {
+      "source_id": "bm-1898.1201.204",
+      "status": "LOCATOR_LEAD_ACCESS_FAILED"
+    },
+    {
+      "source_id": "donnelly2020",
+      "status": "BIBLIOGRAPHY_CHECKED_VIA_LOUVRE_ARTICLE_UNINSPECTED"
+    }
+  ],
+  "input_digests": [
+    {
+      "path": "bibliography/sources.json",
+      "sha256": "9bd6ccf0b9f83134cd9bdde132040a66c91914959a9304c3ad73579fd67d922a"
+    },
+    {
+      "path": "catalogues/master.json",
+      "sha256": "39f1395e32421bf6567cf1f6df9db37f4ebe240fdba13f1a248f2bc441e75d39"
+    },
+    {
+      "path": "corpus/index.json",
+      "sha256": "1e024d9d65ae5d28d9bfdf3127d1ceb867067b1dd9c1fc6cdc81a14e23db3cbf"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0025.json",
+      "sha256": "bbf2004de392733adc985bd54e2fe3adb6ed02dd501e85ce350d18efcc7e694f"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0026.json",
+      "sha256": "ff502a93180a7c18b86848974536608d998a9b9060b274e2d8e3f5fec73fb97a"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0027.json",
+      "sha256": "88471888e303edcae20c0127d31bdd2d4eb67babd07bc9ee5819e0a9e91a03f7"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0028.json",
+      "sha256": "e18a9d3cd8c72007e04e7045752b3a6858066773989a6708095edaf2e81b0548"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0029.json",
+      "sha256": "ec23dd2f40ce2db54e86d688a23c907ece775a42baba40907d9fbbf7e7f80ea8"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0030.json",
+      "sha256": "4f00a3953ef27a56344e081922aa8078de8517e09b4f995ecef8bc1b38de4d3e"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0031.json",
+      "sha256": "45ce25e590907af426befe70cd7fc690e4b281416bdb8c9b5b292997c90d2ed7"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0032.json",
+      "sha256": "2ea5ca155967348b5fc62bb78d6fa6f13851e3c24bee19c1c7d1827e72a7bdd2"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0033.json",
+      "sha256": "fa65a3ac8b63b3a4835f4f69aa7c4076fc5a11ad054c08f38894670ed93a8e0e"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0209.json",
+      "sha256": "e09a1c23570e16d84977213cf4ab48e79948b621159f69a6066bb89a6761882a"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0216.json",
+      "sha256": "40ad38ba845c4b49eda4415c233f4cd8bc4d5ba243f0ce231370960867962e54"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-BM-1898.1201.204.json",
+      "sha256": "83dd6a2f35d892e9175d16997bd120c229868cb7a179dd7279678fd57931a4b5"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-LVR-AM1639.json",
+      "sha256": "60b92eafc6c1fb085d555e965b689d641ea269536fb08620975b30efa83c9633"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-LVR-AM2716.json",
+      "sha256": "a0f3453c038c2fad98a175775f718a2ab1a74e424496fa45ac7df87e001adf41"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-MET-2008.27.json",
+      "sha256": "8f6f9f7f9773d1528898cc7999e53a419cc6ddd6385908d37ccc17f8d871e59c"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-MET-74.51.1312.json",
+      "sha256": "c204b8c6f97eaca6877ad1b6ecf5b043d5b30d35462006631b53f6ad02113d3c"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-MET-74.51.4316.json",
+      "sha256": "ee82175fd14c9a8e06cd609ed1b124e6751ce6ccdd17cefbd0b473bd9521522a"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-MET-74.51.5057A.json",
+      "sha256": "fb4c8d71101fcf2526144a7e4f08228d861f63d85a5259df42faa28e3716d4df"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-TIRY-ADD244.json",
+      "sha256": "a859c8f0f1c523eec45dddf960cd5c7e66a3a1cd50d13ba12cb375bcef042671"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-TIRY-ADD245.json",
+      "sha256": "f1fe47bd611bbfb433b039c37d95d8ec1371664fa4a4263ba5c64f49e371b7fb"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-TIRY-ADD246.json",
+      "sha256": "0238aa43b50263ef995bcc9578a45903f5a1f41ace3e518c382a07fbc5a98eaa"
+    },
+    {
+      "path": "occurrences/occurrences.json",
+      "sha256": "eab6eedab31dca8ea74ebe4dbfbdbc3ef314222d15a7343540e16f9808ac9c8e"
+    }
+  ],
+  "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."
+}

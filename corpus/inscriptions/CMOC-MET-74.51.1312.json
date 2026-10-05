@@ -18,7 +18,34 @@
     "findplace": "Cyprus",
     "source_id": "met-74.51.1312"
   },
-  "dating": [],
+  "dating": [
+    {
+      "assertion_type": "museum_date_label",
+      "value": "ca. 1600–1050 BCE",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-74.51.1312",
+          "locator": "Artwork Details / Date"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    },
+    {
+      "assertion_type": "museum_period_label",
+      "value": "Late Cypriot",
+      "status": "published",
+      "uncertainty": "probable",
+      "provenance": [
+        {
+          "source_id": "met-74.51.1312",
+          "locator": "Artwork Details / Period"
+        }
+      ],
+      "note": "Keep the literal date approximation; no numerical date bounds inferred."
+    }
+  ],
   "classifications": [
     {
       "assertion_type": "script_identification",
@@ -64,7 +91,7 @@
       }
     ]
   },
-  "record_version": "5.0.0",
+  "record_version": "5.3.0",
   "transcriptions": [],
   "notes": [
     "No protected transcription or restricted image redistributed."
