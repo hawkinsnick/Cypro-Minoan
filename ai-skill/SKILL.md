@@ -43,3 +43,6 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 
 ## Fleet EpiDoc and identity graph gates
 Read `analysis/epidoc-interoperability-audit.json` and `research/identity-graph.json`. EpiDoc serialization must preserve object/surface/text distinctions, partial occurrence coverage, authority-specific sign labels and source dependence. Never serialize a potmark as linguistic text merely because it bears a mark, and never turn a sign-label correspondence into a phonetic or physical identity assertion.
+
+## EpiDoc pilot execution
+For EpiDoc interchange, use `scripts/export_epidoc_occurrences.py` and read `docs/EPIDOC-PILOT.md`. The generated XML is a partial, source-assertion view only. Preserve source-qualified published sign labels, source roles, certainty, locators and zone boundaries. Never describe the pilot as a complete transcription or as EpiDoc-conformant until the external schema/profile validation gate recorded in `analysis/epidoc-interoperability-audit.json` is satisfied.
