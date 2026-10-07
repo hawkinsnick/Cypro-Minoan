@@ -8,6 +8,12 @@ Researchers using ChatGPT, Claude, Gemini, or another capable model can provide 
 
 For questions spanning multiple corpus projects, use the **Combined Corpus Research AI** documented in the Linear A repository under [`combined-ai-skill/`](https://github.com/hawkinsnick/Linear-A/tree/ai-skill-v0.1/combined-ai-skill). It orchestrates the registered individual skills while keeping their evidence models and rights separate. Membership in the combined system does **not** imply linguistic relationship, sign equivalence, chronology, decipherment, or independent replication.
 
+## EpiDoc interoperability pilot
+
+The current branch includes a **loss-aware occurrence-layer EpiDoc pilot** for the 12 source-checked occurrence assertions. It preserves partial coverage, source-qualified published sign labels, source roles, certainty, locators, zone boundaries, and explicit caution around potmarks. It is an interchange view, not a new scholarly authority and not a complete transcription.
+
+The external validation target is pinned to **EpiDoc 9.8** (upstream tag `v9.8`, release commit `5655fb778ecc93a4b6a7346995a55ea686a9e9b2`, aligned with TEI 4.10.2) in `interchange/epidoc/validation-profile.json`. **No EpiDoc-conformance claim is made yet**: generated XML still must be validated against that pinned release and any failures resolved. Full object-level EpiDoc description is a separate expansion from this occurrence-layer pilot. See `docs/EPIDOC-PILOT.md` and `analysis/epidoc-interoperability-audit.json`.
+
 ## Current status — 5.3.0
 
 Adds eight date/period assertions on four Met records, closes nine missing bibliography references with explicit access/verification limits, and generates dossiers for all 21 rich records plus accounting for 254 catalogue slots. Twelve occurrences on six records remain unchanged; partial positions are not full transcriptions.
