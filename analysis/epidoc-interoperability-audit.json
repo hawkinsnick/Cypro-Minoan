@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "fleet_contract": "Linear-A corpus-factory EpiDoc contract v1",
-  "status": "LOSS_AWARE_OCCURRENCE_PILOT_IMPLEMENTED_FORMAL_EPIDOC_VALIDATION_PENDING",
+  "status": "EPIDOC_9_8_PINNED_OCCURRENCE_PILOT_VALIDATION_EXECUTION_PENDING",
   "native_units": [
     "catalogue record",
     "rich object record",
@@ -25,7 +25,7 @@
     "dependent-secondary occurrences must retain lineage",
     "unknown script classification/date/findspot remain explicit"
   ],
-  "conclusion": "Loss-aware occurrence serialization is implemented as a pilot. It preserves partial coverage, source-qualified labels, source roles, certainty and potmark caution. Formal EpiDoc schema/profile validation remains pending; no conformance claim is made.",
+  "conclusion": "Loss-aware occurrence serialization is implemented as a pilot. It preserves partial coverage, source-qualified labels, source roles, certainty and potmark caution. EpiDoc 9.8 is now pinned as the external validation target, but validation has not yet been executed; no conformance claim is made.",
   "implementation": {
     "exporter": "scripts/export_epidoc_occurrences.py",
     "tests": "tests/test_epidoc_occurrences.py",
@@ -33,6 +33,7 @@
     "output": "interchange/epidoc/occurrences-pilot.xml",
     "scope": "source-checked occurrence assertions only",
     "conformance_claim": false,
-    "remaining_gate": "Pin an external EpiDoc schema/profile and validate generated XML before claiming EpiDoc conformance."
+    "remaining_gate": "Generate the occurrence XML, execute validation against pinned EpiDoc 9.8, resolve any failures, and record the validation result before claiming EpiDoc conformance.",
+    "validation_profile": "interchange/epidoc/validation-profile.json"
   }
 }
