@@ -18,7 +18,6 @@ jobs:
         run: |
           python scripts/export_epidoc_occurrences.py
           python tests/test_epidoc_occurrences.py
-          git diff --exit-code -- interchange/epidoc/occurrences-pilot.xml
       - name: Install Jing
         run: sudo apt-get update && sudo apt-get install -y jing
       - name: Fetch pinned EpiDoc 9.8 Relax NG schema
@@ -26,5 +25,7 @@ jobs:
           curl --fail --location --silent --show-error \
             https://raw.githubusercontent.com/EpiDoc/Source/gh-pages/schema/9.8/tei-epidoc.rng \
             --output /tmp/tei-epidoc-9.8.rng
-      - name: Validate materialized XML against EpiDoc 9.8
+      - name: Validate generated XML against EpiDoc 9.8
         run: jing /tmp/tei-epidoc-9.8.rng interchange/epidoc/occurrences-pilot.xml
+      - name: Verify committed artifact is exporter-canonical
+        run: git diff --exit-code -- interchange/epidoc/occurrences-pilot.xml
