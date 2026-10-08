@@ -27,8 +27,21 @@ The generated XML is written to `interchange/epidoc/occurrences-pilot.xml`. Gene
 XML is an interchange view, not a new scholarly authority. Canonical JSON and its
 source/provenance metadata continue to govern.
 
+## Certainty mapping
+
+The canonical source assertion `certainty: "certain"` is represented by the
+EpiDoc 9.8 Relax NG vocabulary `cert="high"`. These categories are not
+semantically identical: the original category is retained as
+`ana="#canonical-certainty-certain"` alongside the source-role annotation.
+Canonical JSON is unchanged. Unrecognized certainty categories cause exporter
+failure rather than silent coercion.
+
 ## Validation boundary
 
-The invariant test checks the project's loss-prevention rules. Formal validation
-against an externally pinned EpiDoc schema/profile remains a separate gate and must
-be added before the repository claims EpiDoc conformance.
+The invariant tests, EpiDoc 9.8 Relax NG validation using Jing, and exact
+regeneration of the committed XML passed in GitHub Actions on
+2026-10-07 (run 37718674499; commit `fb4db8f`).
+This establishes **Relax NG validation of the occurrence pilot only**.
+Schematron checks, upstream schema digest pinning, reference resolution,
+full object-level coverage, and human epigraphic review are separate gates;
+do not claim comprehensive EpiDoc conformance or complete transcription.
