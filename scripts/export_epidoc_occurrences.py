@@ -27,7 +27,7 @@ def epidoc_cert(value: str) -> str:
 
     'certain' is the corpus's categorical source assertion, not a probability.
     EpiDoc's closest allowed qualitative encoding is 'high'; retain the original
-    category in @data-certainty to avoid pretending the two are identical.
+    category in @ana to avoid pretending the two are identical.
     """
     mapping = {"certain": "high", "high": "high", "medium": "medium",
                "low": "low", "unknown": "unknown"}
@@ -73,9 +73,9 @@ def build() -> ET.Element:
                 "n": str(occ["position"]),
                 "ref": f"urn:cypro-minoan:published-sign:{occ['source_id']}:{occ['published_sign_label']}",
                 "cert": epidoc_cert(occ.get("certainty", "unknown")),
-                "data-certainty": occ.get("certainty", "unknown"),
+                
                 "resp": f"#source-{occ['source_id']}",
-                "ana": f"#source-role-{occ.get('source_role', 'unknown')}",
+                "ana": f"#source-role-{occ.get('source_role', 'unknown')} #canonical-certainty-{occ.get('certainty', 'unknown')}",
                 f"{{{XML}}}id": occ["occurrence_id"],
             })
             g.text = occ["published_sign_label"]
