@@ -13,8 +13,8 @@
   "validation_target": {
     "schema_family": "TEI-derived EpiDoc schema",
     "release_pin": "EpiDoc/Source@v9.8",
-    "status": "PINNED_NOT_YET_EXECUTED",
-    "claim_boundary": "Do not describe Cypro-Minoan interchange XML as EpiDoc-conformant until generated XML has been validated against the pinned EpiDoc 9.8 schema and any validation errors have been resolved."
+    "status": "RELAX_NG_VALIDATED_SCHEMATRON_PENDING",
+    "claim_boundary": "Relax NG and deterministic artifact verification passed in CI run 37718674499. Full EpiDoc conformance remains unverified."
   },
   "scope": "Cypro-Minoan loss-aware occurrence interchange pilot only",
   "notes": [
