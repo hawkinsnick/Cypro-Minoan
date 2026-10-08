@@ -22,6 +22,19 @@ OUT = ROOT / "interchange" / "epidoc" / "occurrences-pilot.xml"
 def q(name: str) -> str:
     return f"{{{TEI}}}{name}"
 
+def epidoc_cert(value: str) -> str:
+    """Map corpus certainty into EpiDoc @cert without changing canonical evidence.
+
+    'certain' is the corpus's categorical source assertion, not a probability.
+    EpiDoc's closest allowed qualitative encoding is 'high'; retain the original
+    category in @data-certainty to avoid pretending the two are identical.
+    """
+    mapping = {"certain": "high", "high": "high", "medium": "medium",
+               "low": "low", "unknown": "unknown"}
+    if value not in mapping:
+        raise ValueError(f"Unmapped canonical certainty: {value!r}")
+    return mapping[value]
+
 def build() -> ET.Element:
     data = json.loads(SOURCE.read_text(encoding="utf-8"))
     root = ET.Element(q("TEI"), {f"{{{XML}}}id": "CM-occurrences-pilot"})
@@ -59,7 +72,8 @@ def build() -> ET.Element:
             g = ET.SubElement(ab, q("g"), {
                 "n": str(occ["position"]),
                 "ref": f"urn:cypro-minoan:published-sign:{occ['source_id']}:{occ['published_sign_label']}",
-                "cert": occ.get("certainty", "unknown"),
+                "cert": epidoc_cert(occ.get("certainty", "unknown")),
+                "data-certainty": occ.get("certainty", "unknown"),
                 "resp": f"#source-{occ['source_id']}",
                 "ana": f"#source-role-{occ.get('source_role', 'unknown')}",
                 f"{{{XML}}}id": occ["occurrence_id"],
