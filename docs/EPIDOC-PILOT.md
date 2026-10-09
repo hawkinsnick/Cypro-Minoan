@@ -45,3 +45,9 @@ This establishes **Relax NG validation of the occurrence pilot only**.
 Schematron checks, upstream schema digest pinning, reference resolution,
 full object-level coverage, and human epigraphic review are separate gates;
 do not claim comprehensive EpiDoc conformance or complete transcription.
+
+## Additional integrity gates (2026-10-08)
+
+PR #11 added deterministic XML ID, local reference, source-locator, and partial-coverage checks; PR #12 added an executable **project-specific ISO Schematron** profile at `interchange/epidoc/pilot-integrity.sch`. Both were merged after green pull-request CI. Run `python tests/test_epidoc_reference_integrity.py` and, with `lxml` installed, `python tests/test_epidoc_schematron.py`.
+
+These gates validate the **partial occurrence pilot**, not the full corpus. They do not substitute for the upstream EpiDoc 9.8 Schematron rule set, schema digest verification, external authority resolution, complete object-level coverage, or expert review. No broader conformance claim is made.
