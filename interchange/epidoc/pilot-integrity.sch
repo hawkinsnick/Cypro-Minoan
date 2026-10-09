@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schema xmlns="http://purl.oclc.org/dsdl/schematron"
         xmlns:tei="http://www.tei-c.org/ns/1.0"
-        queryBinding="xslt2">
+        queryBinding="xslt">
   <title>Cypro-Minoan partial occurrence pilot integrity profile</title>
   <ns prefix="tei" uri="http://www.tei-c.org/ns/1.0"/>
   <pattern id="partial-coverage">
