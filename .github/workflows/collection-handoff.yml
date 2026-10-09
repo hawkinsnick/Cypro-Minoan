@@ -19,5 +19,14 @@ jobs:
             git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'chore: regenerate source-bound handoff artifacts'
             git push origin HEAD:recovery/collection-handoff-2026-10-09-b
           fi
+      - name: Regenerate collection handoff on recovery branch
+        if: github.event_name == 'push' && github.ref == 'refs/heads/recovery/collection-handoff-2026-10-09-b'
+        run: |
+          python scripts/build_collection_handoff.py --write
+          git add research/collection-work-ledger.json review/collection-packet.json review/collection-decision-template.json
+          if ! git diff --cached --quiet; then
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'chore: regenerate collection handoff'
+            git push origin HEAD:recovery/collection-handoff-2026-10-09-b
+          fi
       - run: python scripts/build_collection_handoff.py
       - run: python -m unittest discover -s tests -p 'test_collection_handoff.py'
