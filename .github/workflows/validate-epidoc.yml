@@ -32,6 +32,11 @@ jobs:
           curl --fail --location --silent --show-error \
             https://raw.githubusercontent.com/EpiDoc/Source/gh-pages/schema/9.8/tei-epidoc.rng \
             --output /tmp/tei-epidoc-9.8.rng
+      - name: Record upstream schema digest and reject empty schema
+        run: |
+          test -s /tmp/tei-epidoc-9.8.rng
+          sha256sum /tmp/tei-epidoc-9.8.rng | tee /tmp/tei-epidoc-9.8.sha256
+          grep -q 'http://relaxng.org/ns/structure/1.0' /tmp/tei-epidoc-9.8.rng
       - name: Validate generated XML against EpiDoc 9.8
         run: jing /tmp/tei-epidoc-9.8.rng interchange/epidoc/occurrences-pilot.xml
       - name: Verify committed artifact is exporter-canonical
