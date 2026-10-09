@@ -27,10 +27,10 @@ jobs:
           python tests/test_epidoc_schematron.py
       - name: Install Jing
         run: sudo apt-get update && sudo apt-get install -y jing
-      - name: Fetch pinned EpiDoc 9.8 Relax NG schema
+      - name: Fetch EpiDoc 9.8 Relax NG from immutable upstream commit
         run: |
           curl --fail --location --silent --show-error \
-            https://raw.githubusercontent.com/EpiDoc/Source/gh-pages/schema/9.8/tei-epidoc.rng \
+            https://raw.githubusercontent.com/EpiDoc/Source/2368ee115d8008b32c37446301874945bcbe6c18/schema/9.8/tei-epidoc.rng \
             --output /tmp/tei-epidoc-9.8.rng
       - name: Record upstream schema digest and reject empty schema
         run: |
