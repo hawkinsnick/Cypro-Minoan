@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CM-occurrences-pilot">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cypro-Minoan source-checked occurrence pilot</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Project-generated interchange view; consult repository rights metadata.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Generated only from occurrences/occurrences.json. Coverage is partial and authority-specific; omission is not evidence of absence.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-06">Pilot loss-aware serialization; no decipherment or normalization asserted.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0029-source-numbered-sequence">
+        <head>CMOC-0029 / source-numbered-sequence</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="3" ref="urn:cypro-minoan:published-sign:vetters2011:97" cert="high" resp="#source-vetters2011" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-ENK029-VETTERS2011-3">97</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-ENK029-VETTERS2011-3">p. 16, footnote 126, Olivier 2007 no. 029 (3rd sign)</note>
+      </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0030-source-numbered-sequence">
+        <head>CMOC-0030 / source-numbered-sequence</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="7" ref="urn:cypro-minoan:published-sign:vetters2011:97" cert="high" resp="#source-vetters2011" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-ENK030-VETTERS2011-7">97</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-ENK030-VETTERS2011-7">p. 16, footnote 126, Olivier 2007 no. 030 (7th sign)</note>
+      </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0031-source-numbered-sequence">
+        <head>CMOC-0031 / source-numbered-sequence</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="3" ref="urn:cypro-minoan:published-sign:vetters2011:97" cert="high" resp="#source-vetters2011" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-ENK031-VETTERS2011-3">97</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-ENK031-VETTERS2011-3">p. 16, footnote 126, Olivier 2007 no. 031 (3rd sign)</note>
+      </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-TIRY-ADD244-clay-ball-inscription">
+        <head>CMOC-TIRY-ADD244 / clay-ball-inscription</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="1" ref="urn:cypro-minoan:published-sign:vetters2011:41" cert="high" resp="#source-vetters2011" ana="#source-role-primary_publication #canonical-certainty-certain" xml:id="CMOCC-TIRY244-1">41</g>
+          <g n="2" ref="urn:cypro-minoan:published-sign:vetters2011:41" cert="high" resp="#source-vetters2011" ana="#source-role-primary_publication #canonical-certainty-certain" xml:id="CMOCC-TIRY244-2">41</g>
+          <g n="3" ref="urn:cypro-minoan:published-sign:vetters2011:97" cert="high" resp="#source-vetters2011" ana="#source-role-primary_publication #canonical-certainty-certain" xml:id="CMOCC-TIRY244-3">97</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-TIRY244-1">pp. 16–17, Interpretation of the Signs</note>
+        <note type="source-locator" corresp="#CMOCC-TIRY244-2">pp. 16–17, Interpretation of the Signs</note>
+        <note type="source-locator" corresp="#CMOCC-TIRY244-3">pp. 16–17, Interpretation of the Signs</note>
+      </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-TIRY-ADD245-handle-1-inscription">
+        <head>CMOC-TIRY-ADD245 / handle-1-inscription</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="1" ref="urn:cypro-minoan:published-sign:davis-maran-prillwitz-wirghova2023:CM025" cert="high" resp="#source-davis-maran-prillwitz-wirghova2023" ana="#source-role-primary_publication #canonical-certainty-certain" xml:id="CMOCC-TIRY245-H1-1">CM025</g>
+          <g n="2" ref="urn:cypro-minoan:published-sign:davis-maran-prillwitz-wirghova2023:CM087" cert="high" resp="#source-davis-maran-prillwitz-wirghova2023" ana="#source-role-primary_publication #canonical-certainty-certain" xml:id="CMOCC-TIRY245-H1-2">CM087</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-TIRY245-H1-1">§3.4 Text</note>
+        <note type="source-locator" corresp="#CMOCC-TIRY245-H1-2">§3.4 Text</note>
+      </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-TIRY-ADD245-handle-2-potmark" ana="#nonlinguistic-status-undetermined">
+        <head>CMOC-TIRY-ADD245 / handle-2-potmark</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="1" ref="urn:cypro-minoan:published-sign:davis-maran-prillwitz-wirghova2023:CM005" cert="high" resp="#source-davis-maran-prillwitz-wirghova2023" ana="#source-role-primary_publication #canonical-certainty-certain" xml:id="CMOCC-TIRY245-H2-M1">CM005</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-TIRY245-H2-M1">§3.4 Text</note>
+      </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-TIRY-ADD246-jar-handle-inscription">
+        <head>CMOC-TIRY-ADD246 / jar-handle-inscription</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="1" ref="urn:cypro-minoan:published-sign:bourogiannis2024:87" cert="high" resp="#source-bourogiannis2024" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-TIRY246-1">87</g>
+          <g n="2" ref="urn:cypro-minoan:published-sign:bourogiannis2024:50" cert="high" resp="#source-bourogiannis2024" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-TIRY246-2">50</g>
+          <g n="3" ref="urn:cypro-minoan:published-sign:bourogiannis2024:05" cert="high" resp="#source-bourogiannis2024" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-TIRY246-3">05</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-TIRY246-1">p. 56, jug handle discussion</note>
+        <note type="source-locator" corresp="#CMOCC-TIRY246-2">p. 56, jug handle discussion</note>
+        <note type="source-locator" corresp="#CMOCC-TIRY246-3">p. 56, jug handle discussion</note>
+      </div>
+    </body>
+  </text>
+</TEI>

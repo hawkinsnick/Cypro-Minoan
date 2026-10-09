@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-07",
+  "fleet_contract": "Linear-A corpus-factory EpiDoc contract v1",
+  "status": "EPIDOC_9_8_PINNED_PILOT_GENERATED_INVARIANTS_PASS_SCHEMA_VALIDATION_PENDING",
+  "native_units": [
+    "catalogue record",
+    "rich object record",
+    "sign occurrence",
+    "source assertion",
+    "review dossier"
+  ],
+  "epidoc_mapping_targets": {
+    "object": "objectDesc/supportDesc",
+    "findspot_context": "provenance/placeName",
+    "dating": "origDate",
+    "source_checked_sign_occurrence": "edition/seg or g with project-qualified identifiers",
+    "bibliography": "listBibl",
+    "rights": "availability/licence",
+    "revision": "revisionDesc"
+  },
+  "loss_risks": [
+    "authority-specific sign labels must not be normalized into one alphabet",
+    "partial occurrence coverage must not serialize as complete transcription",
+    "dependent-secondary occurrences must retain lineage",
+    "unknown script classification/date/findspot remain explicit"
+  ],
+  "conclusion": "Loss-aware occurrence serialization has been generated as a materialized pilot and its project invariants have been executed successfully. It preserves partial coverage, source-qualified labels, source roles, certainty and potmark caution. EpiDoc 9.8 is pinned as the external validation target, but Relax NG/Schematron validation against that release remains pending; no conformance claim is made.",
+  "implementation": {
+    "exporter": "scripts/export_epidoc_occurrences.py",
+    "tests": "tests/test_epidoc_occurrences.py",
+    "documentation": "docs/EPIDOC-PILOT.md",
+    "output": "interchange/epidoc/occurrences-pilot.xml",
+    "scope": "source-checked occurrence assertions only",
+    "conformance_claim": false,
+    "remaining_gate": "Execute Relax NG/Schematron validation of the materialized XML against pinned EpiDoc 9.8, resolve failures, and record the result before claiming EpiDoc conformance.",
+    "validation_profile": "interchange/epidoc/validation-profile.json",
+    "output_generated": true,
+    "invariant_test": {
+      "status": "PASS",
+      "executed": "2026-10-07",
+      "test": "tests/test_epidoc_occurrences.py"
+    },
+    "schema_validation": {
+      "target": "EpiDoc 9.8 / EpiDoc/Source@v9.8",
+      "status": "PENDING"
+    }
+  }
+}

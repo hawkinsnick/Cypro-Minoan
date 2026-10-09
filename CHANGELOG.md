@@ -1,3 +1,11 @@
+## Unreleased — EpiDoc occurrence interoperability pilot (2026-10-07)
+
+- Added a loss-aware exporter for the 12 source-checked occurrence assertions; partial coverage must not be read as a complete transcription.
+- Preserved source-qualified published sign labels, source roles, certainty, locators, zone boundaries, and explicit potmark caution.
+- Added invariant tests and researcher documentation for the occurrence-layer pilot.
+- Pinned the external validation target to EpiDoc 9.8 (`v9.8`, release commit `5655fb778ecc93a4b6a7346995a55ea686a9e9b2`, TEI 4.10.2 alignment).
+- EpiDoc validation has **not yet been executed**; no conformance claim is made. Full object-level EpiDoc description remains outside the current occurrence-layer scope.
+
 ## 5.2.5 — mapping/statistical repair and stronger scientific-claim guards
 
 21 rich records and 9 source-checked occurrences. Three clay-ball occurrences carry primary-publication locators. Corpus-wide frequency and cross-script phonetic claims remain blocked.

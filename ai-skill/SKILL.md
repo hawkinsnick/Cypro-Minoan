@@ -39,3 +39,10 @@ Read `analysis/context-coverage-v1.json` and `research/record-dossiers.json` bef
 
 ## Offline corpus browser
 Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. The browser is self-contained and searches only the explicitly allowlisted files in `research/browser-sources.json`. Adding a file to the browser requires a rights/provenance check; never recursively ingest repository data or restricted upstream material. Browser display does not establish decipherment, source independence, or expert validation.
+
+
+## Fleet EpiDoc and identity graph gates
+Read `analysis/epidoc-interoperability-audit.json` and `research/identity-graph.json`. EpiDoc serialization must preserve object/surface/text distinctions, partial occurrence coverage, authority-specific sign labels and source dependence. Never serialize a potmark as linguistic text merely because it bears a mark, and never turn a sign-label correspondence into a phonetic or physical identity assertion.
+
+## EpiDoc pilot execution
+For EpiDoc interchange, use `scripts/export_epidoc_occurrences.py` and read `docs/EPIDOC-PILOT.md`. The generated XML is a partial, source-assertion view only. Preserve source-qualified published sign labels, source roles, certainty, locators and zone boundaries. The occurrence pilot passed EpiDoc 9.8 Relax NG and exporter-canonical artifact checks (GitHub Actions run 37718674499); this does not establish full EpiDoc conformance, Schematron validation, full object coverage, or epigraphic correctness. Canonical `certain` is serialized as `cert="high"` with `#canonical-certainty-certain` retained in `@ana`; always consult canonical JSON for the source category.

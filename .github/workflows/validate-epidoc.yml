@@ -1,0 +1,31 @@
+name: Validate EpiDoc pilot
+
+on:
+  pull_request:
+    paths:
+      - 'interchange/epidoc/**'
+      - 'scripts/export_epidoc_occurrences.py'
+      - 'tests/test_epidoc_occurrences.py'
+      - '.github/workflows/validate-epidoc.yml'
+  workflow_dispatch:
+
+jobs:
+  epidoc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Regenerate occurrence pilot and run loss-prevention invariants
+        run: |
+          python scripts/export_epidoc_occurrences.py
+          python tests/test_epidoc_occurrences.py
+      - name: Install Jing
+        run: sudo apt-get update && sudo apt-get install -y jing
+      - name: Fetch pinned EpiDoc 9.8 Relax NG schema
+        run: |
+          curl --fail --location --silent --show-error \
+            https://raw.githubusercontent.com/EpiDoc/Source/gh-pages/schema/9.8/tei-epidoc.rng \
+            --output /tmp/tei-epidoc-9.8.rng
+      - name: Validate generated XML against EpiDoc 9.8
+        run: jing /tmp/tei-epidoc-9.8.rng interchange/epidoc/occurrences-pilot.xml
+      - name: Verify committed artifact is exporter-canonical
+        run: git diff --exit-code -- interchange/epidoc/occurrences-pilot.xml

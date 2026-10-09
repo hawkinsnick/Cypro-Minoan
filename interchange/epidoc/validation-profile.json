@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-07",
+  "upstream": {
+    "project": "EpiDoc",
+    "release": "9.8",
+    "tag": "v9.8",
+    "release_commit": "5655fb778ecc93a4b6a7346995a55ea686a9e9b2",
+    "tei_alignment": "4.10.2",
+    "official_site": "https://epidoc.stoa.org/",
+    "official_source_repository": "https://github.com/EpiDoc/Source"
+  },
+  "validation_target": {
+    "schema_family": "TEI-derived EpiDoc schema",
+    "release_pin": "EpiDoc/Source@v9.8",
+    "status": "RELAX_NG_VALIDATED_SCHEMATRON_PENDING",
+    "claim_boundary": "Relax NG and deterministic artifact verification passed in CI run 37718674499. Full EpiDoc conformance remains unverified."
+  },
+  "scope": "Cypro-Minoan loss-aware occurrence interchange pilot only",
+  "notes": [
+    "The pin establishes a reproducible upstream validation target; it does not itself establish conformance.",
+    "The occurrence pilot is intentionally partial and does not claim complete transcription, decipherment, sign equivalence, or witness independence.",
+    "Full object-level EpiDoc coverage remains a separate expansion from occurrence-layer validation."
+  ]
+}
