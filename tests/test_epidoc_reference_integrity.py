@@ -4,7 +4,6 @@ This is an integrity gate, not an EpiDoc Schematron conformance claim.
 """
 from pathlib import Path
 from collections import Counter
-from urllib.parse import urlparse
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -33,8 +32,6 @@ def check(path=PILOT):
                 errors.append(f"{oid}: sign ref is not source-qualified")
             if not node.get("resp", "").startswith("#source-"):
                 errors.append(f"{oid}: source authority not explicitly qualified")
-            if "#partial-coverage" not in (node.getparent().get("ana", "") if hasattr(node, "getparent") else ""):
-                pass  # Parent coverage is checked by div/ab inspection below.
         for attr in ("corresp", "target"):
             for token in node.get(attr, "").split():
                 if token.startswith("#") and token[1:] not in known:
