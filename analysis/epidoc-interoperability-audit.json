@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "fleet_contract": "Linear-A corpus-factory EpiDoc contract v1",
-  "status": "EPIDOC_9_8_PINNED_PILOT_GENERATED_INVARIANTS_PASS_SCHEMA_VALIDATION_PENDING",
+  "status": "EPIDOC_9_8_RELAX_NG_AND_PROJECT_SCHEMATRON_PASS_PARTIAL_PILOT",
   "native_units": [
     "catalogue record",
     "rich object record",
@@ -25,7 +25,7 @@
     "dependent-secondary occurrences must retain lineage",
     "unknown script classification/date/findspot remain explicit"
   ],
-  "conclusion": "Loss-aware occurrence serialization has been generated as a materialized pilot and its project invariants have been executed successfully. It preserves partial coverage, source-qualified labels, source roles, certainty and potmark caution. EpiDoc 9.8 is pinned as the external validation target, but Relax NG/Schematron validation against that release remains pending; no conformance claim is made.",
+  "conclusion": "Materialized partial occurrence pilot passed EpiDoc 9.8 Relax NG, project-specific ISO Schematron, local reference integrity and deterministic exporter checks in PR #15 CI. Upstream EpiDoc Schematron, complete object coverage and independent review remain pending; no full conformance claim is made.",
   "implementation": {
     "exporter": "scripts/export_epidoc_occurrences.py",
     "tests": "tests/test_epidoc_occurrences.py",
@@ -33,7 +33,7 @@
     "output": "interchange/epidoc/occurrences-pilot.xml",
     "scope": "source-checked occurrence assertions only",
     "conformance_claim": false,
-    "remaining_gate": "Execute Relax NG/Schematron validation of the materialized XML against pinned EpiDoc 9.8, resolve failures, and record the result before claiming EpiDoc conformance.",
+    "remaining_gate": "Verify upstream EpiDoc Schematron, enforce expected upstream schema digest, expand source-backed object coverage and obtain independent review.",
     "validation_profile": "interchange/epidoc/validation-profile.json",
     "output_generated": true,
     "invariant_test": {
@@ -42,8 +42,8 @@
       "test": "tests/test_epidoc_occurrences.py"
     },
     "schema_validation": {
-      "target": "EpiDoc 9.8 / EpiDoc/Source@v9.8",
-      "status": "PENDING"
+      "target": "EpiDoc 9.8 / EpiDoc/Source@2368ee115d8008b32c37446301874945bcbe6c18",
+      "status": "RELAX_NG_PASS_PROJECT_SCHEMATRON_PASS_UPSTREAM_SCHEMATRON_PENDING"
     }
   }
 }
