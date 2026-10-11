@@ -46,15 +46,15 @@
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "d4537c5bb7a47512d7068b734e6d339dbed4207670809841cb90500002ae8b0c"
+      "sha256": "03db018de5d8f72ac3275b78964fde18f27505adc8a635a01e7ab61e096ac5e5"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "03086309884f8b657bbab7a804c5bc3e5e8908751bfc426bf329f7917dc58086"
+      "sha256": "39b168365d9b32ddcda369da82cca6cb981ca8b0448a0cda2efcd5e1ad8002be"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "0f4b5151a3b09b05c1eb923655c931144e2892387a8277852cd4110c93c59626"
+      "sha256": "bed907f07aaa93201c5d92fa3046e646b2ffe0d092a51ec03d0c4edc49f0f9de"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -110,7 +110,7 @@
     },
     {
       "path": "research/pre-expert-maximum.json",
-      "sha256": "839b247ab80cfa5de05542bdf34674ad70b45fc1431292055de3ae267b04d518"
+      "sha256": "a9b75993c8d4745b9e7215a46d8216024d3d4998d03ab7b7f1bcebbdb346fa27"
     },
     {
       "path": "research/record-dossiers.json",
@@ -167,6 +167,26 @@
     {
       "path": "docs/CATALOGUE-CONCORDANCE.md",
       "sha256": "d79ca514ba54c09b1468e124e22fd487f192f7d23e4eab0872c24bfadd63a36e"
+    },
+    {
+      "path": "research/uncovered-record-review-controls.json",
+      "sha256": "2ba2074c3782a0fb1f212a3fd2ecc9b4ee01514a9b0f766a1043008bc2b06fd3"
+    },
+    {
+      "path": "research/met-open-image-controls.json",
+      "sha256": "38bcd8cf069cdf614a2ca7d81d6a495064865c1a529278123249a76b95db7d0c"
+    },
+    {
+      "path": "docs/UNCOVERED-RECORD-REVIEW.md",
+      "sha256": "dc3e8f37ab7220d91361675e4bbd6981d4cfa24e287eff42f7d353c04b94cec8"
+    },
+    {
+      "path": "scripts/validate_uncovered_review.py",
+      "sha256": "c90a514b0d63d8a536d568d570f69bd0cb9238493549cf0f96781b2f3ef93164"
+    },
+    {
+      "path": "scripts/test_uncovered_review.py",
+      "sha256": "7a50486ddc04b47e7778be51ad533896bb94e9167a471670f76ac2ee186c255d"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",

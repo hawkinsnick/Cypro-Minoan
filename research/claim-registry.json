@@ -3,7 +3,7 @@
   "claims": [
     {
       "claim_id": "CM-C001",
-      "claim": "The current CM release controls 254 historical/addendum catalogue slots, with 68 exact sigla currently verified.",
+      "claim": "The current controlled register contains 254 historical/addendum catalogue slots, all with source-attributed sigla; physical identity and reading validation remain separate.",
       "status": "validated_structure",
       "evidence": "catalogues/master.json; catalogues/reconciliation-ledger.json",
       "limitations": "Catalogue control is not rich-record or transcription completeness."
@@ -17,7 +17,7 @@
     },
     {
       "claim_id": "CM-C003",
-      "claim": "The source-verified occurrence layer currently contains three occurrences and is insufficient for corpus-wide frequency inference.",
+      "claim": "The source-attributed occurrence layer contains 12 occurrences across six of 21 rich records and remains insufficient for corpus-wide frequency inference.",
       "status": "blocked_experiment",
       "evidence": "occurrences/occurrences.json; research/experiment-gates.json",
       "limitations": "Descriptive subset counts are permitted only with scope warning."
@@ -92,5 +92,6 @@
       "evidence": "provenance/independence-policy.json",
       "limitations": "Claim-level lineage population remains an ongoing evidence task."
     }
-  ]
+  ],
+  "as_of": "2026-10-11"
 }

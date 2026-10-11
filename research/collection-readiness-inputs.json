@@ -32,6 +32,12 @@
     "research/source-inspection-2026-10-02.json",
     "catalogues/source-located-concordance.json",
     "catalogues/reconciliation-ledger.json",
-    "analysis/catalogue-mapping-audit.json"
+    "analysis/catalogue-mapping-audit.json",
+    "research/uncovered-record-review-controls.json",
+    "research/met-open-image-controls.json",
+    "research/source-metadata/met-331665.json",
+    "research/source-metadata/met-321391.json",
+    "research/source-metadata/met-240899.json",
+    "research/source-metadata/met-243938.json"
   ]
 }

@@ -1,20 +1,26 @@
 {
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "2194ed12a2ac82cdc8a6daebc5ac2993317b068443c8ec28663fbb8c904d6ef6",
-  "evidence_fingerprint": "81780af6558fb4fe6a9bc46998fa8a7cd2768640b01a058d6e87498aac76f4e8",
+  "config_sha256": "b5e1aab8c991ca1ac24f18268ed85a1b1d2711b254d09a9ccd46129b6b92b65e",
+  "evidence_fingerprint": "e43e504d19bb8eb85545db76c9b07c99b66dac7e7bedf23eb9c6f66ac56393b7",
   "input_sha256": {
     "analysis/catalogue-mapping-audit.json": "4711fd4f30f6d0ee878ffef19f0036fba75a9de3cb9713342793150707ba77ea",
-    "analysis/current-status.json": "b647a7d6db2a320727675f9fc1b89edb3bfb2eeba7287d1c4fdcd145657ce0cb",
+    "analysis/current-status.json": "38eec1d74076ff1ac35edc3e6c5ec860b3d087d27ee1dba13676c5e6e7ce4648",
     "analysis/occurrence-coverage-v1.json": "7b247bb067606e98ec3a1130434ca7dff113530a3df7786a0739e524464e3181",
     "catalogues/master.json": "bd901ce1cdc48f7dda9d19435f0416a5bbabce304b6ebf784bc78f0048406e9f",
     "catalogues/reconciliation-ledger.json": "f8130ea475d0489d1f234571a7271a49609ccf08f728df25103e0f023bf6d241",
     "catalogues/source-located-concordance.json": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66",
     "interchange/documents.json": "05781183c6b0b2e7696004a546cb6a204cd2f41dbf8eeb621d82778e63921980",
     "research/acquisition-queue.json": "05fbeab69ae8d1980b963178f4b1481598dc94a2d5767456d575eac9ee9c9bcd",
-    "research/pre-expert-maximum.json": "839b247ab80cfa5de05542bdf34674ad70b45fc1431292055de3ae267b04d518",
-    "research/pre-expert-source-exhaustion.json": "0f5c78a1ed53d975e6176bfba5d49b631c731da73672c2de3f9d2c3c24af7681",
-    "research/source-inspection-2026-10-02.json": "09e06c64feba4e5035a8fe6e5a61aeb11837a74a658fbbd177e6577b4ad98994"
+    "research/met-open-image-controls.json": "38bcd8cf069cdf614a2ca7d81d6a495064865c1a529278123249a76b95db7d0c",
+    "research/pre-expert-maximum.json": "a9b75993c8d4745b9e7215a46d8216024d3d4998d03ab7b7f1bcebbdb346fa27",
+    "research/pre-expert-source-exhaustion.json": "11df7af299656d7270973b92d87828e1a9d4a227d6f882b0dbcfc90b58f6b646",
+    "research/source-inspection-2026-10-02.json": "09e06c64feba4e5035a8fe6e5a61aeb11837a74a658fbbd177e6577b4ad98994",
+    "research/source-metadata/met-240899.json": "c18c4064ea21b00465b51b76530342af1739bb0db69f1a5291ec5404255c2cb1",
+    "research/source-metadata/met-243938.json": "2a79d26935bb05052642424b2a87757b39102c16cd4aa360c079f7590c8cbb4f",
+    "research/source-metadata/met-321391.json": "c91085cb37b52660c8bb4aea01000b2d411d48b966b023feb3403e2b60c0bf22",
+    "research/source-metadata/met-331665.json": "def5938f8e89204ad37d6eb7e9ecbdfc35f5830fccfbf1830ce67af1b0ed7cda",
+    "research/uncovered-record-review-controls.json": "2ba2074c3782a0fb1f212a3fd2ecc9b4ee01514a9b0f766a1043008bc2b06fd3"
   },
   "native_review_links": [
     "LICENSING.md"
@@ -12496,6 +12502,90 @@
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/0/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/1/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/2/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/3/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/4/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/5/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/6/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/7/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/8/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/9/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/10/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/11/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/12/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/images/13/url",
+      "kind": "url",
+      "source_path": "research/met-open-image-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
       "json_pointer": "/sources/0/source_id",
       "kind": "source_id",
       "source_path": "research/source-inspection-2026-10-02.json"
@@ -12505,6 +12595,492 @@
       "json_pointer": "/sources/0/url",
       "kind": "url",
       "source_path": "research/source-inspection-2026-10-02.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/title",
+      "kind": "title",
+      "source_path": "research/source-metadata/met-240899.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/title",
+      "kind": "title",
+      "source_path": "research/source-metadata/met-243938.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/title",
+      "kind": "title",
+      "source_path": "research/source-metadata/met-321391.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/title",
+      "kind": "title",
+      "source_path": "research/source-metadata/met-331665.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/0/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/0/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/0/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/0/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/0/source_leads/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/0/source_leads/1/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/0/reported_primary_edition_locator/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/1/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/1/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/1/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/1/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/1/source_leads/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/1/source_leads/1/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/1/reported_primary_edition_locator/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/2/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/2/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/2/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/2/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/2/source_leads/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/2/source_leads/1/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/2/reported_primary_edition_locator/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/3/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/3/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/3/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/3/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/3/source_leads/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/3/source_leads/1/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/3/reported_primary_edition_locator/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/4/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/4/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/4/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/4/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/4/source_leads/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/4/source_leads/1/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/4/reported_primary_edition_locator/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/5/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/5/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/5/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/5/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/5/source_leads/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/5/source_leads/1/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/5/reported_primary_edition_locator/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/6/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/6/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/6/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/6/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/6/source_leads/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/6/source_leads/1/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/6/reported_primary_edition_locator/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/7/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/7/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/7/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/7/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/7/source_leads/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/7/source_leads/1/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/7/reported_primary_edition_locator/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/8/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/8/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/8/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/9/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/9/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/9/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/10/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/10/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/10/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/11/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/11/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/11/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/12/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/12/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/12/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/13/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/13/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/13/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/14/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/14/source_leads/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/uncovered-record-review-controls.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/items/14/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/uncovered-record-review-controls.json"
     }
   ],
   "tasks": [
@@ -12512,7 +13088,7 @@
       "blocker_is_not_established_by_a_label": true,
       "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
       "json_pointer": "/remaining_nonexpert_work/0",
-      "native_status": null,
+      "native_status": "RECORD_LEVEL_SOURCE_DISPOSITIONS_REGISTERED",
       "native_task_id": "CM-PRE-001",
       "source_path": "research/pre-expert-maximum.json",
       "task": "Acquire lawful primary-publication sign evidence where accessible; otherwise preserve citation-only/source-lead status."
@@ -12570,6 +13146,141 @@
       "native_task_id": "CM-HUM-004",
       "source_path": "research/pre-expert-maximum.json",
       "task": "review palaeographic interpretation and any proposed cross-script correspondence"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/0",
+      "native_status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/1",
+      "native_status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/2",
+      "native_status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/3",
+      "native_status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/4",
+      "native_status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/5",
+      "native_status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/6",
+      "native_status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/7",
+      "native_status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/8",
+      "native_status": "SOURCE_ACCESS_BLOCKED",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/9",
+      "native_status": "MUSEUM_METADATA_LOCATED_PRIMARY_SIGN_EVIDENCE_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/10",
+      "native_status": "MUSEUM_METADATA_LOCATED_PRIMARY_SIGN_EVIDENCE_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/11",
+      "native_status": "CC0_IMAGE_EVIDENCE_LOCATED_EXPERT_IDENTIFICATION_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/12",
+      "native_status": "CC0_IMAGE_EVIDENCE_LOCATED_EXPERT_IDENTIFICATION_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/13",
+      "native_status": "CC0_IMAGE_EVIDENCE_LOCATED_EXPERT_IDENTIFICATION_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/14",
+      "native_status": "CC0_IMAGE_EVIDENCE_LOCATED_EXPERT_IDENTIFICATION_PENDING",
+      "native_task_id": null,
+      "source_path": "research/uncovered-record-review-controls.json",
+      "task": "UNREVIEWED"
     }
   ],
   "terminal_pre_expert_maximum_established": false

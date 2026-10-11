@@ -10,7 +10,8 @@
       "object_scope": "21 rich records",
       "task": "Continue record-by-record primary-publication verification until the explicit coverage denominator is closed.",
       "decision_needed": "published sign labels, uncertainty and source locator",
-      "status": "in_progress_requires_expert_review"
+      "status": "in_progress_requires_expert_review",
+      "source_packet": "research/uncovered-record-review-controls.json"
     },
     {
       "id": "CM-VAL-002",
@@ -37,5 +38,6 @@
       "status": "blocked_pending_expert_and_sources"
     }
   ],
-  "admission_rule": "Corpus-wide frequency and cross-script phonetic claims remain blocked until their explicit evidence gates are satisfied."
+  "admission_rule": "Corpus-wide frequency and cross-script phonetic claims remain blocked until their explicit evidence gates are satisfied.",
+  "record_level_review_controls": "research/uncovered-record-review-controls.json"
 }
