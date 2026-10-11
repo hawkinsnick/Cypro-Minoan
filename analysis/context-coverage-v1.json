@@ -14,7 +14,7 @@
     {
       "catalogue_number": 1,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Atab 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -22,7 +22,7 @@
     {
       "catalogue_number": 2,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -30,7 +30,7 @@
     {
       "catalogue_number": 3,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -38,7 +38,7 @@
     {
       "catalogue_number": 4,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 003",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -46,7 +46,7 @@
     {
       "catalogue_number": 5,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 004",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -54,7 +54,7 @@
     {
       "catalogue_number": 6,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 005",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -62,7 +62,7 @@
     {
       "catalogue_number": 7,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 006",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -70,7 +70,7 @@
     {
       "catalogue_number": 8,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 007",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -78,7 +78,7 @@
     {
       "catalogue_number": 9,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 008",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -86,7 +86,7 @@
     {
       "catalogue_number": 10,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 009",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -94,7 +94,7 @@
     {
       "catalogue_number": 11,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 010",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -102,7 +102,7 @@
     {
       "catalogue_number": 12,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 011",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -110,7 +110,7 @@
     {
       "catalogue_number": 13,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 012",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -118,7 +118,7 @@
     {
       "catalogue_number": 14,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 013",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -126,7 +126,7 @@
     {
       "catalogue_number": 15,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 014",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -134,7 +134,7 @@
     {
       "catalogue_number": 16,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 015",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -142,7 +142,7 @@
     {
       "catalogue_number": 17,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 015bis",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -150,7 +150,7 @@
     {
       "catalogue_number": 18,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 016",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -158,7 +158,7 @@
     {
       "catalogue_number": 19,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 016bis",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -166,7 +166,7 @@
     {
       "catalogue_number": 20,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 017",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -174,7 +174,7 @@
     {
       "catalogue_number": 21,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 018",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -182,7 +182,7 @@
     {
       "catalogue_number": 22,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 019",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -190,7 +190,7 @@
     {
       "catalogue_number": 23,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 020",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -198,7 +198,7 @@
     {
       "catalogue_number": 24,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 021",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -206,7 +206,7 @@
     {
       "catalogue_number": 25,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 022",
       "ingestion_status": "rich_record_available",
       "reported_record_links": [
         {
@@ -225,7 +225,7 @@
     {
       "catalogue_number": 26,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 023",
       "ingestion_status": "rich_record_available",
       "reported_record_links": [
         {
@@ -244,7 +244,7 @@
     {
       "catalogue_number": 27,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 024",
       "ingestion_status": "rich_record_available",
       "reported_record_links": [
         {
@@ -263,7 +263,7 @@
     {
       "catalogue_number": 28,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 025",
       "ingestion_status": "rich_record_available",
       "reported_record_links": [
         {
@@ -282,7 +282,7 @@
     {
       "catalogue_number": 29,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 026",
       "ingestion_status": "rich_record_available",
       "reported_record_links": [
         {
@@ -301,7 +301,7 @@
     {
       "catalogue_number": 30,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 027",
       "ingestion_status": "rich_record_available",
       "reported_record_links": [
         {
@@ -320,7 +320,7 @@
     {
       "catalogue_number": 31,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 028",
       "ingestion_status": "rich_record_available",
       "reported_record_links": [
         {
@@ -339,7 +339,7 @@
     {
       "catalogue_number": 32,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 029",
       "ingestion_status": "rich_record_available",
       "reported_record_links": [
         {
@@ -358,7 +358,7 @@
     {
       "catalogue_number": 33,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 030",
       "ingestion_status": "rich_record_available",
       "reported_record_links": [
         {
@@ -377,7 +377,7 @@
     {
       "catalogue_number": 34,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 031",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -385,7 +385,7 @@
     {
       "catalogue_number": 35,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 032",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -393,7 +393,7 @@
     {
       "catalogue_number": 36,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 033",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -401,7 +401,7 @@
     {
       "catalogue_number": 37,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 034",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -409,7 +409,7 @@
     {
       "catalogue_number": 38,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 035",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -417,7 +417,7 @@
     {
       "catalogue_number": 39,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 036",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -425,7 +425,7 @@
     {
       "catalogue_number": 40,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 037",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -433,7 +433,7 @@
     {
       "catalogue_number": 41,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 038",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -441,7 +441,7 @@
     {
       "catalogue_number": 42,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 039",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -449,7 +449,7 @@
     {
       "catalogue_number": 43,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 040",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -457,7 +457,7 @@
     {
       "catalogue_number": 44,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 041",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -465,7 +465,7 @@
     {
       "catalogue_number": 45,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 042",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -473,7 +473,7 @@
     {
       "catalogue_number": 46,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 043",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -481,7 +481,7 @@
     {
       "catalogue_number": 47,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 044",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -489,7 +489,7 @@
     {
       "catalogue_number": 48,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 045",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -497,7 +497,7 @@
     {
       "catalogue_number": 49,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 046",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -505,7 +505,7 @@
     {
       "catalogue_number": 50,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 047",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -513,7 +513,7 @@
     {
       "catalogue_number": 51,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 048",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -521,7 +521,7 @@
     {
       "catalogue_number": 52,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 049",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -529,7 +529,7 @@
     {
       "catalogue_number": 53,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 050",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -537,7 +537,7 @@
     {
       "catalogue_number": 54,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 051",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -545,7 +545,7 @@
     {
       "catalogue_number": 55,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 052",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -553,7 +553,7 @@
     {
       "catalogue_number": 56,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 053",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -561,7 +561,7 @@
     {
       "catalogue_number": 57,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 054",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -569,7 +569,7 @@
     {
       "catalogue_number": 58,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 055",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -577,7 +577,7 @@
     {
       "catalogue_number": 59,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 056",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -585,7 +585,7 @@
     {
       "catalogue_number": 60,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 057",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -593,7 +593,7 @@
     {
       "catalogue_number": 61,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 058",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -601,7 +601,7 @@
     {
       "catalogue_number": 62,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 059",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -609,7 +609,7 @@
     {
       "catalogue_number": 63,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 060",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -617,7 +617,7 @@
     {
       "catalogue_number": 64,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 061",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -625,7 +625,7 @@
     {
       "catalogue_number": 65,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 062",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -633,7 +633,7 @@
     {
       "catalogue_number": 66,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 063",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -641,7 +641,7 @@
     {
       "catalogue_number": 67,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 064",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -649,7 +649,7 @@
     {
       "catalogue_number": 68,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 065",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -657,7 +657,7 @@
     {
       "catalogue_number": 69,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 066",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -665,7 +665,7 @@
     {
       "catalogue_number": 70,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 067",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -673,7 +673,7 @@
     {
       "catalogue_number": 71,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 068",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -681,7 +681,7 @@
     {
       "catalogue_number": 72,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 069",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -689,7 +689,7 @@
     {
       "catalogue_number": 73,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 069ter",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -697,7 +697,7 @@
     {
       "catalogue_number": 74,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 070",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -705,7 +705,7 @@
     {
       "catalogue_number": 75,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 071",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -713,7 +713,7 @@
     {
       "catalogue_number": 76,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 072",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -721,7 +721,7 @@
     {
       "catalogue_number": 77,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 073",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -729,7 +729,7 @@
     {
       "catalogue_number": 78,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 074",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -737,7 +737,7 @@
     {
       "catalogue_number": 79,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 075",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -745,7 +745,7 @@
     {
       "catalogue_number": 80,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 076",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -753,7 +753,7 @@
     {
       "catalogue_number": 81,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 077",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -761,7 +761,7 @@
     {
       "catalogue_number": 82,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 078",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -769,7 +769,7 @@
     {
       "catalogue_number": 83,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 079",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -777,7 +777,7 @@
     {
       "catalogue_number": 84,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 080",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -785,7 +785,7 @@
     {
       "catalogue_number": 85,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 081",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -793,7 +793,7 @@
     {
       "catalogue_number": 86,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 082",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -801,7 +801,7 @@
     {
       "catalogue_number": 87,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Abou 083",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -809,7 +809,7 @@
     {
       "catalogue_number": 88,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "HALA Abou 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -817,7 +817,7 @@
     {
       "catalogue_number": 89,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "HALA Abou 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -825,7 +825,7 @@
     {
       "catalogue_number": 90,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Abou 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -833,7 +833,7 @@
     {
       "catalogue_number": 91,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Abou 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -841,7 +841,7 @@
     {
       "catalogue_number": 92,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ATHI Adis 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -849,7 +849,7 @@
     {
       "catalogue_number": 93,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Aost 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -857,7 +857,7 @@
     {
       "catalogue_number": 94,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Aost 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -865,7 +865,7 @@
     {
       "catalogue_number": 95,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Apes 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -873,7 +873,7 @@
     {
       "catalogue_number": 96,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Apla 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -881,7 +881,7 @@
     {
       "catalogue_number": 97,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Arou 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -889,7 +889,7 @@
     {
       "catalogue_number": 98,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KALA Arou 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -897,7 +897,7 @@
     {
       "catalogue_number": 99,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KALA Arou 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -905,7 +905,7 @@
     {
       "catalogue_number": 100,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KALA Arou 003",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -913,7 +913,7 @@
     {
       "catalogue_number": 101,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KALA Arou 004",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -921,7 +921,7 @@
     {
       "catalogue_number": 102,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KALA Arou 005",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -929,7 +929,7 @@
     {
       "catalogue_number": 103,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "PSIL Asta 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -937,7 +937,7 @@
     {
       "catalogue_number": 104,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ALAS Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -945,7 +945,7 @@
     {
       "catalogue_number": 105,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ARPE Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -953,7 +953,7 @@
     {
       "catalogue_number": 106,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ATHI Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -961,7 +961,7 @@
     {
       "catalogue_number": 107,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ATHI Avas 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -969,7 +969,7 @@
     {
       "catalogue_number": 108,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -977,7 +977,7 @@
     {
       "catalogue_number": 109,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -985,7 +985,7 @@
     {
       "catalogue_number": 110,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 003",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -993,7 +993,7 @@
     {
       "catalogue_number": 111,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 004",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1001,7 +1001,7 @@
     {
       "catalogue_number": 112,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 005",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1009,7 +1009,7 @@
     {
       "catalogue_number": 113,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 006",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1017,7 +1017,7 @@
     {
       "catalogue_number": 114,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 007",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1025,7 +1025,7 @@
     {
       "catalogue_number": 115,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 008",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1033,7 +1033,7 @@
     {
       "catalogue_number": 116,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 009",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1041,7 +1041,7 @@
     {
       "catalogue_number": 117,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 010",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1049,7 +1049,7 @@
     {
       "catalogue_number": 118,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 011",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1057,7 +1057,7 @@
     {
       "catalogue_number": 119,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 012",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1065,7 +1065,7 @@
     {
       "catalogue_number": 120,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 013",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1073,7 +1073,7 @@
     {
       "catalogue_number": 121,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Avas 014",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1081,7 +1081,7 @@
     {
       "catalogue_number": 122,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "HALA Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1089,7 +1089,7 @@
     {
       "catalogue_number": 123,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "IDAL Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1097,7 +1097,7 @@
     {
       "catalogue_number": 124,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "IDAL Avas 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1105,7 +1105,7 @@
     {
       "catalogue_number": 125,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KALA Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1113,7 +1113,7 @@
     {
       "catalogue_number": 126,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KALA Avas 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1121,7 +1121,7 @@
     {
       "catalogue_number": 127,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KATY Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1129,7 +1129,7 @@
     {
       "catalogue_number": 128,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KATY Avas 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1137,7 +1137,7 @@
     {
       "catalogue_number": 129,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KATY Avas 003",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1145,7 +1145,7 @@
     {
       "catalogue_number": 130,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1153,7 +1153,7 @@
     {
       "catalogue_number": 131,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1161,7 +1161,7 @@
     {
       "catalogue_number": 132,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 003",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1169,7 +1169,7 @@
     {
       "catalogue_number": 133,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 004",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1177,7 +1177,7 @@
     {
       "catalogue_number": 134,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 005",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1185,7 +1185,7 @@
     {
       "catalogue_number": 135,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 006",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1193,7 +1193,7 @@
     {
       "catalogue_number": 136,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 007",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1201,7 +1201,7 @@
     {
       "catalogue_number": 137,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 008",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1209,7 +1209,7 @@
     {
       "catalogue_number": 138,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 009",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1217,7 +1217,7 @@
     {
       "catalogue_number": 139,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 010",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1225,7 +1225,7 @@
     {
       "catalogue_number": 140,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 011",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1233,7 +1233,7 @@
     {
       "catalogue_number": 141,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 012",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1241,7 +1241,7 @@
     {
       "catalogue_number": 142,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 013",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1249,7 +1249,7 @@
     {
       "catalogue_number": 143,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 014",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1257,7 +1257,7 @@
     {
       "catalogue_number": 144,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 015",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1265,7 +1265,7 @@
     {
       "catalogue_number": 145,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 016",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1273,7 +1273,7 @@
     {
       "catalogue_number": 146,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 017",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1281,7 +1281,7 @@
     {
       "catalogue_number": 147,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 018",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1289,7 +1289,7 @@
     {
       "catalogue_number": 148,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Avas 019",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1297,7 +1297,7 @@
     {
       "catalogue_number": 149,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KOUR Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1305,7 +1305,7 @@
     {
       "catalogue_number": 150,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KOUR Avas 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1313,7 +1313,7 @@
     {
       "catalogue_number": 151,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KOUR Avas 003",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1321,7 +1321,7 @@
     {
       "catalogue_number": 152,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KOUR Avas 004",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1329,7 +1329,7 @@
     {
       "catalogue_number": 153,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "MAAP Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1337,7 +1337,7 @@
     {
       "catalogue_number": 154,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "MAAP Avas 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1345,7 +1345,7 @@
     {
       "catalogue_number": 155,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "MAAP Avas 003",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1353,7 +1353,7 @@
     {
       "catalogue_number": 156,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "MAAP Avas 004",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1361,7 +1361,7 @@
     {
       "catalogue_number": 157,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "MARO Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1369,7 +1369,7 @@
     {
       "catalogue_number": 158,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "MYRT Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1377,7 +1377,7 @@
     {
       "catalogue_number": 159,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "MYRT Avas 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1385,7 +1385,7 @@
     {
       "catalogue_number": 160,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "TOUM Avas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1393,7 +1393,7 @@
     {
       "catalogue_number": 161,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Iins 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1401,7 +1401,7 @@
     {
       "catalogue_number": 162,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Iins 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1409,7 +1409,7 @@
     {
       "catalogue_number": 163,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Ipla 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1417,7 +1417,7 @@
     {
       "catalogue_number": 164,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Mbij 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1425,7 +1425,7 @@
     {
       "catalogue_number": 165,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KALA Mbij 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1433,7 +1433,7 @@
     {
       "catalogue_number": 166,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KALA Mbij 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1441,7 +1441,7 @@
     {
       "catalogue_number": 167,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "KITI Mexv 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1449,7 +1449,7 @@
     {
       "catalogue_number": 168,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Mins 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1457,7 +1457,7 @@
     {
       "catalogue_number": 169,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO? Mins 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1465,7 +1465,7 @@
     {
       "catalogue_number": 170,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "PPAP Mins 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1473,7 +1473,7 @@
     {
       "catalogue_number": 171,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "PPAP Mins 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1481,7 +1481,7 @@
     {
       "catalogue_number": 172,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "PPAP Mins 003",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1489,7 +1489,7 @@
     {
       "catalogue_number": 173,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "PYLA Mins 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1497,7 +1497,7 @@
     {
       "catalogue_number": 174,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Mlin 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1505,7 +1505,7 @@
     {
       "catalogue_number": 175,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Mlin 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1513,7 +1513,7 @@
     {
       "catalogue_number": 176,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Mlin 003",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1521,7 +1521,7 @@
     {
       "catalogue_number": 177,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "PYLA Mlin 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1529,7 +1529,7 @@
     {
       "catalogue_number": 178,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "CYPR Mvas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1537,7 +1537,7 @@
     {
       "catalogue_number": 179,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "CYPR Mvas 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1545,7 +1545,7 @@
     {
       "catalogue_number": 180,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "CYPR Mvas 003",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1553,7 +1553,7 @@
     {
       "catalogue_number": 181,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "CYPR Mvas 004",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1561,7 +1561,7 @@
     {
       "catalogue_number": 182,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Mvas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1569,7 +1569,7 @@
     {
       "catalogue_number": 183,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "ENKO Mvas 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1577,7 +1577,7 @@
     {
       "catalogue_number": 184,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "MYRT Mvas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1585,7 +1585,7 @@
     {
       "catalogue_number": 185,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "MYRT Mvas 002",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -1593,7 +1593,7 @@
     {
       "catalogue_number": 186,
       "authority_layer": "Olivier 2007",
-      "siglum": null,
+      "siglum": "PPAP Mvas 001",
       "ingestion_status": "not_yet_rich_record",
       "reported_record_links": [],
       "mapping_status": "NO_RICH_RECORD_LINK_REGISTERED"
@@ -2201,7 +2201,7 @@
     },
     {
       "path": "catalogues/master.json",
-      "sha256": "39f1395e32421bf6567cf1f6df9db37f4ebe240fdba13f1a248f2bc441e75d39"
+      "sha256": "bd901ce1cdc48f7dda9d19435f0416a5bbabce304b6ebf784bc78f0048406e9f"
     },
     {
       "path": "corpus/index.json",

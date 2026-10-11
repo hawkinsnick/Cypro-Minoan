@@ -2,19 +2,21 @@
   "version": "5.0.0",
   "scope": {
     "controlled_slots": 254,
-    "exact_sigla_verified": 68,
-    "number_only_slots": 186
+    "exact_sigla_verified": 254,
+    "number_only_slots": 0
   },
   "principle": "Unverified sigla remain null; no mapping is inferred from sequence or secondary snippets.",
   "workstreams": [
     {
       "range": "001-186",
-      "status": "requires_page_or_table_level_verification",
+      "status": "source_located_mapping_verified",
       "preferred_sources": [
         "olivier2007",
         "steele2013-context"
       ],
-      "action": "verify exact HoChyMin number↔siglum mappings from lawful source access"
+      "action": "Completed from visually inspected concordance PDF pages 25–26; no physical identity or reading adjudication implied.",
+      "source_id": "valerio2016thesis",
+      "evidence": "catalogues/source-located-concordance.json"
     },
     {
       "range": "187-217",

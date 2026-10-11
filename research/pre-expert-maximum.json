@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "corpus": "Cypro-Minoan",
   "target": "PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-05",
+  "checked": "2026-10-11",
   "machine_source_complete": [
     {
       "gate": "catalogue_spine",
@@ -46,7 +46,10 @@
       "id": "CM-PRE-002",
       "scope": "HoChyMin catalogue mapping",
       "action": "Resolve remaining number-to-siglum mappings only from authoritative page/table-level evidence.",
-      "blocked_by": "authoritative_source_access"
+      "blocked_by": "resolved_by_authoritative_concordance",
+      "status": "COMPLETE_SOURCE_LOCATED_MAPPING",
+      "evidence": "254/254 controlled slots have source-attributed sigla. 253 concordance rows checked against Valério 2016 PDF pages 25–27; slot 254 retains Valério 2017. Raw asterisks and ENKO? uncertainty preserved.",
+      "next_route": "Expert physical identity/reading decisions remain separate."
     },
     {
       "id": "CM-PRE-003",

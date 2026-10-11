@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "status": "PASS_SOURCE_ATTRIBUTED_MAPPING_REPLAY",
+  "controlled_slots": 254,
+  "source_attributed_sigla": 254,
+  "number_only_slots": 0,
+  "concordance_rows": 253,
+  "newly_resolved_mappings": 186,
+  "concordance_sha256": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66",
+  "catalogue_sha256": "bd901ce1cdc48f7dda9d19435f0416a5bbabce304b6ebf784bc78f0048406e9f",
+  "source_pdf_sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+  "rich_records": 21,
+  "encoded_occurrences": 12,
+  "records_without_occurrences": 15,
+  "expert_validation_granted": false,
+  "independent_witnesses_added": 0,
+  "physical_identity_certifications_added": 0,
+  "boundary": "Factual namespace mappings only. Source editorial markers and uncertain site labels remain attributed; no readings or broader corpus-completeness claim."
+}

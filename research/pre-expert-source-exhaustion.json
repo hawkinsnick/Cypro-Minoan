@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "checked": "2026-10-05",
+  "checked": "2026-10-11",
   "target": "PRE_EXPERT_SOURCE_EXHAUSTION",
   "dispositions": [
     {
@@ -13,9 +13,10 @@
     {
       "id": "CM-PRE-002",
       "scope": "HoChyMin exact number-siglum reconciliation",
-      "status": "SOURCE_BLOCKED",
-      "evidence": "68/254 mappings established; 186 remain deliberately unresolved because authoritative page/table evidence is required.",
-      "next_route": "authorized HoChyMin page/table access"
+      "status": "COMPLETE_SOURCE_LOCATED_MAPPING",
+      "evidence": "254/254 controlled slots have source-attributed sigla. 253 concordance rows checked against Valério 2016 PDF pages 25–27; slot 254 retains Valério 2017. Raw asterisks and ENKO? uncertainty preserved.",
+      "next_route": "Expert physical identity/reading decisions remain separate.",
+      "blocked_by": "resolved_by_authoritative_concordance"
     },
     {
       "id": "CM-PRE-003",

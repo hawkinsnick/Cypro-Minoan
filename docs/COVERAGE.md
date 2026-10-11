@@ -3,7 +3,7 @@
 Coverage is multidimensional; the project prohibits a single aggregate completeness percentage.
 
 - Historical/addendum catalogue control: **254/254 slots** through ADD254 under the project's controlled sequence.
-- Exact siglum reconciliation: **68/254**; 186 remain deliberately unresolved pending authoritative verification.
+- Exact siglum reconciliation: **254/254 controlled slots**; the 186 former number-only mappings are now source-located. See `CATALOGUE-CONCORDANCE.md`; physical identities and readings remain unadjudicated.
 - Rich object records: **21** (18 core, 3 candidate), with an open-world denominator.
 - Source-verified sign occurrences: **3**, a sparse subset unsuitable for corpus-wide frequency inference.
 - Explicit witness assertions: **2** exemplars.

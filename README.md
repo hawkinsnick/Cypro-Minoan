@@ -12,7 +12,7 @@ For questions spanning multiple corpus projects, use the **Combined Corpus Resea
 
 The current branch includes a **loss-aware occurrence-layer EpiDoc pilot** for the 12 source-checked occurrence assertions. It preserves partial coverage, source-qualified published sign labels, source roles, certainty, locators, zone boundaries, and explicit caution around potmarks. It is an interchange view, not a new scholarly authority and not a complete transcription.
 
-The external validation target is pinned to **EpiDoc 9.8** (upstream tag `v9.8`, release commit `5655fb778ecc93a4b6a7346995a55ea686a9e9b2`, aligned with TEI 4.10.2) in `interchange/epidoc/validation-profile.json`. **No EpiDoc-conformance claim is made yet**: generated XML still must be validated against that pinned release and any failures resolved. Full object-level EpiDoc description is a separate expansion from this occurrence-layer pilot. See `docs/EPIDOC-PILOT.md` and `analysis/epidoc-interoperability-audit.json`.
+The external validation target is pinned to **EpiDoc 9.8** (upstream tag `v9.8`, release commit `5655fb778ecc93a4b6a7346995a55ea686a9e9b2`, aligned with TEI 4.10.2) in `interchange/epidoc/validation-profile.json`. The partial occurrence pilot passed the pinned upstream Relax NG and Schematron checks; `analysis/upstream-epidoc-validation.json` records 57 active patterns and zero findings. This bounded result does not establish full object-level conformance or expert correctness. Full object-level EpiDoc description is a separate expansion from this occurrence-layer pilot. See `docs/EPIDOC-PILOT.md` and `analysis/epidoc-interoperability-audit.json`.
 
 ## Current status — 5.3.0
 
@@ -37,7 +37,7 @@ The corpus records evidence; it does not encode a decipherment.
 
 5.0 links the mature 4.x reproducibility platform to an auditable evidence graph, immutable release-scoped dataset snapshots, question-specific readiness profiles, explicit witness-independence rules, representation-level rights controls, and positive/negative conformance tests.
 
-Current evidence remains deliberately bounded: 254 controlled catalogue slots; 68 exact sigla; 21 rich records; 12 encoded source-attributed occurrences; 2 explicit witness assertions; 99 Unicode interoperability characters; no project-populated palaeographic variants. These are separate dimensions, not one completeness score.
+Current evidence remains deliberately bounded: 254 controlled catalogue slots; 254 source-attributed sigla; 21 rich records; 12 encoded source-attributed occurrences; 2 explicit witness assertions; 99 Unicode interoperability characters; no project-populated palaeographic variants. These are separate dimensions, not one completeness score.
 
 Catalogue-structure research is READY. Descriptions of the explicitly encoded occurrence subset are READY_SCOPED. Corpus-wide sign-frequency inference and cross-script phonetic inference remain BLOCKED.
 
@@ -67,3 +67,5 @@ Read [the researcher guide](docs/CONTEXT-AND-DOSSIERS.md), [the coverage audit](
 
 ## Offline corpus browser
 Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. The browser is self-contained and searches only the explicitly allowlisted files in `research/browser-sources.json`. Adding a file to the browser requires a rights/provenance check; never recursively ingest repository data or restricted upstream material. Browser display does not establish decipherment, source independence, or expert validation.
+
+The 2026-10-11 catalogue reconciliation closes the 186 number-only mappings from a visually inspected, hash-pinned Valério 2016 concordance. See [the source controls](docs/CATALOGUE-CONCORDANCE.md). This adds factual identifiers, not sign occurrences or expert acceptance.
