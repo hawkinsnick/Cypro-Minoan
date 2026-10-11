@@ -38,23 +38,23 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "23182f6c88dc5c6803c3853c891e6b09940a21749052fd6741659948982e718b"
+      "sha256": "6b81301d679b8d0894e206f653c7feb77b78421f31630a53835e46e4eef9a90f"
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "8dd6f823554cb1242be4ac11065de56cacce436b11b78f0119133fc97edb4810"
+      "sha256": "4fd1eb1b9e24813eb990a13e3afce7545370ac1ae0f4bf7091c1e1df0f3f5398"
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "50b21f347afb7c1cabea5af03889e65afe45de1c12a10b243f34a009db866d3d"
+      "sha256": "8dd74bff7d6e04c3f267f39f90e593adc26885efb11370d116e7e0334480886c"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "6182581e1060fa8c1ff91a90468fd14c18e9b2e3721b4b35d2c9702f346dbf3f"
+      "sha256": "6bc404ea7bf397800d5516d2b27d6a28e1cd7ec269c6f103355099cb49a0b140"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "06310095f3e50079adfc1b726e684d0343b9f8f75a694e348c4fc80d7f709e25"
+      "sha256": "f20ab49e52fe110008262024f155fb7a2209612365874a063a44ea0028ac49d0"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -62,7 +62,7 @@
     },
     {
       "path": "scripts/evidence_workbench.py",
-      "sha256": "682a350d9457b1e88ff3a3c4d1263880e4fdf98e1012578580b7d2b9d877c916"
+      "sha256": "71ceb7d7107428014ae9f43ca10d402805fb999428cb67549214d6b2b8bbc406"
     },
     {
       "path": "scripts/test_evidence_workbench.py",
@@ -70,11 +70,11 @@
     },
     {
       "path": "scripts/test_evidence_browser.cjs",
-      "sha256": "8c007db6b2a96d7f686e55d7dd3e59cf05a8a9951d15921509e88c35fd3af091"
+      "sha256": "29f3a2b87f9e7fbb40f1edf0077e17caa026c89d1c829a583217cdd454784483"
     },
     {
       "path": "workbench/evidence-template.html",
-      "sha256": "009519821451a9b8d90eb42e46c12e5c7b5f834d1b2fb5825872d94a1d3f3762"
+      "sha256": "14a6c673838fb7ba0dbc095884e7b88d79427b0034e42ba1cf04dc4e76b29b15"
     },
     {
       "path": "research/workbench-guide.md",
@@ -114,15 +114,15 @@
     },
     {
       "path": "research/record-dossiers.json",
-      "sha256": "96a9d40cba354dd3b85bb3d860f54e55b4a8ed6598ce199c2593fc19f9b93ec0"
+      "sha256": "34fbe418a3fff188747c07aa4c422fd34b0e31ee49929a07e48ee0f58b6308b9"
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "3d7327992bb4bc128189e3fb67e2796d014a765a22ec8138fbd8e3470d72ae4b"
+      "sha256": "e8da776ed5af8b56db17b229e6bbb178cbc5a2a350d1c2b43b8c5ed086c8c94b"
     },
     {
       "path": "scripts/research_dossiers.py",
-      "sha256": "24843b68da5de90140e9a5ffecc2757da6f61ec36b246448041218328a81490d"
+      "sha256": "724aac4b98c59ea00308f4e2dc56f6a105036e4ac14c4f2eab951e22406118cd"
     },
     {
       "path": "scripts/test_research_dossiers.py",
@@ -138,7 +138,7 @@
     },
     {
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "42e83faeeceaa2fff4ed49c15e0eea51c392f88f1e3f492b5a810718b0e861db"
+      "sha256": "b408ea762160404b3cbef2bc2547ea4129252a7b7078b282a075a640eb593e42"
     },
     {
       "path": "catalogues/source-located-concordance.json",
@@ -223,6 +223,30 @@
     {
       "path": "research/donnelly-existing-assertion-check.json",
       "sha256": "dced9c793ae136fd6ed44a8efed4ce428e757a32dd91c2c89f259a09186b5091"
+    },
+    {
+      "path": "scripts/assertion_views.py",
+      "sha256": "c998a1fb2057183e9de3af1492d32e64640ed85b36e64832798c951b16131e8c"
+    },
+    {
+      "path": "scripts/test_assertion_views.py",
+      "sha256": "dd7cbbe7aeb7b1b201f922d09fdb8abe87493e27d00ed1dd145a0e02c6b5c0ec"
+    },
+    {
+      "path": "research/cross-corpus-dependencies.json",
+      "sha256": "f0614d77c3e5183ab2228f2223f4fed46f091434e3cff1455b2457836e351696"
+    },
+    {
+      "path": "docs/AI-INTEGRITY.md",
+      "sha256": "f735ed84a422bd81245aba10e894585a9110079932a445f35be515834e739b6b"
+    },
+    {
+      "path": "research/qualified-assertion-views.json",
+      "sha256": "b019937e64282c81978b3df2cff528a8b1f42c0c93fcdb1897ab5a5040ea578a"
+    },
+    {
+      "path": "exports/qualified-assertions.csv",
+      "sha256": "c76aef080feab40e91bdc8869bf14e5164901a5891686398573918edc33ac940"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",

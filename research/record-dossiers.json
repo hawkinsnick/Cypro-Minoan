@@ -140,7 +140,152 @@
           "notes": [
             "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
             "Valério explicitly supports label 09 at this position; other signs are not encoded by this check."
-          ]
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0025-VALERIO2016-source-second-sequence-4",
+            "record_id": "CMOC-0025",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0025-VALERIO2016-source-second-sequence-4",
+              "record_id": "CMOC-0025",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 457 (PDF 463), ##025",
+              "literal_published_label": "09",
+              "editorial_notes": [
+                "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+                "Valério explicitly supports label 09 at this position; other signs are not encoded by this check."
+              ],
+              "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0025",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2225",
+                  "source_id": "louvre-cm-25",
+                  "locator": "corpus/inscriptions/CMOC-0025.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk. 49 5115",
+                  "source_id": "louvre-cm-25",
+                  "locator": "corpus/inscriptions/CMOC-0025.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "25",
+                  "source_id": "louvre-cm-25",
+                  "locator": "corpus/inscriptions/CMOC-0025.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "25",
+                  "source_id": "louvre-cm-25",
+                  "locator": "corpus/inscriptions/CMOC-0025.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                25
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        }
+      ],
+      "qualified_assertions": [
+        {
+          "assertion_id": "CMOCC-0025-VALERIO2016-source-second-sequence-4",
+          "record_id": "CMOC-0025",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0025-VALERIO2016-source-second-sequence-4",
+            "record_id": "CMOC-0025",
+            "zone_id": "source-second-sequence",
+            "position": 4,
+            "published_sign_label": "09",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 457 (PDF 463), ##025",
+            "certainty": "certain",
+            "notes": [
+              "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+              "Valério explicitly supports label 09 at this position; other signs are not encoded by this check."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0025-VALERIO2016-source-second-sequence-4",
+            "record_id": "CMOC-0025",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 457 (PDF 463), ##025",
+            "literal_published_label": "09",
+            "editorial_notes": [
+              "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+              "Valério explicitly supports label 09 at this position; other signs are not encoded by this check."
+            ],
+            "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0025",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2225",
+                "source_id": "louvre-cm-25",
+                "locator": "corpus/inscriptions/CMOC-0025.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk. 49 5115",
+                "source_id": "louvre-cm-25",
+                "locator": "corpus/inscriptions/CMOC-0025.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "25",
+                "source_id": "louvre-cm-25",
+                "locator": "corpus/inscriptions/CMOC-0025.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "25",
+                "source_id": "louvre-cm-25",
+                "locator": "corpus/inscriptions/CMOC-0025.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              25
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
         }
       ],
       "source_ids": [
@@ -317,7 +462,95 @@
           "notes": [
             "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
             "Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
-          ]
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0026-VALERIO2016-source-sequence-2",
+            "record_id": "CMOC-0026",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0026-VALERIO2016-source-sequence-2",
+              "record_id": "CMOC-0026",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 457 (PDF 463), ##026",
+              "literal_published_label": "73",
+              "editorial_notes": [
+                "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+                "Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+              ],
+              "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [
+              {
+                "comparison_id": "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
+                "record_id": "CMOC-0026",
+                "field": "published_sign_label",
+                "zone_id": "source-sequence",
+                "position": 2,
+                "assertions": [
+                  {
+                    "source_id": "olivier2007",
+                    "value": "75",
+                    "locator": "HoChyMin 76 ; as reported by Valério 2016",
+                    "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"
+                  },
+                  {
+                    "source_id": "valerio2016thesis",
+                    "value": "73",
+                    "locator": "printed p. 457 (PDF 463), ##026",
+                    "inspection": "DIRECT_SECONDARY_PDF"
+                  }
+                ],
+                "status": "UNRESOLVED_PUBLISHED_REASSESSMENT",
+                "interventions": []
+              }
+            ],
+            "identity_context": {
+              "record_id": "CMOC-0026",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2226",
+                  "source_id": "louvre-cm-26",
+                  "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk. 49 4072",
+                  "source_id": "louvre-cm-26",
+                  "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "26",
+                  "source_id": "louvre-cm-26",
+                  "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "26",
+                  "source_id": "louvre-cm-26",
+                  "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                26
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
         },
         {
           "occurrence_id": "CMOCC-0026-VALERIO2016-source-sequence-5",
@@ -332,11 +565,308 @@
           "notes": [
             "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
             "Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
-          ]
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0026-VALERIO2016-source-sequence-5",
+            "record_id": "CMOC-0026",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0026-VALERIO2016-source-sequence-5",
+              "record_id": "CMOC-0026",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 457 (PDF 463), ##026",
+              "literal_published_label": "73",
+              "editorial_notes": [
+                "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+                "Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+              ],
+              "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [
+              {
+                "comparison_id": "CMOCC-0026-VALERIO2016-source-sequence-5-comparison",
+                "record_id": "CMOC-0026",
+                "field": "published_sign_label",
+                "zone_id": "source-sequence",
+                "position": 5,
+                "assertions": [
+                  {
+                    "source_id": "olivier2007",
+                    "value": "75",
+                    "locator": "HoChyMin 76 ; as reported by Valério 2016",
+                    "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"
+                  },
+                  {
+                    "source_id": "valerio2016thesis",
+                    "value": "73",
+                    "locator": "printed p. 457 (PDF 463), ##026",
+                    "inspection": "DIRECT_SECONDARY_PDF"
+                  }
+                ],
+                "status": "UNRESOLVED_PUBLISHED_REASSESSMENT",
+                "interventions": []
+              }
+            ],
+            "identity_context": {
+              "record_id": "CMOC-0026",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2226",
+                  "source_id": "louvre-cm-26",
+                  "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk. 49 4072",
+                  "source_id": "louvre-cm-26",
+                  "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "26",
+                  "source_id": "louvre-cm-26",
+                  "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "26",
+                  "source_id": "louvre-cm-26",
+                  "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                26
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        }
+      ],
+      "qualified_assertions": [
+        {
+          "assertion_id": "CMOCC-0026-VALERIO2016-source-sequence-2",
+          "record_id": "CMOC-0026",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0026-VALERIO2016-source-sequence-2",
+            "record_id": "CMOC-0026",
+            "zone_id": "source-sequence",
+            "position": 2,
+            "published_sign_label": "73",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 457 (PDF 463), ##026",
+            "certainty": "certain",
+            "notes": [
+              "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+              "Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0026-VALERIO2016-source-sequence-2",
+            "record_id": "CMOC-0026",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 457 (PDF 463), ##026",
+            "literal_published_label": "73",
+            "editorial_notes": [
+              "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+              "Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+            ],
+            "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [
+            {
+              "comparison_id": "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
+              "record_id": "CMOC-0026",
+              "field": "published_sign_label",
+              "zone_id": "source-sequence",
+              "position": 2,
+              "assertions": [
+                {
+                  "source_id": "olivier2007",
+                  "value": "75",
+                  "locator": "HoChyMin 76 ; as reported by Valério 2016",
+                  "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"
+                },
+                {
+                  "source_id": "valerio2016thesis",
+                  "value": "73",
+                  "locator": "printed p. 457 (PDF 463), ##026",
+                  "inspection": "DIRECT_SECONDARY_PDF"
+                }
+              ],
+              "status": "UNRESOLVED_PUBLISHED_REASSESSMENT",
+              "interventions": []
+            }
+          ],
+          "identity_context": {
+            "record_id": "CMOC-0026",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2226",
+                "source_id": "louvre-cm-26",
+                "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk. 49 4072",
+                "source_id": "louvre-cm-26",
+                "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "26",
+                "source_id": "louvre-cm-26",
+                "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "26",
+                "source_id": "louvre-cm-26",
+                "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              26
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-0026-VALERIO2016-source-sequence-5",
+          "record_id": "CMOC-0026",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0026-VALERIO2016-source-sequence-5",
+            "record_id": "CMOC-0026",
+            "zone_id": "source-sequence",
+            "position": 5,
+            "published_sign_label": "73",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 457 (PDF 463), ##026",
+            "certainty": "certain",
+            "notes": [
+              "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+              "Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0026-VALERIO2016-source-sequence-5",
+            "record_id": "CMOC-0026",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 457 (PDF 463), ##026",
+            "literal_published_label": "73",
+            "editorial_notes": [
+              "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+              "Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+            ],
+            "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [
+            {
+              "comparison_id": "CMOCC-0026-VALERIO2016-source-sequence-5-comparison",
+              "record_id": "CMOC-0026",
+              "field": "published_sign_label",
+              "zone_id": "source-sequence",
+              "position": 5,
+              "assertions": [
+                {
+                  "source_id": "olivier2007",
+                  "value": "75",
+                  "locator": "HoChyMin 76 ; as reported by Valério 2016",
+                  "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"
+                },
+                {
+                  "source_id": "valerio2016thesis",
+                  "value": "73",
+                  "locator": "printed p. 457 (PDF 463), ##026",
+                  "inspection": "DIRECT_SECONDARY_PDF"
+                }
+              ],
+              "status": "UNRESOLVED_PUBLISHED_REASSESSMENT",
+              "interventions": []
+            }
+          ],
+          "identity_context": {
+            "record_id": "CMOC-0026",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2226",
+                "source_id": "louvre-cm-26",
+                "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk. 49 4072",
+                "source_id": "louvre-cm-26",
+                "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "26",
+                "source_id": "louvre-cm-26",
+                "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "26",
+                "source_id": "louvre-cm-26",
+                "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              26
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
         }
       ],
       "source_ids": [
         "louvre-cm-26",
+        "olivier2007",
         "valerio2016thesis"
       ],
       "rights": {
@@ -358,6 +888,17 @@
           "year": 2025,
           "url": "https://collections.louvre.fr/ark:/53355/cl010131598",
           "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+        },
+        {
+          "source_id": "olivier2007",
+          "type": "book",
+          "title": "Édition holistique des textes chypro-minoens",
+          "authors": [
+            "Jean-Pierre Olivier"
+          ],
+          "year": 2007,
+          "rights_note": "Bibliographic reference. No redistribution rights to publication content asserted.",
+          "notes": "Major modern edition; future record-level use requires precise locators."
         },
         {
           "source_id": "valerio2016thesis",
@@ -509,11 +1050,205 @@
           "notes": [
             "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
             "Valério proposes 13 against reported Olivier label 08; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
-          ]
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3",
+            "record_id": "CMOC-0027",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3",
+              "record_id": "CMOC-0027",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 457 (PDF 463), ##027; discussion continues printed p. 458 / PDF 464",
+              "literal_published_label": "13",
+              "editorial_notes": [
+                "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+                "Valério proposes 13 against reported Olivier label 08; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+              ],
+              "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [
+              {
+                "comparison_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3-comparison",
+                "record_id": "CMOC-0027",
+                "field": "published_sign_label",
+                "zone_id": "source-first-sequence",
+                "position": 3,
+                "assertions": [
+                  {
+                    "source_id": "olivier2007",
+                    "value": "08",
+                    "locator": "HoChyMin 77 ; as reported by Valério 2016",
+                    "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"
+                  },
+                  {
+                    "source_id": "valerio2016thesis",
+                    "value": "13",
+                    "locator": "printed p. 457 (PDF 463), ##027; discussion continues printed p. 458 / PDF 464",
+                    "inspection": "DIRECT_SECONDARY_PDF"
+                  }
+                ],
+                "status": "UNRESOLVED_PUBLISHED_REASSESSMENT",
+                "interventions": []
+              }
+            ],
+            "identity_context": {
+              "record_id": "CMOC-0027",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2230",
+                  "source_id": "louvre-cm-27",
+                  "locator": "corpus/inscriptions/CMOC-0027.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk. 5523",
+                  "source_id": "louvre-cm-27",
+                  "locator": "corpus/inscriptions/CMOC-0027.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "27",
+                  "source_id": "louvre-cm-27",
+                  "locator": "corpus/inscriptions/CMOC-0027.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "27",
+                  "source_id": "louvre-cm-27",
+                  "locator": "corpus/inscriptions/CMOC-0027.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                27
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        }
+      ],
+      "qualified_assertions": [
+        {
+          "assertion_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3",
+          "record_id": "CMOC-0027",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3",
+            "record_id": "CMOC-0027",
+            "zone_id": "source-first-sequence",
+            "position": 3,
+            "published_sign_label": "13",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 457 (PDF 463), ##027; discussion continues printed p. 458 / PDF 464",
+            "certainty": "certain",
+            "notes": [
+              "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+              "Valério proposes 13 against reported Olivier label 08; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3",
+            "record_id": "CMOC-0027",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 457 (PDF 463), ##027; discussion continues printed p. 458 / PDF 464",
+            "literal_published_label": "13",
+            "editorial_notes": [
+              "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+              "Valério proposes 13 against reported Olivier label 08; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+            ],
+            "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [
+            {
+              "comparison_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3-comparison",
+              "record_id": "CMOC-0027",
+              "field": "published_sign_label",
+              "zone_id": "source-first-sequence",
+              "position": 3,
+              "assertions": [
+                {
+                  "source_id": "olivier2007",
+                  "value": "08",
+                  "locator": "HoChyMin 77 ; as reported by Valério 2016",
+                  "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"
+                },
+                {
+                  "source_id": "valerio2016thesis",
+                  "value": "13",
+                  "locator": "printed p. 457 (PDF 463), ##027; discussion continues printed p. 458 / PDF 464",
+                  "inspection": "DIRECT_SECONDARY_PDF"
+                }
+              ],
+              "status": "UNRESOLVED_PUBLISHED_REASSESSMENT",
+              "interventions": []
+            }
+          ],
+          "identity_context": {
+            "record_id": "CMOC-0027",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2230",
+                "source_id": "louvre-cm-27",
+                "locator": "corpus/inscriptions/CMOC-0027.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk. 5523",
+                "source_id": "louvre-cm-27",
+                "locator": "corpus/inscriptions/CMOC-0027.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "27",
+                "source_id": "louvre-cm-27",
+                "locator": "corpus/inscriptions/CMOC-0027.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "27",
+                "source_id": "louvre-cm-27",
+                "locator": "corpus/inscriptions/CMOC-0027.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              27
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
         }
       ],
       "source_ids": [
         "louvre-cm-27",
+        "olivier2007",
         "valerio2016thesis"
       ],
       "rights": {
@@ -535,6 +1270,17 @@
           "year": 2025,
           "url": "https://collections.louvre.fr/ark:/53355/cl010131602",
           "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+        },
+        {
+          "source_id": "olivier2007",
+          "type": "book",
+          "title": "Édition holistique des textes chypro-minoens",
+          "authors": [
+            "Jean-Pierre Olivier"
+          ],
+          "year": 2007,
+          "rights_note": "Bibliographic reference. No redistribution rights to publication content asserted.",
+          "notes": "Major modern edition; future record-level use requires precise locators."
         },
         {
           "source_id": "valerio2016thesis",
@@ -673,6 +1419,7 @@
         }
       ],
       "source_occurrences": [],
+      "qualified_assertions": [],
       "source_ids": [
         "louvre-cm-28"
       ],
@@ -836,7 +1583,152 @@
           "notes": [
             "Partial source assertion citing Olivier 2007; other positions are not encoded.",
             "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
-          ]
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-ENK029-VETTERS2011-3",
+            "record_id": "CMOC-0029",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-ENK029-VETTERS2011-3",
+              "record_id": "CMOC-0029",
+              "source_id": "vetters2011",
+              "source_role": "dependent_secondary",
+              "locator": "p. 16, footnote 126, Olivier 2007 no. 029 (3rd sign)",
+              "literal_published_label": "97",
+              "editorial_notes": [
+                "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+                "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+              ],
+              "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0029",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2229",
+                  "source_id": "louvre-cm-29",
+                  "locator": "corpus/inscriptions/CMOC-0029.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk. 49 4091",
+                  "source_id": "louvre-cm-29",
+                  "locator": "corpus/inscriptions/CMOC-0029.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "29",
+                  "source_id": "louvre-cm-29",
+                  "locator": "corpus/inscriptions/CMOC-0029.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "29",
+                  "source_id": "louvre-cm-29",
+                  "locator": "corpus/inscriptions/CMOC-0029.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                29
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        }
+      ],
+      "qualified_assertions": [
+        {
+          "assertion_id": "CMOCC-ENK029-VETTERS2011-3",
+          "record_id": "CMOC-0029",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-ENK029-VETTERS2011-3",
+            "record_id": "CMOC-0029",
+            "zone_id": "source-numbered-sequence",
+            "position": 3,
+            "published_sign_label": "97",
+            "source_id": "vetters2011",
+            "source_role": "dependent_secondary",
+            "locator": "p. 16, footnote 126, Olivier 2007 no. 029 (3rd sign)",
+            "certainty": "certain",
+            "notes": [
+              "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+              "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-ENK029-VETTERS2011-3",
+            "record_id": "CMOC-0029",
+            "source_id": "vetters2011",
+            "source_role": "dependent_secondary",
+            "locator": "p. 16, footnote 126, Olivier 2007 no. 029 (3rd sign)",
+            "literal_published_label": "97",
+            "editorial_notes": [
+              "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+              "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+            ],
+            "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0029",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2229",
+                "source_id": "louvre-cm-29",
+                "locator": "corpus/inscriptions/CMOC-0029.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk. 49 4091",
+                "source_id": "louvre-cm-29",
+                "locator": "corpus/inscriptions/CMOC-0029.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "29",
+                "source_id": "louvre-cm-29",
+                "locator": "corpus/inscriptions/CMOC-0029.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "29",
+                "source_id": "louvre-cm-29",
+                "locator": "corpus/inscriptions/CMOC-0029.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              29
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
         }
       ],
       "source_ids": [
@@ -1001,7 +1893,152 @@
           "notes": [
             "Partial source assertion citing Olivier 2007; other positions are not encoded.",
             "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
-          ]
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-ENK030-VETTERS2011-7",
+            "record_id": "CMOC-0030",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-ENK030-VETTERS2011-7",
+              "record_id": "CMOC-0030",
+              "source_id": "vetters2011",
+              "source_role": "dependent_secondary",
+              "locator": "p. 16, footnote 126, Olivier 2007 no. 030 (7th sign)",
+              "literal_published_label": "97",
+              "editorial_notes": [
+                "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+                "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+              ],
+              "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0030",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2232",
+                  "source_id": "louvre-cm-30",
+                  "locator": "corpus/inscriptions/CMOC-0030.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk 1953-6",
+                  "source_id": "louvre-cm-30",
+                  "locator": "corpus/inscriptions/CMOC-0030.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "30",
+                  "source_id": "louvre-cm-30",
+                  "locator": "corpus/inscriptions/CMOC-0030.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "30",
+                  "source_id": "louvre-cm-30",
+                  "locator": "corpus/inscriptions/CMOC-0030.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                30
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        }
+      ],
+      "qualified_assertions": [
+        {
+          "assertion_id": "CMOCC-ENK030-VETTERS2011-7",
+          "record_id": "CMOC-0030",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-ENK030-VETTERS2011-7",
+            "record_id": "CMOC-0030",
+            "zone_id": "source-numbered-sequence",
+            "position": 7,
+            "published_sign_label": "97",
+            "source_id": "vetters2011",
+            "source_role": "dependent_secondary",
+            "locator": "p. 16, footnote 126, Olivier 2007 no. 030 (7th sign)",
+            "certainty": "certain",
+            "notes": [
+              "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+              "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-ENK030-VETTERS2011-7",
+            "record_id": "CMOC-0030",
+            "source_id": "vetters2011",
+            "source_role": "dependent_secondary",
+            "locator": "p. 16, footnote 126, Olivier 2007 no. 030 (7th sign)",
+            "literal_published_label": "97",
+            "editorial_notes": [
+              "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+              "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+            ],
+            "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0030",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2232",
+                "source_id": "louvre-cm-30",
+                "locator": "corpus/inscriptions/CMOC-0030.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk 1953-6",
+                "source_id": "louvre-cm-30",
+                "locator": "corpus/inscriptions/CMOC-0030.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "30",
+                "source_id": "louvre-cm-30",
+                "locator": "corpus/inscriptions/CMOC-0030.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "30",
+                "source_id": "louvre-cm-30",
+                "locator": "corpus/inscriptions/CMOC-0030.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              30
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
         }
       ],
       "source_ids": [
@@ -1205,7 +2242,152 @@
           "notes": [
             "Partial source assertion citing Olivier 2007; other positions are not encoded.",
             "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
-          ]
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-ENK031-VETTERS2011-3",
+            "record_id": "CMOC-0031",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-ENK031-VETTERS2011-3",
+              "record_id": "CMOC-0031",
+              "source_id": "vetters2011",
+              "source_role": "dependent_secondary",
+              "locator": "p. 16, footnote 126, Olivier 2007 no. 031 (3rd sign)",
+              "literal_published_label": "97",
+              "editorial_notes": [
+                "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+                "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+              ],
+              "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0031",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2233",
+                  "source_id": "louvre-cm-31",
+                  "locator": "corpus/inscriptions/CMOC-0031.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk 1955-96",
+                  "source_id": "louvre-cm-31",
+                  "locator": "corpus/inscriptions/CMOC-0031.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "31",
+                  "source_id": "louvre-cm-31",
+                  "locator": "corpus/inscriptions/CMOC-0031.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "31",
+                  "source_id": "louvre-cm-31",
+                  "locator": "corpus/inscriptions/CMOC-0031.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                31
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        }
+      ],
+      "qualified_assertions": [
+        {
+          "assertion_id": "CMOCC-ENK031-VETTERS2011-3",
+          "record_id": "CMOC-0031",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-ENK031-VETTERS2011-3",
+            "record_id": "CMOC-0031",
+            "zone_id": "source-numbered-sequence",
+            "position": 3,
+            "published_sign_label": "97",
+            "source_id": "vetters2011",
+            "source_role": "dependent_secondary",
+            "locator": "p. 16, footnote 126, Olivier 2007 no. 031 (3rd sign)",
+            "certainty": "certain",
+            "notes": [
+              "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+              "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-ENK031-VETTERS2011-3",
+            "record_id": "CMOC-0031",
+            "source_id": "vetters2011",
+            "source_role": "dependent_secondary",
+            "locator": "p. 16, footnote 126, Olivier 2007 no. 031 (3rd sign)",
+            "literal_published_label": "97",
+            "editorial_notes": [
+              "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+              "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+            ],
+            "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0031",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2233",
+                "source_id": "louvre-cm-31",
+                "locator": "corpus/inscriptions/CMOC-0031.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk 1955-96",
+                "source_id": "louvre-cm-31",
+                "locator": "corpus/inscriptions/CMOC-0031.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "31",
+                "source_id": "louvre-cm-31",
+                "locator": "corpus/inscriptions/CMOC-0031.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "31",
+                "source_id": "louvre-cm-31",
+                "locator": "corpus/inscriptions/CMOC-0031.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              31
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
         }
       ],
       "source_ids": [
@@ -1411,6 +2593,7 @@
         }
       ],
       "source_occurrences": [],
+      "qualified_assertions": [],
       "source_ids": [
         "louvre-cm-32"
       ],
@@ -1603,6 +2786,7 @@
         }
       ],
       "source_occurrences": [],
+      "qualified_assertions": [],
       "source_ids": [
         "louvre-cm-33"
       ],
@@ -1738,6 +2922,7 @@
         }
       ],
       "source_occurrences": [],
+      "qualified_assertions": [],
       "source_ids": [
         "louvre-cm-209"
       ],
@@ -1840,6 +3025,7 @@
         }
       ],
       "source_occurrences": [],
+      "qualified_assertions": [],
       "source_ids": [
         "louvre-ao14747"
       ],
@@ -1931,6 +3117,7 @@
         }
       ],
       "source_occurrences": [],
+      "qualified_assertions": [],
       "source_ids": [
         "bm-1898.1201.204"
       ],
@@ -2016,6 +3203,7 @@
         }
       ],
       "source_occurrences": [],
+      "qualified_assertions": [],
       "source_ids": [
         "donnelly2020",
         "louvre-am1639"
@@ -2126,6 +3314,7 @@
         }
       ],
       "source_occurrences": [],
+      "qualified_assertions": [],
       "source_ids": [
         "louvre-am2716"
       ],
@@ -2231,6 +3420,7 @@
       ],
       "assertions": [],
       "source_occurrences": [],
+      "qualified_assertions": [],
       "source_ids": [
         "met-2008.27"
       ],
@@ -2348,6 +3538,7 @@
         }
       ],
       "source_occurrences": [],
+      "qualified_assertions": [],
       "source_ids": [
         "met-74.51.1312"
       ],
@@ -2452,6 +3643,7 @@
       ],
       "assertions": [],
       "source_occurrences": [],
+      "qualified_assertions": [],
       "source_ids": [
         "met-74.51.4316"
       ],
@@ -2572,6 +3764,7 @@
         }
       ],
       "source_occurrences": [],
+      "qualified_assertions": [],
       "source_ids": [
         "met-74.51.5057a"
       ],
@@ -2706,7 +3899,56 @@
           "notes": [
             "Primary-publication occurrence check; published sign numbering retained as source assertion."
           ],
-          "source_role": "primary_publication"
+          "source_role": "primary_publication",
+          "evidence_context": {
+            "assertion_id": "CMOCC-TIRY244-1",
+            "record_id": "CMOC-TIRY-ADD244",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-TIRY244-1",
+              "record_id": "CMOC-TIRY-ADD244",
+              "source_id": "vetters2011",
+              "source_role": "primary_publication",
+              "locator": "pp. 16–17, Interpretation of the Signs",
+              "literal_published_label": "41",
+              "editorial_notes": [
+                "Primary-publication occurrence check; published sign numbering retained as source assertion."
+              ],
+              "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-TIRY-ADD244",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Ferrara/addendum catalogue",
+                  "literal": "244",
+                  "source_id": "vetters2011",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier-style siglum",
+                  "literal": "TIRY Abou 001",
+                  "source_id": "vetters2011",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                244
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
         },
         {
           "occurrence_id": "CMOCC-TIRY244-2",
@@ -2720,7 +3962,56 @@
           "notes": [
             "Primary-publication occurrence check; published sign numbering retained as source assertion."
           ],
-          "source_role": "primary_publication"
+          "source_role": "primary_publication",
+          "evidence_context": {
+            "assertion_id": "CMOCC-TIRY244-2",
+            "record_id": "CMOC-TIRY-ADD244",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-TIRY244-2",
+              "record_id": "CMOC-TIRY-ADD244",
+              "source_id": "vetters2011",
+              "source_role": "primary_publication",
+              "locator": "pp. 16–17, Interpretation of the Signs",
+              "literal_published_label": "41",
+              "editorial_notes": [
+                "Primary-publication occurrence check; published sign numbering retained as source assertion."
+              ],
+              "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-TIRY-ADD244",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Ferrara/addendum catalogue",
+                  "literal": "244",
+                  "source_id": "vetters2011",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier-style siglum",
+                  "literal": "TIRY Abou 001",
+                  "source_id": "vetters2011",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                244
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
         },
         {
           "occurrence_id": "CMOCC-TIRY244-3",
@@ -2734,7 +4025,247 @@
           "notes": [
             "Primary-publication occurrence check; published sign numbering retained as source assertion."
           ],
-          "source_role": "primary_publication"
+          "source_role": "primary_publication",
+          "evidence_context": {
+            "assertion_id": "CMOCC-TIRY244-3",
+            "record_id": "CMOC-TIRY-ADD244",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-TIRY244-3",
+              "record_id": "CMOC-TIRY-ADD244",
+              "source_id": "vetters2011",
+              "source_role": "primary_publication",
+              "locator": "pp. 16–17, Interpretation of the Signs",
+              "literal_published_label": "97",
+              "editorial_notes": [
+                "Primary-publication occurrence check; published sign numbering retained as source assertion."
+              ],
+              "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-TIRY-ADD244",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Ferrara/addendum catalogue",
+                  "literal": "244",
+                  "source_id": "vetters2011",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier-style siglum",
+                  "literal": "TIRY Abou 001",
+                  "source_id": "vetters2011",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                244
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        }
+      ],
+      "qualified_assertions": [
+        {
+          "assertion_id": "CMOCC-TIRY244-1",
+          "record_id": "CMOC-TIRY-ADD244",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-TIRY244-1",
+            "record_id": "CMOC-TIRY-ADD244",
+            "zone_id": "clay-ball-inscription",
+            "position": 1,
+            "published_sign_label": "41",
+            "source_id": "vetters2011",
+            "locator": "pp. 16–17, Interpretation of the Signs",
+            "certainty": "certain",
+            "notes": [
+              "Primary-publication occurrence check; published sign numbering retained as source assertion."
+            ],
+            "source_role": "primary_publication"
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-TIRY244-1",
+            "record_id": "CMOC-TIRY-ADD244",
+            "source_id": "vetters2011",
+            "source_role": "primary_publication",
+            "locator": "pp. 16–17, Interpretation of the Signs",
+            "literal_published_label": "41",
+            "editorial_notes": [
+              "Primary-publication occurrence check; published sign numbering retained as source assertion."
+            ],
+            "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-TIRY-ADD244",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Ferrara/addendum catalogue",
+                "literal": "244",
+                "source_id": "vetters2011",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier-style siglum",
+                "literal": "TIRY Abou 001",
+                "source_id": "vetters2011",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              244
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-TIRY244-2",
+          "record_id": "CMOC-TIRY-ADD244",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-TIRY244-2",
+            "record_id": "CMOC-TIRY-ADD244",
+            "zone_id": "clay-ball-inscription",
+            "position": 2,
+            "published_sign_label": "41",
+            "source_id": "vetters2011",
+            "locator": "pp. 16–17, Interpretation of the Signs",
+            "certainty": "certain",
+            "notes": [
+              "Primary-publication occurrence check; published sign numbering retained as source assertion."
+            ],
+            "source_role": "primary_publication"
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-TIRY244-2",
+            "record_id": "CMOC-TIRY-ADD244",
+            "source_id": "vetters2011",
+            "source_role": "primary_publication",
+            "locator": "pp. 16–17, Interpretation of the Signs",
+            "literal_published_label": "41",
+            "editorial_notes": [
+              "Primary-publication occurrence check; published sign numbering retained as source assertion."
+            ],
+            "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-TIRY-ADD244",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Ferrara/addendum catalogue",
+                "literal": "244",
+                "source_id": "vetters2011",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier-style siglum",
+                "literal": "TIRY Abou 001",
+                "source_id": "vetters2011",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              244
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-TIRY244-3",
+          "record_id": "CMOC-TIRY-ADD244",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-TIRY244-3",
+            "record_id": "CMOC-TIRY-ADD244",
+            "zone_id": "clay-ball-inscription",
+            "position": 3,
+            "published_sign_label": "97",
+            "source_id": "vetters2011",
+            "locator": "pp. 16–17, Interpretation of the Signs",
+            "certainty": "certain",
+            "notes": [
+              "Primary-publication occurrence check; published sign numbering retained as source assertion."
+            ],
+            "source_role": "primary_publication"
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-TIRY244-3",
+            "record_id": "CMOC-TIRY-ADD244",
+            "source_id": "vetters2011",
+            "source_role": "primary_publication",
+            "locator": "pp. 16–17, Interpretation of the Signs",
+            "literal_published_label": "97",
+            "editorial_notes": [
+              "Primary-publication occurrence check; published sign numbering retained as source assertion."
+            ],
+            "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-TIRY-ADD244",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Ferrara/addendum catalogue",
+                "literal": "244",
+                "source_id": "vetters2011",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier-style siglum",
+                "literal": "TIRY Abou 001",
+                "source_id": "vetters2011",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              244
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
         }
       ],
       "source_ids": [
@@ -2888,7 +4419,54 @@
           "source_id": "davis-maran-prillwitz-wirghova2023",
           "locator": "§3.4 Text",
           "certainty": "certain",
-          "source_role": "primary_publication"
+          "source_role": "primary_publication",
+          "evidence_context": {
+            "assertion_id": "CMOCC-TIRY245-H1-1",
+            "record_id": "CMOC-TIRY-ADD245",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-TIRY245-H1-1",
+              "record_id": "CMOC-TIRY-ADD245",
+              "source_id": "davis-maran-prillwitz-wirghova2023",
+              "source_role": "primary_publication",
+              "locator": "§3.4 Text",
+              "literal_published_label": "CM025",
+              "editorial_notes": [],
+              "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-TIRY-ADD245",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Ferrara/addendum catalogue",
+                  "literal": "245",
+                  "source_id": "davis-maran-prillwitz-wirghova2023",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier-style siglum",
+                  "literal": "TIRY Avas 001",
+                  "source_id": "davis-maran-prillwitz-wirghova2023",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                245
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
         },
         {
           "occurrence_id": "CMOCC-TIRY245-H1-2",
@@ -2899,7 +4477,54 @@
           "source_id": "davis-maran-prillwitz-wirghova2023",
           "locator": "§3.4 Text",
           "certainty": "certain",
-          "source_role": "primary_publication"
+          "source_role": "primary_publication",
+          "evidence_context": {
+            "assertion_id": "CMOCC-TIRY245-H1-2",
+            "record_id": "CMOC-TIRY-ADD245",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-TIRY245-H1-2",
+              "record_id": "CMOC-TIRY-ADD245",
+              "source_id": "davis-maran-prillwitz-wirghova2023",
+              "source_role": "primary_publication",
+              "locator": "§3.4 Text",
+              "literal_published_label": "CM087",
+              "editorial_notes": [],
+              "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-TIRY-ADD245",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Ferrara/addendum catalogue",
+                  "literal": "245",
+                  "source_id": "davis-maran-prillwitz-wirghova2023",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier-style siglum",
+                  "literal": "TIRY Avas 001",
+                  "source_id": "davis-maran-prillwitz-wirghova2023",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                245
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
         },
         {
           "occurrence_id": "CMOCC-TIRY245-H2-M1",
@@ -2910,7 +4535,230 @@
           "source_id": "davis-maran-prillwitz-wirghova2023",
           "locator": "§3.4 Text",
           "certainty": "certain",
-          "source_role": "primary_publication"
+          "source_role": "primary_publication",
+          "evidence_context": {
+            "assertion_id": "CMOCC-TIRY245-H2-M1",
+            "record_id": "CMOC-TIRY-ADD245",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-TIRY245-H2-M1",
+              "record_id": "CMOC-TIRY-ADD245",
+              "source_id": "davis-maran-prillwitz-wirghova2023",
+              "source_role": "primary_publication",
+              "locator": "§3.4 Text",
+              "literal_published_label": "CM005",
+              "editorial_notes": [],
+              "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-TIRY-ADD245",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Ferrara/addendum catalogue",
+                  "literal": "245",
+                  "source_id": "davis-maran-prillwitz-wirghova2023",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier-style siglum",
+                  "literal": "TIRY Avas 001",
+                  "source_id": "davis-maran-prillwitz-wirghova2023",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                245
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        }
+      ],
+      "qualified_assertions": [
+        {
+          "assertion_id": "CMOCC-TIRY245-H1-1",
+          "record_id": "CMOC-TIRY-ADD245",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-TIRY245-H1-1",
+            "record_id": "CMOC-TIRY-ADD245",
+            "zone_id": "handle-1-inscription",
+            "position": 1,
+            "published_sign_label": "CM025",
+            "source_id": "davis-maran-prillwitz-wirghova2023",
+            "locator": "§3.4 Text",
+            "certainty": "certain",
+            "source_role": "primary_publication"
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-TIRY245-H1-1",
+            "record_id": "CMOC-TIRY-ADD245",
+            "source_id": "davis-maran-prillwitz-wirghova2023",
+            "source_role": "primary_publication",
+            "locator": "§3.4 Text",
+            "literal_published_label": "CM025",
+            "editorial_notes": [],
+            "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-TIRY-ADD245",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Ferrara/addendum catalogue",
+                "literal": "245",
+                "source_id": "davis-maran-prillwitz-wirghova2023",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier-style siglum",
+                "literal": "TIRY Avas 001",
+                "source_id": "davis-maran-prillwitz-wirghova2023",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              245
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-TIRY245-H1-2",
+          "record_id": "CMOC-TIRY-ADD245",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-TIRY245-H1-2",
+            "record_id": "CMOC-TIRY-ADD245",
+            "zone_id": "handle-1-inscription",
+            "position": 2,
+            "published_sign_label": "CM087",
+            "source_id": "davis-maran-prillwitz-wirghova2023",
+            "locator": "§3.4 Text",
+            "certainty": "certain",
+            "source_role": "primary_publication"
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-TIRY245-H1-2",
+            "record_id": "CMOC-TIRY-ADD245",
+            "source_id": "davis-maran-prillwitz-wirghova2023",
+            "source_role": "primary_publication",
+            "locator": "§3.4 Text",
+            "literal_published_label": "CM087",
+            "editorial_notes": [],
+            "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-TIRY-ADD245",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Ferrara/addendum catalogue",
+                "literal": "245",
+                "source_id": "davis-maran-prillwitz-wirghova2023",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier-style siglum",
+                "literal": "TIRY Avas 001",
+                "source_id": "davis-maran-prillwitz-wirghova2023",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              245
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-TIRY245-H2-M1",
+          "record_id": "CMOC-TIRY-ADD245",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-TIRY245-H2-M1",
+            "record_id": "CMOC-TIRY-ADD245",
+            "zone_id": "handle-2-potmark",
+            "position": 1,
+            "published_sign_label": "CM005",
+            "source_id": "davis-maran-prillwitz-wirghova2023",
+            "locator": "§3.4 Text",
+            "certainty": "certain",
+            "source_role": "primary_publication"
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-TIRY245-H2-M1",
+            "record_id": "CMOC-TIRY-ADD245",
+            "source_id": "davis-maran-prillwitz-wirghova2023",
+            "source_role": "primary_publication",
+            "locator": "§3.4 Text",
+            "literal_published_label": "CM005",
+            "editorial_notes": [],
+            "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-TIRY-ADD245",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Ferrara/addendum catalogue",
+                "literal": "245",
+                "source_id": "davis-maran-prillwitz-wirghova2023",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier-style siglum",
+                "literal": "TIRY Avas 001",
+                "source_id": "davis-maran-prillwitz-wirghova2023",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              245
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
         }
       ],
       "source_ids": [
@@ -3041,7 +4889,56 @@
           "notes": [
             "Source-attributed transnumeration; no project sign-equivalence inference."
           ],
-          "source_role": "dependent_secondary"
+          "source_role": "dependent_secondary",
+          "evidence_context": {
+            "assertion_id": "CMOCC-TIRY246-1",
+            "record_id": "CMOC-TIRY-ADD246",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-TIRY246-1",
+              "record_id": "CMOC-TIRY-ADD246",
+              "source_id": "bourogiannis2024",
+              "source_role": "dependent_secondary",
+              "locator": "p. 56, jug handle discussion",
+              "literal_published_label": "87",
+              "editorial_notes": [
+                "Source-attributed transnumeration; no project sign-equivalence inference."
+              ],
+              "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-TIRY-ADD246",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Ferrara/addendum catalogue",
+                  "literal": "246",
+                  "source_id": "davis-maran-wirghova2014",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier-style siglum",
+                  "literal": "TIRY Avas 002",
+                  "source_id": "davis-maran-wirghova2014",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                246
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
         },
         {
           "occurrence_id": "CMOCC-TIRY246-2",
@@ -3055,7 +4952,56 @@
           "notes": [
             "Source-attributed transnumeration; no project sign-equivalence inference."
           ],
-          "source_role": "dependent_secondary"
+          "source_role": "dependent_secondary",
+          "evidence_context": {
+            "assertion_id": "CMOCC-TIRY246-2",
+            "record_id": "CMOC-TIRY-ADD246",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-TIRY246-2",
+              "record_id": "CMOC-TIRY-ADD246",
+              "source_id": "bourogiannis2024",
+              "source_role": "dependent_secondary",
+              "locator": "p. 56, jug handle discussion",
+              "literal_published_label": "50",
+              "editorial_notes": [
+                "Source-attributed transnumeration; no project sign-equivalence inference."
+              ],
+              "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-TIRY-ADD246",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Ferrara/addendum catalogue",
+                  "literal": "246",
+                  "source_id": "davis-maran-wirghova2014",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier-style siglum",
+                  "literal": "TIRY Avas 002",
+                  "source_id": "davis-maran-wirghova2014",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                246
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
         },
         {
           "occurrence_id": "CMOCC-TIRY246-3",
@@ -3069,7 +5015,247 @@
           "notes": [
             "Source-attributed transnumeration; no project sign-equivalence inference."
           ],
-          "source_role": "dependent_secondary"
+          "source_role": "dependent_secondary",
+          "evidence_context": {
+            "assertion_id": "CMOCC-TIRY246-3",
+            "record_id": "CMOC-TIRY-ADD246",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-TIRY246-3",
+              "record_id": "CMOC-TIRY-ADD246",
+              "source_id": "bourogiannis2024",
+              "source_role": "dependent_secondary",
+              "locator": "p. 56, jug handle discussion",
+              "literal_published_label": "05",
+              "editorial_notes": [
+                "Source-attributed transnumeration; no project sign-equivalence inference."
+              ],
+              "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-TIRY-ADD246",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Ferrara/addendum catalogue",
+                  "literal": "246",
+                  "source_id": "davis-maran-wirghova2014",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier-style siglum",
+                  "literal": "TIRY Avas 002",
+                  "source_id": "davis-maran-wirghova2014",
+                  "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                246
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        }
+      ],
+      "qualified_assertions": [
+        {
+          "assertion_id": "CMOCC-TIRY246-1",
+          "record_id": "CMOC-TIRY-ADD246",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-TIRY246-1",
+            "record_id": "CMOC-TIRY-ADD246",
+            "zone_id": "jar-handle-inscription",
+            "position": 1,
+            "published_sign_label": "87",
+            "source_id": "bourogiannis2024",
+            "locator": "p. 56, jug handle discussion",
+            "certainty": "certain",
+            "notes": [
+              "Source-attributed transnumeration; no project sign-equivalence inference."
+            ],
+            "source_role": "dependent_secondary"
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-TIRY246-1",
+            "record_id": "CMOC-TIRY-ADD246",
+            "source_id": "bourogiannis2024",
+            "source_role": "dependent_secondary",
+            "locator": "p. 56, jug handle discussion",
+            "literal_published_label": "87",
+            "editorial_notes": [
+              "Source-attributed transnumeration; no project sign-equivalence inference."
+            ],
+            "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-TIRY-ADD246",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Ferrara/addendum catalogue",
+                "literal": "246",
+                "source_id": "davis-maran-wirghova2014",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier-style siglum",
+                "literal": "TIRY Avas 002",
+                "source_id": "davis-maran-wirghova2014",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              246
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-TIRY246-2",
+          "record_id": "CMOC-TIRY-ADD246",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-TIRY246-2",
+            "record_id": "CMOC-TIRY-ADD246",
+            "zone_id": "jar-handle-inscription",
+            "position": 2,
+            "published_sign_label": "50",
+            "source_id": "bourogiannis2024",
+            "locator": "p. 56, jug handle discussion",
+            "certainty": "certain",
+            "notes": [
+              "Source-attributed transnumeration; no project sign-equivalence inference."
+            ],
+            "source_role": "dependent_secondary"
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-TIRY246-2",
+            "record_id": "CMOC-TIRY-ADD246",
+            "source_id": "bourogiannis2024",
+            "source_role": "dependent_secondary",
+            "locator": "p. 56, jug handle discussion",
+            "literal_published_label": "50",
+            "editorial_notes": [
+              "Source-attributed transnumeration; no project sign-equivalence inference."
+            ],
+            "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-TIRY-ADD246",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Ferrara/addendum catalogue",
+                "literal": "246",
+                "source_id": "davis-maran-wirghova2014",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier-style siglum",
+                "literal": "TIRY Avas 002",
+                "source_id": "davis-maran-wirghova2014",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              246
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-TIRY246-3",
+          "record_id": "CMOC-TIRY-ADD246",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-TIRY246-3",
+            "record_id": "CMOC-TIRY-ADD246",
+            "zone_id": "jar-handle-inscription",
+            "position": 3,
+            "published_sign_label": "05",
+            "source_id": "bourogiannis2024",
+            "locator": "p. 56, jug handle discussion",
+            "certainty": "certain",
+            "notes": [
+              "Source-attributed transnumeration; no project sign-equivalence inference."
+            ],
+            "source_role": "dependent_secondary"
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-TIRY246-3",
+            "record_id": "CMOC-TIRY-ADD246",
+            "source_id": "bourogiannis2024",
+            "source_role": "dependent_secondary",
+            "locator": "p. 56, jug handle discussion",
+            "literal_published_label": "05",
+            "editorial_notes": [
+              "Source-attributed transnumeration; no project sign-equivalence inference."
+            ],
+            "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-TIRY-ADD246",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Ferrara/addendum catalogue",
+                "literal": "246",
+                "source_id": "davis-maran-wirghova2014",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier-style siglum",
+                "literal": "TIRY Avas 002",
+                "source_id": "davis-maran-wirghova2014",
+                "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              246
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
         }
       ],
       "source_ids": [

@@ -13,13 +13,17 @@ def calculate(root=R):
   if actual!=e['sha256']:raise ValueError('evidence pin mismatch: '+e['path'])
   value=json.loads(p.read_text()) if p.suffix=='.json' else None
   summary={k:value[k] for k in ['format','scope','boundary','status','source_id','record_license','acquisition_status','interpretation'] if isinstance(value,dict) and k in value}
+  if e['path'] in ('corpus/critical-readings.json','occurrences/occurrences.json'):
+   summary['reading_warning']='Original source literals may omit primary apparatus. Use the qualified assertion view before analysis.'
+   summary['qualified_view']='research/qualified-assertion-views.json'
   rows.append({'path':e['path'],'sha256':actual,'bytes':p.stat().st_size,'category':e['path'].split('/')[0],'summary':summary})
  if len({e['path'] for e in rows})!=len(rows):raise ValueError('duplicate evidence path')
  return {'format':'research-evidence-index-v1','workbench_version':'1.1.0','project':family['member'],'repository_version':state['repository_version'],'evidence':rows,'scientific_results':state['scientific_results'],'blocking_dependencies':member['blocking_dependencies'],'metrics':member['metrics'],
   'family_report_sha256':digest(root/'research/family-readiness-v1.json'),'implementation_sha256':digest(root/'scripts/evidence_workbench.py'),
+  'assertion_view_sha256':digest(root/'research/qualified-assertion-views.json'),
   'boundary':'Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference.'}
 def html(root=R):
- data=calculate(root);payload={'index':data,'index_sha256':hashlib.sha256((json.dumps(data,ensure_ascii=False,indent=2)+'\n').encode()).hexdigest(),'edition':None}
+ data=calculate(root);payload={'index':data,'index_sha256':hashlib.sha256((json.dumps(data,ensure_ascii=False,indent=2)+'\n').encode()).hexdigest(),'edition':None,'assertions':json.loads((root/'research/qualified-assertion-views.json').read_text())}
  if (root/'analysis/edition-workbench-v1.json').exists():
   v=json.loads((root/'analysis/edition-workbench-v1.json').read_text());payload['edition']={k:v[k] for k in ['comparison_rows','group_evidence','sensitivity_bounds','source_coverage','hypothesis_space','boundary','scenario_count']}
   payload['edition']['edition_sha256']=digest(root/'analysis/edition-workbench-v1.json')

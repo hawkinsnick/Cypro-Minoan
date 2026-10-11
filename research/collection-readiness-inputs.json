@@ -44,6 +44,8 @@
     "research/coverage-denominators.json",
     "research/reference-reconciliation-v2.json",
     "research/identity-reconciliation-v2.json",
-    "research/donnelly-existing-assertion-check.json"
+    "research/donnelly-existing-assertion-check.json",
+    "research/cross-corpus-dependencies.json",
+    "docs/AI-INTEGRITY.md"
   ]
 }

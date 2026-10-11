@@ -2290,6 +2290,22 @@
     {
       "path": "occurrences/occurrences.json",
       "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b"
+    },
+    {
+      "path": "research/identity-reconciliation-v2.json",
+      "sha256": "04bd47c9aaccd3fb382fb5c09daf1f69c1e79e27fbdb2c28387faf1715fe7380"
+    },
+    {
+      "path": "research/reference-reconciliation-v2.json",
+      "sha256": "ca89a3c3cdfa3cae006298c8d117c573e2000312fcaf5a947b0097b43048acfe"
+    },
+    {
+      "path": "research/source-reconciliation.json",
+      "sha256": "8150ba4afc5428632b6bd7d8cf2167490d128ed5a59de394a8e0653f8c15a161"
+    },
+    {
+      "path": "scripts/assertion_views.py",
+      "sha256": "c998a1fb2057183e9de3af1492d32e64640ed85b36e64832798c951b16131e8c"
     }
   ],
   "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."

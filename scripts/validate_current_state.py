@@ -62,6 +62,8 @@ def validate():
         require(smoke["gold_revealed"] is False and smoke["calibration_executed"] is False and smoke["scientific_matched_environment_claim_allowed"] is False,"software smoke promoted to scientific result")
     from validate_reconciliation import validate as reconcile
     reconcile(R)
+    from assertion_views import validate as validate_delivery
+    validate_delivery(R)
     counts=state["committed_evidence_counts"]
     if (R/"corpus/index.json").exists():
         idx=load("corpus/index.json");require(idx["version"]==version,"index version drift")

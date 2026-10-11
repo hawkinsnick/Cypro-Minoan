@@ -17,7 +17,12 @@ def calculate(root=R):
     bibliography=load(root,'bibliography/sources.json')
     key='id' if ch else 'source_id';sources={x[key]:x for x in bibliography}
     if len(sources)!=len(bibliography):raise ValueError('duplicate source ID')
-    evidence=['bibliography/sources.json'];dossiers=[];report={'schema_version':'1.0','project':'Cretan Hieroglyphic' if ch else 'Cypro-Minoan','release':(root/'VERSION').read_text().strip(),'independent_reviews_added':0,'scientific_gates_changed':False}
+    from assertion_views import build as build_views
+    joined=build_views(root);assertion_key='reading_id' if ch else 'occurrence_id'
+    qualified={v['assertion_id']:v for v in joined['assertions']}
+    def enriched(row):
+        return {**row,'evidence_context':{k:v for k,v in qualified[row[assertion_key]].items() if k!='source_assertion'}}
+    evidence=['research/reference-reconciliation-v2.json','research/identity-reconciliation-v2.json','research/source-reconciliation.json','scripts/assertion_views.py','bibliography/sources.json'];dossiers=[];report={'schema_version':'1.0','project':'Cretan Hieroglyphic' if ch else 'Cypro-Minoan','release':(root/'VERSION').read_text().strip(),'independent_reviews_added':0,'scientific_gates_changed':False}
     if ch:
         paths=['corpus/chic-catalogue-spine.json','corpus/critical-readings.json','corpus/context-assertions.json'];evidence+=paths
         cat=load(root,paths[0]);readings=load(root,paths[1]);context=load(root,paths[2]);ids={x['id'] for x in cat}
@@ -37,8 +42,8 @@ def calculate(root=R):
             if r['object_id'] not in ids:raise ValueError('orphan reading')
         for i,c in enumerate(cat):
             rs=[r for r in readings if r['object_id']==c['id']];cs=[r for r in rows if r['object_id']==c['id']]
-            source_ids=sorted(set(refs(c))|set(refs(rs))|set(refs(cs)))
-            dossiers.append({'record_id':c['id'],'series':c['series'],'native_ref':paths[0]+'#/'+str(i),'catalogue_status':c['data_status'],'source_context':cs,'source_readings':rs,'source_ids':source_ids,'missing_evidence':([] if cs else ['SOURCE_CONTEXT_NOT_ENCODED'])+([] if rs else ['SOURCE_READING_NOT_ENCODED'])+['INDEPENDENT_REVIEW_PENDING'],'identity_status':'CATALOGUE_IDENTIFIER_ONLY_NO_PHYSICAL_CERTIFICATION'})
+            source_ids=sorted(set(refs(c))|set(refs(rs))|set(refs(cs))|set(refs([qualified[x['reading_id']] for x in rs])))
+            dossiers.append({'record_id':c['id'],'series':c['series'],'native_ref':paths[0]+'#/'+str(i),'catalogue_status':c['data_status'],'source_context':cs,'source_readings':[enriched(x) for x in rs],'qualified_assertions':[qualified[x['reading_id']] for x in rs],'source_ids':source_ids,'missing_evidence':([] if cs else ['SOURCE_CONTEXT_NOT_ENCODED'])+([] if rs else ['SOURCE_READING_NOT_ENCODED'])+['INDEPENDENT_REVIEW_PENDING'],'identity_status':'CATALOGUE_IDENTIFIER_ONLY_NO_PHYSICAL_CERTIFICATION'})
         report.update(catalogue_entries=len(cat),dossier_count=len(dossiers),context_objects=len(rows),context_assertions=sum(len(x['assertions']) for x in rows),context_by_series={s:sum(d['series']==s and bool(d['source_context']) for d in dossiers) for s in 'HISY'},reading_objects=len({r['object_id'] for r in readings}),critical_readings=len(readings),excluded_source_pages=context['excluded_pages'],objects_without_context=[d['record_id'] for d in dossiers if not d['source_context']])
     else:
         ids=load(root,'corpus/index.json')['records'];occ=load(root,'occurrences/occurrences.json')['occurrences'];catalogue=load(root,'catalogues/master.json')['entries'];evidence+=['corpus/index.json','occurrences/occurrences.json','catalogues/master.json'];links=collections.defaultdict(list)
@@ -51,8 +56,8 @@ def calculate(root=R):
                     try:n=int(ident['value'])
                     except (TypeError,ValueError):continue
                     links[n].append({'record_id':rid,'authority':ident['system'],'source_id':ident['source_id']})
-            source_ids=sorted(set(refs(record))|set(refs(os)))
-            dossiers.append({'record_id':rid,'native_ref':p,'native_sha256':digest(root,p),'object':record['object'],'find_context':record['find_context'],'dating':record['dating'],'identifiers':record['identifiers'],'classifications':record['classifications'],'assertions':record['assertions'],'source_occurrences':os,'source_ids':source_ids,'rights':record['rights'],'missing_evidence':([] if os else ['ENCODED_OCCURRENCES_ABSENT'])+([] if record['dating'] else ['DATED_ASSERTION_ABSENT'])+['INDEPENDENT_REVIEW_PENDING'],'occurrence_scope':'Partial source-attributed occurrence subset; no complete transcription inferred.'})
+            source_ids=sorted(set(refs(record))|set(refs(os))|set(refs([qualified[x['occurrence_id']] for x in os])))
+            dossiers.append({'record_id':rid,'native_ref':p,'native_sha256':digest(root,p),'object':record['object'],'find_context':record['find_context'],'dating':record['dating'],'identifiers':record['identifiers'],'classifications':record['classifications'],'assertions':record['assertions'],'source_occurrences':[enriched(x) for x in os],'qualified_assertions':[qualified[x['occurrence_id']] for x in os],'source_ids':source_ids,'rights':record['rights'],'missing_evidence':([] if os else ['ENCODED_OCCURRENCES_ABSENT'])+([] if record['dating'] else ['DATED_ASSERTION_ABSENT'])+['INDEPENDENT_REVIEW_PENDING'],'occurrence_scope':'Partial source-attributed occurrence subset; no complete transcription inferred.'})
         slots=[{'catalogue_number':c['catalogue_number'],'authority_layer':c['authority_layer'],'siglum':c['siglum'],'ingestion_status':c['ingestion_status'],'reported_record_links':sorted(links.get(c['catalogue_number'],[]),key=lambda x:(x['record_id'],x['authority'])),'mapping_status':'SOURCE_REPORTED_LINK' if links.get(c['catalogue_number']) else 'NO_RICH_RECORD_LINK_REGISTERED'} for c in catalogue]
         report.update(controlled_catalogue_slots=len(slots),dossier_count=len(dossiers),rich_records=len(ids),records_with_occurrences=sum(bool(d['source_occurrences']) for d in dossiers),encoded_occurrences=len(occ),records_with_dating=sum(bool(d['dating']) for d in dossiers),catalogue_slot_accounting=slots,slots_with_reported_record_links=sum(bool(s['reported_record_links']) for s in slots),source_locator_limits=[{'source_id':s,'status':sources[s].get('verification_status')} for s in sorted(sources) if sources[s].get('verification_status') in ('LOCATOR_LEAD_ACCESS_FAILED','BIBLIOGRAPHY_CHECKED_VIA_LOUVRE_ARTICLE_UNINSPECTED')])
     for d in dossiers:
@@ -85,6 +90,16 @@ def markdown(bundle):
             lines += ['| Field | Value | Status | Evidence |','|---|---|---|---|']
             lines += ['| '+' | '.join(cell(v) for v in row)+' |' for row in rows]
             lines.append('')
+        if d.get('qualified_assertions'):
+            lines += ['### Source assertions with required qualifications','']
+            for view in d['qualified_assertions']:
+                source=view['source_assertion'];literal=' '.join(t['form'] for t in source['tokens']) if 'tokens' in source else source['published_sign_label']
+                q=view['reconciliation_context']
+                lines += ['- Assertion: '+cell(view['assertion_id'])+'; literal source: '+cell(literal)+'.', '  Source: '+cell(source['source_id'])+' / '+cell(source['locator'])+'.', '  Comparison: '+cell(q['status'])+'.', '  '+view['certainty_scope']]
+                for a in q.get('apparatus',[]):lines.append('  Apparatus: '+cell(a))
+                for dispute in view['source_disagreements']:lines.append('  Unresolved source disagreement: '+cell(dispute))
+                for note in source.get('notes',[]):lines.append('  Editorial note: '+cell(note))
+                lines.append('')
         lines += ['Missing evidence: '+', '.join(d['missing_evidence'])+'.','']
         for a in d['sources']:
             sid=a.get('id',a.get('source_id'));u=a.get('url')

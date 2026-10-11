@@ -159,6 +159,26 @@
       "role": "existing_assertion_check",
       "path": "research/donnelly-existing-assertion-check.json",
       "required": true
+    },
+    {
+      "role": "qualified_assertions",
+      "path": "research/qualified-assertion-views.json",
+      "required": true
+    },
+    {
+      "role": "cross_corpus_dependencies",
+      "path": "research/cross-corpus-dependencies.json",
+      "required": true
+    },
+    {
+      "role": "sync_publication_guard",
+      "path": "ai-skill/scripts/publish_sync.py",
+      "required": true
+    },
+    {
+      "role": "ai_integrity_guide",
+      "path": "docs/AI-INTEGRITY.md",
+      "required": true
     }
   ],
   "behavioral_gates": [
