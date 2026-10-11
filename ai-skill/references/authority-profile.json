@@ -144,6 +144,16 @@
       "role": "coverage_denominators",
       "path": "research/coverage-denominators.json",
       "required": true
+    },
+    {
+      "role": "reference_reconciliation",
+      "path": "research/reference-reconciliation-v2.json",
+      "required": true
+    },
+    {
+      "role": "identity_reconciliation",
+      "path": "research/identity-reconciliation-v2.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -153,6 +163,7 @@
     "Interchange mappings do not redefine native Cypro-Minoan evidence",
     "Frequency remains blocked until verified occurrence coverage and its denominator are explicitly sufficient for the stated population.",
     "PRE_EXPERT_MAXIMUM means currently reachable lawful source routes are dispositioned; it does not mean world-corpus completeness or expert validation.",
-    "Read the source expansion, unresolved reconciliation and bounded denominator registers before coverage claims. Partial occurrences do not imply full transcription. Unknown physical populations stay unknown."
+    "Read the source expansion, unresolved reconciliation and bounded denominator registers before coverage claims. Partial occurrences do not imply full transcription. Unknown physical populations stay unknown.",
+    "Consult reference-reconciliation-v2 and identity-reconciliation-v2 before graphical certainty or identity claims. Existing reading coverage is frozen; primary apparatus omissions are not silently corrected in the digital-source literal."
   ]
 }

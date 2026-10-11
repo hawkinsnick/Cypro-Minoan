@@ -58,3 +58,7 @@ The fifteen uncovered rich records now have record-specific source dispositions 
 ## Bounded source checkpoint (2026-10-11)
 
 Use `research/source-check-2026-10-11.json`, `research/source-reconciliation.json` and `research/coverage-denominators.json` together. Retain source roles, unresolved competing labels/materials and literal identifier namespaces. Never sum overlapping catalogue and rich-record views, infer a physical corpus population, or promote dependent evidence to independent primary verification.
+
+## Existing evidence: reconciliation and identity controls
+
+Before source certainty, apparatus, duplicate or object-identity claims, read `research/reference-reconciliation-v2.json`, `research/identity-reconciliation-v2.json` and `docs/EXISTING-EVIDENCE-RECONCILIATION.md`. Literal source strings are frozen; read the apparatus ledger alongside them. Primary agreement of numeric labels is not independent sign verification. Unidentified marks and conditional alternatives are not added canonical occurrences. Namespaces and core/candidate status cannot be flattened, and zero exact alias collisions cannot establish physical uniqueness.

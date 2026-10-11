@@ -1,0 +1,289 @@
+{
+  "schema_version": "2.0",
+  "checked": "2026-10-11",
+  "frozen_inventory": {
+    "path": "occurrences/occurrences.json",
+    "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b",
+    "unit": "source_occurrence_assertion",
+    "count": 16,
+    "record_ids": [
+      "CMOC-0025",
+      "CMOC-0026",
+      "CMOC-0027",
+      "CMOC-0029",
+      "CMOC-0030",
+      "CMOC-0031",
+      "CMOC-TIRY-ADD244",
+      "CMOC-TIRY-ADD245",
+      "CMOC-TIRY-ADD246"
+    ],
+    "scope": "Existing content frozen; no reading or sign-occurrence expansion or replacement authorized."
+  },
+  "existing_occurrence_dispositions": [
+    {
+      "occurrence_id": "CMOCC-TIRY245-H1-1",
+      "record_id": "CMOC-TIRY-ADD245",
+      "source_id": "davis-maran-prillwitz-wirghova2023",
+      "source_role": "primary_publication",
+      "locator": "§3.4 Text",
+      "literal_published_label": "CM025",
+      "editorial_notes": [],
+      "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY245-H1-2",
+      "record_id": "CMOC-TIRY-ADD245",
+      "source_id": "davis-maran-prillwitz-wirghova2023",
+      "source_role": "primary_publication",
+      "locator": "§3.4 Text",
+      "literal_published_label": "CM087",
+      "editorial_notes": [],
+      "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY245-H2-M1",
+      "record_id": "CMOC-TIRY-ADD245",
+      "source_id": "davis-maran-prillwitz-wirghova2023",
+      "source_role": "primary_publication",
+      "locator": "§3.4 Text",
+      "literal_published_label": "CM005",
+      "editorial_notes": [],
+      "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY244-1",
+      "record_id": "CMOC-TIRY-ADD244",
+      "source_id": "vetters2011",
+      "source_role": "primary_publication",
+      "locator": "pp. 16–17, Interpretation of the Signs",
+      "literal_published_label": "41",
+      "editorial_notes": [
+        "Primary-publication occurrence check; published sign numbering retained as source assertion."
+      ],
+      "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY244-2",
+      "record_id": "CMOC-TIRY-ADD244",
+      "source_id": "vetters2011",
+      "source_role": "primary_publication",
+      "locator": "pp. 16–17, Interpretation of the Signs",
+      "literal_published_label": "41",
+      "editorial_notes": [
+        "Primary-publication occurrence check; published sign numbering retained as source assertion."
+      ],
+      "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY244-3",
+      "record_id": "CMOC-TIRY-ADD244",
+      "source_id": "vetters2011",
+      "source_role": "primary_publication",
+      "locator": "pp. 16–17, Interpretation of the Signs",
+      "literal_published_label": "97",
+      "editorial_notes": [
+        "Primary-publication occurrence check; published sign numbering retained as source assertion."
+      ],
+      "status": "DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY246-1",
+      "record_id": "CMOC-TIRY-ADD246",
+      "source_id": "bourogiannis2024",
+      "source_role": "dependent_secondary",
+      "locator": "p. 56, jug handle discussion",
+      "literal_published_label": "87",
+      "editorial_notes": [
+        "Source-attributed transnumeration; no project sign-equivalence inference."
+      ],
+      "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY246-2",
+      "record_id": "CMOC-TIRY-ADD246",
+      "source_id": "bourogiannis2024",
+      "source_role": "dependent_secondary",
+      "locator": "p. 56, jug handle discussion",
+      "literal_published_label": "50",
+      "editorial_notes": [
+        "Source-attributed transnumeration; no project sign-equivalence inference."
+      ],
+      "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY246-3",
+      "record_id": "CMOC-TIRY-ADD246",
+      "source_id": "bourogiannis2024",
+      "source_role": "dependent_secondary",
+      "locator": "p. 56, jug handle discussion",
+      "literal_published_label": "05",
+      "editorial_notes": [
+        "Source-attributed transnumeration; no project sign-equivalence inference."
+      ],
+      "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-ENK029-VETTERS2011-3",
+      "record_id": "CMOC-0029",
+      "source_id": "vetters2011",
+      "source_role": "dependent_secondary",
+      "locator": "p. 16, footnote 126, Olivier 2007 no. 029 (3rd sign)",
+      "literal_published_label": "97",
+      "editorial_notes": [
+        "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+        "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+      ],
+      "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-ENK030-VETTERS2011-7",
+      "record_id": "CMOC-0030",
+      "source_id": "vetters2011",
+      "source_role": "dependent_secondary",
+      "locator": "p. 16, footnote 126, Olivier 2007 no. 030 (7th sign)",
+      "literal_published_label": "97",
+      "editorial_notes": [
+        "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+        "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+      ],
+      "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-ENK031-VETTERS2011-3",
+      "record_id": "CMOC-0031",
+      "source_id": "vetters2011",
+      "source_role": "dependent_secondary",
+      "locator": "p. 16, footnote 126, Olivier 2007 no. 031 (3rd sign)",
+      "literal_published_label": "97",
+      "editorial_notes": [
+        "Partial source assertion citing Olivier 2007; other positions are not encoded.",
+        "Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established."
+      ],
+      "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-0025-VALERIO2016-source-second-sequence-4",
+      "record_id": "CMOC-0025",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 457 (PDF 463), ##025",
+      "literal_published_label": "09",
+      "editorial_notes": [
+        "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+        "Valério explicitly supports label 09 at this position; other signs are not encoded by this check."
+      ],
+      "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-0026-VALERIO2016-source-sequence-2",
+      "record_id": "CMOC-0026",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 457 (PDF 463), ##026",
+      "literal_published_label": "73",
+      "editorial_notes": [
+        "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+        "Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+      ],
+      "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-0026-VALERIO2016-source-sequence-5",
+      "record_id": "CMOC-0026",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 457 (PDF 463), ##026",
+      "literal_published_label": "73",
+      "editorial_notes": [
+        "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+        "Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+      ],
+      "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3",
+      "record_id": "CMOC-0027",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 457 (PDF 463), ##027; discussion continues printed p. 458 / PDF 464",
+      "literal_published_label": "13",
+      "editorial_notes": [
+        "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+        "Valério proposes 13 against reported Olivier label 08; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+      ],
+      "status": "DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    }
+  ],
+  "reported_disagreements": "research/source-reconciliation.json",
+  "primary_access_controls": [
+    {
+      "source_id": "olivier2007",
+      "source_role": "primary_edition",
+      "catalogue_url": "https://catalogue.bnf.fr/ark:/12148/cb41246930n",
+      "isbn": "978-88-6227-030-4",
+      "publication": "Pisa: F. Serra, 2007",
+      "format": "PRINTED_BOOK",
+      "holding": "BnF Tolbiac, Salle L, 487.1 OLIV e",
+      "inspected_pages": [],
+      "required_pages_for_recorded_disagreements": [
+        76,
+        77
+      ],
+      "status": "HOLDING_IDENTIFIED_TEXT_NOT_ACQUIRED",
+      "rights": "Catalogue metadata is not access to or permission to republish the book.",
+      "next_action": "Lawful library consultation or authorized page delivery for existing records; independent sign adjudication follows.",
+      "external_contact_sent": false
+    }
+  ],
+  "complete_existing_inventory_accounting": true,
+  "primary_disagreements_resolved": false,
+  "independent_review_complete": false
+}
