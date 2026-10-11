@@ -1,11 +1,11 @@
 {
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "cf31b2dd0e9d91ac8ea1b73bbc8832c9b368f8118ad51b0da50c71478bf6f202",
-  "evidence_fingerprint": "229415ab8fb35d8662e130c6678709e5b6377f269b1769dbab73667e9dc73047",
+  "config_sha256": "fb14578045968292c5cff6cf1564b3848e7d1a8191eecad1e77fa22ce199c18a",
+  "evidence_fingerprint": "dd70b93701a37734537f478f3dfed4cfabaa7a6bb999a51c86c115c0bd6235bf",
   "input_sha256": {
     "analysis/catalogue-mapping-audit.json": "69c0e65bd594ca04b587f4fbd15d67bca85d274580023300c486719c5fd8a372",
-    "analysis/current-status.json": "afce67d44c21a277d67abf21af2ebd2a94bd1aba8325557519eb82a0fcb9bb3e",
+    "analysis/current-status.json": "5ef9dc6fb3a02fbc015fd7c40b19aa2fedb18919e293ba02d3f67b2b023928f8",
     "analysis/occurrence-coverage-v1.json": "00539e7362042e52b8c6891b347bf12954efc628e853bd53631b04df2628f943",
     "catalogues/master.json": "bd901ce1cdc48f7dda9d19435f0416a5bbabce304b6ebf784bc78f0048406e9f",
     "catalogues/reconciliation-ledger.json": "f8130ea475d0489d1f234571a7271a49609ccf08f728df25103e0f023bf6d241",
@@ -13,11 +13,12 @@
     "interchange/documents.json": "05781183c6b0b2e7696004a546cb6a204cd2f41dbf8eeb621d82778e63921980",
     "research/acquisition-queue.json": "05fbeab69ae8d1980b963178f4b1481598dc94a2d5767456d575eac9ee9c9bcd",
     "research/coverage-denominators.json": "a69e224e3670b6d7c24eaf11366f268dec5d356fd2aba689f889804b80d30f0c",
+    "research/donnelly-existing-assertion-check.json": "dced9c793ae136fd6ed44a8efed4ce428e757a32dd91c2c89f259a09186b5091",
     "research/identity-reconciliation-v2.json": "04bd47c9aaccd3fb382fb5c09daf1f69c1e79e27fbdb2c28387faf1715fe7380",
     "research/met-open-image-controls.json": "38bcd8cf069cdf614a2ca7d81d6a495064865c1a529278123249a76b95db7d0c",
     "research/pre-expert-maximum.json": "db99d11e197498a9e9c1a8655ce370e0f4b4d17a3b570b5c19f312301a61ae92",
     "research/pre-expert-source-exhaustion.json": "f1691fd304bf653c38d4a64bf40e04da62b20658534059db87fd6e271256b2a5",
-    "research/reference-reconciliation-v2.json": "1a06747508980f1013c7091821fa34432bd3f0b568e8e75446c03b2e2655f148",
+    "research/reference-reconciliation-v2.json": "ca89a3c3cdfa3cae006298c8d117c573e2000312fcaf5a947b0097b43048acfe",
     "research/source-check-2026-10-11.json": "d40fe83a74b009ab772c86c9f854a6460bab09d3fb0a33395981d94d1bee615d",
     "research/source-inspection-2026-10-02.json": "09e06c64feba4e5035a8fe6e5a61aeb11837a74a658fbbd177e6577b4ad98994",
     "research/source-metadata/met-240899.json": "c18c4064ea21b00465b51b76530342af1739bb0db69f1a5291ec5404255c2cb1",
@@ -12660,6 +12661,24 @@
       "json_pointer": "/object_concordance/13/basis/0/source_id",
       "kind": "source_id",
       "source_path": "research/coverage-denominators.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_id",
+      "kind": "source_id",
+      "source_path": "research/donnelly-existing-assertion-check.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/doi",
+      "kind": "doi",
+      "source_path": "research/donnelly-existing-assertion-check.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/receipt/url",
+      "kind": "url",
+      "source_path": "research/donnelly-existing-assertion-check.json"
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",

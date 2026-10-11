@@ -22,5 +22,6 @@ class ReconciliationTests(unittest.TestCase):
    reject('research/reference-reconciliation-v2.json',lambda x:x.update(independent_review_complete=True))
    path='corpus/critical-readings.json' if IS_CH else 'occurrences/occurrences.json'
    reject(path,lambda x:x.append(x[0]) if IS_CH else x['occurrences'].append(x['occurrences'][0]))
+   if not IS_CH:reject('research/donnelly-existing-assertion-check.json',lambda x:x.update(expert_acceptance_granted=True))
    if IS_CH:reject('research/reference-reconciliation-v2.json',lambda x:next(y for y in x['existing_reading_dispositions'] if y['apparatus'])['apparatus'].clear())
 if __name__=='__main__':unittest.main()

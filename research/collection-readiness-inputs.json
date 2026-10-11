@@ -43,6 +43,7 @@
     "research/source-reconciliation.json",
     "research/coverage-denominators.json",
     "research/reference-reconciliation-v2.json",
-    "research/identity-reconciliation-v2.json"
+    "research/identity-reconciliation-v2.json",
+    "research/donnelly-existing-assertion-check.json"
   ]
 }

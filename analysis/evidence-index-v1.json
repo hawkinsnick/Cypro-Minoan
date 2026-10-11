@@ -50,7 +50,7 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "6d61944ccb7cbdffcc06df6ddc75d6fc515b23d9163a3c2b4e67bad8f0f2fcec",
+      "sha256": "8dd6f823554cb1242be4ac11065de56cacce436b11b78f0119133fc97edb4810",
       "bytes": 14099,
       "category": "research",
       "summary": {
@@ -124,15 +124,15 @@
     },
     {
       "path": "research/record-dossiers.json",
-      "sha256": "ff6300eb7552c8c4aba3be93a33d2cb92f952f4672cbafec63848c889f76cebf",
-      "bytes": 99369,
+      "sha256": "96a9d40cba354dd3b85bb3d860f54e55b4a8ed6598ce199c2593fc19f9b93ec0",
+      "bytes": 99902,
       "category": "research",
       "summary": {}
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "4c3b642638ec06b0799e63f61f407ef5a1cc5ba236922b8e220c048f07e2fe93",
-      "bytes": 74030,
+      "sha256": "3d7327992bb4bc128189e3fb67e2796d014a765a22ec8138fbd8e3470d72ae4b",
+      "bytes": 73912,
       "category": "analysis",
       "summary": {
         "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."
@@ -154,8 +154,8 @@
     },
     {
       "path": "bibliography/sources.json",
-      "sha256": "9bd6ccf0b9f83134cd9bdde132040a66c91914959a9304c3ad73579fd67d922a",
-      "bytes": 18597,
+      "sha256": "9f6127c1fa835472103ce297917419026d0c2cce438f0a1ed4aef877950d48a7",
+      "bytes": 19014,
       "category": "bibliography",
       "summary": {}
     },
@@ -296,8 +296,8 @@
     },
     {
       "path": "research/reference-reconciliation-v2.json",
-      "sha256": "1a06747508980f1013c7091821fa34432bd3f0b568e8e75446c03b2e2655f148",
-      "bytes": 13807,
+      "sha256": "ca89a3c3cdfa3cae006298c8d117c573e2000312fcaf5a947b0097b43048acfe",
+      "bytes": 13899,
       "category": "research",
       "summary": {}
     },
@@ -310,24 +310,33 @@
     },
     {
       "path": "scripts/validate_reconciliation.py",
-      "sha256": "b346096222f937d8619f8bfed98f6b514edc9950da25d7cdc4ec0ace4706bc89",
-      "bytes": 4759,
+      "sha256": "8977ef6792c572d0ad0bb66357c657c4d94c09cfb2a6726b9ffc63c2231c35a6",
+      "bytes": 5414,
       "category": "scripts",
       "summary": {}
     },
     {
       "path": "scripts/test_reconciliation.py",
-      "sha256": "4a2ab92fa13e043691e65cee5aa6d6c86b754d29424d4f11437822dd28e4c4df",
-      "bytes": 1959,
+      "sha256": "089d2333db20d920bcc527bf89a526d37ae24d1704d8d7cf5d9021d3af40910a",
+      "bytes": 2083,
       "category": "scripts",
       "summary": {}
     },
     {
       "path": "docs/EXISTING-EVIDENCE-RECONCILIATION.md",
-      "sha256": "ca25def551024947bf25dc6151742d7d4ca52f0b8939899a906bc06d73678351",
-      "bytes": 2184,
+      "sha256": "f70acc7df86764902d1c6bdbf12eaa0355bdd5bcc8a9702a05e81c3b82682575",
+      "bytes": 2527,
       "category": "docs",
       "summary": {}
+    },
+    {
+      "path": "research/donnelly-existing-assertion-check.json",
+      "sha256": "dced9c793ae136fd6ed44a8efed4ce428e757a32dd91c2c89f259a09186b5091",
+      "bytes": 1450,
+      "category": "research",
+      "summary": {
+        "source_id": "donnelly2020"
+      }
     }
   ],
   "scientific_results": {
@@ -358,7 +367,7 @@
       "status": "measured"
     }
   },
-  "family_report_sha256": "6d61944ccb7cbdffcc06df6ddc75d6fc515b23d9163a3c2b4e67bad8f0f2fcec",
+  "family_report_sha256": "8dd6f823554cb1242be4ac11065de56cacce436b11b78f0119133fc97edb4810",
   "implementation_sha256": "682a350d9457b1e88ff3a3c4d1263880e4fdf98e1012578580b7d2b9d877c916",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."
 }

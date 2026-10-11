@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-11",
+  "record_id": "CMOC-LVR-AM1639",
+  "existing_assertion": "CM102, source donnelly2020, probable",
+  "source_id": "donnelly2020",
+  "doi": "10.4000/cchyp.498",
+  "source_role": "scholarly_discussion_dependent_on_Masson_1957",
+  "receipt": {
+    "url": "https://journals.openedition.org/cchyp/pdf/283",
+    "bytes": 9857088,
+    "sha256": "0b41f0bac53d7e4fc1f81216323467c8a163db837256cfb338efde3665a17ac7",
+    "pdf_accessed": true
+  },
+  "locator": "Cahiers du Centre d’Études Chypriotes 50 (2020), printed pp. 104–105, Fig. 3; whole-volume PDF pages 106–107",
+  "visually_inspected_pdf_pages": [
+    106,
+    107
+  ],
+  "result": "EXISTING_SOURCE_ATTRIBUTION_CONFIRMED; ORIGINAL_PROBABLE_UNCERTAINTY_RETAINED",
+  "identity_findings": [
+    "The discussion names AM 1639 and Sinda; Fig. 3 specifies Louvre AM 1639.",
+    "The comparison with ADD##219 concerns a similar published sign/motif, not a shared physical object. No numbered catalogue join is admitted."
+  ],
+  "source_graphic_lineage": "Fig. 3 explicitly follows Masson 1957b fig. 9; not a new independent photographic witness.",
+  "rights": "Publisher PDF states text CC BY-NC-SA 4.0; images/other components have separate terms. Only attributed identifier/locator facts and original audit observations are stored; no images or source prose redistributed.",
+  "new_occurrences_added": 0,
+  "expert_acceptance_granted": false
+}

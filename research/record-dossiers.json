@@ -1968,7 +1968,7 @@
     {
       "record_id": "CMOC-LVR-AM1639",
       "native_ref": "corpus/inscriptions/CMOC-LVR-AM1639.json",
-      "native_sha256": "60b92eafc6c1fb085d555e965b689d641ea269536fb08620975b30efa83c9633",
+      "native_sha256": "e3397b38c714e7582f6c0ffc13abfa2b306089e8f762aad57e05ce633383f345",
       "object": {
         "object_type": "cylinder seal",
         "material": null,
@@ -2010,7 +2010,7 @@
           "provenance": [
             {
               "source_id": "donnelly2020",
-              "locator": "AM 1639 / CM102"
+              "locator": "printed pp. 104–105, Fig. 3 (whole-volume PDF pp. 106–107); assertion attribution checked, probable status retained"
             }
           ]
         }
@@ -2057,8 +2057,10 @@
           "pages": "91–107",
           "doi": "10.4000/cchyp.498",
           "url": "https://doi.org/10.4000/cchyp.498",
-          "verification_status": "BIBLIOGRAPHY_CHECKED_VIA_LOUVRE_ARTICLE_UNINSPECTED",
-          "rights_note": "Citation only; legacy CM102 assertion remains probable and not reverified."
+          "verification_status": "SELECTED_ARTICLE_PASSAGES_VISUALLY_INSPECTED",
+          "rights_note": "Publisher PDF states text CC BY-NC-SA 4.0; images/other components have separate terms. Only attributed identifier/locator facts and original audit observations are stored; no images or source prose redistributed.",
+          "verification_scope": "Printed pp. 104–105 / whole-volume PDF 106–107 and Fig. 3 confirm the existing AM 1639 attribution; no independent sign adjudication, new occurrence or numbered object join.",
+          "inspection_evidence": "research/donnelly-existing-assertion-check.json"
         },
         {
           "source_id": "louvre-am1639",
