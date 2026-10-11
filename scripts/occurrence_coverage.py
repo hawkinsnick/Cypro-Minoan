@@ -1,8 +1,10 @@
 """Source-stratified coverage; no label equivalences or population estimates."""
 import collections,json,pathlib
 R=pathlib.Path(__file__).resolve().parents[1]
-SOURCE_ROLES={'davis-maran-prillwitz-wirghova2023':'primary_publication','vetters2011':'primary_publication','bourogiannis2024':'dependent_secondary'}
+SOURCE_ROLES={'davis-maran-prillwitz-wirghova2023':'primary_publication','vetters2011':'primary_publication','bourogiannis2024':'dependent_secondary','valerio2016thesis':'dependent_secondary'}
 def coverage(records,occurrences):
+    from validate_source_expansion import validate_new_occurrences
+    validate_new_occurrences([o for o in occurrences if o['source_id']=='valerio2016thesis'])
     ids=set(records)
     if len(ids)!=len(records):raise ValueError('duplicate native record')
     seen=set();loci=set();grouped=collections.defaultdict(list)

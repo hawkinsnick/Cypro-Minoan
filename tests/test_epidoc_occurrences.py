@@ -19,3 +19,9 @@ assert "CM025" in xml and "CM087" in xml
 for forbidden in ("phonetic", "deciphered", "complete-transcription"):
     assert forbidden not in xml.lower()
 print("EpiDoc pilot invariants: PASS")
+
+import json
+ns={'t':'http://www.tei-c.org/ns/1.0'}
+for occurrence in json.loads((ROOT/'occurrences/occurrences.json').read_text())['occurrences']:
+    notes=[n.text for n in root.findall('.//t:note',ns) if n.get('type')=='source-editorial-note' and n.get('corresp')=='#'+occurrence['occurrence_id']]
+    assert notes==occurrence.get('notes',[]), 'editorial alternatives lost on export'

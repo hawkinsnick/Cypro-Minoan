@@ -21,7 +21,7 @@
     },
     {
       "layer": "source_verified_occurrence",
-      "numerator": 12,
+      "numerator": 16,
       "denominator": null,
       "status": "source_attributed_sparse_subset"
     },

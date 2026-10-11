@@ -10,7 +10,7 @@ For questions spanning multiple corpus projects, use the **Combined Corpus Resea
 
 ## EpiDoc interoperability pilot
 
-The current branch includes a **loss-aware occurrence-layer EpiDoc pilot** for the 12 source-checked occurrence assertions. It preserves partial coverage, source-qualified published sign labels, source roles, certainty, locators, zone boundaries, and explicit caution around potmarks. It is an interchange view, not a new scholarly authority and not a complete transcription.
+The current branch includes a **loss-aware occurrence-layer EpiDoc pilot** for the 16 source-checked occurrence assertions. It preserves partial coverage, source-qualified published sign labels, source roles, certainty, locators, zone boundaries, and explicit caution around potmarks. It is an interchange view, not a new scholarly authority and not a complete transcription.
 
 The external validation target is pinned to **EpiDoc 9.8** (upstream tag `v9.8`, release commit `5655fb778ecc93a4b6a7346995a55ea686a9e9b2`, aligned with TEI 4.10.2) in `interchange/epidoc/validation-profile.json`. The partial occurrence pilot passed the pinned upstream Relax NG and Schematron checks; `analysis/upstream-epidoc-validation.json` records 57 active patterns and zero findings. This bounded result does not establish full object-level conformance or expert correctness. Full object-level EpiDoc description is a separate expansion from this occurrence-layer pilot. See `docs/EPIDOC-PILOT.md` and `analysis/epidoc-interoperability-audit.json`.
 
@@ -37,7 +37,7 @@ The corpus records evidence; it does not encode a decipherment.
 
 5.0 links the mature 4.x reproducibility platform to an auditable evidence graph, immutable release-scoped dataset snapshots, question-specific readiness profiles, explicit witness-independence rules, representation-level rights controls, and positive/negative conformance tests.
 
-Current evidence remains deliberately bounded: 254 controlled catalogue slots; 254 source-attributed sigla; 21 rich records; 12 encoded source-attributed occurrences; 2 explicit witness assertions; 99 Unicode interoperability characters; no project-populated palaeographic variants. These are separate dimensions, not one completeness score.
+Current evidence remains deliberately bounded: 254 controlled catalogue slots; 254 source-attributed sigla; 21 rich records; 16 encoded source-attributed occurrences; 2 explicit witness assertions; 99 Unicode interoperability characters; no project-populated palaeographic variants. These are separate dimensions, not one completeness score.
 
 Catalogue-structure research is READY. Descriptions of the explicitly encoded occurrence subset are READY_SCOPED. Corpus-wide sign-frequency inference and cross-script phonetic inference remain BLOCKED.
 
@@ -46,7 +46,7 @@ Native CM evidence remains authoritative. Interchange, evidence graphs and share
 
 ### Evidence progress in 5.2.8
 
-Adds replayable source-stratified occurrence coverage: 12 encoded occurrences on 6 of 21 rich records, comprising 6 primary-publication and 6 dependent-secondary occurrences. Published labels remain separate. Whole-corpus frequencies and independent-witness claims remain blocked.
+Adds replayable source-stratified occurrence coverage: 16 encoded occurrences on 9 of 21 rich records, comprising 6 primary-publication and 10 dependent-secondary occurrences. Published labels remain separate. Whole-corpus frequencies and independent-witness claims remain blocked.
 
 The shared family report now targets the Disc [2.0.0-rc.2 prerelease](https://github.com/hawkinsnick/Phaistos-Disc/releases/tag/v2.0.0-rc.2). Final independently reviewed Disc 2.0 remains blocked; compatibility does not confer linguistic equivalence or independent review. Native evidence and this repository’s release version are unchanged.
 
@@ -71,3 +71,7 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 The 2026-10-11 catalogue reconciliation closes the 186 number-only mappings from a visually inspected, hash-pinned Valério 2016 concordance. See [the source controls](docs/CATALOGUE-CONCORDANCE.md). This adds factual identifiers, not sign occurrences or expert acceptance.
 
 The fifteen uncovered rich records now have record-specific source dispositions and blank review decisions in `research/uncovered-record-review-controls.json`. Eight have visually inspected dependent-edition locators; four Met candidates have 14 inspected, hash-pinned CC0 photographic views (`research/met-open-image-controls.json`). Two retain metadata-only acquisition routes and one official source currently returns HTTP403. Consult `docs/UNCOVERED-RECORD-REVIEW.md`; retain possible/alternative script classifications, source dependence and UNREVIEWED decisions. No sign readings or expert review have been added.
+
+## Source checkpoint — 2026-10-11
+
+See [source coverage and reconciliation](docs/SOURCE-COVERAGE-2026-10-11.md), [unresolved source comparisons](research/source-reconciliation.json) and [bounded coverage inventories](research/coverage-denominators.json). Source checking has expanded; complete primary reconciliation and independent expert acceptance remain open.

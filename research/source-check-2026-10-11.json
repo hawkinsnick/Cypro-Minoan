@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-11",
+  "independent_review_complete": false,
+  "physical_inscription_population": null,
+  "rights_boundary": "Limited attributed numerical and catalogue facts only; no source images, PDFs, prose, 3D datasets or general redistribution permission.",
+  "promotion_boundary": "Source-checked means checked against the named publication or page. It does not mean primary-edition agreement, autopsy, independent witness, or accepted sign identity.",
+  "source_role": "dependent_secondary",
+  "receipts": [
+    {
+      "id": "valerio-pdf",
+      "url": "https://diposit.ub.edu/server/api/core/bitstreams/1419cfea-e25f-44dd-9a8c-74e9836ae05e/content",
+      "resolved": "https://diposit.ub.edu/server/api/core/bitstreams/1419cfea-e25f-44dd-9a8c-74e9836ae05e/content",
+      "bytes": 16322562,
+      "sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+      "status": "ACCESSED"
+    }
+  ],
+  "visually_inspected_pdf_pages": [
+    463,
+    464
+  ],
+  "expected_occurrences": [
+    {
+      "occurrence_id": "CMOCC-0025-VALERIO2016-source-second-sequence-4",
+      "record_id": "CMOC-0025",
+      "zone_id": "source-second-sequence",
+      "position": 4,
+      "published_sign_label": "09",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 457 (PDF 463), ##025",
+      "certainty": "certain",
+      "notes": [
+        "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+        "Valério explicitly supports label 09 at this position; other signs are not encoded by this check."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0026-VALERIO2016-source-sequence-2",
+      "record_id": "CMOC-0026",
+      "zone_id": "source-sequence",
+      "position": 2,
+      "published_sign_label": "73",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 457 (PDF 463), ##026",
+      "certainty": "certain",
+      "notes": [
+        "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+        "Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0026-VALERIO2016-source-sequence-5",
+      "record_id": "CMOC-0026",
+      "zone_id": "source-sequence",
+      "position": 5,
+      "published_sign_label": "73",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 457 (PDF 463), ##026",
+      "certainty": "certain",
+      "notes": [
+        "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+        "Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3",
+      "record_id": "CMOC-0027",
+      "zone_id": "source-first-sequence",
+      "position": 3,
+      "published_sign_label": "13",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 457 (PDF 463), ##027; discussion continues printed p. 458 / PDF 464",
+      "certainty": "certain",
+      "notes": [
+        "Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.",
+        "Valério proposes 13 against reported Olivier label 08; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved."
+      ]
+    }
+  ],
+  "source_edition_dependency": "Valério 2016 reports and reassesses Olivier 2007; this check does not constitute direct inspection of Olivier."
+}

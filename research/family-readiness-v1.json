@@ -106,16 +106,16 @@
     {
       "repository": "Cypro-Minoan",
       "snapshot_commit": null,
-      "snapshot_version": "5.2.8",
+      "snapshot_version": "5.3.0",
       "native_evidence": [
         {
           "path": "occurrences/occurrences.json",
-          "sha256": "eab6eedab31dca8ea74ebe4dbfbdbc3ef314222d15a7343540e16f9808ac9c8e",
+          "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b",
           "url": null
         },
         {
           "path": "analysis/occurrence-coverage-v1.json",
-          "sha256": "7b247bb067606e98ec3a1130434ca7dff113530a3df7786a0739e524464e3181",
+          "sha256": "00539e7362042e52b8c6891b347bf12954efc628e853bd53631b04df2628f943",
           "url": null
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "path": "analysis/context-coverage-v1.json",
-          "sha256": "2e13f72753f37b5b4288e71cef87217ffc655c2ac59d9a9a7bcc5ee4cd991c94",
+          "sha256": "4c3b642638ec06b0799e63f61f407ef5a1cc5ba236922b8e220c048f07e2fe93",
           "url": null
         }
       ],
@@ -137,13 +137,13 @@
           "status": "measured"
         },
         "encoded_occurrences": {
-          "value": 12,
+          "value": 16,
           "unit": "encoded_source_occurrence_assertions",
           "definition": "Six primary-publication and six dependent-secondary occurrence assertions; no independent witness count.",
           "status": "measured"
         },
         "records_with_encoded_occurrences": {
-          "value": 6,
+          "value": 9,
           "unit": "rich_record_ids",
           "definition": "Partial or complete occurrence coverage on six of 21 rich records; not six complete sign sequences.",
           "status": "measured"

@@ -8,7 +8,7 @@ Source-reported metadata and partial readings remain distinct. Every dossier awa
 
 Native evidence: [corpus/inscriptions/CMOC-0025.json](../corpus/inscriptions/CMOC-0025.json)
 
-Encoded occurrences: 0; a complete transcription is not inferred.
+Encoded occurrences: 1; a complete transcription is not inferred.
 
 | Field | Value | Status | Evidence |
 |---|---|---|---|
@@ -19,15 +19,16 @@ Encoded occurrences: 0; a complete transcription is not inferred.
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-25"} | source_reported | corpus/inscriptions/CMOC-0025.json |
 | museum_date_range | {"label": "Late Cypriot", "start_bce": 1600, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-25', 'locator': 'museum record, Date'}] |
 
-Missing evidence: ENCODED_OCCURRENCES_ABSENT, INDEPENDENT_REVIEW_PENDING.
+Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - [louvre-cm-25](https://collections.louvre.fr/ark:/53355/cl010131597): Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 25)
+- [valerio2016thesis](https://hdl.handle.net/2445/99521): Investigating the Signs and Sounds of Cypro-Minoan
 
 ## CMOC-0026
 
 Native evidence: [corpus/inscriptions/CMOC-0026.json](../corpus/inscriptions/CMOC-0026.json)
 
-Encoded occurrences: 0; a complete transcription is not inferred.
+Encoded occurrences: 2; a complete transcription is not inferred.
 
 | Field | Value | Status | Evidence |
 |---|---|---|---|
@@ -38,15 +39,16 @@ Encoded occurrences: 0; a complete transcription is not inferred.
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-26"} | source_reported | corpus/inscriptions/CMOC-0026.json |
 | museum_date_range | {"label": "Late Cypriot", "start_bce": 1600, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-26', 'locator': 'museum record, Date'}] |
 
-Missing evidence: ENCODED_OCCURRENCES_ABSENT, INDEPENDENT_REVIEW_PENDING.
+Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - [louvre-cm-26](https://collections.louvre.fr/ark:/53355/cl010131598): Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 26)
+- [valerio2016thesis](https://hdl.handle.net/2445/99521): Investigating the Signs and Sounds of Cypro-Minoan
 
 ## CMOC-0027
 
 Native evidence: [corpus/inscriptions/CMOC-0027.json](../corpus/inscriptions/CMOC-0027.json)
 
-Encoded occurrences: 0; a complete transcription is not inferred.
+Encoded occurrences: 1; a complete transcription is not inferred.
 
 | Field | Value | Status | Evidence |
 |---|---|---|---|
@@ -57,9 +59,10 @@ Encoded occurrences: 0; a complete transcription is not inferred.
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-27"} | source_reported | corpus/inscriptions/CMOC-0027.json |
 | museum_date_range | {"label": "Late Cypriot", "start_bce": 1600, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-27', 'locator': 'museum record, Date'}] |
 
-Missing evidence: ENCODED_OCCURRENCES_ABSENT, INDEPENDENT_REVIEW_PENDING.
+Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - [louvre-cm-27](https://collections.louvre.fr/ark:/53355/cl010131602): Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 27)
+- [valerio2016thesis](https://hdl.handle.net/2445/99521): Investigating the Signs and Sounds of Cypro-Minoan
 
 ## CMOC-0028
 

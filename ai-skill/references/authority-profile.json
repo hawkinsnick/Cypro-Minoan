@@ -129,6 +129,21 @@
       "role": "met_api_243938",
       "path": "research/source-metadata/met-243938.json",
       "required": true
+    },
+    {
+      "role": "source_expansion",
+      "path": "research/source-check-2026-10-11.json",
+      "required": true
+    },
+    {
+      "role": "source_reconciliation",
+      "path": "research/source-reconciliation.json",
+      "required": true
+    },
+    {
+      "role": "coverage_denominators",
+      "path": "research/coverage-denominators.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -137,6 +152,7 @@
     "Primary and dependent-secondary occurrences must not be counted as independent witnesses",
     "Interchange mappings do not redefine native Cypro-Minoan evidence",
     "Frequency remains blocked until verified occurrence coverage and its denominator are explicitly sufficient for the stated population.",
-    "PRE_EXPERT_MAXIMUM means currently reachable lawful source routes are dispositioned; it does not mean world-corpus completeness or expert validation."
+    "PRE_EXPERT_MAXIMUM means currently reachable lawful source routes are dispositioned; it does not mean world-corpus completeness or expert validation.",
+    "Read the source expansion, unresolved reconciliation and bounded denominator registers before coverage claims. Partial occurrences do not imply full transcription. Unknown physical populations stay unknown."
   ]
 }

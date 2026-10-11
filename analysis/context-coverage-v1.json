@@ -7,8 +7,8 @@
   "controlled_catalogue_slots": 254,
   "dossier_count": 21,
   "rich_records": 21,
-  "records_with_occurrences": 6,
-  "encoded_occurrences": 12,
+  "records_with_occurrences": 9,
+  "encoded_occurrences": 16,
   "records_with_dating": 14,
   "catalogue_slot_accounting": [
     {
@@ -2293,7 +2293,7 @@
     },
     {
       "path": "occurrences/occurrences.json",
-      "sha256": "eab6eedab31dca8ea74ebe4dbfbdbc3ef314222d15a7343540e16f9808ac9c8e"
+      "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b"
     }
   ],
   "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."

@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "d2a6789653b10cadc3457739818fcc9b46ee6c2f",
-  "generated_at_utc": "2026-10-11T17:23:27+00:00",
+  "source_commit": "353da7ad731b82eae4577b545e3d641b986912ae",
+  "generated_at_utc": "2026-10-11T21:16:28+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -13,6 +13,24 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "source_expansion",
+      "path": "research/source-check-2026-10-11.json",
+      "sha256": "d40fe83a74b009ab772c86c9f854a6460bab09d3fb0a33395981d94d1bee615d",
+      "bytes": 4025
+    },
+    {
+      "role": "source_reconciliation",
+      "path": "research/source-reconciliation.json",
+      "sha256": "8150ba4afc5428632b6bd7d8cf2167490d128ed5a59de394a8e0653f8c15a161",
+      "bytes": 2876
+    },
+    {
+      "role": "coverage_denominators",
+      "path": "research/coverage-denominators.json",
+      "sha256": "a69e224e3670b6d7c24eaf11366f268dec5d356fd2aba689f889804b80d30f0c",
+      "bytes": 19351
+    },
     {
       "role": "met_api_331665",
       "path": "research/source-metadata/met-331665.json",
@@ -40,8 +58,8 @@
     {
       "role": "uncovered_record_controls",
       "path": "research/uncovered-record-review-controls.json",
-      "sha256": "2ba2074c3782a0fb1f212a3fd2ecc9b4ee01514a9b0f766a1043008bc2b06fd3",
-      "bytes": 20369
+      "sha256": "fcc80d939562f699b7a0928559bcb6787d7eb4f8f20a5f122d0a262d9cc28817",
+      "bytes": 21586
     },
     {
       "role": "met_open_image_controls",
@@ -70,7 +88,7 @@
     {
       "role": "catalogue_mapping_audit",
       "path": "analysis/catalogue-mapping-audit.json",
-      "sha256": "4711fd4f30f6d0ee878ffef19f0036fba75a9de3cb9713342793150707ba77ea",
+      "sha256": "69c0e65bd594ca04b587f4fbd15d67bca85d274580023300c486719c5fd8a372",
       "bytes": 883
     },
     {
@@ -82,7 +100,7 @@
     {
       "role": "upstream_epidoc_validation",
       "path": "analysis/upstream-epidoc-validation.json",
-      "sha256": "60fd42d21d23ce9600a3e1c6b05285de457e75325a8ea47a115772f6cd390ca4",
+      "sha256": "ece3eec9998145738bbbc26982f0d5b3fe82eea94904020ad09adc80b8e2e159",
       "bytes": 541
     },
     {
@@ -106,19 +124,19 @@
     {
       "role": "readable_dossiers",
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "4f3e043f580d67c482a039a4d3e5725001ac1c17e6d9f02df1f0bfb73299e216",
-      "bytes": 24097
+      "sha256": "42e83faeeceaa2fff4ed49c15e0eea51c392f88f1e3f492b5a810718b0e861db",
+      "bytes": 24340
     },
     {
       "role": "record_dossiers",
       "path": "research/record-dossiers.json",
-      "sha256": "4d160b76248e990819d8e9599175ff1a7c410e481ecced8f8556c2c6b3d3cada",
-      "bytes": 95057
+      "sha256": "ff6300eb7552c8c4aba3be93a33d2cb92f952f4672cbafec63848c889f76cebf",
+      "bytes": 99369
     },
     {
       "role": "context_coverage",
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "2e13f72753f37b5b4288e71cef87217ffc655c2ac59d9a9a7bcc5ee4cd991c94",
+      "sha256": "4c3b642638ec06b0799e63f61f407ef5a1cc5ba236922b8e220c048f07e2fe93",
       "bytes": 74030
     },
     {
@@ -136,8 +154,8 @@
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "95af22e31fba8bb691e6916fe6843c66ebe518d66f6a7b69ea3a2623220b6a8b",
-      "bytes": 9195
+      "sha256": "b3235fa5755ee14e868cf9a86a8b163f1d4cdeddf3c2b5c9fe345c732ad2745c",
+      "bytes": 9636
     },
     {
       "role": "source_inspection",
@@ -154,8 +172,8 @@
     {
       "role": "occurrence_coverage",
       "path": "analysis/occurrence-coverage-v1.json",
-      "sha256": "7b247bb067606e98ec3a1130434ca7dff113530a3df7786a0739e524464e3181",
-      "bytes": 1945
+      "sha256": "00539e7362042e52b8c6891b347bf12954efc628e853bd53631b04df2628f943",
+      "bytes": 2191
     },
     {
       "role": "coverage_delta",
@@ -166,8 +184,8 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "a9b75993c8d4745b9e7215a46d8216024d3d4998d03ab7b7f1bcebbdb346fa27",
-      "bytes": 3903
+      "sha256": "db99d11e197498a9e9c1a8655ce370e0f4b4d17a3b570b5c19f312301a61ae92",
+      "bytes": 4053
     },
     {
       "role": "pre_expert_source_exhaustion",
@@ -178,8 +196,8 @@
     {
       "role": "occurrences",
       "path": "occurrences/occurrences.json",
-      "sha256": "eab6eedab31dca8ea74ebe4dbfbdbc3ef314222d15a7343540e16f9808ac9c8e",
-      "bytes": 5976
+      "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b",
+      "bytes": 8806
     },
     {
       "role": "notice",
