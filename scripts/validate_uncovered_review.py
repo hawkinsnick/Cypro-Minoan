@@ -35,7 +35,9 @@ def validate(root=ROOT,image_dir=None):
   elif r['status']=='DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING':
    if r['source_pdf_sha256']!=load(root,'catalogues/source-located-concordance.json')['source']['pdf_sha256'] or r['reported_primary_edition_locator']['status']!='REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION':raise ValueError('edition provenance drift')
  counts={s:sum(r['status']==s for r in rows) for s in set(r['status'] for r in rows)}
- if sorted(counts.values())!=[1,2,4,8] or len(images['images'])!=14:raise ValueError('disposition coverage drift')
+ expected_counts={'DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING':8,'CC0_IMAGE_EVIDENCE_LOCATED_EXPERT_IDENTIFICATION_PENDING':4,'MUSEUM_METADATA_LOCATED_PRIMARY_SIGN_EVIDENCE_PENDING':2,'SOURCE_ACCESS_BLOCKED':1}
+ if counts!=expected_counts or len(images['images'])!=14:raise ValueError('disposition coverage drift')
+ if packet['summary']!={'uncovered_rich_records':15,'dependent_edition_located':8,'cc0_visual_evidence_located':4,'museum_metadata_only':2,'access_blocked':1,'expert_reviews_completed':0,'canonical_readings_added':0}:raise ValueError('summary falsely promotes review or coverage')
  return {'status':'PASS_SOURCE_QUALIFIED_BLANK_REVIEW_PACKET','records':15,'images':14,'expert_review_complete':False,'readings_added':0,'image_bytes_rehashed':bool(image_dir)}
 if __name__=='__main__':
  p=argparse.ArgumentParser();p.add_argument('--image-dir');a=p.parse_args();print(json.dumps(validate(image_dir=a.image_dir)))

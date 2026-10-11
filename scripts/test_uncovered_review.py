@@ -16,5 +16,7 @@ with tempfile.TemporaryDirectory() as td:
  reject('research/met-open-image-controls.json',lambda x:x['images'][0].update(image_is_independent_witness=True))
  reject('research/met-open-image-controls.json',lambda x:x['objects'][0].update(is_public_domain=False))
  reject('research/met-open-image-controls.json',lambda x:x['images'][0].update(url='https://example.org/invented.jpg'))
+ reject('research/uncovered-record-review-controls.json',lambda x:x['summary'].update(expert_reviews_completed=1))
+ reject('research/uncovered-record-review-controls.json',lambda x:x['items'][0].update(status='EXPERT_VALIDATED'))
  validate(root)
-print('PASS: five adversarial source/rights/review controls')
+print('PASS: seven adversarial source/rights/review controls')

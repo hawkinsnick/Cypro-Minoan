@@ -46,15 +46,15 @@
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "03db018de5d8f72ac3275b78964fde18f27505adc8a635a01e7ab61e096ac5e5"
+      "sha256": "36a53842af60a0f8b4e0a46d33d475860f534a7f7063b2f89ad45526bc6ed351"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "39b168365d9b32ddcda369da82cca6cb981ca8b0448a0cda2efcd5e1ad8002be"
+      "sha256": "aac2f0b04f9b2af47a8bbb9f51cef513df4b506b199df592a8cdcf4983f2f5d4"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "bed907f07aaa93201c5d92fa3046e646b2ffe0d092a51ec03d0c4edc49f0f9de"
+      "sha256": "ee6fdd679855eb34b514d5292ca6a1d5850f56fc6da6873d3740b4f98c913b43"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -182,11 +182,11 @@
     },
     {
       "path": "scripts/validate_uncovered_review.py",
-      "sha256": "c90a514b0d63d8a536d568d570f69bd0cb9238493549cf0f96781b2f3ef93164"
+      "sha256": "b66e7806816725d50b2025f111eb141cb97857473a339ed39d58ba4bce92adad"
     },
     {
       "path": "scripts/test_uncovered_review.py",
-      "sha256": "7a50486ddc04b47e7778be51ad533896bb94e9167a471670f76ac2ee186c255d"
+      "sha256": "e35476a84381c4ab365f240466902aaba545bf48f1e2b9e03aba93541d3e37dd"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
