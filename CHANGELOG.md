@@ -67,3 +67,7 @@ Adds source-reference closure checks, full dossier/coverage replay and hostile t
 ## Unreleased — 2026-10-11 source checkpoint
 
 Four partial Valério 2016 assertions were checked on printed pp. 457–458 (PDF 463–464) and encoded on CMOC-0025, 0026 and 0027. The total is 16 occurrences on nine of 21 rich records: six primary-publication and ten dependent-secondary assertions. Twelve rich records still lack encoded occurrences. Three positional reassessments retain reported Olivier labels 75/75/08 beside Valério proposals 73/73/13, without treating the uninspected Olivier edition as verified. The EpiDoc exporter now preserves editorial notes, preventing loss of alternatives. The original 15-record expert packet remains a dated cohort, with the three newly partial records accounted separately. Exactly 14 rich records have explicit catalogue joins, 240 of 254 slots lack a rich join, and seven rich records have unresolved catalogue joins. None of these numbers is a physical-inscription population.
+
+## Existing-evidence reconciliation — 2026-10-11
+
+Reading coverage is unchanged. [Existing-evidence reconciliation](docs/EXISTING-EVIDENCE-RECONCILIATION.md) now accounts for every existing assertion and identity, preserving source apparatus and unresolved scholarly decisions.

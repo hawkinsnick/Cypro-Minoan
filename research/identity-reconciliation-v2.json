@@ -1,0 +1,920 @@
+{
+  "schema_version": "2.0",
+  "checked": "2026-10-11",
+  "unit": "rich_record",
+  "rows": [
+    {
+      "record_id": "CMOC-0025",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AM 2225",
+          "source_id": "louvre-cm-25",
+          "locator": "corpus/inscriptions/CMOC-0025.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "excavation inventory",
+          "literal": "Enk. 49 5115",
+          "source_id": "louvre-cm-25",
+          "locator": "corpus/inscriptions/CMOC-0025.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Ferrara 2013 catalogue",
+          "literal": "25",
+          "source_id": "louvre-cm-25",
+          "locator": "corpus/inscriptions/CMOC-0025.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier 2007 catalogue",
+          "literal": "25",
+          "source_id": "louvre-cm-25",
+          "locator": "corpus/inscriptions/CMOC-0025.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        25
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-0026",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AM 2226",
+          "source_id": "louvre-cm-26",
+          "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "excavation inventory",
+          "literal": "Enk. 49 4072",
+          "source_id": "louvre-cm-26",
+          "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Ferrara 2013 catalogue",
+          "literal": "26",
+          "source_id": "louvre-cm-26",
+          "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier 2007 catalogue",
+          "literal": "26",
+          "source_id": "louvre-cm-26",
+          "locator": "corpus/inscriptions/CMOC-0026.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        26
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-0027",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AM 2230",
+          "source_id": "louvre-cm-27",
+          "locator": "corpus/inscriptions/CMOC-0027.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "excavation inventory",
+          "literal": "Enk. 5523",
+          "source_id": "louvre-cm-27",
+          "locator": "corpus/inscriptions/CMOC-0027.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Ferrara 2013 catalogue",
+          "literal": "27",
+          "source_id": "louvre-cm-27",
+          "locator": "corpus/inscriptions/CMOC-0027.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier 2007 catalogue",
+          "literal": "27",
+          "source_id": "louvre-cm-27",
+          "locator": "corpus/inscriptions/CMOC-0027.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        27
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-0028",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AM 2231",
+          "source_id": "louvre-cm-28",
+          "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "excavation inventory",
+          "literal": "Enk. 49 4034",
+          "source_id": "louvre-cm-28",
+          "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Ferrara 2013 catalogue",
+          "literal": "28",
+          "source_id": "louvre-cm-28",
+          "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier 2007 catalogue",
+          "literal": "28",
+          "source_id": "louvre-cm-28",
+          "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        28
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-0029",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AM 2229",
+          "source_id": "louvre-cm-29",
+          "locator": "corpus/inscriptions/CMOC-0029.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "excavation inventory",
+          "literal": "Enk. 49 4091",
+          "source_id": "louvre-cm-29",
+          "locator": "corpus/inscriptions/CMOC-0029.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Ferrara 2013 catalogue",
+          "literal": "29",
+          "source_id": "louvre-cm-29",
+          "locator": "corpus/inscriptions/CMOC-0029.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier 2007 catalogue",
+          "literal": "29",
+          "source_id": "louvre-cm-29",
+          "locator": "corpus/inscriptions/CMOC-0029.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        29
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-0030",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AM 2232",
+          "source_id": "louvre-cm-30",
+          "locator": "corpus/inscriptions/CMOC-0030.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "excavation inventory",
+          "literal": "Enk 1953-6",
+          "source_id": "louvre-cm-30",
+          "locator": "corpus/inscriptions/CMOC-0030.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Ferrara 2013 catalogue",
+          "literal": "30",
+          "source_id": "louvre-cm-30",
+          "locator": "corpus/inscriptions/CMOC-0030.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier 2007 catalogue",
+          "literal": "30",
+          "source_id": "louvre-cm-30",
+          "locator": "corpus/inscriptions/CMOC-0030.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        30
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-0031",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AM 2233",
+          "source_id": "louvre-cm-31",
+          "locator": "corpus/inscriptions/CMOC-0031.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "excavation inventory",
+          "literal": "Enk 1955-96",
+          "source_id": "louvre-cm-31",
+          "locator": "corpus/inscriptions/CMOC-0031.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Ferrara 2013 catalogue",
+          "literal": "31",
+          "source_id": "louvre-cm-31",
+          "locator": "corpus/inscriptions/CMOC-0031.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier 2007 catalogue",
+          "literal": "31",
+          "source_id": "louvre-cm-31",
+          "locator": "corpus/inscriptions/CMOC-0031.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        31
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-0032",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AM 2235",
+          "source_id": "louvre-cm-32",
+          "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "excavation inventory",
+          "literal": "Enk 1955-54",
+          "source_id": "louvre-cm-32",
+          "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Ferrara 2013 catalogue",
+          "literal": "32",
+          "source_id": "louvre-cm-32",
+          "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier 2007 catalogue",
+          "literal": "32",
+          "source_id": "louvre-cm-32",
+          "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        32
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-0033",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AM 2234",
+          "source_id": "louvre-cm-33",
+          "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "excavation inventory",
+          "literal": "Enk 1955-63",
+          "source_id": "louvre-cm-33",
+          "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Ferrara 2013 catalogue",
+          "literal": "33",
+          "source_id": "louvre-cm-33",
+          "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier 2007 catalogue",
+          "literal": "33",
+          "source_id": "louvre-cm-33",
+          "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        33
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-0209",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AM 2336",
+          "source_id": "louvre-cm-209",
+          "locator": "corpus/inscriptions/CMOC-0209.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "excavation inventory",
+          "literal": "Enk. 53 5",
+          "source_id": "louvre-cm-209",
+          "locator": "corpus/inscriptions/CMOC-0209.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Ferrara 2013 catalogue",
+          "literal": "209",
+          "source_id": "louvre-cm-209",
+          "locator": "corpus/inscriptions/CMOC-0209.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier 2007 catalogue",
+          "literal": "209",
+          "source_id": "louvre-cm-209",
+          "locator": "corpus/inscriptions/CMOC-0209.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        209
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-0216",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AO 14747",
+          "source_id": "louvre-ao14747",
+          "locator": "corpus/inscriptions/CMOC-0216.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "excavation inventory",
+          "literal": "RS 3.389",
+          "source_id": "louvre-ao14747",
+          "locator": "corpus/inscriptions/CMOC-0216.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Ferrara 2013 catalogue",
+          "literal": "216",
+          "source_id": "louvre-ao14747",
+          "locator": "corpus/inscriptions/CMOC-0216.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier 2007 catalogue",
+          "literal": "216",
+          "source_id": "louvre-ao14747",
+          "locator": "corpus/inscriptions/CMOC-0216.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        216
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-BM-1898.1201.204",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "British Museum registration",
+          "literal": "1898,1201.204",
+          "source_id": "bm-1898.1201.204",
+          "locator": "corpus/inscriptions/CMOC-BM-1898.1201.204.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [],
+      "identity_status": "CATALOGUE_JOIN_UNRESOLVED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-LVR-AM1639",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AM 1639",
+          "source_id": "louvre-am1639",
+          "locator": "corpus/inscriptions/CMOC-LVR-AM1639.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [],
+      "identity_status": "CATALOGUE_JOIN_UNRESOLVED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-LVR-AM2716",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Louvre inventory",
+          "literal": "AM 2716",
+          "source_id": "louvre-am2716",
+          "locator": "corpus/inscriptions/CMOC-LVR-AM2716.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [],
+      "identity_status": "CATALOGUE_JOIN_UNRESOLVED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-MET-2008.27",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Met object number",
+          "literal": "2008.27",
+          "source_id": "met-2008.27",
+          "locator": "corpus/inscriptions/CMOC-MET-2008.27.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [],
+      "identity_status": "CATALOGUE_JOIN_UNRESOLVED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-MET-74.51.1312",
+      "unit": "rich_record",
+      "membership": "candidate",
+      "identifier_assertions": [
+        {
+          "namespace": "Met object number",
+          "literal": "74.51.1312",
+          "source_id": "met-74.51.1312",
+          "locator": "corpus/inscriptions/CMOC-MET-74.51.1312.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [],
+      "identity_status": "CATALOGUE_JOIN_UNRESOLVED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-MET-74.51.4316",
+      "unit": "rich_record",
+      "membership": "candidate",
+      "identifier_assertions": [
+        {
+          "namespace": "Met object number",
+          "literal": "74.51.4316",
+          "source_id": "met-74.51.4316",
+          "locator": "corpus/inscriptions/CMOC-MET-74.51.4316.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [],
+      "identity_status": "CATALOGUE_JOIN_UNRESOLVED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-MET-74.51.5057A",
+      "unit": "rich_record",
+      "membership": "candidate",
+      "identifier_assertions": [
+        {
+          "namespace": "Met object number",
+          "literal": "74.51.5057a",
+          "source_id": "met-74.51.5057a",
+          "locator": "corpus/inscriptions/CMOC-MET-74.51.5057A.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [],
+      "identity_status": "CATALOGUE_JOIN_UNRESOLVED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-TIRY-ADD244",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Ferrara/addendum catalogue",
+          "literal": "244",
+          "source_id": "vetters2011",
+          "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier-style siglum",
+          "literal": "TIRY Abou 001",
+          "source_id": "vetters2011",
+          "locator": "corpus/inscriptions/CMOC-TIRY-ADD244.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        244
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-TIRY-ADD245",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Ferrara/addendum catalogue",
+          "literal": "245",
+          "source_id": "davis-maran-prillwitz-wirghova2023",
+          "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier-style siglum",
+          "literal": "TIRY Avas 001",
+          "source_id": "davis-maran-prillwitz-wirghova2023",
+          "locator": "corpus/inscriptions/CMOC-TIRY-ADD245.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        245
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CMOC-TIRY-ADD246",
+      "unit": "rich_record",
+      "membership": "core",
+      "identifier_assertions": [
+        {
+          "namespace": "Ferrara/addendum catalogue",
+          "literal": "246",
+          "source_id": "davis-maran-wirghova2014",
+          "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        },
+        {
+          "namespace": "Olivier-style siglum",
+          "literal": "TIRY Avas 002",
+          "source_id": "davis-maran-wirghova2014",
+          "locator": "corpus/inscriptions/CMOC-TIRY-ADD246.json#identifiers",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "catalogue_slots": [
+        246
+      ],
+      "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+      "physical_identity_adjudicated": false
+    }
+  ],
+  "source_concordance": [
+    {
+      "record_id": "CMOC-0025",
+      "catalogue_slot": 25,
+      "catalogue_siglum": "ENKO Abou 022",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "25",
+          "source_id": "louvre-cm-25"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "25",
+          "source_id": "louvre-cm-25"
+        }
+      ],
+      "additional_literal_sigla": [],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-0026",
+      "catalogue_slot": 26,
+      "catalogue_siglum": "ENKO Abou 023",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "26",
+          "source_id": "louvre-cm-26"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "26",
+          "source_id": "louvre-cm-26"
+        }
+      ],
+      "additional_literal_sigla": [],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-0027",
+      "catalogue_slot": 27,
+      "catalogue_siglum": "ENKO Abou 024",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "27",
+          "source_id": "louvre-cm-27"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "27",
+          "source_id": "louvre-cm-27"
+        }
+      ],
+      "additional_literal_sigla": [],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-0028",
+      "catalogue_slot": 28,
+      "catalogue_siglum": "ENKO Abou 025",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "28",
+          "source_id": "louvre-cm-28"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "28",
+          "source_id": "louvre-cm-28"
+        }
+      ],
+      "additional_literal_sigla": [],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-0029",
+      "catalogue_slot": 29,
+      "catalogue_siglum": "ENKO Abou 026",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "29",
+          "source_id": "louvre-cm-29"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "29",
+          "source_id": "louvre-cm-29"
+        }
+      ],
+      "additional_literal_sigla": [],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-0030",
+      "catalogue_slot": 30,
+      "catalogue_siglum": "ENKO Abou 027",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "30",
+          "source_id": "louvre-cm-30"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "30",
+          "source_id": "louvre-cm-30"
+        }
+      ],
+      "additional_literal_sigla": [],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-0031",
+      "catalogue_slot": 31,
+      "catalogue_siglum": "ENKO Abou 028",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "31",
+          "source_id": "louvre-cm-31"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "31",
+          "source_id": "louvre-cm-31"
+        }
+      ],
+      "additional_literal_sigla": [],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-0032",
+      "catalogue_slot": 32,
+      "catalogue_siglum": "ENKO Abou 029",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "32",
+          "source_id": "louvre-cm-32"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "32",
+          "source_id": "louvre-cm-32"
+        }
+      ],
+      "additional_literal_sigla": [],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-0033",
+      "catalogue_slot": 33,
+      "catalogue_siglum": "ENKO Abou 030",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "33",
+          "source_id": "louvre-cm-33"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "33",
+          "source_id": "louvre-cm-33"
+        }
+      ],
+      "additional_literal_sigla": [],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-0209",
+      "catalogue_slot": 209,
+      "catalogue_siglum": "ENKO Atab 004",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "209",
+          "source_id": "louvre-cm-209"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "209",
+          "source_id": "louvre-cm-209"
+        }
+      ],
+      "additional_literal_sigla": [],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-0216",
+      "catalogue_slot": 216,
+      "catalogue_siglum": "RASH Mvas 001",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "216",
+          "source_id": "louvre-ao14747"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "216",
+          "source_id": "louvre-ao14747"
+        }
+      ],
+      "additional_literal_sigla": [],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-TIRY-ADD244",
+      "catalogue_slot": 244,
+      "catalogue_siglum": "TIRY Abou 001",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara/addendum catalogue",
+          "value": "244",
+          "source_id": "vetters2011"
+        }
+      ],
+      "additional_literal_sigla": [
+        {
+          "system": "Olivier-style siglum",
+          "value": "TIRY Abou 001",
+          "source_id": "vetters2011"
+        }
+      ],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-TIRY-ADD245",
+      "catalogue_slot": 245,
+      "catalogue_siglum": "TIRY Avas 001",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara/addendum catalogue",
+          "value": "245",
+          "source_id": "davis-maran-prillwitz-wirghova2023"
+        }
+      ],
+      "additional_literal_sigla": [
+        {
+          "system": "Olivier-style siglum",
+          "value": "TIRY Avas 001",
+          "source_id": "davis-maran-prillwitz-wirghova2023"
+        }
+      ],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CMOC-TIRY-ADD246",
+      "catalogue_slot": 246,
+      "catalogue_siglum": "TIRY Avas 002",
+      "native_identifier_assertions": [
+        {
+          "system": "Ferrara/addendum catalogue",
+          "value": "246",
+          "source_id": "davis-maran-wirghova2014"
+        }
+      ],
+      "additional_literal_sigla": [
+        {
+          "system": "Olivier-style siglum",
+          "value": "TIRY Avas 002",
+          "source_id": "davis-maran-wirghova2014"
+        }
+      ],
+      "status": "SOURCE_ATTRIBUTED_NOT_PHYSICAL_CERTIFICATION"
+    }
+  ],
+  "literal_alias_collisions": [],
+  "collision_absence_is_not_physical_uniqueness": true,
+  "physical_duplicates_adjudicated": null,
+  "normalization_policy": "Literal namespace and repository are part of every alias key; Latin K and Greek Κ, prefixes, punctuation, case, asterisks and uncertain site labels are not silently flattened.",
+  "completion": "EVERY_EXISTING_VIEW_ROW_HAS_A_DISPOSITION; unresolved source/physical decisions remain explicit."
+}

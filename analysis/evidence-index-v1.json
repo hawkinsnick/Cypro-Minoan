@@ -43,8 +43,8 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "fd646f1c1a4eca58febfcc8363e076eebc1acfb6a9d54c6200c350ad0e1d4d30",
-      "bytes": 8610,
+      "sha256": "23182f6c88dc5c6803c3853c891e6b09940a21749052fd6741659948982e718b",
+      "bytes": 8689,
       "category": "scripts",
       "summary": {}
     },
@@ -140,8 +140,8 @@
     },
     {
       "path": "scripts/research_dossiers.py",
-      "sha256": "393822929c446b9b33bb69bcba5ce8ca98b01d078ad94dc03448686727833682",
-      "bytes": 9977,
+      "sha256": "24843b68da5de90140e9a5ffecc2757da6f61ec36b246448041218328a81490d",
+      "bytes": 10038,
       "category": "scripts",
       "summary": {}
     },
@@ -293,6 +293,41 @@
       "summary": {
         "boundary": "Edition/date-bounded project views. Catalogue rows, rich records and reading versions are different units; views overlap and must not be summed."
       }
+    },
+    {
+      "path": "research/reference-reconciliation-v2.json",
+      "sha256": "1a06747508980f1013c7091821fa34432bd3f0b568e8e75446c03b2e2655f148",
+      "bytes": 13807,
+      "category": "research",
+      "summary": {}
+    },
+    {
+      "path": "research/identity-reconciliation-v2.json",
+      "sha256": "04bd47c9aaccd3fb382fb5c09daf1f69c1e79e27fbdb2c28387faf1715fe7380",
+      "bytes": 29455,
+      "category": "research",
+      "summary": {}
+    },
+    {
+      "path": "scripts/validate_reconciliation.py",
+      "sha256": "b346096222f937d8619f8bfed98f6b514edc9950da25d7cdc4ec0ace4706bc89",
+      "bytes": 4759,
+      "category": "scripts",
+      "summary": {}
+    },
+    {
+      "path": "scripts/test_reconciliation.py",
+      "sha256": "4a2ab92fa13e043691e65cee5aa6d6c86b754d29424d4f11437822dd28e4c4df",
+      "bytes": 1959,
+      "category": "scripts",
+      "summary": {}
+    },
+    {
+      "path": "docs/EXISTING-EVIDENCE-RECONCILIATION.md",
+      "sha256": "ca25def551024947bf25dc6151742d7d4ca52f0b8939899a906bc06d73678351",
+      "bytes": 2184,
+      "category": "docs",
+      "summary": {}
     }
   ],
   "scientific_results": {

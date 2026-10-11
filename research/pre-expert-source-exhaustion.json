@@ -5,11 +5,11 @@
   "dispositions": [
     {
       "id": "CM-PRE-001",
-      "scope": "15 rich records without encoded occurrences; three newly covered Enkomi records still have only partial secondary coverage",
+      "scope": "12 currently uncovered rich records; original 15-record review cohort includes three subsequently partial records",
       "status": "RECORD_LEVEL_SOURCE_DISPOSITIONS_REGISTERED",
-      "evidence": "research/uncovered-record-review-controls.json: eight dependent edition locators visually inspected; fourteen CC0 images on four Met candidates inspected; two museum-metadata-only objects; one current HTTP403 source block. No readings or completed expert review added.",
+      "evidence": "The 15-record dated review cohort remains intact; current occurrence coverage and the reconciliation-only checkpoint track 12 currently uncovered records separately. No additional source occurrences or expert reviews added by this checkpoint.",
       "next_route": "Object-specific source routes and blank expert decisions in the 15-record review controls.",
-      "blocked_by": "expert_collation_for_12_located_records_and_primary_evidence_access_for_3"
+      "blocked_by": "record-specific primary source access and independent adjudication; neither is implied by namespace replay"
     },
     {
       "id": "CM-PRE-002",
@@ -44,8 +44,10 @@
     "cross_script_phonetic_test": "BLOCKED",
     "independent_witness_claims": "BLOCKED"
   },
-  "completion_assessment": "CONTEXT_DOSSIERS_COMPLETE_SOURCE_ACQUISITION_REMAINS_OPEN",
+  "completion_assessment": "EXISTING_INVENTORY_ACCOUNTED_SOURCE_DISAGREEMENTS_AND_EXPERT_ACCEPTANCE_OPEN",
   "qualification": "Discovery remains open-world. New authoritative lawful evidence reopens acquisition without weakening current claim gates.",
   "latest_source_inspection": "research/source-inspection-2026-10-02.json",
-  "context_milestone": "docs/CONTEXT-AND-DOSSIERS.md"
+  "context_milestone": "docs/CONTEXT-AND-DOSSIERS.md",
+  "current_reconciliation_checkpoint": "research/reference-reconciliation-v2.json",
+  "identity_reconciliation_checkpoint": "research/identity-reconciliation-v2.json"
 }

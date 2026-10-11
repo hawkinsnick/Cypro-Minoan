@@ -47,7 +47,7 @@ def calculate(root=R):
             if record['id']!=rid:raise ValueError('native identity mismatch')
             os=[o for o in occ if o['record_id']==rid]
             for ident in record['identifiers']:
-                if 'catalogue' in ident['system'].lower():
+                if ident['system'] in {'Olivier 2007 catalogue','Ferrara 2013 catalogue','Ferrara/addendum catalogue'}:
                     try:n=int(ident['value'])
                     except (TypeError,ValueError):continue
                     links[n].append({'record_id':rid,'authority':ident['system'],'source_id':ident['source_id']})
