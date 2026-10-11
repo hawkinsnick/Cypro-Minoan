@@ -1,6 +1,6 @@
 # Uncovered-record source and expert review controls
 
-The 15-record population is replayed against the canonical occurrence denominator. This packet locates evidence and records acquisition limits; it does not encode or accept readings. Expert names, dates and decisions remain blank.
+The original 15-record cohort is retained as a dated baseline and replayed against the current occurrence denominator: 12 currently uncovered records plus three records with four new partial source assertions. This packet locates evidence and records acquisition limits; it does not encode or accept readings. Expert names, dates and decisions remain blank.
 
 Eight entries have visually inspected Valério 2016 Appendix B locators, alongside the primary-edition page numbers reported there. Direct inspection of those Olivier pages is not claimed. Four Met objects have fourteen downloaded and visually inspected photographic views, exact hashes and pixel dimensions. Their individual API records mark the images public domain; the institution’s Open Access policy applies CC0 to these images and basic accession data. Source API snapshots are retained; images are externally linked and not vendored. Louvre photographs retain their separate rights.
 
@@ -24,4 +24,4 @@ The image priority points to the relevant available view, not to an expert ident
 | CMOC-MET-74.51.4316 | CC0_IMAGE_EVIDENCE_LOCATED_EXPERT_IDENTIFICATION_PENDING | Retain possible Cypro-Minoan classification; distinguish proposed writing from rosette, dots and iconography. |
 | CMOC-MET-74.51.5057A | CC0_IMAGE_EVIDENCE_LOCATED_EXPERT_IDENTIFICATION_PENDING | Review the base marks; preserve Cypro-Minoan versus early Archaic Phoenician alternatives and unresolved orientation. |
 
-Run `python scripts/validate_uncovered_review.py`; optionally pass `--image-dir /path/to/downloaded/images` to rehash all fourteen downloaded files (`<object_id>-<image_index>.jpg`). These checks certify file/identifier integrity only. The corpus remains 21 rich records and 12 source-attributed occurrences across six records; expert-reviewed readings and new encoded occurrences remain zero in this change.
+Run `python scripts/validate_uncovered_review.py`; optionally pass `--image-dir /path/to/downloaded/images` to rehash all fourteen downloaded files (`<object_id>-<image_index>.jpg`). These checks certify file/identifier integrity only. The current corpus has 21 rich records and 16 source-attributed occurrences across nine records. The later source checkpoint added four dependent-secondary partial assertions on three records; expert-reviewed readings remain zero.

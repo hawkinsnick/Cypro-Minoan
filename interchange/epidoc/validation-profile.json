@@ -14,7 +14,7 @@
     "schema_family": "TEI-derived EpiDoc schema",
     "release_pin": "EpiDoc/Source@2368ee115d8008b32c37446301874945bcbe6c18 (schema/9.8/tei-epidoc.rng)",
     "status": "RELAX_NG_AND_EMBEDDED_UPSTREAM_SCHEMATRON_PASS_PARTIAL_PILOT",
-    "claim_boundary": "The 12-occurrence pilot passes the hash-pinned EpiDoc 9.8 RNG and all 57 embedded upstream Schematron patterns. This is not complete corpus coverage or independent expert acceptance."
+    "claim_boundary": "The 16-occurrence pilot passes the hash-pinned EpiDoc 9.8 RNG and all 57 embedded upstream Schematron patterns. This is not complete corpus coverage or independent expert acceptance."
   },
   "scope": "Cypro-Minoan loss-aware occurrence interchange pilot only",
   "notes": [
