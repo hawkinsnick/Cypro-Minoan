@@ -54,6 +54,26 @@
     {
       "role": "context_coverage",
       "path": "analysis/context-coverage-v1.json"
+    },
+    {
+      "role": "upstream_epidoc_validation",
+      "path": "analysis/upstream-epidoc-validation.json",
+      "required": true
+    },
+    {
+      "role": "upstream_epidoc_pins",
+      "path": "interchange/epidoc/upstream-pins.json",
+      "required": true
+    },
+    {
+      "role": "epidoc_interoperability_audit",
+      "path": "analysis/epidoc-interoperability-audit.json",
+      "required": true
+    },
+    {
+      "role": "epidoc_pilot_guide",
+      "path": "docs/EPIDOC-PILOT.md",
+      "required": true
     }
   ],
   "behavioral_gates": [

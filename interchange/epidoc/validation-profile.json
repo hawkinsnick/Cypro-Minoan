@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "checked": "2026-10-08",
+  "checked": "2026-10-11",
   "upstream": {
     "project": "EpiDoc",
     "release": "9.8",
@@ -13,14 +13,16 @@
   "validation_target": {
     "schema_family": "TEI-derived EpiDoc schema",
     "release_pin": "EpiDoc/Source@2368ee115d8008b32c37446301874945bcbe6c18 (schema/9.8/tei-epidoc.rng)",
-    "status": "RELAX_NG_VALIDATED_PROJECT_SCHEMATRON_VALIDATED_UPSTREAM_SCHEMATRON_PENDING",
-    "claim_boundary": "EpiDoc 9.8 Relax NG, project-specific ISO Schematron, source-reference integrity, and exporter canonicality passed PR #15 CI. Upstream EpiDoc Schematron and full object coverage remain unverified."
+    "status": "RELAX_NG_AND_EMBEDDED_UPSTREAM_SCHEMATRON_PASS_PARTIAL_PILOT",
+    "claim_boundary": "The 12-occurrence pilot passes the hash-pinned EpiDoc 9.8 RNG and all 57 embedded upstream Schematron patterns. This is not complete corpus coverage or independent expert acceptance."
   },
   "scope": "Cypro-Minoan loss-aware occurrence interchange pilot only",
   "notes": [
     "The pin establishes a reproducible upstream validation target; it does not itself establish conformance.",
     "The occurrence pilot is intentionally partial and does not claim complete transcription, decipherment, sign equivalence, or witness independence.",
     "Full object-level EpiDoc coverage remains a separate expansion from occurrence-layer validation.",
-    "The CI fetch uses an immutable upstream source commit and logs a schema SHA-256; an expected digest comparison remains open."
-  ]
+    "Expected schema and ISO compiler digests are enforced by scripts/validate_upstream_epidoc.py; any upstream assert or report rejects acceptance."
+  ],
+  "pins": "interchange/epidoc/upstream-pins.json",
+  "validation_report": "analysis/upstream-epidoc-validation.json"
 }

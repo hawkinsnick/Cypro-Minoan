@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "ead257e2f37b63cca0dd5f523f795c136e301c31",
-  "generated_at_utc": "2026-10-09T18:35:39+00:00",
+  "source_commit": "5ddc5159a26740aeb7f1cc8f6b38135daaad3e57",
+  "generated_at_utc": "2026-10-11T08:35:02+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -13,6 +13,30 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "upstream_epidoc_validation",
+      "path": "analysis/upstream-epidoc-validation.json",
+      "sha256": "60fd42d21d23ce9600a3e1c6b05285de457e75325a8ea47a115772f6cd390ca4",
+      "bytes": 541
+    },
+    {
+      "role": "upstream_epidoc_pins",
+      "path": "interchange/epidoc/upstream-pins.json",
+      "sha256": "240d9f8b31142c9146b6c5f63ce29019af9101cefa276a590cbe78ff637ab01a",
+      "bytes": 1025
+    },
+    {
+      "role": "epidoc_interoperability_audit",
+      "path": "analysis/epidoc-interoperability-audit.json",
+      "sha256": "07fb13999152b6cad95ce895a4368f11a9f76916151e3eb6536f6cee1f6aa4b2",
+      "bytes": 2187
+    },
+    {
+      "role": "epidoc_pilot_guide",
+      "path": "docs/EPIDOC-PILOT.md",
+      "sha256": "0cfe868e6dd5daddcdbb6fd05ecd9774f2a045ae73ed7e432837952d1a134df8",
+      "bytes": 3651
+    },
     {
       "role": "readable_dossiers",
       "path": "docs/RECORD-DOSSIERS.md",
