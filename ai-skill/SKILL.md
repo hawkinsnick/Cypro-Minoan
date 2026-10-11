@@ -46,3 +46,7 @@ Read `analysis/epidoc-interoperability-audit.json` and `research/identity-graph.
 
 ## EpiDoc pilot execution
 For EpiDoc interchange, use `scripts/export_epidoc_occurrences.py` and read `docs/EPIDOC-PILOT.md`. The generated XML is a partial, source-assertion view only. Preserve source-qualified published sign labels, source roles, certainty, locators and zone boundaries. The occurrence pilot passed EpiDoc 9.8 Relax NG and exporter-canonical artifact checks (GitHub Actions run 37718674499); this does not establish full EpiDoc conformance, Schematron validation, full object coverage, or epigraphic correctness. Canonical `certain` is serialized as `cert="high"` with `#canonical-certainty-certain` retained in `@ana`; always consult canonical JSON for the source category.
+
+## Upstream EpiDoc pilot validation
+
+Read `analysis/upstream-epidoc-validation.json`, `interchange/epidoc/upstream-pins.json` and `docs/EPIDOC-PILOT.md`. All 57 embedded upstream Schematron patterns and pinned Relax NG now execute against the 12-occurrence partial pilot. Full corpus coverage, independent review and external authority resolution remain open. Replay the documented validator before a conformance claim; every upstream finding blocks this strict pilot profile.

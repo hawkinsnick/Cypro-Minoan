@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "checked": "2026-10-08",
+  "checked": "2026-10-11",
   "fleet_contract": "Linear-A corpus-factory EpiDoc contract v1",
-  "status": "EPIDOC_9_8_RELAX_NG_AND_PROJECT_SCHEMATRON_PASS_PARTIAL_PILOT",
+  "status": "UPSTREAM_RNG_AND_EMBEDDED_SCHEMATRON_PASS_PARTIAL_PILOT",
   "native_units": [
     "catalogue record",
     "rich object record",
@@ -25,7 +25,7 @@
     "dependent-secondary occurrences must retain lineage",
     "unknown script classification/date/findspot remain explicit"
   ],
-  "conclusion": "Materialized partial occurrence pilot passed EpiDoc 9.8 Relax NG, project-specific ISO Schematron, local reference integrity and deterministic exporter checks in PR #15 CI. Upstream EpiDoc Schematron, complete object coverage and independent review remain pending; no full conformance claim is made.",
+  "conclusion": "The partial occurrence pilot passes pinned upstream EpiDoc 9.8 RNG and all 57 embedded Schematron patterns, project integrity checks and negative digest/adversarial-date tests. Complete object coverage and independent review remain pending.",
   "implementation": {
     "exporter": "scripts/export_epidoc_occurrences.py",
     "tests": "tests/test_epidoc_occurrences.py",
@@ -33,7 +33,7 @@
     "output": "interchange/epidoc/occurrences-pilot.xml",
     "scope": "source-checked occurrence assertions only",
     "conformance_claim": false,
-    "remaining_gate": "Verify upstream EpiDoc Schematron, enforce expected upstream schema digest, expand source-backed object coverage and obtain independent review.",
+    "remaining_gate": "Expand source-backed object coverage and obtain independent expert review.",
     "validation_profile": "interchange/epidoc/validation-profile.json",
     "output_generated": true,
     "invariant_test": {
@@ -43,7 +43,8 @@
     },
     "schema_validation": {
       "target": "EpiDoc 9.8 / EpiDoc/Source@2368ee115d8008b32c37446301874945bcbe6c18",
-      "status": "RELAX_NG_PASS_PROJECT_SCHEMATRON_PASS_UPSTREAM_SCHEMATRON_PENDING"
-    }
+      "status": "RELAX_NG_PASS_ALL_EMBEDDED_UPSTREAM_SCHEMATRON_PATTERNS_PASS"
+    },
+    "upstream_validation_report": "analysis/upstream-epidoc-validation.json"
   }
 }
