@@ -5,8 +5,10 @@ idx=J('corpus/index.json')
 if not V.startswith('5.') or idx['version']!=V:E.append('version')
 for rid in idx['records']:
  if not J(f'corpus/inscriptions/{rid}.json').get('record_version'):E.append('record version absent:'+rid)
+from catalogue_concordance import validate as validate_concordance
+validate_concordance()
 cat=J('catalogues/master.json')
-if len(cat['entries'])!=254 or sum(x.get('siglum') is not None for x in cat['entries'])!=68:E.append('catalogue')
+if len(cat['entries'])!=254 or sum(x.get('siglum') is not None for x in cat['entries'])!=254:E.append('catalogue')
 g={x['experiment_id']:x for x in J('research/experiment-gates.json')['experiments']}
 if any(x['state']=='BLOCKED' and x['claim_allowed'] for x in g.values()):E.append('blocked_claim')
 rp={x['profile_id']:x for x in J('research/readiness-profiles.json')['profiles']}
@@ -25,5 +27,5 @@ if any(x['known'] is None and '%' in x['interpretation'] for x in cm['dimensions
 for p in ['evidence/graph-contract.json','research/dependency-contract.json','provenance/assertion-ledger.json','rights/representation-policy.json','conformance/positive-fixtures.json','docs/ARCHITECTURE-5.0.md','docs/AUDIT_5.0.0.md']:
  if not (R/p).exists():E.append('missing:'+p)
 if E:print('VALIDATION FAILED',*E,sep='\n- ');sys.exit(1)
-print(f'OK v{V}: readiness/evidence-graph/provenance/conformance integrity passed; {len(idx["records"])} rich records; 254 slots/68 exact sigla.')
+print(f'OK v{V}: readiness/evidence-graph/provenance/conformance integrity passed; {len(idx["records"])} rich records; 254 slots/254 source-attributed sigla.')
 

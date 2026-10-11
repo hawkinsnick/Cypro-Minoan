@@ -1,14 +1,15 @@
 {
   "schema_version": "1.0",
   "repository_version": "5.3.0",
-  "checked": "2026-10-05",
+  "checked": "2026-10-11",
   "milestone": "CONTEXT_AND_REVIEW_DOSSIERS_V1",
   "committed_evidence_counts": {
     "rich_records": 21,
     "source_checked_occurrences": 12,
     "review_dossiers": 21,
     "records_with_dating": 14,
-    "new_date_period_assertions": 8
+    "new_date_period_assertions": 8,
+    "source_attributed_catalogue_sigla": 254
   },
   "scientific_results": {
     "corpus_wide_frequency": "BLOCKED",
@@ -41,19 +42,19 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "2095ee4694bf125f939cda6e36edd9321ce052db988d87e5ad32e3976d733118"
+      "sha256": "b683299090219a3100360bbb57293abc4871d47ae9afdc67de0f3a796a8e867a"
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "176c0e0216af765bc64947159f6ac2ed0ad2f5294f23f5a16464f2a80b8c8fcd"
+      "sha256": "d4537c5bb7a47512d7068b734e6d339dbed4207670809841cb90500002ae8b0c"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "cf6a1fc16459c663acf9ad86c932c01a1c195789996b66423839ba91036a17df"
+      "sha256": "03086309884f8b657bbab7a804c5bc3e5e8908751bfc426bf329f7917dc58086"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "ae8731fb973e6550572cb7ac5d47fb5df8fe793e2f2d60e9160765b5edf95f20"
+      "sha256": "0f4b5151a3b09b05c1eb923655c931144e2892387a8277852cd4110c93c59626"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -109,7 +110,7 @@
     },
     {
       "path": "research/pre-expert-maximum.json",
-      "sha256": "2728efbd5b9d851df4b65a6196ead36dbcb6e27a7d482c631f165ede3b1f9a4f"
+      "sha256": "839b247ab80cfa5de05542bdf34674ad70b45fc1431292055de3ae267b04d518"
     },
     {
       "path": "research/record-dossiers.json",
@@ -117,7 +118,7 @@
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "23efc2fea983c2fc30cda81585059c1bb7ce4ec4f79008e93213a7c89dd9d4fc"
+      "sha256": "2e13f72753f37b5b4288e71cef87217ffc655c2ac59d9a9a7bcc5ee4cd991c94"
     },
     {
       "path": "scripts/research_dossiers.py",
@@ -138,6 +139,34 @@
     {
       "path": "docs/RECORD-DOSSIERS.md",
       "sha256": "4f3e043f580d67c482a039a4d3e5725001ac1c17e6d9f02df1f0bfb73299e216"
+    },
+    {
+      "path": "catalogues/source-located-concordance.json",
+      "sha256": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66"
+    },
+    {
+      "path": "catalogues/master.json",
+      "sha256": "bd901ce1cdc48f7dda9d19435f0416a5bbabce304b6ebf784bc78f0048406e9f"
+    },
+    {
+      "path": "catalogues/reconciliation-ledger.json",
+      "sha256": "f8130ea475d0489d1f234571a7271a49609ccf08f728df25103e0f023bf6d241"
+    },
+    {
+      "path": "analysis/catalogue-mapping-audit.json",
+      "sha256": "4711fd4f30f6d0ee878ffef19f0036fba75a9de3cb9713342793150707ba77ea"
+    },
+    {
+      "path": "scripts/catalogue_concordance.py",
+      "sha256": "388cc68e085d83f31c60e4248dbb7a83dda7508d89953b221b784f49c4e8b6b9"
+    },
+    {
+      "path": "scripts/test_catalogue_concordance.py",
+      "sha256": "3fceabda683cd23b5de209ece1e8447501df372c0a638aa3e6ec709a6ab6f9c6"
+    },
+    {
+      "path": "docs/CATALOGUE-CONCORDANCE.md",
+      "sha256": "d79ca514ba54c09b1468e124e22fd487f192f7d23e4eab0872c24bfadd63a36e"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
@@ -159,7 +188,7 @@
   },
   "external_verification": {
     "tiryns_primary_open_publication": {
-      "source": "Davis, Maran, Prillwitz & Wirghová, Kadmos 2023",
+      "source": "Davis, Maran, Prillwitz & Wirghov\u00e1, Kadmos 2023",
       "record": "CMOC-TIRY-ADD245",
       "published_transnumeration": {
         "inscription": [
@@ -178,7 +207,7 @@
       "status": "MATCHES_PROJECT_ENCODING"
     },
     "tiryns_clay_ball": {
-      "source": "Vetters, Archäologischer Anzeiger 2011/2",
+      "source": "Vetters, Arch\u00e4ologischer Anzeiger 2011/2",
       "record": "CMOC-TIRY-ADD244",
       "project_occurrences": [
         "CMOCC-TIRY244-1",

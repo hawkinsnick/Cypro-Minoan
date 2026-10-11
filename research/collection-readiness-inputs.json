@@ -29,6 +29,9 @@
     "research/acquisition-queue.json",
     "research/pre-expert-maximum.json",
     "research/pre-expert-source-exhaustion.json",
-    "research/source-inspection-2026-10-02.json"
+    "research/source-inspection-2026-10-02.json",
+    "catalogues/source-located-concordance.json",
+    "catalogues/reconciliation-ledger.json",
+    "analysis/catalogue-mapping-audit.json"
   ]
 }

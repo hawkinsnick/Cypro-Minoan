@@ -74,6 +74,26 @@
       "role": "epidoc_pilot_guide",
       "path": "docs/EPIDOC-PILOT.md",
       "required": true
+    },
+    {
+      "role": "catalogue_concordance",
+      "path": "catalogues/source-located-concordance.json",
+      "required": true
+    },
+    {
+      "role": "catalogue_master",
+      "path": "catalogues/master.json",
+      "required": true
+    },
+    {
+      "role": "catalogue_mapping_audit",
+      "path": "analysis/catalogue-mapping-audit.json",
+      "required": true
+    },
+    {
+      "role": "catalogue_mapping_guide",
+      "path": "docs/CATALOGUE-CONCORDANCE.md",
+      "required": true
     }
   ],
   "behavioral_gates": [

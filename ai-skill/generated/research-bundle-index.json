@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "c49f05080d097eb6a6e0d372fc45fa05e7a04ffb",
-  "generated_at_utc": "2026-10-11T08:37:30+00:00",
+  "source_commit": "2d2628e86e40f7e37f7ebbd35a3721e7f9b02143",
+  "generated_at_utc": "2026-10-11T17:10:12+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -13,6 +13,30 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "catalogue_concordance",
+      "path": "catalogues/source-located-concordance.json",
+      "sha256": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66",
+      "bytes": 92192
+    },
+    {
+      "role": "catalogue_master",
+      "path": "catalogues/master.json",
+      "sha256": "bd901ce1cdc48f7dda9d19435f0416a5bbabce304b6ebf784bc78f0048406e9f",
+      "bytes": 189841
+    },
+    {
+      "role": "catalogue_mapping_audit",
+      "path": "analysis/catalogue-mapping-audit.json",
+      "sha256": "4711fd4f30f6d0ee878ffef19f0036fba75a9de3cb9713342793150707ba77ea",
+      "bytes": 883
+    },
+    {
+      "role": "catalogue_mapping_guide",
+      "path": "docs/CATALOGUE-CONCORDANCE.md",
+      "sha256": "d79ca514ba54c09b1468e124e22fd487f192f7d23e4eab0872c24bfadd63a36e",
+      "bytes": 1889
+    },
     {
       "role": "upstream_epidoc_validation",
       "path": "analysis/upstream-epidoc-validation.json",
@@ -52,8 +76,8 @@
     {
       "role": "context_coverage",
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "23efc2fea983c2fc30cda81585059c1bb7ce4ec4f79008e93213a7c89dd9d4fc",
-      "bytes": 71974
+      "sha256": "2e13f72753f37b5b4288e71cef87217ffc655c2ac59d9a9a7bcc5ee4cd991c94",
+      "bytes": 74030
     },
     {
       "role": "bibliography",
@@ -70,8 +94,8 @@
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "48c511fd91a9b042773702d04e8d8f2cf9009279df7ca726c066cfa0eff55a5b",
-      "bytes": 7355
+      "sha256": "b647a7d6db2a320727675f9fc1b89edb3bfb2eeba7287d1c4fdcd145657ce0cb",
+      "bytes": 8443
     },
     {
       "role": "source_inspection",
@@ -100,14 +124,14 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "2728efbd5b9d851df4b65a6196ead36dbcb6e27a7d482c631f165ede3b1f9a4f",
-      "bytes": 3007
+      "sha256": "839b247ab80cfa5de05542bdf34674ad70b45fc1431292055de3ae267b04d518",
+      "bytes": 3376
     },
     {
       "role": "pre_expert_source_exhaustion",
       "path": "research/pre-expert-source-exhaustion.json",
-      "sha256": "72cf1354f51b71fa371cc21bcdd34bdc88d8bc11151d07cbd7b0dd31fe51c84c",
-      "bytes": 2568
+      "sha256": "0f5c78a1ed53d975e6176bfba5d49b631c731da73672c2de3f9d2c3c24af7681",
+      "bytes": 2753
     },
     {
       "role": "occurrences",

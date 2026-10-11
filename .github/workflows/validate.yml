@@ -14,6 +14,8 @@ jobs:
       - run: python scripts/research_dossiers.py
       - run: python scripts/test_research_dossiers.py
       - run: python scripts/validate.py
+      - run: python scripts/catalogue_concordance.py
+      - run: python scripts/test_catalogue_concordance.py
       - run: python scripts/validate_current.py
       - run: python scripts/test_release_integrity.py
       - run: python scripts/test_5_0_conformance.py
