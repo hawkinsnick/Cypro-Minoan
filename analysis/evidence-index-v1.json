@@ -13,8 +13,8 @@
     },
     {
       "path": "occurrences/occurrences.json",
-      "sha256": "eab6eedab31dca8ea74ebe4dbfbdbc3ef314222d15a7343540e16f9808ac9c8e",
-      "bytes": 5976,
+      "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b",
+      "bytes": 8806,
       "category": "occurrences",
       "summary": {}
     },
@@ -27,8 +27,8 @@
     },
     {
       "path": "analysis/occurrence-coverage-v1.json",
-      "sha256": "7b247bb067606e98ec3a1130434ca7dff113530a3df7786a0739e524464e3181",
-      "bytes": 1945,
+      "sha256": "00539e7362042e52b8c6891b347bf12954efc628e853bd53631b04df2628f943",
+      "bytes": 2191,
       "category": "analysis",
       "summary": {
         "scope": "Committed rich-record subset only; catalogue placeholders are outside this denominator."
@@ -36,8 +36,8 @@
     },
     {
       "path": "scripts/occurrence_coverage.py",
-      "sha256": "cfd116ce21e352b7c40fce7822b7937a6b7b343760bef4c3fe54b23c18da6c80",
-      "bytes": 2812,
+      "sha256": "bd73bbd39c62f97c8ec9013678837cbc2c468a62f4314dce8c9bab9e1d8737d6",
+      "bytes": 3015,
       "category": "scripts",
       "summary": {}
     },
@@ -50,7 +50,7 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "b683299090219a3100360bbb57293abc4871d47ae9afdc67de0f3a796a8e867a",
+      "sha256": "6d61944ccb7cbdffcc06df6ddc75d6fc515b23d9163a3c2b4e67bad8f0f2fcec",
       "bytes": 14099,
       "category": "research",
       "summary": {
@@ -110,28 +110,28 @@
     },
     {
       "path": "scripts/test_occurrence_coverage.py",
-      "sha256": "04f6ae96ca29ccaf8c1e49b63c768c6467d1755a702d3eedc99d2b83cb50f271",
+      "sha256": "dfe8bb2476b29c5ce45f7ac60a5ae1b5115ef56265728b37c4bf14fd29473c92",
       "bytes": 1937,
       "category": "scripts",
       "summary": {}
     },
     {
       "path": "research/pre-expert-maximum.json",
-      "sha256": "a9b75993c8d4745b9e7215a46d8216024d3d4998d03ab7b7f1bcebbdb346fa27",
-      "bytes": 3903,
+      "sha256": "db99d11e197498a9e9c1a8655ce370e0f4b4d17a3b570b5c19f312301a61ae92",
+      "bytes": 4053,
       "category": "research",
       "summary": {}
     },
     {
       "path": "research/record-dossiers.json",
-      "sha256": "4d160b76248e990819d8e9599175ff1a7c410e481ecced8f8556c2c6b3d3cada",
-      "bytes": 95057,
+      "sha256": "ff6300eb7552c8c4aba3be93a33d2cb92f952f4672cbafec63848c889f76cebf",
+      "bytes": 99369,
       "category": "research",
       "summary": {}
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "2e13f72753f37b5b4288e71cef87217ffc655c2ac59d9a9a7bcc5ee4cd991c94",
+      "sha256": "4c3b642638ec06b0799e63f61f407ef5a1cc5ba236922b8e220c048f07e2fe93",
       "bytes": 74030,
       "category": "analysis",
       "summary": {
@@ -168,8 +168,8 @@
     },
     {
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "4f3e043f580d67c482a039a4d3e5725001ac1c17e6d9f02df1f0bfb73299e216",
-      "bytes": 24097,
+      "sha256": "42e83faeeceaa2fff4ed49c15e0eea51c392f88f1e3f492b5a810718b0e861db",
+      "bytes": 24340,
       "category": "docs",
       "summary": {}
     },
@@ -204,7 +204,7 @@
     },
     {
       "path": "analysis/catalogue-mapping-audit.json",
-      "sha256": "4711fd4f30f6d0ee878ffef19f0036fba75a9de3cb9713342793150707ba77ea",
+      "sha256": "69c0e65bd594ca04b587f4fbd15d67bca85d274580023300c486719c5fd8a372",
       "bytes": 883,
       "category": "analysis",
       "summary": {
@@ -235,8 +235,8 @@
     },
     {
       "path": "research/uncovered-record-review-controls.json",
-      "sha256": "2ba2074c3782a0fb1f212a3fd2ecc9b4ee01514a9b0f766a1043008bc2b06fd3",
-      "bytes": 20369,
+      "sha256": "fcc80d939562f699b7a0928559bcb6787d7eb4f8f20a5f122d0a262d9cc28817",
+      "bytes": 21586,
       "category": "research",
       "summary": {
         "scope": "Exactly the 15 currently uncovered rich records; locators and questions, no new transcriptions.",
@@ -259,8 +259,8 @@
     },
     {
       "path": "scripts/validate_uncovered_review.py",
-      "sha256": "b66e7806816725d50b2025f111eb141cb97857473a339ed39d58ba4bce92adad",
-      "bytes": 5020,
+      "sha256": "e8170d06bac548b789db6fd72d1ed22c610d88934c5979730851e0423ec188c0",
+      "bytes": 5495,
       "category": "scripts",
       "summary": {}
     },
@@ -270,6 +270,29 @@
       "bytes": 1377,
       "category": "scripts",
       "summary": {}
+    },
+    {
+      "path": "research/source-check-2026-10-11.json",
+      "sha256": "d40fe83a74b009ab772c86c9f854a6460bab09d3fb0a33395981d94d1bee615d",
+      "bytes": 4025,
+      "category": "research",
+      "summary": {}
+    },
+    {
+      "path": "research/source-reconciliation.json",
+      "sha256": "8150ba4afc5428632b6bd7d8cf2167490d128ed5a59de394a8e0653f8c15a161",
+      "bytes": 2876,
+      "category": "research",
+      "summary": {}
+    },
+    {
+      "path": "research/coverage-denominators.json",
+      "sha256": "a69e224e3670b6d7c24eaf11366f268dec5d356fd2aba689f889804b80d30f0c",
+      "bytes": 19351,
+      "category": "research",
+      "summary": {
+        "boundary": "Edition/date-bounded project views. Catalogue rows, rich records and reading versions are different units; views overlap and must not be summed."
+      }
     }
   ],
   "scientific_results": {
@@ -288,19 +311,19 @@
       "status": "measured"
     },
     "encoded_occurrences": {
-      "value": 12,
+      "value": 16,
       "unit": "encoded_source_occurrence_assertions",
       "definition": "Six primary-publication and six dependent-secondary occurrence assertions; no independent witness count.",
       "status": "measured"
     },
     "records_with_encoded_occurrences": {
-      "value": 6,
+      "value": 9,
       "unit": "rich_record_ids",
       "definition": "Partial or complete occurrence coverage on six of 21 rich records; not six complete sign sequences.",
       "status": "measured"
     }
   },
-  "family_report_sha256": "b683299090219a3100360bbb57293abc4871d47ae9afdc67de0f3a796a8e867a",
+  "family_report_sha256": "6d61944ccb7cbdffcc06df6ddc75d6fc515b23d9163a3c2b4e67bad8f0f2fcec",
   "implementation_sha256": "682a350d9457b1e88ff3a3c4d1263880e4fdf98e1012578580b7d2b9d877c916",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."
 }

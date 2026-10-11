@@ -8,8 +8,12 @@ def validate(root=ROOT,image_dir=None):
  rows=packet['items']
  if next(r for r in load(root,'coverage/completeness-matrix.json')['dimensions'] if r['dimension']=='exact_siglum_reconciliation')['covered']!=254:raise ValueError('coverage matrix mapping count drift')
  layers=load(root,'coverage/layers.json')['layers']
- if next(r for r in layers if r['layer']=='exact_siglum')['numerator']!=254 or next(r for r in layers if r['layer']=='source_verified_occurrence')['numerator']!=12:raise ValueError('current coverage layer drift')
- if [r['record_id'] for r in rows]!=coverage['records_without_encoded_occurrences']:raise ValueError('uncovered population drift')
+ if next(r for r in layers if r['layer']=='exact_siglum')['numerator']!=254 or next(r for r in layers if r['layer']=='source_verified_occurrence')['numerator']!=16:raise ValueError('current coverage layer drift')
+ new=load(root,'research/source-check-2026-10-11.json')['expected_occurrences']
+ newly={o['record_id'] for o in new}
+ if {r['record_id'] for r in rows}!=set(coverage['records_without_encoded_occurrences'])|newly or len(rows)!=15:raise ValueError('baseline/current uncovered population drift')
+ for r in rows:
+  if r.get('source_occurrences_added_since_checkpoint')!=sum(o['record_id']==r['record_id'] for o in new):raise ValueError('source expansion drift')
  if packet['expert_validation_granted'] is not False or images['expert_validation_granted'] is not False:raise ValueError('expert approval fabricated')
  byid={m['object_id']:m for m in images['objects']};seen=set()
  expected={331665:'2008.27',321391:'74.51.4316',240899:'74.51.1312',243938:'74.51.5057a'}
@@ -37,7 +41,7 @@ def validate(root=ROOT,image_dir=None):
  counts={s:sum(r['status']==s for r in rows) for s in set(r['status'] for r in rows)}
  expected_counts={'DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING':8,'CC0_IMAGE_EVIDENCE_LOCATED_EXPERT_IDENTIFICATION_PENDING':4,'MUSEUM_METADATA_LOCATED_PRIMARY_SIGN_EVIDENCE_PENDING':2,'SOURCE_ACCESS_BLOCKED':1}
  if counts!=expected_counts or len(images['images'])!=14:raise ValueError('disposition coverage drift')
- if packet['summary']!={'uncovered_rich_records':15,'dependent_edition_located':8,'cc0_visual_evidence_located':4,'museum_metadata_only':2,'access_blocked':1,'expert_reviews_completed':0,'canonical_readings_added':0}:raise ValueError('summary falsely promotes review or coverage')
+ if packet['summary']!={'uncovered_rich_records':15,'dependent_edition_located':8,'cc0_visual_evidence_located':4,'museum_metadata_only':2,'access_blocked':1,'expert_reviews_completed':0,'canonical_readings_added':0,'baseline_uncovered_rich_records':15,'current_uncovered_rich_records':12,'partially_source_encoded_since_checkpoint':3,'source_occurrences_added':4}:raise ValueError('summary falsely promotes review or coverage')
  return {'status':'PASS_SOURCE_QUALIFIED_BLANK_REVIEW_PACKET','records':15,'images':14,'expert_review_complete':False,'readings_added':0,'image_bytes_rehashed':bool(image_dir)}
 if __name__=='__main__':
  p=argparse.ArgumentParser();p.add_argument('--image-dir');a=p.parse_args();print(json.dumps(validate(image_dir=a.image_dir)))

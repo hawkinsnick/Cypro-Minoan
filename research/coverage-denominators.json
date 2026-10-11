@@ -1,0 +1,955 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-11",
+  "boundary": "Edition/date-bounded project views. Catalogue rows, rich records and reading versions are different units; views overlap and must not be summed.",
+  "physical_inscription_population": null,
+  "complete_language_corpus_claim_allowed": false,
+  "independent_review_complete": false,
+  "disputed_records": [
+    "CMOC-0026",
+    "CMOC-0027"
+  ],
+  "views": [
+    {
+      "view_id": "bounded_001_254",
+      "edition_scope": "1–217 Olivier 2007, 218–244 Ferrara 2013 additions, 245–253 Valério 2014/2016, 254 later 2017 source; project control view, not terminal corpus population",
+      "unit": "catalogue_slot",
+      "included_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254
+      ],
+      "denominator": 254,
+      "slots_with_explicit_rich_join": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        209,
+        216,
+        244,
+        245,
+        246
+      ],
+      "slots_without_explicit_rich_join": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254
+      ],
+      "duplicate_catalogue_ids": [],
+      "physical_duplicate_adjudication": "NOT_ESTABLISHED"
+    },
+    {
+      "view_id": "committed_rich_records",
+      "edition_scope": "Committed core/candidate record index at 2026-10-11",
+      "unit": "rich_record",
+      "included_ids": [
+        "CMOC-0025",
+        "CMOC-0026",
+        "CMOC-0027",
+        "CMOC-0028",
+        "CMOC-0029",
+        "CMOC-0030",
+        "CMOC-0031",
+        "CMOC-0032",
+        "CMOC-0033",
+        "CMOC-0209",
+        "CMOC-0216",
+        "CMOC-BM-1898.1201.204",
+        "CMOC-LVR-AM1639",
+        "CMOC-LVR-AM2716",
+        "CMOC-MET-2008.27",
+        "CMOC-MET-74.51.1312",
+        "CMOC-MET-74.51.4316",
+        "CMOC-MET-74.51.5057A",
+        "CMOC-TIRY-ADD244",
+        "CMOC-TIRY-ADD245",
+        "CMOC-TIRY-ADD246"
+      ],
+      "denominator": 21,
+      "records_with_encoded_occurrences": [
+        "CMOC-0025",
+        "CMOC-0026",
+        "CMOC-0027",
+        "CMOC-0029",
+        "CMOC-0030",
+        "CMOC-0031",
+        "CMOC-TIRY-ADD244",
+        "CMOC-TIRY-ADD245",
+        "CMOC-TIRY-ADD246"
+      ],
+      "records_without_encoded_occurrences": [
+        "CMOC-0028",
+        "CMOC-0032",
+        "CMOC-0033",
+        "CMOC-0209",
+        "CMOC-0216",
+        "CMOC-BM-1898.1201.204",
+        "CMOC-LVR-AM1639",
+        "CMOC-LVR-AM2716",
+        "CMOC-MET-2008.27",
+        "CMOC-MET-74.51.1312",
+        "CMOC-MET-74.51.4316",
+        "CMOC-MET-74.51.5057A"
+      ],
+      "records_with_explicit_catalogue_join": [
+        "CMOC-0025",
+        "CMOC-0026",
+        "CMOC-0027",
+        "CMOC-0028",
+        "CMOC-0029",
+        "CMOC-0030",
+        "CMOC-0031",
+        "CMOC-0032",
+        "CMOC-0033",
+        "CMOC-0209",
+        "CMOC-0216",
+        "CMOC-TIRY-ADD244",
+        "CMOC-TIRY-ADD245",
+        "CMOC-TIRY-ADD246"
+      ],
+      "records_with_unresolved_catalogue_join": [
+        "CMOC-BM-1898.1201.204",
+        "CMOC-LVR-AM1639",
+        "CMOC-LVR-AM2716",
+        "CMOC-MET-2008.27",
+        "CMOC-MET-74.51.1312",
+        "CMOC-MET-74.51.4316",
+        "CMOC-MET-74.51.5057A"
+      ],
+      "source_occurrence_assertions": 16,
+      "full_transcription_coverage_established": false,
+      "primary_occurrences": 6,
+      "dependent_secondary_occurrences": 10
+    }
+  ],
+  "object_concordance": [
+    {
+      "catalogue_number": 25,
+      "record_id": "CMOC-0025",
+      "basis": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "25",
+          "source_id": "louvre-cm-25"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "25",
+          "source_id": "louvre-cm-25"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 26,
+      "record_id": "CMOC-0026",
+      "basis": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "26",
+          "source_id": "louvre-cm-26"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "26",
+          "source_id": "louvre-cm-26"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 27,
+      "record_id": "CMOC-0027",
+      "basis": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "27",
+          "source_id": "louvre-cm-27"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "27",
+          "source_id": "louvre-cm-27"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 28,
+      "record_id": "CMOC-0028",
+      "basis": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "28",
+          "source_id": "louvre-cm-28"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "28",
+          "source_id": "louvre-cm-28"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 29,
+      "record_id": "CMOC-0029",
+      "basis": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "29",
+          "source_id": "louvre-cm-29"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "29",
+          "source_id": "louvre-cm-29"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 30,
+      "record_id": "CMOC-0030",
+      "basis": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "30",
+          "source_id": "louvre-cm-30"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "30",
+          "source_id": "louvre-cm-30"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 31,
+      "record_id": "CMOC-0031",
+      "basis": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "31",
+          "source_id": "louvre-cm-31"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "31",
+          "source_id": "louvre-cm-31"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 32,
+      "record_id": "CMOC-0032",
+      "basis": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "32",
+          "source_id": "louvre-cm-32"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "32",
+          "source_id": "louvre-cm-32"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 33,
+      "record_id": "CMOC-0033",
+      "basis": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "33",
+          "source_id": "louvre-cm-33"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "33",
+          "source_id": "louvre-cm-33"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 209,
+      "record_id": "CMOC-0209",
+      "basis": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "209",
+          "source_id": "louvre-cm-209"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "209",
+          "source_id": "louvre-cm-209"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 216,
+      "record_id": "CMOC-0216",
+      "basis": [
+        {
+          "system": "Ferrara 2013 catalogue",
+          "value": "216",
+          "source_id": "louvre-ao14747"
+        },
+        {
+          "system": "Olivier 2007 catalogue",
+          "value": "216",
+          "source_id": "louvre-ao14747"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 244,
+      "record_id": "CMOC-TIRY-ADD244",
+      "basis": [
+        {
+          "system": "Ferrara/addendum catalogue",
+          "value": "244",
+          "source_id": "vetters2011"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 245,
+      "record_id": "CMOC-TIRY-ADD245",
+      "basis": [
+        {
+          "system": "Ferrara/addendum catalogue",
+          "value": "245",
+          "source_id": "davis-maran-prillwitz-wirghova2023"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "catalogue_number": 246,
+      "record_id": "CMOC-TIRY-ADD246",
+      "basis": [
+        {
+          "system": "Ferrara/addendum catalogue",
+          "value": "246",
+          "source_id": "davis-maran-wirghova2014"
+        }
+      ],
+      "status": "NATIVE_SOURCE_ASSERTED_NOT_PHYSICAL_CERTIFICATION"
+    }
+  ],
+  "inventory_collisions": [],
+  "inputs": [
+    {
+      "path": "research/source-check-2026-10-11.json",
+      "sha256": "d40fe83a74b009ab772c86c9f854a6460bab09d3fb0a33395981d94d1bee615d"
+    },
+    {
+      "path": "research/source-reconciliation.json",
+      "sha256": "8150ba4afc5428632b6bd7d8cf2167490d128ed5a59de394a8e0653f8c15a161"
+    },
+    {
+      "path": "catalogues/master.json",
+      "sha256": "bd901ce1cdc48f7dda9d19435f0416a5bbabce304b6ebf784bc78f0048406e9f"
+    },
+    {
+      "path": "corpus/index.json",
+      "sha256": "1e024d9d65ae5d28d9bfdf3127d1ceb867067b1dd9c1fc6cdc81a14e23db3cbf"
+    },
+    {
+      "path": "occurrences/occurrences.json",
+      "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b"
+    },
+    {
+      "path": "catalogues/source-located-concordance.json",
+      "sha256": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0025.json",
+      "sha256": "bbf2004de392733adc985bd54e2fe3adb6ed02dd501e85ce350d18efcc7e694f"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0026.json",
+      "sha256": "ff502a93180a7c18b86848974536608d998a9b9060b274e2d8e3f5fec73fb97a"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0027.json",
+      "sha256": "88471888e303edcae20c0127d31bdd2d4eb67babd07bc9ee5819e0a9e91a03f7"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0028.json",
+      "sha256": "e18a9d3cd8c72007e04e7045752b3a6858066773989a6708095edaf2e81b0548"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0029.json",
+      "sha256": "ec23dd2f40ce2db54e86d688a23c907ece775a42baba40907d9fbbf7e7f80ea8"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0030.json",
+      "sha256": "4f00a3953ef27a56344e081922aa8078de8517e09b4f995ecef8bc1b38de4d3e"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0031.json",
+      "sha256": "45ce25e590907af426befe70cd7fc690e4b281416bdb8c9b5b292997c90d2ed7"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0032.json",
+      "sha256": "2ea5ca155967348b5fc62bb78d6fa6f13851e3c24bee19c1c7d1827e72a7bdd2"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0033.json",
+      "sha256": "fa65a3ac8b63b3a4835f4f69aa7c4076fc5a11ad054c08f38894670ed93a8e0e"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0209.json",
+      "sha256": "e09a1c23570e16d84977213cf4ab48e79948b621159f69a6066bb89a6761882a"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-0216.json",
+      "sha256": "40ad38ba845c4b49eda4415c233f4cd8bc4d5ba243f0ce231370960867962e54"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-BM-1898.1201.204.json",
+      "sha256": "83dd6a2f35d892e9175d16997bd120c229868cb7a179dd7279678fd57931a4b5"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-LVR-AM1639.json",
+      "sha256": "60b92eafc6c1fb085d555e965b689d641ea269536fb08620975b30efa83c9633"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-LVR-AM2716.json",
+      "sha256": "a0f3453c038c2fad98a175775f718a2ab1a74e424496fa45ac7df87e001adf41"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-MET-2008.27.json",
+      "sha256": "8f6f9f7f9773d1528898cc7999e53a419cc6ddd6385908d37ccc17f8d871e59c"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-MET-74.51.1312.json",
+      "sha256": "c204b8c6f97eaca6877ad1b6ecf5b043d5b30d35462006631b53f6ad02113d3c"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-MET-74.51.4316.json",
+      "sha256": "ee82175fd14c9a8e06cd609ed1b124e6751ce6ccdd17cefbd0b473bd9521522a"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-MET-74.51.5057A.json",
+      "sha256": "fb4c8d71101fcf2526144a7e4f08228d861f63d85a5259df42faa28e3716d4df"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-TIRY-ADD244.json",
+      "sha256": "a859c8f0f1c523eec45dddf960cd5c7e66a3a1cd50d13ba12cb375bcef042671"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-TIRY-ADD245.json",
+      "sha256": "f1fe47bd611bbfb433b039c37d95d8ec1371664fa4a4263ba5c64f49e371b7fb"
+    },
+    {
+      "path": "corpus/inscriptions/CMOC-TIRY-ADD246.json",
+      "sha256": "0238aa43b50263ef995bcc9578a45903f5a1f41ace3e518c382a07fbc5a98eaa"
+    }
+  ]
+}

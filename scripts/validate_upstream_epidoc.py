@@ -32,7 +32,7 @@ def validate(schema,compiler,xml):
   active=len(result.xpath('//s:active-pattern',namespaces=ns));fired=len(result.xpath('//s:fired-rule',namespaces=ns))
   if active!=patterns or fired==0:raise ValueError('upstream rules not executed')
   if events:raise ValueError('upstream Schematron findings: '+ '; '.join(' '.join(x.itertext()).strip() for x in events))
- return {'status':'PASS_PARTIAL_OCCURRENCE_PILOT_ONLY','schema_sha256':digest(schema),'xml_sha256':digest(xml),'embedded_patterns':patterns,'embedded_rules':rules,'active_patterns':active,'fired_rules':fired,'failed_asserts':0,'successful_reports':0,'scope':'12 source-qualified occurrence assertions; not complete corpus coverage or independent expert acceptance','all_schematron_reports_block_acceptance':True}
+ return {'status':'PASS_PARTIAL_OCCURRENCE_PILOT_ONLY','schema_sha256':digest(schema),'xml_sha256':digest(xml),'embedded_patterns':patterns,'embedded_rules':rules,'active_patterns':active,'fired_rules':fired,'failed_asserts':0,'successful_reports':0,'scope':str(len(__import__('lxml.etree',fromlist=['etree']).parse(str(xml)).xpath('//tei:g',namespaces={'tei':'http://www.tei-c.org/ns/1.0'})))+' source-qualified occurrence assertions; not complete corpus coverage or independent expert acceptance','all_schematron_reports_block_acceptance':True}
 def main():
  a=argparse.ArgumentParser();a.add_argument('--schema',type=Path,required=True);a.add_argument('--compiler',type=Path,required=True);a.add_argument('--write',action='store_true');args=a.parse_args();d=validate(args.schema,args.compiler,ROOT/'interchange/epidoc/occurrences-pilot.xml');p=ROOT/'analysis/upstream-epidoc-validation.json';text=json.dumps(d,indent=2)+'\n'
  if args.write:p.write_text(text)

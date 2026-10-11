@@ -81,6 +81,8 @@ def build() -> ET.Element:
             g.text = occ["published_sign_label"]
             note = ET.SubElement(div, q("note"), {"type": "source-locator", "corresp": f"#{occ['occurrence_id']}"})
             note.text = occ["locator"]
+            for editorial in occ.get("notes", []):
+                ET.SubElement(div, q("note"), {"type": "source-editorial-note", "corresp": f"#{occ['occurrence_id']}"}).text = editorial
         if "potmark" in zone_id.lower():
             div.set("ana", "#nonlinguistic-status-undetermined")
     return root

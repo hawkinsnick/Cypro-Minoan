@@ -38,6 +38,9 @@
     "research/source-metadata/met-331665.json",
     "research/source-metadata/met-321391.json",
     "research/source-metadata/met-240899.json",
-    "research/source-metadata/met-243938.json"
+    "research/source-metadata/met-243938.json",
+    "research/source-check-2026-10-11.json",
+    "research/source-reconciliation.json",
+    "research/coverage-denominators.json"
   ]
 }

@@ -86,5 +86,7 @@
     "guide": "docs/CONTEXT-AND-DOSSIERS.md",
     "coverage": "analysis/context-coverage-v1.json",
     "source_or_human_gates_closed": false
-  }
+  },
+  "current_source_checkpoint": "research/source-check-2026-10-11.json",
+  "current_reconciliation_checkpoint": "research/source-reconciliation.json"
 }

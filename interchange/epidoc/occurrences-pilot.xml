@@ -18,12 +18,45 @@
   </teiHeader>
   <text>
     <body>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0025-source-second-sequence">
+        <head>CMOC-0025 / source-second-sequence</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="4" ref="urn:cypro-minoan:published-sign:valerio2016thesis:09" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0025-VALERIO2016-source-second-sequence-4">09</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-0025-VALERIO2016-source-second-sequence-4">printed p. 457 (PDF 463), ##025</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0025-VALERIO2016-source-second-sequence-4">Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0025-VALERIO2016-source-second-sequence-4">Valério explicitly supports label 09 at this position; other signs are not encoded by this check.</note>
+      </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0026-source-sequence">
+        <head>CMOC-0026 / source-sequence</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="2" ref="urn:cypro-minoan:published-sign:valerio2016thesis:73" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0026-VALERIO2016-source-sequence-2">73</g>
+          <g n="5" ref="urn:cypro-minoan:published-sign:valerio2016thesis:73" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0026-VALERIO2016-source-sequence-5">73</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-0026-VALERIO2016-source-sequence-2">printed p. 457 (PDF 463), ##026</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0026-VALERIO2016-source-sequence-2">Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0026-VALERIO2016-source-sequence-2">Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved.</note>
+        <note type="source-locator" corresp="#CMOCC-0026-VALERIO2016-source-sequence-5">printed p. 457 (PDF 463), ##026</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0026-VALERIO2016-source-sequence-5">Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0026-VALERIO2016-source-sequence-5">Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved.</note>
+      </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0027-source-first-sequence">
+        <head>CMOC-0027 / source-first-sequence</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="3" ref="urn:cypro-minoan:published-sign:valerio2016thesis:13" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0027-VALERIO2016-source-first-sequence-3">13</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-0027-VALERIO2016-source-first-sequence-3">printed p. 457 (PDF 463), ##027; discussion continues printed p. 458 / PDF 464</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0027-VALERIO2016-source-first-sequence-3">Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0027-VALERIO2016-source-first-sequence-3">Valério proposes 13 against reported Olivier label 08; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved.</note>
+      </div>
       <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0029-source-numbered-sequence">
         <head>CMOC-0029 / source-numbered-sequence</head>
         <ab type="occurrence-sequence" ana="#partial-coverage">
           <g n="3" ref="urn:cypro-minoan:published-sign:vetters2011:97" cert="high" resp="#source-vetters2011" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-ENK029-VETTERS2011-3">97</g>
         </ab>
         <note type="source-locator" corresp="#CMOCC-ENK029-VETTERS2011-3">p. 16, footnote 126, Olivier 2007 no. 029 (3rd sign)</note>
+        <note type="source-editorial-note" corresp="#CMOCC-ENK029-VETTERS2011-3">Partial source assertion citing Olivier 2007; other positions are not encoded.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-ENK029-VETTERS2011-3">Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established.</note>
       </div>
       <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0030-source-numbered-sequence">
         <head>CMOC-0030 / source-numbered-sequence</head>
@@ -31,6 +64,8 @@
           <g n="7" ref="urn:cypro-minoan:published-sign:vetters2011:97" cert="high" resp="#source-vetters2011" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-ENK030-VETTERS2011-7">97</g>
         </ab>
         <note type="source-locator" corresp="#CMOCC-ENK030-VETTERS2011-7">p. 16, footnote 126, Olivier 2007 no. 030 (7th sign)</note>
+        <note type="source-editorial-note" corresp="#CMOCC-ENK030-VETTERS2011-7">Partial source assertion citing Olivier 2007; other positions are not encoded.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-ENK030-VETTERS2011-7">Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established.</note>
       </div>
       <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0031-source-numbered-sequence">
         <head>CMOC-0031 / source-numbered-sequence</head>
@@ -38,6 +73,8 @@
           <g n="3" ref="urn:cypro-minoan:published-sign:vetters2011:97" cert="high" resp="#source-vetters2011" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-ENK031-VETTERS2011-3">97</g>
         </ab>
         <note type="source-locator" corresp="#CMOCC-ENK031-VETTERS2011-3">p. 16, footnote 126, Olivier 2007 no. 031 (3rd sign)</note>
+        <note type="source-editorial-note" corresp="#CMOCC-ENK031-VETTERS2011-3">Partial source assertion citing Olivier 2007; other positions are not encoded.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-ENK031-VETTERS2011-3">Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established.</note>
       </div>
       <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-TIRY-ADD244-clay-ball-inscription">
         <head>CMOC-TIRY-ADD244 / clay-ball-inscription</head>
@@ -47,8 +84,11 @@
           <g n="3" ref="urn:cypro-minoan:published-sign:vetters2011:97" cert="high" resp="#source-vetters2011" ana="#source-role-primary_publication #canonical-certainty-certain" xml:id="CMOCC-TIRY244-3">97</g>
         </ab>
         <note type="source-locator" corresp="#CMOCC-TIRY244-1">pp. 16–17, Interpretation of the Signs</note>
+        <note type="source-editorial-note" corresp="#CMOCC-TIRY244-1">Primary-publication occurrence check; published sign numbering retained as source assertion.</note>
         <note type="source-locator" corresp="#CMOCC-TIRY244-2">pp. 16–17, Interpretation of the Signs</note>
+        <note type="source-editorial-note" corresp="#CMOCC-TIRY244-2">Primary-publication occurrence check; published sign numbering retained as source assertion.</note>
         <note type="source-locator" corresp="#CMOCC-TIRY244-3">pp. 16–17, Interpretation of the Signs</note>
+        <note type="source-editorial-note" corresp="#CMOCC-TIRY244-3">Primary-publication occurrence check; published sign numbering retained as source assertion.</note>
       </div>
       <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-TIRY-ADD245-handle-1-inscription">
         <head>CMOC-TIRY-ADD245 / handle-1-inscription</head>
@@ -74,8 +114,11 @@
           <g n="3" ref="urn:cypro-minoan:published-sign:bourogiannis2024:05" cert="high" resp="#source-bourogiannis2024" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-TIRY246-3">05</g>
         </ab>
         <note type="source-locator" corresp="#CMOCC-TIRY246-1">p. 56, jug handle discussion</note>
+        <note type="source-editorial-note" corresp="#CMOCC-TIRY246-1">Source-attributed transnumeration; no project sign-equivalence inference.</note>
         <note type="source-locator" corresp="#CMOCC-TIRY246-2">p. 56, jug handle discussion</note>
+        <note type="source-editorial-note" corresp="#CMOCC-TIRY246-2">Source-attributed transnumeration; no project sign-equivalence inference.</note>
         <note type="source-locator" corresp="#CMOCC-TIRY246-3">p. 56, jug handle discussion</note>
+        <note type="source-editorial-note" corresp="#CMOCC-TIRY246-3">Source-attributed transnumeration; no project sign-equivalence inference.</note>
       </div>
     </body>
   </text>

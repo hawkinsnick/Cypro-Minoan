@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-11",
+  "independent_review_complete": false,
+  "physical_inscription_population": null,
+  "rights_boundary": "Limited attributed numerical and catalogue facts only; no source images, PDFs, prose, 3D datasets or general redistribution permission.",
+  "promotion_boundary": "Source-checked means checked against the named publication or page. It does not mean primary-edition agreement, autopsy, independent witness, or accepted sign identity.",
+  "comparisons": [
+    {
+      "comparison_id": "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
+      "record_id": "CMOC-0026",
+      "field": "published_sign_label",
+      "zone_id": "source-sequence",
+      "position": 2,
+      "assertions": [
+        {
+          "source_id": "olivier2007",
+          "value": "75",
+          "locator": "HoChyMin 76 ; as reported by Valério 2016",
+          "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "value": "73",
+          "locator": "printed p. 457 (PDF 463), ##026",
+          "inspection": "DIRECT_SECONDARY_PDF"
+        }
+      ],
+      "status": "UNRESOLVED_PUBLISHED_REASSESSMENT",
+      "interventions": []
+    },
+    {
+      "comparison_id": "CMOCC-0026-VALERIO2016-source-sequence-5-comparison",
+      "record_id": "CMOC-0026",
+      "field": "published_sign_label",
+      "zone_id": "source-sequence",
+      "position": 5,
+      "assertions": [
+        {
+          "source_id": "olivier2007",
+          "value": "75",
+          "locator": "HoChyMin 76 ; as reported by Valério 2016",
+          "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "value": "73",
+          "locator": "printed p. 457 (PDF 463), ##026",
+          "inspection": "DIRECT_SECONDARY_PDF"
+        }
+      ],
+      "status": "UNRESOLVED_PUBLISHED_REASSESSMENT",
+      "interventions": []
+    },
+    {
+      "comparison_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3-comparison",
+      "record_id": "CMOC-0027",
+      "field": "published_sign_label",
+      "zone_id": "source-first-sequence",
+      "position": 3,
+      "assertions": [
+        {
+          "source_id": "olivier2007",
+          "value": "08",
+          "locator": "HoChyMin 77 ; as reported by Valério 2016",
+          "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "value": "13",
+          "locator": "printed p. 457 (PDF 463), ##027; discussion continues printed p. 458 / PDF 464",
+          "inspection": "DIRECT_SECONDARY_PDF"
+        }
+      ],
+      "status": "UNRESOLVED_PUBLISHED_REASSESSMENT",
+      "interventions": []
+    }
+  ],
+  "primary_reading_agreement_certified": false
+}

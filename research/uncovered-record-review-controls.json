@@ -41,7 +41,8 @@
         "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
       },
       "question": "Compare source-qualified segmentation and certainty; distinguish the earlier edition from the thesis discussion.",
-      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness.",
+      "source_occurrences_added_since_checkpoint": 1
     },
     {
       "record_id": "CMOC-0026",
@@ -81,7 +82,8 @@
         "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
       },
       "question": "Compare the competing identifications at the second and fifth sign positions; retain both authorities.",
-      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness.",
+      "source_occurrences_added_since_checkpoint": 2
     },
     {
       "record_id": "CMOC-0027",
@@ -123,7 +125,8 @@
         "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
       },
       "question": "Compare the competing identification at the third sign position and the supporting images.",
-      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness.",
+      "source_occurrences_added_since_checkpoint": 1
     },
     {
       "record_id": "CMOC-0028",
@@ -163,7 +166,8 @@
         "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
       },
       "question": "Check all positions, orientation and complete object coverage against the cited primary edition.",
-      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness.",
+      "source_occurrences_added_since_checkpoint": 0
     },
     {
       "record_id": "CMOC-0032",
@@ -203,7 +207,8 @@
         "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
       },
       "question": "Check all positions, orientation and complete object coverage against the cited primary edition.",
-      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness.",
+      "source_occurrences_added_since_checkpoint": 0
     },
     {
       "record_id": "CMOC-0033",
@@ -243,7 +248,8 @@
         "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
       },
       "question": "Check all positions, orientation and complete object coverage against the cited primary edition.",
-      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness.",
+      "source_occurrences_added_since_checkpoint": 0
     },
     {
       "record_id": "CMOC-0209",
@@ -288,7 +294,8 @@
         "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
       },
       "question": "Collate the top edge and A.I, A.II and B zones separately; preserve damage, restorations and proposed corrections.",
-      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness.",
+      "source_occurrences_added_since_checkpoint": 0
     },
     {
       "record_id": "CMOC-0216",
@@ -328,7 +335,8 @@
         "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
       },
       "question": "Adjudicate competing reading direction without selecting a preferred interpretation automatically.",
-      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness.",
+      "source_occurrences_added_since_checkpoint": 0
     },
     {
       "record_id": "CMOC-BM-1898.1201.204",
@@ -349,7 +357,8 @@
       "status": "SOURCE_ACCESS_BLOCKED",
       "access_result": "Official collection URL returned HTTP 403 on 2026-10-11; no bypass attempted.",
       "question": "Acquire an accessible official image/publication and confirm inventory, sign positions and source lineage before encoding.",
-      "next_route": "British Museum official publication or a lawful accessible institutional image record."
+      "next_route": "British Museum official publication or a lawful accessible institutional image record.",
+      "source_occurrences_added_since_checkpoint": 0
     },
     {
       "record_id": "CMOC-LVR-AM1639",
@@ -369,7 +378,8 @@
       "encoded_occurrences_added": 0,
       "status": "MUSEUM_METADATA_LOCATED_PRIMARY_SIGN_EVIDENCE_PENDING",
       "question": "Obtain adequate sign-bearing images or a published sign-level edition with object-specific locators; resolve mark identification and source lineage.",
-      "next_route": "Donnelly 2020 pp. 104–105, fig. 3; Masson 1957 pp. 14–15, fig. 9, no. 9 (bibliography in Louvre record)."
+      "next_route": "Donnelly 2020 pp. 104–105, fig. 3; Masson 1957 pp. 14–15, fig. 9, no. 9 (bibliography in Louvre record).",
+      "source_occurrences_added_since_checkpoint": 0
     },
     {
       "record_id": "CMOC-LVR-AM2716",
@@ -389,7 +399,8 @@
       "encoded_occurrences_added": 0,
       "status": "MUSEUM_METADATA_LOCATED_PRIMARY_SIGN_EVIDENCE_PENDING",
       "question": "Obtain adequate sign-bearing images or a published sign-level edition with object-specific locators; resolve mark identification and source lineage.",
-      "next_route": "Louvre AM2716 object record and institutionally supplied adequate sign-bearing image."
+      "next_route": "Louvre AM2716 object record and institutionally supplied adequate sign-bearing image.",
+      "source_occurrences_added_since_checkpoint": 0
     },
     {
       "record_id": "CMOC-MET-2008.27",
@@ -412,7 +423,8 @@
       "priority_image_index": 0,
       "image_control": "research/met-open-image-controls.json",
       "question": "Distinguish writing from seal iconography and the modern impression; annotate actual mark positions and any unreadability.",
-      "source_dependency": "A modern impression or additional photograph does not add an independent inscription witness."
+      "source_dependency": "A modern impression or additional photograph does not add an independent inscription witness.",
+      "source_occurrences_added_since_checkpoint": 0
     },
     {
       "record_id": "CMOC-MET-74.51.1312",
@@ -435,7 +447,8 @@
       "priority_image_index": 5,
       "image_control": "research/met-open-image-controls.json",
       "question": "Review the handle-base detail; preserve possible script membership and distinguish a potmark from writing.",
-      "source_dependency": "A modern impression or additional photograph does not add an independent inscription witness."
+      "source_dependency": "A modern impression or additional photograph does not add an independent inscription witness.",
+      "source_occurrences_added_since_checkpoint": 0
     },
     {
       "record_id": "CMOC-MET-74.51.4316",
@@ -458,7 +471,8 @@
       "priority_image_index": 0,
       "image_control": "research/met-open-image-controls.json",
       "question": "Retain possible Cypro-Minoan classification; distinguish proposed writing from rosette, dots and iconography.",
-      "source_dependency": "A modern impression or additional photograph does not add an independent inscription witness."
+      "source_dependency": "A modern impression or additional photograph does not add an independent inscription witness.",
+      "source_occurrences_added_since_checkpoint": 0
     },
     {
       "record_id": "CMOC-MET-74.51.5057A",
@@ -481,7 +495,8 @@
       "priority_image_index": 2,
       "image_control": "research/met-open-image-controls.json",
       "question": "Review the base marks; preserve Cypro-Minoan versus early Archaic Phoenician alternatives and unresolved orientation.",
-      "source_dependency": "A modern impression or additional photograph does not add an independent inscription witness."
+      "source_dependency": "A modern impression or additional photograph does not add an independent inscription witness.",
+      "source_occurrences_added_since_checkpoint": 0
     }
   ],
   "summary": {
@@ -491,8 +506,14 @@
     "museum_metadata_only": 2,
     "access_blocked": 1,
     "expert_reviews_completed": 0,
-    "canonical_readings_added": 0
+    "canonical_readings_added": 0,
+    "baseline_uncovered_rich_records": 15,
+    "current_uncovered_rich_records": 12,
+    "partially_source_encoded_since_checkpoint": 3,
+    "source_occurrences_added": 4
   },
   "expert_validation_granted": false,
-  "boundary": "Source accessibility and engineering replay do not adjudicate sign identities, source dependence, reading direction or script membership. Human review remains blank."
+  "boundary": "Source accessibility and engineering replay do not adjudicate sign identities, source dependence, reading direction or script membership. Human review remains blank.",
+  "baseline_cohort_rule": "Original 15 uncovered records at packet creation; later partial source encoding is tracked separately and is not expert acceptance.",
+  "source_expansion_checkpoint": "research/source-check-2026-10-11.json"
 }
