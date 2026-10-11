@@ -1,6 +1,6 @@
 {
   "version": "5.2.9",
-  "as_of": "2026-10-02",
+  "as_of": "2026-10-11",
   "dimensions": [
     {
       "dimension": "historical_catalogue_control",
@@ -12,9 +12,9 @@
     {
       "dimension": "exact_siglum_reconciliation",
       "known": 254,
-      "covered": 68,
+      "covered": 254,
       "unit": "slots",
-      "interpretation": "186 deliberately unresolved pending authoritative verification"
+      "interpretation": "All 254 controlled slots have source-attributed identifiers; no physical identity or reading certification implied."
     },
     {
       "dimension": "rich_object_records",

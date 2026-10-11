@@ -9,9 +9,9 @@
     },
     {
       "layer": "exact_siglum",
-      "numerator": 68,
+      "numerator": 254,
       "denominator": 254,
-      "status": "verified_not_complete"
+      "status": "source_attributed_complete_for_controlled_register"
     },
     {
       "layer": "rich_object_record",
@@ -21,9 +21,9 @@
     },
     {
       "layer": "source_verified_occurrence",
-      "numerator": 3,
+      "numerator": 12,
       "denominator": null,
-      "status": "sparse"
+      "status": "source_attributed_sparse_subset"
     },
     {
       "layer": "unicode_encoding",
@@ -32,5 +32,6 @@
       "status": "complete_for_unicode_repertoire_not_palaeographic_inventory"
     }
   ],
-  "warning": "These denominators answer different questions and must not be collapsed into one corpus-completeness percentage."
+  "warning": "These denominators answer different questions and must not be collapsed into one corpus-completeness percentage.",
+  "as_of": "2026-10-11"
 }

@@ -10,3 +10,5 @@ Licensing: https://www.unicode.org/policies/licensing_policy.html
 
 Scholarly publications
 Bibliographic citation does not imply redistribution permission. Unless separately licensed, modern editorial transcriptions, drawings, photographs, and substantial protected text remain with their respective rights-holders.
+
+Met Open Access component exception: `research/source-metadata/met-*.json` contains basic accession data supplied by The Metropolitan Museum of Art under CC0-1.0. The public-domain image URLs and exact image hashes in `research/met-open-image-controls.json` are governed by the Met’s CC0 policy (https://www.metmuseum.org/hubs/open-access). Project-original noncommercial terms do not restrict these upstream components. Images are externally linked, not redistributed here; this does not cover Louvre/British Museum photographs or protected editorial readings.

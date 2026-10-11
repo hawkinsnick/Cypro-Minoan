@@ -9,3 +9,5 @@ You may share and adapt the licensed project-original material for noncommercial
 Suggested attribution: “Data/material from the hawkinsnick corpus project, with repository name and version or commit where practicable.”
 
 This license does not apply to third-party/source-derived components except where the relevant rights holder has separately placed them under compatible terms. See LICENSING.md, NOTICE, source metadata, and rights matrices.
+
+Met Open Access component exception: `research/source-metadata/met-*.json` contains basic accession data supplied by The Metropolitan Museum of Art under CC0-1.0. The public-domain image URLs and exact image hashes in `research/met-open-image-controls.json` are governed by the Met’s CC0 policy (https://www.metmuseum.org/hubs/open-access). Project-original noncommercial terms do not restrict these upstream components. Images are externally linked, not redistributed here; this does not cover Louvre/British Museum photographs or protected editorial readings.

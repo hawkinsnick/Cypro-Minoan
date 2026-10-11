@@ -94,6 +94,41 @@
       "role": "catalogue_mapping_guide",
       "path": "docs/CATALOGUE-CONCORDANCE.md",
       "required": true
+    },
+    {
+      "role": "uncovered_record_controls",
+      "path": "research/uncovered-record-review-controls.json",
+      "required": true
+    },
+    {
+      "role": "met_open_image_controls",
+      "path": "research/met-open-image-controls.json",
+      "required": true
+    },
+    {
+      "role": "uncovered_record_guide",
+      "path": "docs/UNCOVERED-RECORD-REVIEW.md",
+      "required": true
+    },
+    {
+      "role": "met_api_331665",
+      "path": "research/source-metadata/met-331665.json",
+      "required": true
+    },
+    {
+      "role": "met_api_321391",
+      "path": "research/source-metadata/met-321391.json",
+      "required": true
+    },
+    {
+      "role": "met_api_240899",
+      "path": "research/source-metadata/met-240899.json",
+      "required": true
+    },
+    {
+      "role": "met_api_243938",
+      "path": "research/source-metadata/met-243938.json",
+      "required": true
     }
   ],
   "behavioral_gates": [

@@ -6,9 +6,10 @@
     {
       "id": "CM-PRE-001",
       "scope": "15 rich records without encoded occurrences; three newly covered Enkomi records still have only partial secondary coverage",
-      "status": "SOURCE_BLOCKED_OR_CITATION_ONLY",
-      "evidence": "Existing acquisition audit and occurrence denominator enumerate uncovered records; lawful primary sign sequences have not been established for these records. Museum metadata does not license reconstruction of protected editorial transcriptions.",
-      "next_route": "primary publication or independently encoded observation"
+      "status": "RECORD_LEVEL_SOURCE_DISPOSITIONS_REGISTERED",
+      "evidence": "research/uncovered-record-review-controls.json: eight dependent edition locators visually inspected; fourteen CC0 images on four Met candidates inspected; two museum-metadata-only objects; one current HTTP403 source block. No readings or completed expert review added.",
+      "next_route": "Object-specific source routes and blank expert decisions in the 15-record review controls.",
+      "blocked_by": "expert_collation_for_12_located_records_and_primary_evidence_access_for_3"
     },
     {
       "id": "CM-PRE-002",

@@ -117,8 +117,8 @@
     },
     {
       "path": "research/pre-expert-maximum.json",
-      "sha256": "839b247ab80cfa5de05542bdf34674ad70b45fc1431292055de3ae267b04d518",
-      "bytes": 3376,
+      "sha256": "a9b75993c8d4745b9e7215a46d8216024d3d4998d03ab7b7f1bcebbdb346fa27",
+      "bytes": 3903,
       "category": "research",
       "summary": {}
     },
@@ -231,6 +231,44 @@
       "sha256": "d79ca514ba54c09b1468e124e22fd487f192f7d23e4eab0872c24bfadd63a36e",
       "bytes": 1889,
       "category": "docs",
+      "summary": {}
+    },
+    {
+      "path": "research/uncovered-record-review-controls.json",
+      "sha256": "2ba2074c3782a0fb1f212a3fd2ecc9b4ee01514a9b0f766a1043008bc2b06fd3",
+      "bytes": 20369,
+      "category": "research",
+      "summary": {
+        "scope": "Exactly the 15 currently uncovered rich records; locators and questions, no new transcriptions.",
+        "boundary": "Source accessibility and engineering replay do not adjudicate sign identities, source dependence, reading direction or script membership. Human review remains blank."
+      }
+    },
+    {
+      "path": "research/met-open-image-controls.json",
+      "sha256": "38bcd8cf069cdf614a2ca7d81d6a495064865c1a529278123249a76b95db7d0c",
+      "bytes": 9168,
+      "category": "research",
+      "summary": {}
+    },
+    {
+      "path": "docs/UNCOVERED-RECORD-REVIEW.md",
+      "sha256": "dc3e8f37ab7220d91361675e4bbd6981d4cfa24e287eff42f7d353c04b94cec8",
+      "bytes": 4452,
+      "category": "docs",
+      "summary": {}
+    },
+    {
+      "path": "scripts/validate_uncovered_review.py",
+      "sha256": "b66e7806816725d50b2025f111eb141cb97857473a339ed39d58ba4bce92adad",
+      "bytes": 5020,
+      "category": "scripts",
+      "summary": {}
+    },
+    {
+      "path": "scripts/test_uncovered_review.py",
+      "sha256": "e35476a84381c4ab365f240466902aaba545bf48f1e2b9e03aba93541d3e37dd",
+      "bytes": 1377,
+      "category": "scripts",
       "summary": {}
     }
   ],

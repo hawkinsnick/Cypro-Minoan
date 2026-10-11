@@ -1,0 +1,498 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-11",
+  "scope": "Exactly the 15 currently uncovered rich records; locators and questions, no new transcriptions.",
+  "items": [
+    {
+      "record_id": "CMOC-0025",
+      "native_record": "corpus/inscriptions/CMOC-0025.json",
+      "source_leads": [
+        {
+          "source_id": "louvre-cm-25",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131597",
+          "locator": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 25)"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "url": "https://hdl.handle.net/2445/99521",
+          "locator": "Appendix B; PDF pages 463"
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "siglum": "ENKO Abou 022",
+      "source_pdf_sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+      "visually_inspected_thesis_pdf_pages": [
+        463
+      ],
+      "printed_thesis_pages": [
+        457
+      ],
+      "reported_primary_edition_locator": {
+        "source_id": "olivier2007",
+        "printed_pages": [
+          76
+        ],
+        "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
+      },
+      "question": "Compare source-qualified segmentation and certainty; distinguish the earlier edition from the thesis discussion.",
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+    },
+    {
+      "record_id": "CMOC-0026",
+      "native_record": "corpus/inscriptions/CMOC-0026.json",
+      "source_leads": [
+        {
+          "source_id": "louvre-cm-26",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131598",
+          "locator": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 26)"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "url": "https://hdl.handle.net/2445/99521",
+          "locator": "Appendix B; PDF pages 463"
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "siglum": "ENKO Abou 023",
+      "source_pdf_sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+      "visually_inspected_thesis_pdf_pages": [
+        463
+      ],
+      "printed_thesis_pages": [
+        457
+      ],
+      "reported_primary_edition_locator": {
+        "source_id": "olivier2007",
+        "printed_pages": [
+          76
+        ],
+        "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
+      },
+      "question": "Compare the competing identifications at the second and fifth sign positions; retain both authorities.",
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+    },
+    {
+      "record_id": "CMOC-0027",
+      "native_record": "corpus/inscriptions/CMOC-0027.json",
+      "source_leads": [
+        {
+          "source_id": "louvre-cm-27",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131602",
+          "locator": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 27)"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "url": "https://hdl.handle.net/2445/99521",
+          "locator": "Appendix B; PDF pages 463, 464"
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "siglum": "ENKO Abou 024",
+      "source_pdf_sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+      "visually_inspected_thesis_pdf_pages": [
+        463,
+        464
+      ],
+      "printed_thesis_pages": [
+        457,
+        458
+      ],
+      "reported_primary_edition_locator": {
+        "source_id": "olivier2007",
+        "printed_pages": [
+          77
+        ],
+        "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
+      },
+      "question": "Compare the competing identification at the third sign position and the supporting images.",
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+    },
+    {
+      "record_id": "CMOC-0028",
+      "native_record": "corpus/inscriptions/CMOC-0028.json",
+      "source_leads": [
+        {
+          "source_id": "louvre-cm-28",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131603",
+          "locator": "Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 28)"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "url": "https://hdl.handle.net/2445/99521",
+          "locator": "Appendix B; PDF pages 464"
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "siglum": "ENKO Abou 025",
+      "source_pdf_sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+      "visually_inspected_thesis_pdf_pages": [
+        464
+      ],
+      "printed_thesis_pages": [
+        458
+      ],
+      "reported_primary_edition_locator": {
+        "source_id": "olivier2007",
+        "printed_pages": [
+          77
+        ],
+        "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
+      },
+      "question": "Check all positions, orientation and complete object coverage against the cited primary edition.",
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+    },
+    {
+      "record_id": "CMOC-0032",
+      "native_record": "corpus/inscriptions/CMOC-0032.json",
+      "source_leads": [
+        {
+          "source_id": "louvre-cm-32",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131607",
+          "locator": "Musée du Louvre Collections: inscribed Cypro-Minoan clay ball AM 2235"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "url": "https://hdl.handle.net/2445/99521",
+          "locator": "Appendix B; PDF pages 464"
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "siglum": "ENKO Abou 029",
+      "source_pdf_sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+      "visually_inspected_thesis_pdf_pages": [
+        464
+      ],
+      "printed_thesis_pages": [
+        458
+      ],
+      "reported_primary_edition_locator": {
+        "source_id": "olivier2007",
+        "printed_pages": [
+          79
+        ],
+        "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
+      },
+      "question": "Check all positions, orientation and complete object coverage against the cited primary edition.",
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+    },
+    {
+      "record_id": "CMOC-0033",
+      "native_record": "corpus/inscriptions/CMOC-0033.json",
+      "source_leads": [
+        {
+          "source_id": "louvre-cm-33",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131606",
+          "locator": "Musée du Louvre Collections: inscribed Cypro-Minoan clay ball AM 2234"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "url": "https://hdl.handle.net/2445/99521",
+          "locator": "Appendix B; PDF pages 465"
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "siglum": "ENKO Abou 030",
+      "source_pdf_sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+      "visually_inspected_thesis_pdf_pages": [
+        465
+      ],
+      "printed_thesis_pages": [
+        459
+      ],
+      "reported_primary_edition_locator": {
+        "source_id": "olivier2007",
+        "printed_pages": [
+          80
+        ],
+        "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
+      },
+      "question": "Check all positions, orientation and complete object coverage against the cited primary edition.",
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+    },
+    {
+      "record_id": "CMOC-0209",
+      "native_record": "corpus/inscriptions/CMOC-0209.json",
+      "source_leads": [
+        {
+          "source_id": "louvre-cm-209",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131738",
+          "locator": "Musée du Louvre Collections: Cypro-Minoan object AM 2336"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "url": "https://hdl.handle.net/2445/99521",
+          "locator": "Appendix B; PDF pages 533, 538, 541"
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "siglum": "ENKO Atab 004",
+      "source_pdf_sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+      "visually_inspected_thesis_pdf_pages": [
+        533,
+        538,
+        541
+      ],
+      "printed_thesis_pages": [
+        527,
+        532,
+        535
+      ],
+      "reported_primary_edition_locator": {
+        "source_id": "olivier2007",
+        "printed_pages": [
+          496,
+          497
+        ],
+        "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
+      },
+      "question": "Collate the top edge and A.I, A.II and B zones separately; preserve damage, restorations and proposed corrections.",
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+    },
+    {
+      "record_id": "CMOC-0216",
+      "native_record": "corpus/inscriptions/CMOC-0216.json",
+      "source_leads": [
+        {
+          "source_id": "louvre-ao14747",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010139586",
+          "locator": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "url": "https://hdl.handle.net/2445/99521",
+          "locator": "Appendix B; PDF pages 557"
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "DEPENDENT_EDITION_LOCATED_EXPERT_COLLATION_PENDING",
+      "siglum": "RASH Mvas 001",
+      "source_pdf_sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+      "visually_inspected_thesis_pdf_pages": [
+        557
+      ],
+      "printed_thesis_pages": [
+        551
+      ],
+      "reported_primary_edition_locator": {
+        "source_id": "olivier2007",
+        "printed_pages": [
+          408
+        ],
+        "status": "REPORTED_BY_INSPECTED_THESIS_NOT_DIRECT_PRIMARY_INSPECTION"
+      },
+      "question": "Adjudicate competing reading direction without selecting a preferred interpretation automatically.",
+      "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness."
+    },
+    {
+      "record_id": "CMOC-BM-1898.1201.204",
+      "native_record": "corpus/inscriptions/CMOC-BM-1898.1201.204.json",
+      "source_leads": [
+        {
+          "source_id": "bm-1898.1201.204",
+          "url": "https://www.britishmuseum.org/collection/object/G_1898-1201-204",
+          "locator": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "SOURCE_ACCESS_BLOCKED",
+      "access_result": "Official collection URL returned HTTP 403 on 2026-10-11; no bypass attempted.",
+      "question": "Acquire an accessible official image/publication and confirm inventory, sign positions and source lineage before encoding.",
+      "next_route": "British Museum official publication or a lawful accessible institutional image record."
+    },
+    {
+      "record_id": "CMOC-LVR-AM1639",
+      "native_record": "corpus/inscriptions/CMOC-LVR-AM1639.json",
+      "source_leads": [
+        {
+          "source_id": "louvre-am1639",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010131034",
+          "locator": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "MUSEUM_METADATA_LOCATED_PRIMARY_SIGN_EVIDENCE_PENDING",
+      "question": "Obtain adequate sign-bearing images or a published sign-level edition with object-specific locators; resolve mark identification and source lineage.",
+      "next_route": "Donnelly 2020 pp. 104–105, fig. 3; Masson 1957 pp. 14–15, fig. 9, no. 9 (bibliography in Louvre record)."
+    },
+    {
+      "record_id": "CMOC-LVR-AM2716",
+      "native_record": "corpus/inscriptions/CMOC-LVR-AM2716.json",
+      "source_leads": [
+        {
+          "source_id": "louvre-am2716",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010132112",
+          "locator": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "MUSEUM_METADATA_LOCATED_PRIMARY_SIGN_EVIDENCE_PENDING",
+      "question": "Obtain adequate sign-bearing images or a published sign-level edition with object-specific locators; resolve mark identification and source lineage.",
+      "next_route": "Louvre AM2716 object record and institutionally supplied adequate sign-bearing image."
+    },
+    {
+      "record_id": "CMOC-MET-2008.27",
+      "native_record": "corpus/inscriptions/CMOC-MET-2008.27.json",
+      "source_leads": [
+        {
+          "source_id": "met-2008.27",
+          "url": "https://www.metmuseum.org/art/collection/search/331665",
+          "locator": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "CC0_IMAGE_EVIDENCE_LOCATED_EXPERT_IDENTIFICATION_PENDING",
+      "met_object_id": 331665,
+      "priority_image_index": 0,
+      "image_control": "research/met-open-image-controls.json",
+      "question": "Distinguish writing from seal iconography and the modern impression; annotate actual mark positions and any unreadability.",
+      "source_dependency": "A modern impression or additional photograph does not add an independent inscription witness."
+    },
+    {
+      "record_id": "CMOC-MET-74.51.1312",
+      "native_record": "corpus/inscriptions/CMOC-MET-74.51.1312.json",
+      "source_leads": [
+        {
+          "source_id": "met-74.51.1312",
+          "url": "https://www.metmuseum.org/art/collection/search/240899",
+          "locator": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "CC0_IMAGE_EVIDENCE_LOCATED_EXPERT_IDENTIFICATION_PENDING",
+      "met_object_id": 240899,
+      "priority_image_index": 5,
+      "image_control": "research/met-open-image-controls.json",
+      "question": "Review the handle-base detail; preserve possible script membership and distinguish a potmark from writing.",
+      "source_dependency": "A modern impression or additional photograph does not add an independent inscription witness."
+    },
+    {
+      "record_id": "CMOC-MET-74.51.4316",
+      "native_record": "corpus/inscriptions/CMOC-MET-74.51.4316.json",
+      "source_leads": [
+        {
+          "source_id": "met-74.51.4316",
+          "url": "https://www.metmuseum.org/art/collection/search/321391",
+          "locator": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "CC0_IMAGE_EVIDENCE_LOCATED_EXPERT_IDENTIFICATION_PENDING",
+      "met_object_id": 321391,
+      "priority_image_index": 0,
+      "image_control": "research/met-open-image-controls.json",
+      "question": "Retain possible Cypro-Minoan classification; distinguish proposed writing from rosette, dots and iconography.",
+      "source_dependency": "A modern impression or additional photograph does not add an independent inscription witness."
+    },
+    {
+      "record_id": "CMOC-MET-74.51.5057A",
+      "native_record": "corpus/inscriptions/CMOC-MET-74.51.5057A.json",
+      "source_leads": [
+        {
+          "source_id": "met-74.51.5057a",
+          "url": "https://www.metmuseum.org/art/collection/search/243938",
+          "locator": "Inventory/metadata locator only; earlier script/sign assertions are not independently reverified by registering this source."
+        }
+      ],
+      "reviewer": null,
+      "review_date": null,
+      "decision": "UNREVIEWED",
+      "independent_review_complete": false,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "status": "CC0_IMAGE_EVIDENCE_LOCATED_EXPERT_IDENTIFICATION_PENDING",
+      "met_object_id": 243938,
+      "priority_image_index": 2,
+      "image_control": "research/met-open-image-controls.json",
+      "question": "Review the base marks; preserve Cypro-Minoan versus early Archaic Phoenician alternatives and unresolved orientation.",
+      "source_dependency": "A modern impression or additional photograph does not add an independent inscription witness."
+    }
+  ],
+  "summary": {
+    "uncovered_rich_records": 15,
+    "dependent_edition_located": 8,
+    "cc0_visual_evidence_located": 4,
+    "museum_metadata_only": 2,
+    "access_blocked": 1,
+    "expert_reviews_completed": 0,
+    "canonical_readings_added": 0
+  },
+  "expert_validation_granted": false,
+  "boundary": "Source accessibility and engineering replay do not adjudicate sign identities, source dependence, reading direction or script membership. Human review remains blank."
+}

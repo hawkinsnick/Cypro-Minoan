@@ -25,3 +25,5 @@ Attribution does not imply endorsement by the project or contributors.
 
 ## Existing copies
 This policy applies to material distributed under these terms. It does not revoke permissions already granted for copies previously released under an earlier irrevocable license.
+
+Met Open Access component exception: `research/source-metadata/met-*.json` contains basic accession data supplied by The Metropolitan Museum of Art under CC0-1.0. The public-domain image URLs and exact image hashes in `research/met-open-image-controls.json` are governed by the Met’s CC0 policy (https://www.metmuseum.org/hubs/open-access). Project-original noncommercial terms do not restrict these upstream components. Images are externally linked, not redistributed here; this does not cover Louvre/British Museum photographs or protected editorial readings.
