@@ -2,10 +2,10 @@
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
   "config_sha256": "d6c8f5dd55cfe767d94589002652c3b0663e45c23aa1d0d700e1ed9ef4686a51",
-  "evidence_fingerprint": "34cd5941cde54f63d9e5b71f62e9ac25f952a76459ce4d93aeba8f398c3af0f5",
+  "evidence_fingerprint": "fe029337dd1a52afd79c7e52cb1e693880de674cec03f6da2407faa9f476db8a",
   "input_sha256": {
     "analysis/catalogue-mapping-audit.json": "69c0e65bd594ca04b587f4fbd15d67bca85d274580023300c486719c5fd8a372",
-    "analysis/current-status.json": "368b9d891fc517b6a30698fa6446f5e841311c2fbb51c9ee7eb9fe9656a47b6f",
+    "analysis/current-status.json": "c73040216da3a720573f686a0d2574ea7ce0a00b9b10bce815589db401050d46",
     "analysis/occurrence-coverage-v1.json": "00539e7362042e52b8c6891b347bf12954efc628e853bd53631b04df2628f943",
     "catalogues/master.json": "bd901ce1cdc48f7dda9d19435f0416a5bbabce304b6ebf784bc78f0048406e9f",
     "catalogues/reconciliation-ledger.json": "f8130ea475d0489d1f234571a7271a49609ccf08f728df25103e0f023bf6d241",

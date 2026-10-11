@@ -53,7 +53,7 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "4fd1eb1b9e24813eb990a13e3afce7545370ac1ae0f4bf7091c1e1df0f3f5398",
+      "sha256": "e342addac0c26789ed2cd202743aea4b88a3b7d85698d4d266733c7c5f486039",
       "bytes": 14099,
       "category": "research",
       "summary": {
@@ -134,7 +134,7 @@
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "e8da776ed5af8b56db17b229e6bbb178cbc5a2a350d1c2b43b8c5ed086c8c94b",
+      "sha256": "658b22020d94256f9e1b24c63c450de45d3072682a1c76165a7c5b543748f396",
       "bytes": 74510,
       "category": "analysis",
       "summary": {
@@ -343,8 +343,8 @@
     },
     {
       "path": "scripts/assertion_views.py",
-      "sha256": "c998a1fb2057183e9de3af1492d32e64640ed85b36e64832798c951b16131e8c",
-      "bytes": 3954,
+      "sha256": "4de1e2c6cbd98f34ed5090380aa98ad6877332bcb64f3f40947174a1fa527a2b",
+      "bytes": 3974,
       "category": "scripts",
       "summary": {}
     },
@@ -382,8 +382,8 @@
     },
     {
       "path": "exports/qualified-assertions.csv",
-      "sha256": "c76aef080feab40e91bdc8869bf14e5164901a5891686398573918edc33ac940",
-      "bytes": 38934,
+      "sha256": "f5950dc9b323eddcc57e4d8d2d0af3b4e35ef749d7b83a451382d93ce7344268",
+      "bytes": 38917,
       "category": "exports",
       "summary": {}
     }
@@ -416,7 +416,7 @@
       "status": "measured"
     }
   },
-  "family_report_sha256": "4fd1eb1b9e24813eb990a13e3afce7545370ac1ae0f4bf7091c1e1df0f3f5398",
+  "family_report_sha256": "e342addac0c26789ed2cd202743aea4b88a3b7d85698d4d266733c7c5f486039",
   "implementation_sha256": "71ceb7d7107428014ae9f43ca10d402805fb999428cb67549214d6b2b8bbc406",
   "assertion_view_sha256": "b019937e64282c81978b3df2cff528a8b1f42c0c93fcdb1897ab5a5040ea578a",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."

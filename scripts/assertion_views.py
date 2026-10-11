@@ -17,7 +17,7 @@ def build(root=ROOT):
   views.append({'assertion_id':row[key],'record_id':rid,'source_assertion':row,'reconciliation_context':q,'source_disagreements':disputes,'identity_context':identity[rid],'certainty_scope':'Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.','full_transcription_inferred':False,'independent_review_complete':False})
  return {'schema_version':'1.0','scope':'Existing assertions joined to full encoded reconciliation and identity context; no new readings or occurrences.','preferred_researcher_view':True,'source_literal_files_unchanged':True,'assertion_count':len(views),'assertions':views}
 def csv_text(data):
- out=io.StringIO(newline='');w=csv.writer(out);w.writerow(['assertion_id','record_id','source_assertion_json','reconciliation_context_json','source_disagreements_json','identity_context_json','certainty_scope','full_transcription_inferred','independent_review_complete'])
+ out=io.StringIO(newline='');w=csv.writer(out,lineterminator="\n");w.writerow(['assertion_id','record_id','source_assertion_json','reconciliation_context_json','source_disagreements_json','identity_context_json','certainty_scope','full_transcription_inferred','independent_review_complete'])
  for r in data['assertions']:w.writerow([r['assertion_id'],r['record_id']]+[json.dumps(r[k],ensure_ascii=False,sort_keys=True) for k in ['source_assertion','reconciliation_context','source_disagreements','identity_context']]+[r['certainty_scope'],False,False])
  return out.getvalue()
 def validate(root=ROOT):
