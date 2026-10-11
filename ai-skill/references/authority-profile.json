@@ -154,6 +154,11 @@
       "role": "identity_reconciliation",
       "path": "research/identity-reconciliation-v2.json",
       "required": true
+    },
+    {
+      "role": "existing_assertion_check",
+      "path": "research/donnelly-existing-assertion-check.json",
+      "required": true
     }
   ],
   "behavioral_gates": [

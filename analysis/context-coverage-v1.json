@@ -2188,16 +2188,12 @@
     {
       "source_id": "bm-1898.1201.204",
       "status": "LOCATOR_LEAD_ACCESS_FAILED"
-    },
-    {
-      "source_id": "donnelly2020",
-      "status": "BIBLIOGRAPHY_CHECKED_VIA_LOUVRE_ARTICLE_UNINSPECTED"
     }
   ],
   "input_digests": [
     {
       "path": "bibliography/sources.json",
-      "sha256": "9bd6ccf0b9f83134cd9bdde132040a66c91914959a9304c3ad73579fd67d922a"
+      "sha256": "9f6127c1fa835472103ce297917419026d0c2cce438f0a1ed4aef877950d48a7"
     },
     {
       "path": "catalogues/master.json",
@@ -2257,7 +2253,7 @@
     },
     {
       "path": "corpus/inscriptions/CMOC-LVR-AM1639.json",
-      "sha256": "60b92eafc6c1fb085d555e965b689d641ea269536fb08620975b30efa83c9633"
+      "sha256": "e3397b38c714e7582f6c0ffc13abfa2b306089e8f762aad57e05ce633383f345"
     },
     {
       "path": "corpus/inscriptions/CMOC-LVR-AM2716.json",

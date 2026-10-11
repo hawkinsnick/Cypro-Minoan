@@ -62,3 +62,5 @@ Use `research/source-check-2026-10-11.json`, `research/source-reconciliation.jso
 ## Existing evidence: reconciliation and identity controls
 
 Before source certainty, apparatus, duplicate or object-identity claims, read `research/reference-reconciliation-v2.json`, `research/identity-reconciliation-v2.json` and `docs/EXISTING-EVIDENCE-RECONCILIATION.md`. Literal source strings are frozen; read the apparatus ledger alongside them. Primary agreement of numeric labels is not independent sign verification. Unidentified marks and conditional alternatives are not added canonical occurrences. Namespaces and core/candidate status cannot be flattened, and zero exact alias collisions cannot establish physical uniqueness.
+
+Selected Donnelly 2020 pp. 104–105 and Fig. 3 now confirm the attribution already encoded for Louvre AM 1639. Consult `research/donnelly-existing-assertion-check.json`; retain probable source status and the figure’s Masson lineage. Comparisons with ADD##219 do not establish object identity; no numbered join or new occurrence was added.

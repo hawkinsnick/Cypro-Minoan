@@ -3,7 +3,7 @@ import collections,hashlib,json
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 IS_CH=False
-PINS={'research/reference-reconciliation-v2.json': 'd87192a6a4f922f62d3a8376451f27e2741388ab6f28c5802bb9e3fc25e38f4d', 'research/identity-reconciliation-v2.json': 'f1800080d2e0d3b28998f179f478b69315e02f04d52ebb2598a3db8fce3ead66'}
+PINS={'research/reference-reconciliation-v2.json': '5b9d01ef7296c7ebcebdbae44b38c239b8fda0d092dc75584c4bed1466e01c02', 'research/identity-reconciliation-v2.json': 'f1800080d2e0d3b28998f179f478b69315e02f04d52ebb2598a3db8fce3ead66', 'research/donnelly-existing-assertion-check.json': 'e6d193dfee40d65b0fbfacbc96ff007992193019ab65d8b532ea70edf9963948'}
 SYSTEMS={'Olivier 2007 catalogue','Ferrara 2013 catalogue','Ferrara/addendum catalogue'}
 def load(root,p):return json.loads((root/p).read_text())
 def digest(x):return hashlib.sha256(json.dumps(x,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()
@@ -17,6 +17,10 @@ def alias_key(namespace,repository,literal):return namespace,repository,literal
 
 def validate(root=ROOT):
  for p,pin in PINS.items():require(digest(load(root,p))==pin,'audited reconciliation changed: '+p)
+ if not IS_CH:
+  checked=load(root,'research/donnelly-existing-assertion-check.json');require(checked['new_occurrences_added']==0 and checked['expert_acceptance_granted'] is False,'existing source check promoted')
+  record=load(root,'corpus/inscriptions/CMOC-LVR-AM1639.json');assertions=[a for a in record['assertions'] if a['assertion_type']=='scholarly_sign_identification']
+  require(len(assertions)==1 and assertions[0]['value']=='CM102' and assertions[0]['uncertainty']=='probable','existing metadata source uncertainty changed')
  ref=load(root,'research/reference-reconciliation-v2.json');identity=load(root,'research/identity-reconciliation-v2.json');freeze=ref['frozen_inventory']
  require(hashlib.sha256((root/freeze['path']).read_bytes()).hexdigest()==freeze['sha256'],'reading inventory changed during reconciliation-only work')
  require(ref['independent_review_complete'] is False and identity['physical_duplicates_adjudicated'] is None,'unreviewed scientific promotion')

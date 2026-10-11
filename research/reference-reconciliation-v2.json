@@ -285,5 +285,8 @@
   ],
   "complete_existing_inventory_accounting": true,
   "primary_disagreements_resolved": false,
-  "independent_review_complete": false
+  "independent_review_complete": false,
+  "metadata_assertion_checks": [
+    "research/donnelly-existing-assertion-check.json"
+  ]
 }

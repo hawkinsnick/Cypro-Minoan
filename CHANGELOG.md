@@ -71,3 +71,5 @@ Four partial Valério 2016 assertions were checked on printed pp. 457–458 (PDF
 ## Existing-evidence reconciliation — 2026-10-11
 
 Reading coverage is unchanged. [Existing-evidence reconciliation](docs/EXISTING-EVIDENCE-RECONCILIATION.md) now accounts for every existing assertion and identity, preserving source apparatus and unresolved scholarly decisions.
+
+Selected Donnelly 2020 pp. 104–105 and Fig. 3 now confirm the attribution already encoded for Louvre AM 1639. Consult `research/donnelly-existing-assertion-check.json`; retain probable source status and the figure’s Masson lineage. Comparisons with ADD##219 do not establish object identity; no numbered join or new occurrence was added.
