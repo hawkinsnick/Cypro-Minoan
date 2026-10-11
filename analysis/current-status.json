@@ -46,15 +46,15 @@
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "de54567f547741a61101a26998ee3b2fb2b7cb5635f00c5aded20dca210bff6e"
+      "sha256": "fe8ffd93797baae6c314624e8a344b0dc1ff08f8f8a373cec2d85497c5f620ff"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "6e76f6fae7bca24143556b19feb1eb673149d79f3e565601ab87dc772dd03568"
+      "sha256": "bafd74af74796f640b365bf1cdb5c4a098de71cb435335c4ab81a57a128ef8e4"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "351cfe14f363d5c1b6c9cd5511600f477b416552a2bc0e90beafffc040533710"
+      "sha256": "5071afd3a7d77988bdae7a534dcf1e747a749a0ac8bb311116c2f89cb2724cf7"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -178,7 +178,7 @@
     },
     {
       "path": "docs/UNCOVERED-RECORD-REVIEW.md",
-      "sha256": "dc3e8f37ab7220d91361675e4bbd6981d4cfa24e287eff42f7d353c04b94cec8"
+      "sha256": "b1af5c314d7ec395f9359aa850bfee7f0328a7286ce815fa566d8ef039dc626e"
     },
     {
       "path": "scripts/validate_uncovered_review.py",
