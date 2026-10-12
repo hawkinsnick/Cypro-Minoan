@@ -19,6 +19,15 @@ Encoded occurrences: 1; a complete transcription is not inferred.
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-25"} | source_reported | corpus/inscriptions/CMOC-0025.json |
 | museum_date_range | {"label": "Late Cypriot", "start_bce": 1600, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-25', 'locator': 'museum record, Date'}] |
 
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-0025-VALERIO2016-source-second-sequence-4; literal source: 09.
+  Source: valerio2016thesis / printed p. 457 (PDF 463), ##025.
+  Comparison: DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.
+  Editorial note: Valério explicitly supports label 09 at this position; other signs are not encoded by this check.
+
 Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - [louvre-cm-25](https://collections.louvre.fr/ark:/53355/cl010131597): Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 25)
@@ -39,9 +48,28 @@ Encoded occurrences: 2; a complete transcription is not inferred.
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-26"} | source_reported | corpus/inscriptions/CMOC-0026.json |
 | museum_date_range | {"label": "Late Cypriot", "start_bce": 1600, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-26', 'locator': 'museum record, Date'}] |
 
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-0026-VALERIO2016-source-sequence-2; literal source: 73.
+  Source: valerio2016thesis / printed p. 457 (PDF 463), ##026.
+  Comparison: DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Unresolved source disagreement: {"comparison_id": "CMOCC-0026-VALERIO2016-source-sequence-2-comparison", "record_id": "CMOC-0026", "field": "published_sign_label", "zone_id": "source-sequence", "position": 2, "assertions": [{"source_id": "olivier2007", "value": "75", "locator": "HoChyMin 76 ; as reported by Valério 2016", "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"}, {"source_id": "valerio2016thesis", "value": "73", "locator": "printed p. 457 (PDF 463), ##026", "inspection": "DIRECT_SECONDARY_PDF"}], "status": "UNRESOLVED_PUBLISHED_REASSESSMENT", "interventions": []}
+  Editorial note: Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.
+  Editorial note: Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved.
+
+- Assertion: CMOCC-0026-VALERIO2016-source-sequence-5; literal source: 73.
+  Source: valerio2016thesis / printed p. 457 (PDF 463), ##026.
+  Comparison: DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Unresolved source disagreement: {"comparison_id": "CMOCC-0026-VALERIO2016-source-sequence-5-comparison", "record_id": "CMOC-0026", "field": "published_sign_label", "zone_id": "source-sequence", "position": 5, "assertions": [{"source_id": "olivier2007", "value": "75", "locator": "HoChyMin 76 ; as reported by Valério 2016", "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"}, {"source_id": "valerio2016thesis", "value": "73", "locator": "printed p. 457 (PDF 463), ##026", "inspection": "DIRECT_SECONDARY_PDF"}], "status": "UNRESOLVED_PUBLISHED_REASSESSMENT", "interventions": []}
+  Editorial note: Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.
+  Editorial note: Valério proposes 73 against reported Olivier label 75; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved.
+
 Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - [louvre-cm-26](https://collections.louvre.fr/ark:/53355/cl010131598): Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 26)
+- olivier2007: Édition holistique des textes chypro-minoens
 - [valerio2016thesis](https://hdl.handle.net/2445/99521): Investigating the Signs and Sounds of Cypro-Minoan
 
 ## CMOC-0027
@@ -59,9 +87,20 @@ Encoded occurrences: 1; a complete transcription is not inferred.
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-27"} | source_reported | corpus/inscriptions/CMOC-0027.json |
 | museum_date_range | {"label": "Late Cypriot", "start_bce": 1600, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-27', 'locator': 'museum record, Date'}] |
 
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-0027-VALERIO2016-source-first-sequence-3; literal source: 13.
+  Source: valerio2016thesis / printed p. 457 (PDF 463), ##027; discussion continues printed p. 458 / PDF 464.
+  Comparison: DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Unresolved source disagreement: {"comparison_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3-comparison", "record_id": "CMOC-0027", "field": "published_sign_label", "zone_id": "source-first-sequence", "position": 3, "assertions": [{"source_id": "olivier2007", "value": "08", "locator": "HoChyMin 77 ; as reported by Valério 2016", "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"}, {"source_id": "valerio2016thesis", "value": "13", "locator": "printed p. 457 (PDF 463), ##027; discussion continues printed p. 458 / PDF 464", "inspection": "DIRECT_SECONDARY_PDF"}], "status": "UNRESOLVED_PUBLISHED_REASSESSMENT", "interventions": []}
+  Editorial note: Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.
+  Editorial note: Valério proposes 13 against reported Olivier label 08; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved.
+
 Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - [louvre-cm-27](https://collections.louvre.fr/ark:/53355/cl010131602): Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 27)
+- olivier2007: Édition holistique des textes chypro-minoens
 - [valerio2016thesis](https://hdl.handle.net/2445/99521): Investigating the Signs and Sounds of Cypro-Minoan
 
 ## CMOC-0028
@@ -98,6 +137,15 @@ Encoded occurrences: 1; a complete transcription is not inferred.
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-29"} | source_reported | corpus/inscriptions/CMOC-0029.json |
 | museum_date_range | {"label": "Late Cypriot", "start_bce": 1600, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-29', 'locator': 'museum record, Date'}] |
 
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-ENK029-VETTERS2011-3; literal source: 97.
+  Source: vetters2011 / p. 16, footnote 126, Olivier 2007 no. 029 (3rd sign).
+  Comparison: DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Partial source assertion citing Olivier 2007; other positions are not encoded.
+  Editorial note: Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established.
+
 Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - [louvre-cm-29](https://collections.louvre.fr/ark:/53355/cl010131601): Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 29)
@@ -118,6 +166,15 @@ Encoded occurrences: 1; a complete transcription is not inferred.
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-30"} | source_reported | corpus/inscriptions/CMOC-0030.json |
 | museum_date_range | {"label": "Late Cypriot", "start_bce": 1600, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-30', 'locator': 'museum record, Date'}] |
 
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-ENK030-VETTERS2011-7; literal source: 97.
+  Source: vetters2011 / p. 16, footnote 126, Olivier 2007 no. 030 (7th sign).
+  Comparison: DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Partial source assertion citing Olivier 2007; other positions are not encoded.
+  Editorial note: Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established.
+
 Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - [louvre-cm-30](https://collections.louvre.fr/ark:/53355/cl010131604): Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 30)
@@ -137,6 +194,15 @@ Encoded occurrences: 1; a complete transcription is not inferred.
 | inventory_number | AM 2233 | native_record | corpus/inscriptions/CMOC-0031.json |
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-31"} | source_reported | corpus/inscriptions/CMOC-0031.json |
 | museum_date_range | {"label": "Late Cypriot", "start_bce": 1600, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-31', 'locator': 'Places and dates'}] |
+
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-ENK031-VETTERS2011-3; literal source: 97.
+  Source: vetters2011 / p. 16, footnote 126, Olivier 2007 no. 031 (3rd sign).
+  Comparison: DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Partial source assertion citing Olivier 2007; other positions are not encoded.
+  Editorial note: Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established.
 
 Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
@@ -367,6 +433,26 @@ Encoded occurrences: 3; a complete transcription is not inferred.
 | inventory_number | None | native_record | corpus/inscriptions/CMOC-TIRY-ADD244.json |
 | find_context | {"findplace": "Tiryns, Lower Citadel", "source_id": "vetters2011"} | source_reported | corpus/inscriptions/CMOC-TIRY-ADD244.json |
 
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-TIRY244-1; literal source: 41.
+  Source: vetters2011 / pp. 16–17, Interpretation of the Signs.
+  Comparison: DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Primary-publication occurrence check; published sign numbering retained as source assertion.
+
+- Assertion: CMOCC-TIRY244-2; literal source: 41.
+  Source: vetters2011 / pp. 16–17, Interpretation of the Signs.
+  Comparison: DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Primary-publication occurrence check; published sign numbering retained as source assertion.
+
+- Assertion: CMOCC-TIRY244-3; literal source: 97.
+  Source: vetters2011 / pp. 16–17, Interpretation of the Signs.
+  Comparison: DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Primary-publication occurrence check; published sign numbering retained as source assertion.
+
 Missing evidence: DATED_ASSERTION_ABSENT, INDEPENDENT_REVIEW_PENDING.
 
 - [bourogiannis2024](https://www.researchgate.net/publication/384690092): Contextualising Cypriot writing overseas: Cypro-Minoan and Cypro-Syllabic inscriptions found in Greece
@@ -386,6 +472,23 @@ Encoded occurrences: 3; a complete transcription is not inferred.
 | inventory_number | None | native_record | corpus/inscriptions/CMOC-TIRY-ADD245.json |
 | find_context | {"findplace": "Tiryns, Lower Citadel", "source_id": "davis-maran-prillwitz-wirghova2023"} | source_reported | corpus/inscriptions/CMOC-TIRY-ADD245.json |
 
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-TIRY245-H1-1; literal source: CM025.
+  Source: davis-maran-prillwitz-wirghova2023 / §3.4 Text.
+  Comparison: DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+
+- Assertion: CMOCC-TIRY245-H1-2; literal source: CM087.
+  Source: davis-maran-prillwitz-wirghova2023 / §3.4 Text.
+  Comparison: DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+
+- Assertion: CMOCC-TIRY245-H2-M1; literal source: CM005.
+  Source: davis-maran-prillwitz-wirghova2023 / §3.4 Text.
+  Comparison: DIRECT_PRIMARY_ASSERTION_AT_PREVIOUS_CHECKPOINT.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+
 Missing evidence: DATED_ASSERTION_ABSENT, INDEPENDENT_REVIEW_PENDING.
 
 - [davis-maran-prillwitz-wirghova2023](https://doi.org/10.1515/kadmos-2023-0001): A Canaanite jar with a Cypro-Minoan inscription from Tiryns: TIRY Avas 001
@@ -403,6 +506,26 @@ Encoded occurrences: 3; a complete transcription is not inferred.
 | repository | None | native_record | corpus/inscriptions/CMOC-TIRY-ADD246.json |
 | inventory_number | None | native_record | corpus/inscriptions/CMOC-TIRY-ADD246.json |
 | find_context | {"findplace": "Tiryns, Lower Citadel", "source_id": "davis-maran-wirghova2014"} | source_reported | corpus/inscriptions/CMOC-TIRY-ADD246.json |
+
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-TIRY246-1; literal source: 87.
+  Source: bourogiannis2024 / p. 56, jug handle discussion.
+  Comparison: DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Source-attributed transnumeration; no project sign-equivalence inference.
+
+- Assertion: CMOCC-TIRY246-2; literal source: 50.
+  Source: bourogiannis2024 / p. 56, jug handle discussion.
+  Comparison: DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Source-attributed transnumeration; no project sign-equivalence inference.
+
+- Assertion: CMOCC-TIRY246-3; literal source: 05.
+  Source: bourogiannis2024 / p. 56, jug handle discussion.
+  Comparison: DEPENDENT_SOURCE_ASSERTION; PRIMARY_OBJECT_READING_NOT_ADJUDICATED.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Source-attributed transnumeration; no project sign-equivalence inference.
 
 Missing evidence: DATED_ASSERTION_ABSENT, INDEPENDENT_REVIEW_PENDING.
 

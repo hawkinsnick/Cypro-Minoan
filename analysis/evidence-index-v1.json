@@ -16,7 +16,10 @@
       "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b",
       "bytes": 8806,
       "category": "occurrences",
-      "summary": {}
+      "summary": {
+        "reading_warning": "Original source literals may omit primary apparatus. Use the qualified assertion view before analysis.",
+        "qualified_view": "research/qualified-assertion-views.json"
+      }
     },
     {
       "path": "analysis/5.2.3_tiryns-clay-ball-primary-check.json",
@@ -43,14 +46,14 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "23182f6c88dc5c6803c3853c891e6b09940a21749052fd6741659948982e718b",
-      "bytes": 8689,
+      "sha256": "6b81301d679b8d0894e206f653c7feb77b78421f31630a53835e46e4eef9a90f",
+      "bytes": 8776,
       "category": "scripts",
       "summary": {}
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "8dd6f823554cb1242be4ac11065de56cacce436b11b78f0119133fc97edb4810",
+      "sha256": "e342addac0c26789ed2cd202743aea4b88a3b7d85698d4d266733c7c5f486039",
       "bytes": 14099,
       "category": "research",
       "summary": {
@@ -124,15 +127,15 @@
     },
     {
       "path": "research/record-dossiers.json",
-      "sha256": "96a9d40cba354dd3b85bb3d860f54e55b4a8ed6598ce199c2593fc19f9b93ec0",
-      "bytes": 99902,
+      "sha256": "34fbe418a3fff188747c07aa4c422fd34b0e31ee49929a07e48ee0f58b6308b9",
+      "bytes": 203208,
       "category": "research",
       "summary": {}
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "3d7327992bb4bc128189e3fb67e2796d014a765a22ec8138fbd8e3470d72ae4b",
-      "bytes": 73912,
+      "sha256": "658b22020d94256f9e1b24c63c450de45d3072682a1c76165a7c5b543748f396",
+      "bytes": 74510,
       "category": "analysis",
       "summary": {
         "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."
@@ -140,8 +143,8 @@
     },
     {
       "path": "scripts/research_dossiers.py",
-      "sha256": "24843b68da5de90140e9a5ffecc2757da6f61ec36b246448041218328a81490d",
-      "bytes": 10038,
+      "sha256": "724aac4b98c59ea00308f4e2dc56f6a105036e4ac14c4f2eab951e22406118cd",
+      "bytes": 11797,
       "category": "scripts",
       "summary": {}
     },
@@ -168,8 +171,8 @@
     },
     {
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "42e83faeeceaa2fff4ed49c15e0eea51c392f88f1e3f492b5a810718b0e861db",
-      "bytes": 24340,
+      "sha256": "b408ea762160404b3cbef2bc2547ea4129252a7b7078b282a075a640eb593e42",
+      "bytes": 35050,
       "category": "docs",
       "summary": {}
     },
@@ -337,6 +340,52 @@
       "summary": {
         "source_id": "donnelly2020"
       }
+    },
+    {
+      "path": "scripts/assertion_views.py",
+      "sha256": "4de1e2c6cbd98f34ed5090380aa98ad6877332bcb64f3f40947174a1fa527a2b",
+      "bytes": 3974,
+      "category": "scripts",
+      "summary": {}
+    },
+    {
+      "path": "scripts/test_assertion_views.py",
+      "sha256": "dd7cbbe7aeb7b1b201f922d09fdb8abe87493e27d00ed1dd145a0e02c6b5c0ec",
+      "bytes": 2095,
+      "category": "scripts",
+      "summary": {}
+    },
+    {
+      "path": "research/cross-corpus-dependencies.json",
+      "sha256": "f0614d77c3e5183ab2228f2223f4fed46f091434e3cff1455b2457836e351696",
+      "bytes": 453,
+      "category": "research",
+      "summary": {
+        "scope": "Known source-supported cross-repository dependencies only. Absence from this register is not proof of independence or physical uniqueness."
+      }
+    },
+    {
+      "path": "docs/AI-INTEGRITY.md",
+      "sha256": "f735ed84a422bd81245aba10e894585a9110079932a445f35be515834e739b6b",
+      "bytes": 2391,
+      "category": "docs",
+      "summary": {}
+    },
+    {
+      "path": "research/qualified-assertion-views.json",
+      "sha256": "b019937e64282c81978b3df2cff528a8b1f42c0c93fcdb1897ab5a5040ea578a",
+      "bytes": 50458,
+      "category": "research",
+      "summary": {
+        "scope": "Existing assertions joined to full encoded reconciliation and identity context; no new readings or occurrences."
+      }
+    },
+    {
+      "path": "exports/qualified-assertions.csv",
+      "sha256": "f5950dc9b323eddcc57e4d8d2d0af3b4e35ef749d7b83a451382d93ce7344268",
+      "bytes": 38917,
+      "category": "exports",
+      "summary": {}
     }
   ],
   "scientific_results": {
@@ -367,7 +416,8 @@
       "status": "measured"
     }
   },
-  "family_report_sha256": "8dd6f823554cb1242be4ac11065de56cacce436b11b78f0119133fc97edb4810",
-  "implementation_sha256": "682a350d9457b1e88ff3a3c4d1263880e4fdf98e1012578580b7d2b9d877c916",
+  "family_report_sha256": "e342addac0c26789ed2cd202743aea4b88a3b7d85698d4d266733c7c5f486039",
+  "implementation_sha256": "71ceb7d7107428014ae9f43ca10d402805fb999428cb67549214d6b2b8bbc406",
+  "assertion_view_sha256": "b019937e64282c81978b3df2cff528a8b1f42c0c93fcdb1897ab5a5040ea578a",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."
 }

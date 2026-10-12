@@ -79,3 +79,7 @@ See [source coverage and reconciliation](docs/SOURCE-COVERAGE-2026-10-11.md), [u
 ## Existing-evidence reconciliation — 2026-10-11
 
 Reading coverage is unchanged. [Existing-evidence reconciliation](docs/EXISTING-EVIDENCE-RECONCILIATION.md) now accounts for every existing assertion and identity, preserving source apparatus and unresolved scholarly decisions.
+
+## AI integrity checkpoint — 2026-10-11
+
+[AI integrity controls](docs/AI-INTEGRITY.md) document source-bound bundle publication and checked cross-corpus dependency safeguards. Reading coverage and scholarly acceptance are unchanged.

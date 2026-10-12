@@ -7,6 +7,13 @@ const {chromium}=require('playwright'),path=require('node:path'),fs=require('nod
  await page.fill('#find-evidence','no such evidence zzz');if(await page.locator('#evidence-rows tr').count()!==0)throw Error('filter');await page.fill('#find-evidence','');
  await page.selectOption('#category','research');if(!(await page.locator('#evidence-rows tr').count()>0))throw Error('category');await page.selectOption('#category','');
  async function exported(button){const promise=page.waitForEvent('download');await page.click(button);const dl=await promise;return JSON.parse(fs.readFileSync(await dl.path(),'utf8'));}
+ if(fs.existsSync(path.join(root,'research/qualified-assertion-views.json'))){
+  const expected=JSON.parse(fs.readFileSync(path.join(root,'research/qualified-assertion-views.json'),'utf8'));
+  if(!(await page.locator('#qualified-assertions').isVisible())||await page.locator('#qualified-rows tr').count()!==expected.assertion_count)throw Error('qualified assertion delivery');
+  const delivered=await exported('#export-qualified');if(JSON.stringify(delivered)!==JSON.stringify(expected))throw Error('qualified JSON export lost context');
+  await page.fill('#find-qualified','no such qualified assertion zzz');if(await page.locator('#qualified-rows tr').count()!==0)throw Error('qualified filter');await page.fill('#find-qualified','');
+  if(expected.assertions.some(r=>r.record_id==='CHIC-252')){await page.fill('#find-qualified','CHIC-252');const visible=await page.locator('#qualified-rows').textContent();if(!visible.includes('unidentified_marks')||!visible.includes('membership_uncertainty'))throw Error('primary marks/uncertainty not visible');await page.fill('#find-qualified','CHIC-328');if(!(await page.locator('#qualified-rows').textContent()).includes('065'))throw Error('conditional alternative not visible');await page.fill('#find-qualified','');}
+ }
  async function cell(key,column){return page.locator('#scenario-metrics tr[data-metric="'+key+'"] td').nth(column).textContent();}
  if(await page.locator('#edition').isVisible()){
   if(await page.locator('#occurrence-rows tr').count()!==242)throw Error('slot coverage');await page.fill('#find-occurrence','A24');if(await page.locator('#occurrence-rows tr').count()!==5)throw Error('group filter');
