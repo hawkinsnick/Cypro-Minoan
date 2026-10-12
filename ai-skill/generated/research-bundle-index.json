@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "ff3fd3a7985c85291412565c273b8ddeadcf469b",
-  "generated_at_utc": "2026-10-12T00:30:52+00:00",
+  "source_commit": "78fb29f419e15726f6ca0958c2a52ebbac163ce0",
+  "generated_at_utc": "2026-10-12T20:17:02+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -13,6 +13,36 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "source_growth",
+      "path": "research/louvre-object-concordance.json",
+      "sha256": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd",
+      "bytes": 18085
+    },
+    {
+      "role": "source_growth",
+      "path": "research/tiryns-clay-ball-primary-context.json",
+      "sha256": "18224dcdf01e6d62d4aaafcac7dbdb39424a925578800e45695f89ff9d308813",
+      "bytes": 3842
+    },
+    {
+      "role": "source_growth",
+      "path": "analysis/source-growth-2026-10-12.json",
+      "sha256": "aed0ecb90efe375911f29707c5df02bfd6426b742bceb2a3c77c4be5acfdfe9f",
+      "bytes": 578
+    },
+    {
+      "role": "source_growth",
+      "path": "docs/SOURCE-GROWTH-2026-10-12.md",
+      "sha256": "bbef9d91822b06ec922f6fbaa2846af946e6ba97dfa4d776eb8da0266a84a91a",
+      "bytes": 2241
+    },
+    {
+      "role": "source_growth",
+      "path": "scripts/source_growth.py",
+      "sha256": "2b736d6bcdebd04ae8588f41323c8b0c4458ef0743c050d4ae2e55832c8e982e",
+      "bytes": 4528
+    },
     {
       "role": "cross_corpus_dependencies",
       "path": "research/cross-corpus-dependencies.json",
@@ -196,8 +226,8 @@
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "c73040216da3a720573f686a0d2574ea7ce0a00b9b10bce815589db401050d46",
-      "bytes": 11423
+      "sha256": "8d051ee0e6daa3b6f70dac06cc8d69d006b35476b358ed1f4422eadc39ab0dcb",
+      "bytes": 11431
     },
     {
       "role": "source_inspection",
@@ -226,8 +256,8 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "db99d11e197498a9e9c1a8655ce370e0f4b4d17a3b570b5c19f312301a61ae92",
-      "bytes": 4053
+      "sha256": "70fcddc918c67ea0e9f6b19fbf41f384febe9c4692f2de472f2a62841c9c7452",
+      "bytes": 4315
     },
     {
       "role": "pre_expert_source_exhaustion",
