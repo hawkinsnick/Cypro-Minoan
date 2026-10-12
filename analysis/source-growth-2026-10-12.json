@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-12",
+  "status": "PASS_BOUNDED_SOURCE_GROWTH",
+  "scope": {
+    "museum_object_rows": 9,
+    "primary_context_rows": 1,
+    "reading_admissions": 0,
+    "independent_review_complete": false
+  },
+  "inputs": [
+    {
+      "path": "research/louvre-object-concordance.json",
+      "sha256": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd"
+    },
+    {
+      "path": "research/tiryns-clay-ball-primary-context.json",
+      "sha256": "18224dcdf01e6d62d4aaafcac7dbdb39424a925578800e45695f89ff9d308813"
+    }
+  ]
+}

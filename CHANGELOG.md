@@ -77,3 +77,8 @@ Selected Donnelly 2020 pp. 104–105 and Fig. 3 now confirm the attribution alre
 ## Unreleased — AI integrity checkpoint
 
 Require checked native dependency projections, preserve corpus-native bundle schemas, and publish synchronized bundles only on their validated source parent. Add Git race and hostile dependency tests; no new readings or expert acceptance.
+
+
+### Source coverage and reconciliation — 2026-10-12
+
+Replayed nine exact Louvre inventory/edition joins and inspected primary context for the Tiryns clay ball, preserving damaged-sign and database-identifier qualifications. No new reading or independent review. See [scope, rights and verification](docs/SOURCE-GROWTH-2026-10-12.md).

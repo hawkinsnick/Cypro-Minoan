@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-12",
+  "source_id": "vetters2011",
+  "author": "Melissa Vetters",
+  "title": "A Clay Ball with a Cypro-Minoan Inscription from Tiryns",
+  "issue_label": "Archäologischer Anzeiger 2011/2",
+  "article_pages": "1–49",
+  "portal_citation_year": 2014,
+  "digital_offprint_copyright_year": 2017,
+  "doi": "10.34780/716o-1p6f",
+  "source_url": "https://publications.dainst.org/journals/aa/article/download/99/4770",
+  "source_sha256": "d303242bba1e547c4da5688c033758d55747d162042b2bf82f974effd3c99132",
+  "source_bytes": 587527,
+  "visually_inspected_pdf_pages": [
+    2,
+    16
+  ],
+  "source_pdf_included": false,
+  "source_images_included": false,
+  "scope": "Paraphrased object facts and locators from a legally accessible primary publication; no source figure, prose or transnumeration republished.",
+  "records": [
+    {
+      "id": "CMOC-TIRY-ADD244:VETTERS",
+      "native_record_id": "CMOC-TIRY-ADD244",
+      "database_identifier": {
+        "namespace": "Tracing Networks database",
+        "literal": "TN 241",
+        "locator": "printed p. 1, footnote 3; PDF p. 2",
+        "namespace_is_museum_inventory": false,
+        "extraction_warning": "Superscript footnote 3 is not an identifier digit; extracted TN 2413 is not accepted."
+      },
+      "diameter_cm": {
+        "min": 1.7,
+        "max": 1.75,
+        "locator": "printed p. 15 / PDF p. 16"
+      },
+      "weight_g": {
+        "min": 5.0,
+        "max": 5.1,
+        "locator": "printed p. 15 / PDF p. 16"
+      },
+      "find_context": {
+        "site": "Tiryns",
+        "area": "Lower Citadel North",
+        "excavation_year": 2002,
+        "coordinates_literal": "LXII 35/39 VB a13.18, hor. 20 a3–21 a0",
+        "locator": "printed p. 15 / PDF p. 16"
+      },
+      "sign_count_assertion": {
+        "description_count": 3,
+        "certainty": "PARTLY_DAMAGED",
+        "locator": "printed p. 15 / PDF p. 16",
+        "complete_reading_claim": false
+      },
+      "damage_summary": "Surface damage obscures part of the first sign; fissures separate the signs. The count does not certify complete glyph identities.",
+      "native_diameter_comparison": "MATCH_WITH_EXISTING_DEPENDENT_ASSERTION_NOT_ANOTHER_ANCIENT_WITNESS",
+      "native_readings_overwritten": false,
+      "reading_admitted": false,
+      "physical_identity_certified": false,
+      "independent_review_complete": false,
+      "existing_occurrence_context": {
+        "occurrence_ids": [
+          "CMOCC-TIRY244-1",
+          "CMOCC-TIRY244-2",
+          "CMOCC-TIRY244-3"
+        ],
+        "native_published_identification_certainty": "certain",
+        "source_surface_damage": "PARTLY_DAMAGED_FIRST_SIGN_FROM_LEFT",
+        "apparatus_status": "SOURCE_DAMAGE_REGISTERED_SEPARATELY_FROM_NATIVE_IDENTIFICATION_CERTAINTY",
+        "position_mapping": "Physical left/right descriptions do not independently establish reading direction or change native occurrence order.",
+        "native_occurrences_changed": false
+      },
+      "source_id": "vetters2011",
+      "source_url": "https://publications.dainst.org/journals/aa/article/download/99/4770",
+      "source_role": "PRIMARY_PUBLICATION_OBJECT_CONTEXT",
+      "source_locator": "printed pp. 1 and 15 / PDF pp. 2 and 16",
+      "images_included": false,
+      "rights": "Paraphrased limited factual assertions and references only; source PDF, prose, figures and transnumerations are not redistributed."
+    }
+  ],
+  "related_2023_jar_route": {
+    "url": "https://archiv.ub.uni-heidelberg.de/volltextserver/34595/1/10.1515_kadmos-2023-0001.pdf",
+    "status": "ACCESS_DENIAL_HTML_NOT_PDF",
+    "response_bytes": 4499,
+    "response_sha256": "a690ccde02c74714b1f66dff5d6e3b62370878beb87ff79772079b67f3c82ca6",
+    "source_payload_acquired": false,
+    "protection_bypassed": false
+  }
+}
