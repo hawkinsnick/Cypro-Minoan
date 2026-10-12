@@ -12,3 +12,6 @@ Read the JSON views with `analysis/source-growth-2026-10-12.json` and the native
 
 
 Existing Tiryns occurrences remain three primary-source assertions. The new physical-damage description is separate from their published-identification certainty; damage does not automatically make identification uncertain. Physical left/right descriptions do not establish reading direction or a new occurrence order.
+
+
+The appendix table on printed p. 38 / PDF p. 39 was also visually inspected. Preserve its literal `3 (?) signs`, sign-height range 8–9 mm, and coordinate `VC`; the main description uses `VB`. Both assertions are retained as an unresolved within-source difference, without an editorial correction.

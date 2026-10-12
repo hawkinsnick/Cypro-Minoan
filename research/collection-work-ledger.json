@@ -2,17 +2,17 @@
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
   "config_sha256": "b8b03c14bc204cb45a3fed6da5839ea1a9a12aeb176fa1d4c07197d4c436505e",
-  "evidence_fingerprint": "587494ecf7b8504f06c8a679f34ae060f96e67105a00dea39d928becff053f40",
+  "evidence_fingerprint": "22c710baa701360c0da2a4827e2253e2ef29fb8818f7d82fb8ed4a74e2e2738b",
   "input_sha256": {
     "analysis/catalogue-mapping-audit.json": "69c0e65bd594ca04b587f4fbd15d67bca85d274580023300c486719c5fd8a372",
     "analysis/current-status.json": "8d051ee0e6daa3b6f70dac06cc8d69d006b35476b358ed1f4422eadc39ab0dcb",
     "analysis/occurrence-coverage-v1.json": "00539e7362042e52b8c6891b347bf12954efc628e853bd53631b04df2628f943",
-    "analysis/source-growth-2026-10-12.json": "aed0ecb90efe375911f29707c5df02bfd6426b742bceb2a3c77c4be5acfdfe9f",
+    "analysis/source-growth-2026-10-12.json": "4f59024261e8d5fbb9f78c934355d996cc6feb505d9df3cf06c430ef4dd1eea4",
     "catalogues/master.json": "bd901ce1cdc48f7dda9d19435f0416a5bbabce304b6ebf784bc78f0048406e9f",
     "catalogues/reconciliation-ledger.json": "f8130ea475d0489d1f234571a7271a49609ccf08f728df25103e0f023bf6d241",
     "catalogues/source-located-concordance.json": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66",
     "docs/AI-INTEGRITY.md": "f735ed84a422bd81245aba10e894585a9110079932a445f35be515834e739b6b",
-    "docs/SOURCE-GROWTH-2026-10-12.md": "bbef9d91822b06ec922f6fbaa2846af946e6ba97dfa4d776eb8da0266a84a91a",
+    "docs/SOURCE-GROWTH-2026-10-12.md": "a2ae6ce23304d1aefa93646db04282baf7a9685588490800b0ef165eaae6458f",
     "interchange/documents.json": "05781183c6b0b2e7696004a546cb6a204cd2f41dbf8eeb621d82778e63921980",
     "research/acquisition-queue.json": "05fbeab69ae8d1980b963178f4b1481598dc94a2d5767456d575eac9ee9c9bcd",
     "research/coverage-denominators.json": "acfa218857b5d2ce313485a568f182ee60e11b6718eac77b8c46dde3537ab02d",
@@ -31,9 +31,9 @@
     "research/source-metadata/met-321391.json": "c91085cb37b52660c8bb4aea01000b2d411d48b966b023feb3403e2b60c0bf22",
     "research/source-metadata/met-331665.json": "def5938f8e89204ad37d6eb7e9ecbdfc35f5830fccfbf1830ce67af1b0ed7cda",
     "research/source-reconciliation.json": "8150ba4afc5428632b6bd7d8cf2167490d128ed5a59de394a8e0653f8c15a161",
-    "research/tiryns-clay-ball-primary-context.json": "18224dcdf01e6d62d4aaafcac7dbdb39424a925578800e45695f89ff9d308813",
+    "research/tiryns-clay-ball-primary-context.json": "619067c0c92887337111f9fac3f8739c3a73c58f1232fb1eba9dc4d91edfabda",
     "research/uncovered-record-review-controls.json": "fcc80d939562f699b7a0928559bcb6787d7eb4f8f20a5f122d0a262d9cc28817",
-    "scripts/source_growth.py": "2b736d6bcdebd04ae8588f41323c8b0c4458ef0743c050d4ae2e55832c8e982e"
+    "scripts/source_growth.py": "ea17b6fcaff66010ee2a3b72c94acc31892bc0422aa55086580c91b702764888"
   },
   "native_review_links": [
     "LICENSING.md"
@@ -6524,13 +6524,13 @@
         "reuse_rights"
       ],
       "record_key": "tiryns-primary-context:CMOC-TIRY-ADD244:VETTERS",
-      "source_file_sha256": "18224dcdf01e6d62d4aaafcac7dbdb39424a925578800e45695f89ff9d308813",
+      "source_file_sha256": "619067c0c92887337111f9fac3f8739c3a73c58f1232fb1eba9dc4d91edfabda",
       "source_lead_pointers": [
         "/records/0/source_id",
         "/records/0/source_url"
       ],
       "source_path": "research/tiryns-clay-ball-primary-context.json",
-      "source_record_sha256": "9685663e5e4b928d50455b85a384cd593a67bf0054e532c0c1704e9a4eb227e6",
+      "source_record_sha256": "cdab7792fbf13d23df0f59bc28b94f313342a8addfaf1934e083bc107caaf891",
       "unit": "primary_publication_object_context"
     }
   ],

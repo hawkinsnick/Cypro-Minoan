@@ -14,7 +14,8 @@
   "source_bytes": 587527,
   "visually_inspected_pdf_pages": [
     2,
-    16
+    16,
+    39
   ],
   "source_pdf_included": false,
   "source_images_included": false,
@@ -74,9 +75,31 @@
       "source_id": "vetters2011",
       "source_url": "https://publications.dainst.org/journals/aa/article/download/99/4770",
       "source_role": "PRIMARY_PUBLICATION_OBJECT_CONTEXT",
-      "source_locator": "printed pp. 1 and 15 / PDF pp. 2 and 16",
+      "source_locator": "printed pp. 1, 15, 38 / PDF pp. 2, 16, 39",
       "images_included": false,
-      "rights": "Paraphrased limited factual assertions and references only; source PDF, prose, figures and transnumerations are not redistributed."
+      "rights": "Paraphrased limited factual assertions and references only; source PDF, prose, figures and transnumerations are not redistributed.",
+      "appendix_table_assertions": {
+        "locator": "printed p. 38 / PDF p. 39",
+        "database_identifier_literal": "TN 241",
+        "coordinates_literal": "LXII 35/39 VC a13.18",
+        "number_of_signs_literal": "3 (?) signs",
+        "sign_height_mm": {
+          "min": 8,
+          "max": 9
+        },
+        "source_qualification_preserved": true
+      },
+      "within_source_disagreements": [
+        {
+          "field": "excavation_coordinate_segment",
+          "main_description": "VB",
+          "main_locator": "printed p. 15 / PDF p. 16",
+          "appendix_table": "VC",
+          "appendix_locator": "printed p. 38 / PDF p. 39",
+          "status": "UNRESOLVED_SOURCE_LITERAL_DIFFERENCE",
+          "interventions": []
+        }
+      ]
     }
   ],
   "related_2023_jar_route": {
