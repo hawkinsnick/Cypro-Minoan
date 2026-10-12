@@ -8,8 +8,8 @@
     "source_independence": "Identify shared editorial and photographic lineage; a derivative is not an independent witness.",
     "uncertainty": "Retain damage, restorations, unreadable signs and competing segmentations; do not silently normalize them."
   },
-  "enumerated_record_keys": 285,
-  "evidence_fingerprint": "22c710baa701360c0da2a4827e2253e2ef29fb8818f7d82fb8ed4a74e2e2738b",
+  "enumerated_record_keys": 287,
+  "evidence_fingerprint": "727f28e3c3c80ea377f4868c4dc5dd1d1afc40af51ff5baab3473c0bdc405c93",
   "ledger_path": "research/collection-work-ledger.json",
   "native_review_links": [
     "LICENSING.md"
@@ -24,5 +24,5 @@
   "schema_version": "1.0",
   "scientific_approval_granted": false,
   "selection": "Select record_keys from ledger; for restricted A/B records use the existing local derivative and authenticated native audit",
-  "source_lead_count": 1298
+  "source_lead_count": 1309
 }

@@ -125,7 +125,7 @@
         },
         {
           "path": "analysis/context-coverage-v1.json",
-          "sha256": "658b22020d94256f9e1b24c63c450de45d3072682a1c76165a7c5b543748f396",
+          "sha256": "6b8e428d8996fde1af29e61bb0b99f00f864617779f88565d6c6205783d410b0",
           "url": null
         }
       ],
@@ -139,7 +139,7 @@
         "encoded_occurrences": {
           "value": 16,
           "unit": "encoded_source_occurrence_assertions",
-          "definition": "Six primary-publication and six dependent-secondary occurrence assertions; no independent witness count.",
+          "definition": "16 source-attributed occurrence assertions; partial source coverage, not complete transcriptions or independent glyph acceptance.",
           "status": "measured"
         },
         "records_with_encoded_occurrences": {

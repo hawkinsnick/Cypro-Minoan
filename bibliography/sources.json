@@ -458,5 +458,32 @@
     "rights_note": "Publisher PDF states text CC BY-NC-SA 4.0; images/other components have separate terms. Only attributed identifier/locator facts and original audit observations are stored; no images or source prose redistributed.",
     "verification_scope": "Printed pp. 104–105 / whole-volume PDF 106–107 and Fig. 3 confirm the existing AM 1639 attribution; no independent sign adjudication, new occurrence or numbered object join.",
     "inspection_evidence": "research/donnelly-existing-assertion-check.json"
+  },
+  {
+    "source_id": "YASUR-LANDAU-ETAL-2025-DOR",
+    "type": "article",
+    "title": "Iron Age ship cargoes from the harbour of Dor (Israel)",
+    "authors": [
+      "Assaf Yasur-Landau",
+      "Marko Runjajić",
+      "Evgeny Shegol",
+      "Remi Rosen",
+      "Karsyn Johnson",
+      "Deborah Cvikel",
+      "Shirly Ben-Dor Evian",
+      "David E. Friesem",
+      "Tzilla Eshel",
+      "Gunnar Lehmann",
+      "Cassandra Donnely",
+      "Artemis Georgiou",
+      "Harel Shochat",
+      "Meir Edrey",
+      "Dafna Langgut",
+      "Thomas E. Levy"
+    ],
+    "year": 2025,
+    "url": "https://www.cambridge.org/core/journals/antiquity/article/iron-age-ship-cargoes-from-the-harbour-of-dor-israel/D44019724498E1221A1E026E25FFEA04",
+    "doi": "10.15184/aqy.2025.71",
+    "rights_note": "CC BY 4.0 source component, with author attribution. Preserve tentative script identities; source terms are not replaced by project-original NC terms."
   }
 ]

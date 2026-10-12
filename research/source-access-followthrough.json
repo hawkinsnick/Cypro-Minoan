@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-12",
+  "routes": [
+    {
+      "record_id": "CMOC-LVR-AM2716",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010132112.json",
+      "status": 200,
+      "sha256": "73beb2ec0e561195783ae47c97d0e76b003bf38b73428f03a619a4d922f94c3b",
+      "bytes": 2602,
+      "inventory_assertions": [
+        {
+          "value": "AM 2716",
+          "type": "Numéro principal"
+        }
+      ],
+      "source_script_label": "chypro-minoen",
+      "bibliography_entries": 0,
+      "source_payload": "OFFICIAL_MUSEUM_METADATA_ONLY",
+      "sign_level_primary_evidence_acquired": false
+    },
+    {
+      "record_id": "CMOC-BM-1898.1201.204",
+      "url": "https://www.britishmuseum.org/collection/object/G_1898-1201-204",
+      "status": 403,
+      "source_payload_acquired": false,
+      "protection_bypassed": false
+    }
+  ],
+  "expert_review_complete": false
+}

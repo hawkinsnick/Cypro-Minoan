@@ -53,8 +53,8 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "e342addac0c26789ed2cd202743aea4b88a3b7d85698d4d266733c7c5f486039",
-      "bytes": 14099,
+      "sha256": "accfd5d33ec7a10beed8450d1e6da52a28a48de45535374cab0abbfd269cb0bf",
+      "bytes": 14124,
       "category": "research",
       "summary": {
         "scope": "Comparison readiness and software/governance alignment, not permission for cross-script inference. Exact snapshot commits pin native evidence; target versions describe the coordinated rollout. Snapshot versions may precede report-only maintenance."
@@ -120,8 +120,8 @@
     },
     {
       "path": "research/pre-expert-maximum.json",
-      "sha256": "70fcddc918c67ea0e9f6b19fbf41f384febe9c4692f2de472f2a62841c9c7452",
-      "bytes": 4315,
+      "sha256": "ceb4b1b42e600bfd74a4f5c7f4b1ded5744ccbb1d0f698f649901481db743939",
+      "bytes": 4580,
       "category": "research",
       "summary": {}
     },
@@ -134,7 +134,7 @@
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "658b22020d94256f9e1b24c63c450de45d3072682a1c76165a7c5b543748f396",
+      "sha256": "6b8e428d8996fde1af29e61bb0b99f00f864617779f88565d6c6205783d410b0",
       "bytes": 74510,
       "category": "analysis",
       "summary": {
@@ -157,8 +157,8 @@
     },
     {
       "path": "bibliography/sources.json",
-      "sha256": "9f6127c1fa835472103ce297917419026d0c2cce438f0a1ed4aef877950d48a7",
-      "bytes": 19014,
+      "sha256": "465e1d83e232b21cda5a2a5c41fa2e53c5549a8f6192beb895ea029b9574eb70",
+      "bytes": 19959,
       "category": "bibliography",
       "summary": {}
     },
@@ -406,7 +406,7 @@
     "encoded_occurrences": {
       "value": 16,
       "unit": "encoded_source_occurrence_assertions",
-      "definition": "Six primary-publication and six dependent-secondary occurrence assertions; no independent witness count.",
+      "definition": "16 source-attributed occurrence assertions; partial source coverage, not complete transcriptions or independent glyph acceptance.",
       "status": "measured"
     },
     "records_with_encoded_occurrences": {
@@ -416,7 +416,7 @@
       "status": "measured"
     }
   },
-  "family_report_sha256": "e342addac0c26789ed2cd202743aea4b88a3b7d85698d4d266733c7c5f486039",
+  "family_report_sha256": "accfd5d33ec7a10beed8450d1e6da52a28a48de45535374cab0abbfd269cb0bf",
   "implementation_sha256": "71ceb7d7107428014ae9f43ca10d402805fb999428cb67549214d6b2b8bbc406",
   "assertion_view_sha256": "b019937e64282c81978b3df2cff528a8b1f42c0c93fcdb1897ab5a5040ea578a",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."

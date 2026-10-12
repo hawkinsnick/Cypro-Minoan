@@ -1,16 +1,18 @@
 {
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "b8b03c14bc204cb45a3fed6da5839ea1a9a12aeb176fa1d4c07197d4c436505e",
-  "evidence_fingerprint": "22c710baa701360c0da2a4827e2253e2ef29fb8818f7d82fb8ed4a74e2e2738b",
+  "config_sha256": "e1ea5bb56a6eaa1283c90904c0992d072bc292277ead3d803ce6dbbe88e01ebf",
+  "evidence_fingerprint": "727f28e3c3c80ea377f4868c4dc5dd1d1afc40af51ff5baab3473c0bdc405c93",
   "input_sha256": {
+    "analysis/acquisition-frontier-2026-10-12.json": "8fb4c7c8edb3048b33060e119dce5027e4ca21e3e2a24452f75fb71dcd43f2d8",
     "analysis/catalogue-mapping-audit.json": "69c0e65bd594ca04b587f4fbd15d67bca85d274580023300c486719c5fd8a372",
-    "analysis/current-status.json": "8d051ee0e6daa3b6f70dac06cc8d69d006b35476b358ed1f4422eadc39ab0dcb",
+    "analysis/current-status.json": "e1d9dae8befe3e5df6eca4ba9da0c9eec9ef1879708ffaf3a3407b56dfc309be",
     "analysis/occurrence-coverage-v1.json": "00539e7362042e52b8c6891b347bf12954efc628e853bd53631b04df2628f943",
     "analysis/source-growth-2026-10-12.json": "4f59024261e8d5fbb9f78c934355d996cc6feb505d9df3cf06c430ef4dd1eea4",
     "catalogues/master.json": "bd901ce1cdc48f7dda9d19435f0416a5bbabce304b6ebf784bc78f0048406e9f",
     "catalogues/reconciliation-ledger.json": "f8130ea475d0489d1f234571a7271a49609ccf08f728df25103e0f023bf6d241",
     "catalogues/source-located-concordance.json": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66",
+    "docs/ACQUISITION-FRONTIER-2026-10-12.md": "6b0fbe0b5ecb8eee5ed33e486721455a4a7a03a8d9fc9509e7fc314a1bc4f946",
     "docs/AI-INTEGRITY.md": "f735ed84a422bd81245aba10e894585a9110079932a445f35be515834e739b6b",
     "docs/SOURCE-GROWTH-2026-10-12.md": "a2ae6ce23304d1aefa93646db04282baf7a9685588490800b0ef165eaae6458f",
     "interchange/documents.json": "05781183c6b0b2e7696004a546cb6a204cd2f41dbf8eeb621d82778e63921980",
@@ -18,12 +20,14 @@
     "research/coverage-denominators.json": "acfa218857b5d2ce313485a568f182ee60e11b6718eac77b8c46dde3537ab02d",
     "research/cross-corpus-dependencies.json": "f0614d77c3e5183ab2228f2223f4fed46f091434e3cff1455b2457836e351696",
     "research/donnelly-existing-assertion-check.json": "dced9c793ae136fd6ed44a8efed4ce428e757a32dd91c2c89f259a09186b5091",
+    "research/dor-2025-provisional-candidates.json": "9b45a7df21fed8be5e64b6f0bcfad11fc99ab8363fb94a7b0cae355a9688d2b8",
     "research/identity-reconciliation-v2.json": "04bd47c9aaccd3fb382fb5c09daf1f69c1e79e27fbdb2c28387faf1715fe7380",
     "research/louvre-object-concordance.json": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd",
     "research/met-open-image-controls.json": "38bcd8cf069cdf614a2ca7d81d6a495064865c1a529278123249a76b95db7d0c",
-    "research/pre-expert-maximum.json": "70fcddc918c67ea0e9f6b19fbf41f384febe9c4692f2de472f2a62841c9c7452",
+    "research/pre-expert-maximum.json": "ceb4b1b42e600bfd74a4f5c7f4b1ded5744ccbb1d0f698f649901481db743939",
     "research/pre-expert-source-exhaustion.json": "f1691fd304bf653c38d4a64bf40e04da62b20658534059db87fd6e271256b2a5",
     "research/reference-reconciliation-v2.json": "ca89a3c3cdfa3cae006298c8d117c573e2000312fcaf5a947b0097b43048acfe",
+    "research/source-access-followthrough.json": "e747dd3b54f9583e835345253ffe46d21dcfd26325c7e5bab76e6973d33bdeec",
     "research/source-check-2026-10-11.json": "d40fe83a74b009ab772c86c9f854a6460bab09d3fb0a33395981d94d1bee615d",
     "research/source-inspection-2026-10-02.json": "09e06c64feba4e5035a8fe6e5a61aeb11837a74a658fbbd177e6577b4ad98994",
     "research/source-metadata/met-240899.json": "c18c4064ea21b00465b51b76530342af1739bb0db69f1a5291ec5404255c2cb1",
@@ -33,6 +37,7 @@
     "research/source-reconciliation.json": "8150ba4afc5428632b6bd7d8cf2167490d128ed5a59de394a8e0653f8c15a161",
     "research/tiryns-clay-ball-primary-context.json": "619067c0c92887337111f9fac3f8739c3a73c58f1232fb1eba9dc4d91edfabda",
     "research/uncovered-record-review-controls.json": "fcc80d939562f699b7a0928559bcb6787d7eb4f8f20a5f122d0a262d9cc28817",
+    "scripts/acquisition_frontier.py": "3496a7069ed0eba3418717c1eb14f460f7b573c2d306f4223d376a6a99644588",
     "scripts/source_growth.py": "ea17b6fcaff66010ee2a3b72c94acc31892bc0422aa55086580c91b702764888"
   },
   "native_review_links": [
@@ -71,6 +76,12 @@
       "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
       "unit": "primary_publication_object_context",
       "view": "tiryns-primary-context"
+    },
+    {
+      "enumerated": 2,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "provisional_source_attributed_object_candidate",
+      "view": "dor-2025-provisional-candidates"
     }
   ],
   "records": [
@@ -6532,6 +6543,52 @@
       "source_path": "research/tiryns-clay-ball-primary-context.json",
       "source_record_sha256": "cdab7792fbf13d23df0f59bc28b94f313342a8addfaf1934e083bc107caaf891",
       "unit": "primary_publication_object_context"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/0",
+      "native_id": "CM-CAND-DOR-2025-ANCHOR",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dor-2025-provisional-candidates:CM-CAND-DOR-2025-ANCHOR",
+      "source_file_sha256": "9b45a7df21fed8be5e64b6f0bcfad11fc99ab8363fb94a7b0cae355a9688d2b8",
+      "source_lead_pointers": [
+        "/records/0/source_id",
+        "/records/0/source_url",
+        "/records/0/doi"
+      ],
+      "source_path": "research/dor-2025-provisional-candidates.json",
+      "source_record_sha256": "48c39180bf07003dd8a376b613c1e6b7644cfbcb713e0e76d8f823f119259e6e",
+      "unit": "provisional_source_attributed_object_candidate"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/1",
+      "native_id": "CM-CAND-DOR-2025-BLACK-DIPINTO",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dor-2025-provisional-candidates:CM-CAND-DOR-2025-BLACK-DIPINTO",
+      "source_file_sha256": "9b45a7df21fed8be5e64b6f0bcfad11fc99ab8363fb94a7b0cae355a9688d2b8",
+      "source_lead_pointers": [
+        "/records/1/source_id",
+        "/records/1/source_url",
+        "/records/1/doi"
+      ],
+      "source_path": "research/dor-2025-provisional-candidates.json",
+      "source_record_sha256": "e378fb5be9ffa932591ee198564cff5f02cb788d982ce2916c9eec98dbfe5f09",
+      "unit": "provisional_source_attributed_object_candidate"
     }
   ],
   "repository": "hawkinsnick/Cypro-Minoan",
@@ -12921,6 +12978,60 @@
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/title",
+      "kind": "title",
+      "source_path": "research/dor-2025-provisional-candidates.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/doi",
+      "kind": "doi",
+      "source_path": "research/dor-2025-provisional-candidates.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_url",
+      "kind": "source_url",
+      "source_path": "research/dor-2025-provisional-candidates.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/dor-2025-provisional-candidates.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/source_url",
+      "kind": "source_url",
+      "source_path": "research/dor-2025-provisional-candidates.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/doi",
+      "kind": "doi",
+      "source_path": "research/dor-2025-provisional-candidates.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/dor-2025-provisional-candidates.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/source_url",
+      "kind": "source_url",
+      "source_path": "research/dor-2025-provisional-candidates.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/doi",
+      "kind": "doi",
+      "source_path": "research/dor-2025-provisional-candidates.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
       "json_pointer": "/rows/0/identifier_assertions/0/source_id",
       "kind": "source_id",
       "source_path": "research/identity-reconciliation-v2.json"
@@ -13728,6 +13839,18 @@
       "json_pointer": "/primary_access_controls/0/publication",
       "kind": "publication",
       "source_path": "research/reference-reconciliation-v2.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/routes/0/url",
+      "kind": "url",
+      "source_path": "research/source-access-followthrough.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/routes/1/url",
+      "kind": "url",
+      "source_path": "research/source-access-followthrough.json"
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",

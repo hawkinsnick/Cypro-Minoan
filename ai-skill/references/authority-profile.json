@@ -204,6 +204,31 @@
       "role": "source_growth",
       "path": "scripts/source_growth.py",
       "required": true
+    },
+    {
+      "role": "acquisition_frontier",
+      "path": "research/dor-2025-provisional-candidates.json",
+      "required": true
+    },
+    {
+      "role": "acquisition_frontier",
+      "path": "research/source-access-followthrough.json",
+      "required": true
+    },
+    {
+      "role": "acquisition_frontier",
+      "path": "scripts/acquisition_frontier.py",
+      "required": true
+    },
+    {
+      "role": "acquisition_frontier",
+      "path": "analysis/acquisition-frontier-2026-10-12.json",
+      "required": true
+    },
+    {
+      "role": "acquisition_frontier",
+      "path": "docs/ACQUISITION-FRONTIER-2026-10-12.md",
+      "required": true
     }
   ],
   "behavioral_gates": [

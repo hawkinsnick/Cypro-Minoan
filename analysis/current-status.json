@@ -42,19 +42,19 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "e342addac0c26789ed2cd202743aea4b88a3b7d85698d4d266733c7c5f486039"
+      "sha256": "accfd5d33ec7a10beed8450d1e6da52a28a48de45535374cab0abbfd269cb0bf"
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "cccc631f69f5ff61fe2d9ae12d62926174c1362e4c1d24f889636ceec058bb05"
+      "sha256": "8510c372b21269f77222c4743fc3efa66ca5a82a8968c6d0f41a377787ba03a1"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "2a6d26738945b97af98956e8a0e434d9756d3e25dc3b5d0b09d34f3170874968"
+      "sha256": "b557afbb77633d81a088e706aa712dcdf62bee5478ce35ad45c773c3bf465173"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "7316430bc4100b585a245231058d9b90fc0920eb520b450f8f3f060e0ea3c7cc"
+      "sha256": "93d4ada02a85cd049d4e10e58fdf917b627616c89b0b320e764ba68b5d6d280a"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -110,7 +110,7 @@
     },
     {
       "path": "research/pre-expert-maximum.json",
-      "sha256": "70fcddc918c67ea0e9f6b19fbf41f384febe9c4692f2de472f2a62841c9c7452"
+      "sha256": "ceb4b1b42e600bfd74a4f5c7f4b1ded5744ccbb1d0f698f649901481db743939"
     },
     {
       "path": "research/record-dossiers.json",
@@ -118,7 +118,7 @@
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "658b22020d94256f9e1b24c63c450de45d3072682a1c76165a7c5b543748f396"
+      "sha256": "6b8e428d8996fde1af29e61bb0b99f00f864617779f88565d6c6205783d410b0"
     },
     {
       "path": "scripts/research_dossiers.py",
@@ -130,7 +130,7 @@
     },
     {
       "path": "bibliography/sources.json",
-      "sha256": "9f6127c1fa835472103ce297917419026d0c2cce438f0a1ed4aef877950d48a7"
+      "sha256": "465e1d83e232b21cda5a2a5c41fa2e53c5549a8f6192beb895ea029b9574eb70"
     },
     {
       "path": "research/context-acquisition-5.3.json",

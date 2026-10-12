@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-12",
+  "title": "Iron Age ship cargoes from the harbour of Dor (Israel)",
+  "authors_as_published": [
+    "Assaf Yasur-Landau",
+    "Marko Runjajić",
+    "Evgeny Shegol",
+    "Remi Rosen",
+    "Karsyn Johnson",
+    "Deborah Cvikel",
+    "Shirly Ben-Dor Evian",
+    "David E. Friesem",
+    "Tzilla Eshel",
+    "Gunnar Lehmann",
+    "Cassandra Donnely",
+    "Artemis Georgiou",
+    "Harel Shochat",
+    "Meir Edrey",
+    "Dafna Langgut",
+    "Thomas E. Levy"
+  ],
+  "online_publication_date": "2025-05-26",
+  "print_issue": "Antiquity 99(406), August 2025",
+  "pages": "1004–1020",
+  "doi": "10.15184/aqy.2025.71",
+  "source_url": "https://www.cambridge.org/core/journals/antiquity/article/iron-age-ship-cargoes-from-the-harbour-of-dor-israel/D44019724498E1221A1E026E25FFEA04",
+  "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D44019724498E1221A1E026E25FFEA04/S0003598X25000717a.pdf/iron_age_ship_cargoes_from_the_harbour_of_dor_israel.pdf",
+  "source_pdf_sha256": "24eb5c51584d3a891abd4e786eab114a80d65ff705cabc8068c4f4a386e635ba",
+  "source_pdf_bytes": 70286855,
+  "visually_inspected_pdf_pages": [
+    10,
+    11
+  ],
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "license_evidence": "Publisher article information / Creative Commons and PDF first-page licence statement",
+  "author_spelling_boundary": "Authors are retained as published, including Donnely; no silent spelling correction.",
+  "scope": "Two explicitly tentative source-attributed candidate objects; no new controlled catalogue slots, canonical readings or core admission.",
+  "records": [
+    {
+      "source_id": "YASUR-LANDAU-ETAL-2025-DOR",
+      "source_url": "https://www.cambridge.org/core/journals/antiquity/article/iron-age-ship-cargoes-from-the-harbour-of-dor-israel/D44019724498E1221A1E026E25FFEA04",
+      "doi": "10.15184/aqy.2025.71",
+      "record_status": "PROVISIONAL_SOURCE_ATTRIBUTED_CANDIDATE",
+      "catalogue_number": null,
+      "museum_inventory": null,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "physical_identity_certified": false,
+      "independent_review_complete": false,
+      "source_license": "CC BY 4.0",
+      "source_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Yasur-Landau et al. 2025, Antiquity 99(406): 1004–1020, doi:10.15184/aqy.2025.71",
+      "images_included": false,
+      "id": "CM-CAND-DOR-2025-ANCHOR",
+      "object_type": "one-hole stone anchor",
+      "findplace": "Dor/Tantura Lagoon, Carmel Coast",
+      "source_context": "Dor M and Iron I remains; anchor north of ballast area in L24.013",
+      "classification_assertions": [
+        {
+          "script": "Cypro-Minoan",
+          "certainty": "APPEARS_TO_BE",
+          "source_qualifier_literal": "appears to be",
+          "locator": "printed p. 1013 / PDF p. 10; Figure 9c"
+        }
+      ],
+      "source_sign_assertion": {
+        "label": "CM 102",
+        "variant": "7",
+        "status": "TENTATIVE_PUBLISHED_IDENTIFICATION_NOT_PROJECT_GLYPH_ADJUDICATION",
+        "namespace": "Polig and Donnelly 2022 signary as cited by Yasur-Landau et al. 2025",
+        "source_reference": "Polig & Donnelly 2022, p. 52, fig. 5 (reported in inspected 2025 publication)",
+        "canonical_native_sign_id": null
+      },
+      "published_sign_count": 1,
+      "source_locator": "printed pp. 1013–1014 / PDF pp. 10–11; Fig. 9c",
+      "related_older_anchor": "Kfar Samir South is a cited separate object; no physical identity or catalogue join inferred.",
+      "published_sign_count_scope": "One tentative incision described, not a complete-object sign inventory.",
+      "exclude_from_confirmed_CM_counts": true,
+      "complete_source_transcription": false
+    },
+    {
+      "source_id": "YASUR-LANDAU-ETAL-2025-DOR",
+      "source_url": "https://www.cambridge.org/core/journals/antiquity/article/iron-age-ship-cargoes-from-the-harbour-of-dor-israel/D44019724498E1221A1E026E25FFEA04",
+      "doi": "10.15184/aqy.2025.71",
+      "record_status": "PROVISIONAL_SOURCE_ATTRIBUTED_CANDIDATE",
+      "catalogue_number": null,
+      "museum_inventory": null,
+      "canonical_reading_admitted": false,
+      "encoded_occurrences_added": 0,
+      "physical_identity_certified": false,
+      "independent_review_complete": false,
+      "source_license": "CC BY 4.0",
+      "source_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "Yasur-Landau et al. 2025, Antiquity 99(406): 1004–1020, doi:10.15184/aqy.2025.71",
+      "images_included": false,
+      "id": "CM-CAND-DOR-2025-BLACK-DIPINTO",
+      "object_type": "fragmentary Iron I storage jar",
+      "findplace": "Dor/Tantura Lagoon, Carmel Coast",
+      "source_context": "Eastern L23.007; pottery deposit reported to originate in L1",
+      "marking": "black dipinto",
+      "classification_assertions": [
+        {
+          "script": "Cypro-Minoan",
+          "certainty": "POSSIBLE_ALTERNATIVE",
+          "source_qualifier_literal": "perhaps",
+          "locator": "printed p. 1014 / PDF p. 11"
+        },
+        {
+          "script": "Cypro-syllabic",
+          "certainty": "POSSIBLE_ALTERNATIVE",
+          "source_qualifier_literal": "perhaps",
+          "locator": "printed p. 1014 / PDF p. 11"
+        }
+      ],
+      "published_sign_count": {
+        "min": 4,
+        "max": 5,
+        "qualifier": "possible linear script signs"
+      },
+      "source_locator": "printed p. 1014 / PDF p. 11",
+      "exclude_from_confirmed_CM_counts": true,
+      "distinction": "Separate from the red dipinto discussed as perhaps Hieratic; no sign-level figure or inventory join inferred.",
+      "complete_source_transcription": false
+    }
+  ]
+}

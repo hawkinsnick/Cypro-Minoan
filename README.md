@@ -88,3 +88,8 @@ Reading coverage is unchanged. [Existing-evidence reconciliation](docs/EXISTING-
 ### Source coverage and reconciliation — 2026-10-12
 
 Replayed nine exact Louvre inventory/edition joins and inspected primary context for the Tiryns clay ball, preserving damaged-sign and database-identifier qualifications. No new reading or independent review. See [scope, rights and verification](docs/SOURCE-GROWTH-2026-10-12.md).
+
+
+### Acquisition frontier — 2026-10-12
+
+Added two explicitly provisional 2025 Dor candidates with CC BY 4.0 attribution and possible/alternative script identifications. Frozen catalogue/core/reading counts are unchanged. See [source scope and gates](docs/ACQUISITION-FRONTIER-2026-10-12.md).

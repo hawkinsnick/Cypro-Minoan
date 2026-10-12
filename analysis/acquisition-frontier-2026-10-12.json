@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-12",
+  "status": "PASS_BOUNDED_ACQUISITION_FRONTIER",
+  "scope": {
+    "provisional_candidate_objects": 2,
+    "accepted_new_readings": 0,
+    "controlled_catalogue_slots_unchanged": 254,
+    "rich_records_unchanged": 21,
+    "source_access_blocked_objects": 1,
+    "expert_acceptance": false
+  },
+  "inputs": [
+    {
+      "path": "research/dor-2025-provisional-candidates.json",
+      "sha256": "9b45a7df21fed8be5e64b6f0bcfad11fc99ab8363fb94a7b0cae355a9688d2b8"
+    },
+    {
+      "path": "research/source-access-followthrough.json",
+      "sha256": "e747dd3b54f9583e835345253ffe46d21dcfd26325c7e5bab76e6973d33bdeec"
+    }
+  ]
+}

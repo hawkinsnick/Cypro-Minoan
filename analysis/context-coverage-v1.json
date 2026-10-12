@@ -2193,7 +2193,7 @@
   "input_digests": [
     {
       "path": "bibliography/sources.json",
-      "sha256": "9f6127c1fa835472103ce297917419026d0c2cce438f0a1ed4aef877950d48a7"
+      "sha256": "465e1d83e232b21cda5a2a5c41fa2e53c5549a8f6192beb895ea029b9574eb70"
     },
     {
       "path": "catalogues/master.json",

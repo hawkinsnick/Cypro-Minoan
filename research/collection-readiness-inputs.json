@@ -31,6 +31,13 @@
       "pointer": "/records",
       "id_key": "id",
       "unit": "primary_publication_object_context"
+    },
+    {
+      "name": "dor-2025-provisional-candidates",
+      "path": "research/dor-2025-provisional-candidates.json",
+      "pointer": "/records",
+      "id_key": "id",
+      "unit": "provisional_source_attributed_object_candidate"
     }
   ],
   "repository": "hawkinsnick/Cypro-Minoan",
@@ -38,24 +45,28 @@
   "scope_rule": "Every row in declared views is indexed; overlapping views are never summed as unique objects. Discovery outside these views remains open.",
   "source_discovery_rule": "Declare new native source/task registers here so offline replay and the collection report include them.",
   "source_files": [
+    "analysis/acquisition-frontier-2026-10-12.json",
     "analysis/catalogue-mapping-audit.json",
     "analysis/current-status.json",
     "analysis/occurrence-coverage-v1.json",
     "analysis/source-growth-2026-10-12.json",
     "catalogues/reconciliation-ledger.json",
     "catalogues/source-located-concordance.json",
+    "docs/ACQUISITION-FRONTIER-2026-10-12.md",
     "docs/AI-INTEGRITY.md",
     "docs/SOURCE-GROWTH-2026-10-12.md",
     "research/acquisition-queue.json",
     "research/coverage-denominators.json",
     "research/cross-corpus-dependencies.json",
     "research/donnelly-existing-assertion-check.json",
+    "research/dor-2025-provisional-candidates.json",
     "research/identity-reconciliation-v2.json",
     "research/louvre-object-concordance.json",
     "research/met-open-image-controls.json",
     "research/pre-expert-maximum.json",
     "research/pre-expert-source-exhaustion.json",
     "research/reference-reconciliation-v2.json",
+    "research/source-access-followthrough.json",
     "research/source-check-2026-10-11.json",
     "research/source-inspection-2026-10-02.json",
     "research/source-metadata/met-240899.json",
@@ -65,6 +76,7 @@
     "research/source-reconciliation.json",
     "research/tiryns-clay-ball-primary-context.json",
     "research/uncovered-record-review-controls.json",
+    "scripts/acquisition_frontier.py",
     "scripts/source_growth.py"
   ]
 }

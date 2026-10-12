@@ -75,3 +75,10 @@ Read `docs/AI-INTEGRITY.md` and the required `research/cross-corpus-dependencies
 Read `docs/SOURCE-GROWTH-2026-10-12.md` and `analysis/source-growth-2026-10-12.json` with `research/louvre-object-concordance.json`, `research/tiryns-clay-ball-primary-context.json`. Join museum facts by inventory plus source edition numbers; nearby ARKs and numeric order are not identity evidence. TN 241 is a Tracing Networks database ID, not TN 2413 or a museum accession. Preserve source ranges, damaged signs and distinct publication/digital dates. Source-count agreement is not an independent ancient witness. No glyph/reading admission or calibration is granted.
 
 The Tiryns appendix’s `3 (?) signs` qualifier and VB/VC coordinate difference are explicit source assertions. Preserve both printed locators and unresolved status; do not replace the count with an unqualified three or adjudicate the coordinate.
+
+
+## Acquisition frontier — 2026-10-12
+
+Read `docs/ACQUISITION-FRONTIER-2026-10-12.md`, `analysis/acquisition-frontier-2026-10-12.json` and `research/dor-2025-provisional-candidates.json`, `research/source-access-followthrough.json`. Dor objects remain provisional candidates: preserve appears/possible/perhaps, CM versus Cypro-syllabic alternatives, four-to-five count range and black/red dipinto distinctions. Do not assign catalogue number 255, infer museum inventory, pool candidates into 21 rich/254 controlled records or admit glyphs. Preserve source CC BY 4.0 and all author attribution; project-original NC terms do not restrict the source component. Museum metadata access is not primary sign delivery.
+
+The anchor’s CM 102 Variant 7 label is in the cited Polig–Donnelly 2022 signary namespace. No equivalence to a native sign-registry ID or complete-object sign inventory is inferred.

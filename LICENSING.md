@@ -27,3 +27,6 @@ Attribution does not imply endorsement by the project or contributors.
 This policy applies to material distributed under these terms. It does not revoke permissions already granted for copies previously released under an earlier irrevocable license.
 
 Met Open Access component exception: `research/source-metadata/met-*.json` contains basic accession data supplied by The Metropolitan Museum of Art under CC0-1.0. The public-domain image URLs and exact image hashes in `research/met-open-image-controls.json` are governed by the Met’s CC0 policy (https://www.metmuseum.org/hubs/open-access). Project-original noncommercial terms do not restrict these upstream components. Images are externally linked, not redistributed here; this does not cover Louvre/British Museum photographs or protected editorial readings.
+
+
+Dor 2025 provisional source assertions: Yasur-Landau et al., Antiquity 99(406):1004–1020, doi:10.15184/aqy.2025.71, CC BY 4.0. Source claims retain this licence and attribution; project-original NC terms do not supersede it. No source figures/PDF included.

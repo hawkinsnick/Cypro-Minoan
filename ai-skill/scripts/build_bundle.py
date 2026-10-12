@@ -6,7 +6,7 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[2]
 OUT=ROOT/"ai-skill"/"generated"; OUT.mkdir(parents=True,exist_ok=True)
 sha=os.environ.get("SOURCE_COMMIT") or subprocess.check_output(["git","rev-parse","HEAD"],cwd=ROOT,text=True).strip()
-CANDIDATES=[('source_growth', 'research/louvre-object-concordance.json'), ('source_growth', 'research/tiryns-clay-ball-primary-context.json'), ('source_growth', 'analysis/source-growth-2026-10-12.json'), ('source_growth', 'docs/SOURCE-GROWTH-2026-10-12.md'), ('source_growth', 'scripts/source_growth.py')]+[
+CANDIDATES=[('acquisition_frontier', 'research/dor-2025-provisional-candidates.json'), ('acquisition_frontier', 'research/source-access-followthrough.json'), ('acquisition_frontier', 'scripts/acquisition_frontier.py'), ('acquisition_frontier', 'analysis/acquisition-frontier-2026-10-12.json'), ('acquisition_frontier', 'docs/ACQUISITION-FRONTIER-2026-10-12.md')]+[('source_growth', 'research/louvre-object-concordance.json'), ('source_growth', 'research/tiryns-clay-ball-primary-context.json'), ('source_growth', 'analysis/source-growth-2026-10-12.json'), ('source_growth', 'docs/SOURCE-GROWTH-2026-10-12.md'), ('source_growth', 'scripts/source_growth.py')]+[
  ("cross_corpus_dependencies","research/cross-corpus-dependencies.json"),("sync_publication_guard","ai-skill/scripts/publish_sync.py"),("ai_integrity_guide","docs/AI-INTEGRITY.md"),
  ("qualified_assertions","research/qualified-assertion-views.json"),
  ("existing_assertion_check","research/donnelly-existing-assertion-check.json"),

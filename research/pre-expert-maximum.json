@@ -95,5 +95,12 @@
     "audit": "analysis/source-growth-2026-10-12.json",
     "source_leads_are_not_reading_coverage": true,
     "independent_review_complete": false
+  },
+  "acquisition_frontier_checkpoint": {
+    "checked": "2026-10-12",
+    "guide": "docs/ACQUISITION-FRONTIER-2026-10-12.md",
+    "audit": "analysis/acquisition-frontier-2026-10-12.json",
+    "no_new_reading_admission": true,
+    "expert_review_complete": false
   }
 }
