@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "78fb29f419e15726f6ca0958c2a52ebbac163ce0",
-  "generated_at_utc": "2026-10-12T20:17:02+00:00",
+  "source_commit": "16c4018eaa69fd0f76a90352b54de974e93c70e0",
+  "generated_at_utc": "2026-10-12T20:21:20+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -22,26 +22,26 @@
     {
       "role": "source_growth",
       "path": "research/tiryns-clay-ball-primary-context.json",
-      "sha256": "18224dcdf01e6d62d4aaafcac7dbdb39424a925578800e45695f89ff9d308813",
-      "bytes": 3842
+      "sha256": "619067c0c92887337111f9fac3f8739c3a73c58f1232fb1eba9dc4d91edfabda",
+      "bytes": 4619
     },
     {
       "role": "source_growth",
       "path": "analysis/source-growth-2026-10-12.json",
-      "sha256": "aed0ecb90efe375911f29707c5df02bfd6426b742bceb2a3c77c4be5acfdfe9f",
+      "sha256": "4f59024261e8d5fbb9f78c934355d996cc6feb505d9df3cf06c430ef4dd1eea4",
       "bytes": 578
     },
     {
       "role": "source_growth",
       "path": "docs/SOURCE-GROWTH-2026-10-12.md",
-      "sha256": "bbef9d91822b06ec922f6fbaa2846af946e6ba97dfa4d776eb8da0266a84a91a",
-      "bytes": 2241
+      "sha256": "a2ae6ce23304d1aefa93646db04282baf7a9685588490800b0ef165eaae6458f",
+      "bytes": 2542
     },
     {
       "role": "source_growth",
       "path": "scripts/source_growth.py",
-      "sha256": "2b736d6bcdebd04ae8588f41323c8b0c4458ef0743c050d4ae2e55832c8e982e",
-      "bytes": 4528
+      "sha256": "ea17b6fcaff66010ee2a3b72c94acc31892bc0422aa55086580c91b702764888",
+      "bytes": 5065
     },
     {
       "role": "cross_corpus_dependencies",
