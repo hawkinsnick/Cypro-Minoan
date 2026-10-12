@@ -88,5 +88,12 @@
     "source_or_human_gates_closed": false
   },
   "current_source_checkpoint": "research/source-check-2026-10-11.json",
-  "current_reconciliation_checkpoint": "research/source-reconciliation.json"
+  "current_reconciliation_checkpoint": "research/source-reconciliation.json",
+  "source_growth_checkpoint": {
+    "checked": "2026-10-12",
+    "guide": "docs/SOURCE-GROWTH-2026-10-12.md",
+    "audit": "analysis/source-growth-2026-10-12.json",
+    "source_leads_are_not_reading_coverage": true,
+    "independent_review_complete": false
+  }
 }

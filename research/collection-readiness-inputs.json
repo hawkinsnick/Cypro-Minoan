@@ -17,6 +17,20 @@
       "path": "interchange/documents.json",
       "pointer": "/records",
       "unit": "rich_native_record"
+    },
+    {
+      "name": "louvre-object-concordance",
+      "path": "research/louvre-object-concordance.json",
+      "pointer": "/records",
+      "id_key": "id",
+      "unit": "museum_object_assertion"
+    },
+    {
+      "name": "tiryns-primary-context",
+      "path": "research/tiryns-clay-ball-primary-context.json",
+      "pointer": "/records",
+      "id_key": "id",
+      "unit": "primary_publication_object_context"
     }
   ],
   "repository": "hawkinsnick/Cypro-Minoan",
@@ -24,28 +38,33 @@
   "scope_rule": "Every row in declared views is indexed; overlapping views are never summed as unique objects. Discovery outside these views remains open.",
   "source_discovery_rule": "Declare new native source/task registers here so offline replay and the collection report include them.",
   "source_files": [
+    "analysis/catalogue-mapping-audit.json",
     "analysis/current-status.json",
     "analysis/occurrence-coverage-v1.json",
+    "analysis/source-growth-2026-10-12.json",
+    "catalogues/reconciliation-ledger.json",
+    "catalogues/source-located-concordance.json",
+    "docs/AI-INTEGRITY.md",
+    "docs/SOURCE-GROWTH-2026-10-12.md",
     "research/acquisition-queue.json",
+    "research/coverage-denominators.json",
+    "research/cross-corpus-dependencies.json",
+    "research/donnelly-existing-assertion-check.json",
+    "research/identity-reconciliation-v2.json",
+    "research/louvre-object-concordance.json",
+    "research/met-open-image-controls.json",
     "research/pre-expert-maximum.json",
     "research/pre-expert-source-exhaustion.json",
+    "research/reference-reconciliation-v2.json",
+    "research/source-check-2026-10-11.json",
     "research/source-inspection-2026-10-02.json",
-    "catalogues/source-located-concordance.json",
-    "catalogues/reconciliation-ledger.json",
-    "analysis/catalogue-mapping-audit.json",
-    "research/uncovered-record-review-controls.json",
-    "research/met-open-image-controls.json",
-    "research/source-metadata/met-331665.json",
-    "research/source-metadata/met-321391.json",
     "research/source-metadata/met-240899.json",
     "research/source-metadata/met-243938.json",
-    "research/source-check-2026-10-11.json",
+    "research/source-metadata/met-321391.json",
+    "research/source-metadata/met-331665.json",
     "research/source-reconciliation.json",
-    "research/coverage-denominators.json",
-    "research/reference-reconciliation-v2.json",
-    "research/identity-reconciliation-v2.json",
-    "research/donnelly-existing-assertion-check.json",
-    "research/cross-corpus-dependencies.json",
-    "docs/AI-INTEGRITY.md"
+    "research/tiryns-clay-ball-primary-context.json",
+    "research/uncovered-record-review-controls.json",
+    "scripts/source_growth.py"
   ]
 }

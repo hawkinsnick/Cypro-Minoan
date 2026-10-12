@@ -46,15 +46,15 @@
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "34037bb79a99efb0b7e5ac223352e77742cf3ad1412672213dc9ff50ac3577db"
+      "sha256": "cccc631f69f5ff61fe2d9ae12d62926174c1362e4c1d24f889636ceec058bb05"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "2a339b62af9777078f7203697ab18efc4035e0bf1ae1349135668ae11305e532"
+      "sha256": "2a6d26738945b97af98956e8a0e434d9756d3e25dc3b5d0b09d34f3170874968"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "d6cf73c3ec7b066436243093d9e391fb3077e04390450594179323c39da205b0"
+      "sha256": "7316430bc4100b585a245231058d9b90fc0920eb520b450f8f3f060e0ea3c7cc"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -110,7 +110,7 @@
     },
     {
       "path": "research/pre-expert-maximum.json",
-      "sha256": "db99d11e197498a9e9c1a8655ce370e0f4b4d17a3b570b5c19f312301a61ae92"
+      "sha256": "70fcddc918c67ea0e9f6b19fbf41f384febe9c4692f2de472f2a62841c9c7452"
     },
     {
       "path": "research/record-dossiers.json",
@@ -268,7 +268,7 @@
   },
   "external_verification": {
     "tiryns_primary_open_publication": {
-      "source": "Davis, Maran, Prillwitz & Wirghová, Kadmos 2023",
+      "source": "Davis, Maran, Prillwitz & Wirghov\u00e1, Kadmos 2023",
       "record": "CMOC-TIRY-ADD245",
       "published_transnumeration": {
         "inscription": [
@@ -287,7 +287,7 @@
       "status": "MATCHES_PROJECT_ENCODING"
     },
     "tiryns_clay_ball": {
-      "source": "Vetters, Archäologischer Anzeiger 2011/2",
+      "source": "Vetters, Arch\u00e4ologischer Anzeiger 2011/2",
       "record": "CMOC-TIRY-ADD244",
       "project_occurrences": [
         "CMOCC-TIRY244-1",

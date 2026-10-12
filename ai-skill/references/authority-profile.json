@@ -179,6 +179,31 @@
       "role": "ai_integrity_guide",
       "path": "docs/AI-INTEGRITY.md",
       "required": true
+    },
+    {
+      "role": "source_growth",
+      "path": "research/louvre-object-concordance.json",
+      "required": true
+    },
+    {
+      "role": "source_growth",
+      "path": "research/tiryns-clay-ball-primary-context.json",
+      "required": true
+    },
+    {
+      "role": "source_growth",
+      "path": "analysis/source-growth-2026-10-12.json",
+      "required": true
+    },
+    {
+      "role": "source_growth",
+      "path": "docs/SOURCE-GROWTH-2026-10-12.md",
+      "required": true
+    },
+    {
+      "role": "source_growth",
+      "path": "scripts/source_growth.py",
+      "required": true
     }
   ],
   "behavioral_gates": [

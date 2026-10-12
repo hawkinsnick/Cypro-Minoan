@@ -68,3 +68,10 @@ Selected Donnelly 2020 pp. 104–105 and Fig. 3 now confirm the attribution alre
 ## Enforced assertion, dependency and bundle integrity
 
 Read `docs/AI-INTEGRITY.md` and the required `research/cross-corpus-dependencies.json` before source counts or cross-corpus analysis. Use qualified assertion views when provided; original source literals must travel with their reconciliation, uncertainty and identity context. The dependency register does not certify physical identity or linguistic affinity. Shared catalogue references and duplicated digital sources are not independent witnesses. Missing links mean unknown, not independent. `scripts/check_cross_corpus_dependencies.py` screens declared record selections and rejects pooled physical/witness counts and phonetic transfer. Native AI bundle validation checks the dependency projection and local evidence hashes. Bundle publication validates the exact source parent and never rebases or force-pushes the validated artifact. Software and packaging checks do not establish expert or model-behavior acceptance.
+
+
+## Source growth — 2026-10-12
+
+Read `docs/SOURCE-GROWTH-2026-10-12.md` and `analysis/source-growth-2026-10-12.json` with `research/louvre-object-concordance.json`, `research/tiryns-clay-ball-primary-context.json`. Join museum facts by inventory plus source edition numbers; nearby ARKs and numeric order are not identity evidence. TN 241 is a Tracing Networks database ID, not TN 2413 or a museum accession. Preserve source ranges, damaged signs and distinct publication/digital dates. Source-count agreement is not an independent ancient witness. No glyph/reading admission or calibration is granted.
+
+The Tiryns appendix’s `3 (?) signs` qualifier and VB/VC coordinate difference are explicit source assertions. Preserve both printed locators and unresolved status; do not replace the count with an unqualified three or adjudicate the coordinate.

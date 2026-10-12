@@ -1,24 +1,27 @@
 {
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "d6c8f5dd55cfe767d94589002652c3b0663e45c23aa1d0d700e1ed9ef4686a51",
-  "evidence_fingerprint": "fe029337dd1a52afd79c7e52cb1e693880de674cec03f6da2407faa9f476db8a",
+  "config_sha256": "b8b03c14bc204cb45a3fed6da5839ea1a9a12aeb176fa1d4c07197d4c436505e",
+  "evidence_fingerprint": "22c710baa701360c0da2a4827e2253e2ef29fb8818f7d82fb8ed4a74e2e2738b",
   "input_sha256": {
     "analysis/catalogue-mapping-audit.json": "69c0e65bd594ca04b587f4fbd15d67bca85d274580023300c486719c5fd8a372",
-    "analysis/current-status.json": "c73040216da3a720573f686a0d2574ea7ce0a00b9b10bce815589db401050d46",
+    "analysis/current-status.json": "8d051ee0e6daa3b6f70dac06cc8d69d006b35476b358ed1f4422eadc39ab0dcb",
     "analysis/occurrence-coverage-v1.json": "00539e7362042e52b8c6891b347bf12954efc628e853bd53631b04df2628f943",
+    "analysis/source-growth-2026-10-12.json": "4f59024261e8d5fbb9f78c934355d996cc6feb505d9df3cf06c430ef4dd1eea4",
     "catalogues/master.json": "bd901ce1cdc48f7dda9d19435f0416a5bbabce304b6ebf784bc78f0048406e9f",
     "catalogues/reconciliation-ledger.json": "f8130ea475d0489d1f234571a7271a49609ccf08f728df25103e0f023bf6d241",
     "catalogues/source-located-concordance.json": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66",
     "docs/AI-INTEGRITY.md": "f735ed84a422bd81245aba10e894585a9110079932a445f35be515834e739b6b",
+    "docs/SOURCE-GROWTH-2026-10-12.md": "a2ae6ce23304d1aefa93646db04282baf7a9685588490800b0ef165eaae6458f",
     "interchange/documents.json": "05781183c6b0b2e7696004a546cb6a204cd2f41dbf8eeb621d82778e63921980",
     "research/acquisition-queue.json": "05fbeab69ae8d1980b963178f4b1481598dc94a2d5767456d575eac9ee9c9bcd",
     "research/coverage-denominators.json": "acfa218857b5d2ce313485a568f182ee60e11b6718eac77b8c46dde3537ab02d",
     "research/cross-corpus-dependencies.json": "f0614d77c3e5183ab2228f2223f4fed46f091434e3cff1455b2457836e351696",
     "research/donnelly-existing-assertion-check.json": "dced9c793ae136fd6ed44a8efed4ce428e757a32dd91c2c89f259a09186b5091",
     "research/identity-reconciliation-v2.json": "04bd47c9aaccd3fb382fb5c09daf1f69c1e79e27fbdb2c28387faf1715fe7380",
+    "research/louvre-object-concordance.json": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd",
     "research/met-open-image-controls.json": "38bcd8cf069cdf614a2ca7d81d6a495064865c1a529278123249a76b95db7d0c",
-    "research/pre-expert-maximum.json": "db99d11e197498a9e9c1a8655ce370e0f4b4d17a3b570b5c19f312301a61ae92",
+    "research/pre-expert-maximum.json": "70fcddc918c67ea0e9f6b19fbf41f384febe9c4692f2de472f2a62841c9c7452",
     "research/pre-expert-source-exhaustion.json": "f1691fd304bf653c38d4a64bf40e04da62b20658534059db87fd6e271256b2a5",
     "research/reference-reconciliation-v2.json": "ca89a3c3cdfa3cae006298c8d117c573e2000312fcaf5a947b0097b43048acfe",
     "research/source-check-2026-10-11.json": "d40fe83a74b009ab772c86c9f854a6460bab09d3fb0a33395981d94d1bee615d",
@@ -28,7 +31,9 @@
     "research/source-metadata/met-321391.json": "c91085cb37b52660c8bb4aea01000b2d411d48b966b023feb3403e2b60c0bf22",
     "research/source-metadata/met-331665.json": "def5938f8e89204ad37d6eb7e9ecbdfc35f5830fccfbf1830ce67af1b0ed7cda",
     "research/source-reconciliation.json": "8150ba4afc5428632b6bd7d8cf2167490d128ed5a59de394a8e0653f8c15a161",
-    "research/uncovered-record-review-controls.json": "fcc80d939562f699b7a0928559bcb6787d7eb4f8f20a5f122d0a262d9cc28817"
+    "research/tiryns-clay-ball-primary-context.json": "619067c0c92887337111f9fac3f8739c3a73c58f1232fb1eba9dc4d91edfabda",
+    "research/uncovered-record-review-controls.json": "fcc80d939562f699b7a0928559bcb6787d7eb4f8f20a5f122d0a262d9cc28817",
+    "scripts/source_growth.py": "ea17b6fcaff66010ee2a3b72c94acc31892bc0422aa55086580c91b702764888"
   },
   "native_review_links": [
     "LICENSING.md"
@@ -54,6 +59,18 @@
       "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
       "unit": "rich_native_record",
       "view": "rich-records"
+    },
+    {
+      "enumerated": 9,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "museum_object_assertion",
+      "view": "louvre-object-concordance"
+    },
+    {
+      "enumerated": 1,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "primary_publication_object_context",
+      "view": "tiryns-primary-context"
     }
   ],
   "records": [
@@ -6295,6 +6312,226 @@
       "source_path": "interchange/documents.json",
       "source_record_sha256": "5ec79f4085fce0c9ef2e2ab6529fac80a698800e54eea4d8a01ac0dd426ec8a7",
       "unit": "rich_native_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/0",
+      "native_id": "CMOC-0025:LOUVRE",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "louvre-object-concordance:CMOC-0025:LOUVRE",
+      "source_file_sha256": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd",
+      "source_lead_pointers": [
+        "/records/0/source_id",
+        "/records/0/source_url"
+      ],
+      "source_path": "research/louvre-object-concordance.json",
+      "source_record_sha256": "88eb65b2af4fec6bc6b79736b260b346b7905f3dcc9d9d3ebd0f0472bbed1c5e",
+      "unit": "museum_object_assertion"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/1",
+      "native_id": "CMOC-0026:LOUVRE",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "louvre-object-concordance:CMOC-0026:LOUVRE",
+      "source_file_sha256": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd",
+      "source_lead_pointers": [
+        "/records/1/source_id",
+        "/records/1/source_url"
+      ],
+      "source_path": "research/louvre-object-concordance.json",
+      "source_record_sha256": "0d58391cc97f378b6b5b25d82621dbe61bf0e292e8f8adabdb57d9ab50f1d104",
+      "unit": "museum_object_assertion"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/2",
+      "native_id": "CMOC-0027:LOUVRE",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "louvre-object-concordance:CMOC-0027:LOUVRE",
+      "source_file_sha256": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd",
+      "source_lead_pointers": [
+        "/records/2/source_id",
+        "/records/2/source_url"
+      ],
+      "source_path": "research/louvre-object-concordance.json",
+      "source_record_sha256": "a7108e8fcffe54825c1b8b0e946a3df5e2568a2c11412c56d3a25e9c1643dc5a",
+      "unit": "museum_object_assertion"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/3",
+      "native_id": "CMOC-0028:LOUVRE",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "louvre-object-concordance:CMOC-0028:LOUVRE",
+      "source_file_sha256": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd",
+      "source_lead_pointers": [
+        "/records/3/source_id",
+        "/records/3/source_url"
+      ],
+      "source_path": "research/louvre-object-concordance.json",
+      "source_record_sha256": "4c77eb5624c2e04c7933070cf868311d58ff318865df05b137f52e6c957b1f73",
+      "unit": "museum_object_assertion"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/4",
+      "native_id": "CMOC-0029:LOUVRE",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "louvre-object-concordance:CMOC-0029:LOUVRE",
+      "source_file_sha256": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd",
+      "source_lead_pointers": [
+        "/records/4/source_id",
+        "/records/4/source_url"
+      ],
+      "source_path": "research/louvre-object-concordance.json",
+      "source_record_sha256": "f7c15968941b81f9a7af19fe35212dbf3728ac27f49ac41d3af9f38b3ffad53b",
+      "unit": "museum_object_assertion"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/5",
+      "native_id": "CMOC-0030:LOUVRE",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "louvre-object-concordance:CMOC-0030:LOUVRE",
+      "source_file_sha256": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd",
+      "source_lead_pointers": [
+        "/records/5/source_id",
+        "/records/5/source_url"
+      ],
+      "source_path": "research/louvre-object-concordance.json",
+      "source_record_sha256": "80a77f1c366b61c9c4a2d59f62724e1d1811245183c8b53f29c955d189e45bbf",
+      "unit": "museum_object_assertion"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/6",
+      "native_id": "CMOC-0031:LOUVRE",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "louvre-object-concordance:CMOC-0031:LOUVRE",
+      "source_file_sha256": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd",
+      "source_lead_pointers": [
+        "/records/6/source_id",
+        "/records/6/source_url"
+      ],
+      "source_path": "research/louvre-object-concordance.json",
+      "source_record_sha256": "793ff8fd0c7760325105e006a5176f5b094927252dc6cc4cdb73209576ea3b7f",
+      "unit": "museum_object_assertion"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/7",
+      "native_id": "CMOC-0032:LOUVRE",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "louvre-object-concordance:CMOC-0032:LOUVRE",
+      "source_file_sha256": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd",
+      "source_lead_pointers": [
+        "/records/7/source_id",
+        "/records/7/source_url"
+      ],
+      "source_path": "research/louvre-object-concordance.json",
+      "source_record_sha256": "642ee5394e12913fed5a66ef37d62578de04c6a4ace0d131fc0ba45a01c2f6b9",
+      "unit": "museum_object_assertion"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/8",
+      "native_id": "CMOC-0033:LOUVRE",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "louvre-object-concordance:CMOC-0033:LOUVRE",
+      "source_file_sha256": "48b5b995eff556cabc6af7c7e28cdbee38c02904282444856276ff387a5dd5dd",
+      "source_lead_pointers": [
+        "/records/8/source_id",
+        "/records/8/source_url"
+      ],
+      "source_path": "research/louvre-object-concordance.json",
+      "source_record_sha256": "92f52f61353a5c96c5e4281445e30741c5a1a27a606ec240007d0a9cf4384682",
+      "unit": "museum_object_assertion"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/0",
+      "native_id": "CMOC-TIRY-ADD244:VETTERS",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "tiryns-primary-context:CMOC-TIRY-ADD244:VETTERS",
+      "source_file_sha256": "619067c0c92887337111f9fac3f8739c3a73c58f1232fb1eba9dc4d91edfabda",
+      "source_lead_pointers": [
+        "/records/0/source_id",
+        "/records/0/source_url"
+      ],
+      "source_path": "research/tiryns-clay-ball-primary-context.json",
+      "source_record_sha256": "cdab7792fbf13d23df0f59bc28b94f313342a8addfaf1934e083bc107caaf891",
+      "unit": "primary_publication_object_context"
     }
   ],
   "repository": "hawkinsnick/Cypro-Minoan",
@@ -13194,6 +13431,114 @@
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/source_url",
+      "kind": "source_url",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/source_url",
+      "kind": "source_url",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/source_id",
+      "kind": "source_id",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/source_url",
+      "kind": "source_url",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/source_id",
+      "kind": "source_id",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/source_url",
+      "kind": "source_url",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/source_id",
+      "kind": "source_id",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/source_url",
+      "kind": "source_url",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/5/source_id",
+      "kind": "source_id",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/5/source_url",
+      "kind": "source_url",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/6/source_id",
+      "kind": "source_id",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/6/source_url",
+      "kind": "source_url",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/7/source_id",
+      "kind": "source_id",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/7/source_url",
+      "kind": "source_url",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/8/source_id",
+      "kind": "source_id",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/8/source_url",
+      "kind": "source_url",
+      "source_path": "research/louvre-object-concordance.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
       "json_pointer": "/images/0/url",
       "kind": "url",
       "source_path": "research/met-open-image-controls.json"
@@ -13485,6 +13830,48 @@
       "json_pointer": "/comparisons/2/assertions/1/source_id",
       "kind": "source_id",
       "source_path": "research/source-reconciliation.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_id",
+      "kind": "source_id",
+      "source_path": "research/tiryns-clay-ball-primary-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/title",
+      "kind": "title",
+      "source_path": "research/tiryns-clay-ball-primary-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/doi",
+      "kind": "doi",
+      "source_path": "research/tiryns-clay-ball-primary-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_url",
+      "kind": "source_url",
+      "source_path": "research/tiryns-clay-ball-primary-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/tiryns-clay-ball-primary-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/source_url",
+      "kind": "source_url",
+      "source_path": "research/tiryns-clay-ball-primary-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/related_2023_jar_route/url",
+      "kind": "url",
+      "source_path": "research/tiryns-clay-ball-primary-context.json"
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
