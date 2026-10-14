@@ -6,17 +6,17 @@ This corpus project includes a vendor-neutral, evidence-first AI research skill 
 
 Researchers using ChatGPT, Claude, Gemini, or another capable model can provide the repository (or its AI-ready bundle) together with [`ai-skill/SKILL.md`](ai-skill/SKILL.md). The skill requires the model to preserve provenance, uncertainty, exclusions, source dependence, rights, and this project's scientific gates. Before substantive use, check [`ai-skill/generated/source-state.json`](ai-skill/generated/source-state.json) and the generated research-bundle index for the corpus commit represented by the AI package.
 
-For questions spanning multiple corpus projects, use the **Combined Corpus Research AI** documented in the Linear A repository under [`combined-ai-skill/`](https://github.com/hawkinsnick/Linear-A/tree/ai-skill-v0.1/combined-ai-skill). It orchestrates the registered individual skills while keeping their evidence models and rights separate. Membership in the combined system does **not** imply linguistic relationship, sign equivalence, chronology, decipherment, or independent replication.
+For questions spanning multiple corpus projects, use the **Combined Corpus Research AI** documented in the Linear A repository under [`combined-ai-skill/`](https://github.com/hawkinsnick/Linear-A/tree/main/combined-ai-skill). It orchestrates the registered individual skills while keeping their evidence models and rights separate. Membership in the combined system does **not** imply linguistic relationship, sign equivalence, chronology, decipherment, or independent replication.
 
 ## EpiDoc interoperability pilot
 
-The current branch includes a **loss-aware occurrence-layer EpiDoc pilot** for the 16 source-checked occurrence assertions. It preserves partial coverage, source-qualified published sign labels, source roles, certainty, locators, zone boundaries, and explicit caution around potmarks. It is an interchange view, not a new scholarly authority and not a complete transcription.
+The current branch includes a **loss-aware occurrence-layer EpiDoc pilot** for the 26 source-checked occurrence assertions. It preserves partial coverage, source-qualified published sign labels, source roles, certainty, locators, zone boundaries, and explicit caution around potmarks. It is an interchange view, not a new scholarly authority and not a complete transcription.
 
 The external validation target is pinned to **EpiDoc 9.8** (upstream tag `v9.8`, release commit `5655fb778ecc93a4b6a7346995a55ea686a9e9b2`, aligned with TEI 4.10.2) in `interchange/epidoc/validation-profile.json`. The partial occurrence pilot passed the pinned upstream Relax NG and Schematron checks; `analysis/upstream-epidoc-validation.json` records 57 active patterns and zero findings. This bounded result does not establish full object-level conformance or expert correctness. Full object-level EpiDoc description is a separate expansion from this occurrence-layer pilot. See `docs/EPIDOC-PILOT.md` and `analysis/epidoc-interoperability-audit.json`.
 
 ## Current status — 5.3.0
 
-Adds eight date/period assertions on four Met records, closes nine missing bibliography references with explicit access/verification limits, and generates dossiers for all 21 rich records plus accounting for 254 catalogue slots. Twelve occurrences on six records remain unchanged; partial positions are not full transcriptions.
+Current source checkpoint (2026-10-14): 26 source-attributed occurrence assertions on 12 of 21 rich records; nine remain unencoded. Ten newly checked dependent assertions preserve source order and qualifications. All 21 rich records have dossiers; 254 catalogue slots remain a separate layer. No independent review or complete physical transcription is certified.
 
 Family contract 1.2 aligns all five projects with [Phaistos Disc 1.6.0](https://github.com/hawkinsnick/Phaistos-Disc/releases/tag/v1.6.0). The shared readiness report preserves native sampling units, source rights and blocked linguistic controls. It authorizes no pooling or linguistic relationship claim. See [`research/family-readiness-v1.json`](research/family-readiness-v1.json).
 
@@ -37,7 +37,7 @@ The corpus records evidence; it does not encode a decipherment.
 
 5.0 links the mature 4.x reproducibility platform to an auditable evidence graph, immutable release-scoped dataset snapshots, question-specific readiness profiles, explicit witness-independence rules, representation-level rights controls, and positive/negative conformance tests.
 
-Current evidence remains deliberately bounded: 254 controlled catalogue slots; 254 source-attributed sigla; 21 rich records; 16 encoded source-attributed occurrences; 2 explicit witness assertions; 99 Unicode interoperability characters; no project-populated palaeographic variants. These are separate dimensions, not one completeness score.
+Current evidence remains deliberately bounded: 254 controlled catalogue slots; 254 source-attributed sigla; 21 rich records; 26 encoded source-attributed occurrences; 2 explicit witness assertions; 99 Unicode interoperability characters; no project-populated palaeographic variants. These are separate dimensions, not one completeness score.
 
 Catalogue-structure research is READY. Descriptions of the explicitly encoded occurrence subset are READY_SCOPED. Corpus-wide sign-frequency inference and cross-script phonetic inference remain BLOCKED.
 
@@ -60,7 +60,7 @@ Download the [research workbench 1.1 package](https://github.com/hawkinsnick/Cyp
 
 ## Context and review dossiers — 5.3.0
 
-Adds eight date/period assertions on four Met records, closes nine missing bibliography references with explicit access/verification limits, and generates dossiers for all 21 rich records plus accounting for 254 catalogue slots. Twelve occurrences on six records remain unchanged; partial positions are not full transcriptions.
+Current source checkpoint (2026-10-14): 26 source-attributed occurrence assertions on 12 of 21 rich records; nine remain unencoded. Ten newly checked dependent assertions preserve source order and qualifications. All 21 rich records have dossiers; 254 catalogue slots remain a separate layer. No independent review or complete physical transcription is certified.
 
 Read [the researcher guide](docs/CONTEXT-AND-DOSSIERS.md), [the coverage audit](analysis/context-coverage-v1.json) and [record dossiers](research/record-dossiers.json). Run `python scripts/research_dossiers.py` to check deterministic replay. Metadata coverage does not imply reading coverage or representative sampling.
 
@@ -88,3 +88,7 @@ Reading coverage is unchanged. [Existing-evidence reconciliation](docs/EXISTING-
 ### Source coverage and reconciliation — 2026-10-12
 
 Replayed nine exact Louvre inventory/edition joins and inspected primary context for the Tiryns clay ball, preserving damaged-sign and database-identifier qualifications. No new reading or independent review. See [scope, rights and verification](docs/SOURCE-GROWTH-2026-10-12.md).
+
+## Finite source growth — 2026-10-14
+
+[Ten inspected numerical assertions](docs/SOURCE-GROWTH-2026-10-14.md) add source encoding on three Louvre records. Current coverage is 26 assertions on 12/21 rich records; source dependence, physical-coverage limits and zero independent acceptance remain explicit.

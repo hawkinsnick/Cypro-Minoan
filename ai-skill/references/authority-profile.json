@@ -204,6 +204,21 @@
       "role": "source_growth",
       "path": "scripts/source_growth.py",
       "required": true
+    },
+    {
+      "role": "finite_source_growth",
+      "path": "research/source-growth-2026-10-14.json",
+      "required": true
+    },
+    {
+      "role": "finite_source_growth",
+      "path": "docs/SOURCE-GROWTH-2026-10-14.md",
+      "required": true
+    },
+    {
+      "role": "finite_source_growth",
+      "path": "scripts/validate_growth_20261014.py",
+      "required": true
     }
   ],
   "behavioral_gates": [

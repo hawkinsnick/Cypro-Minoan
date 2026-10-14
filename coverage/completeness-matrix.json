@@ -1,6 +1,6 @@
 {
   "version": "5.2.9",
-  "as_of": "2026-10-11",
+  "as_of": "2026-10-14",
   "dimensions": [
     {
       "dimension": "historical_catalogue_control",
@@ -26,9 +26,9 @@
     {
       "dimension": "source_verified_occurrences",
       "known": null,
-      "covered": 16,
+      "covered": 26,
       "unit": "occurrences",
-      "interpretation": "12 encoded source-attributed occurrences on 6 of 21 rich records; three newly covered records have partial dependent-secondary coverage. Corpus-wide inference remains blocked."
+      "interpretation": "26 source-attributed occurrence assertions on 12 of 21 rich records; six primary-publication and twenty dependent-secondary assertions. No complete-object or independent-witness certification."
     },
     {
       "dimension": "explicit_witness_assertions",

@@ -7,8 +7,8 @@
   "controlled_catalogue_slots": 254,
   "dossier_count": 21,
   "rich_records": 21,
-  "records_with_occurrences": 9,
-  "encoded_occurrences": 16,
+  "records_with_occurrences": 12,
+  "encoded_occurrences": 26,
   "records_with_dating": 14,
   "catalogue_slot_accounting": [
     {
@@ -2289,7 +2289,7 @@
     },
     {
       "path": "occurrences/occurrences.json",
-      "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b"
+      "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133"
     },
     {
       "path": "research/identity-reconciliation-v2.json",
@@ -2297,7 +2297,7 @@
     },
     {
       "path": "research/reference-reconciliation-v2.json",
-      "sha256": "ca89a3c3cdfa3cae006298c8d117c573e2000312fcaf5a947b0097b43048acfe"
+      "sha256": "337db7b1a9dda2ce6afc49f8735a89ab09be1fa35991b8f812bc7cfb68603fc8"
     },
     {
       "path": "research/source-reconciliation.json",

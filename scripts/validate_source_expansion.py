@@ -13,6 +13,12 @@ def validate_new(rows,root=ROOT):
  checkpoint=load(root,'research/source-check-2026-10-11.json')
  require(digest(checkpoint['receipts'])=='2cbe436f47bcdc412c05cab51d6e0fead3db9ff67bd23d82e1f420a0dcd9644d','inspected source receipt drift')
  expected=checkpoint[KEY]
+ if not IS_CH:
+  from validate_growth_20261014 import additions
+  growth=additions(root)
+  require([r for r in rows if r not in growth]==expected,'historical source assertions changed')
+  require([r for r in rows if r in growth]==growth,'finite source addition drift')
+  rows=[r for r in rows if r not in growth]
  require(digest(expected)==EXPECTED_ASSERTIONS_SHA,'source assertions differ from inspected checkpoint')
  require(rows==expected,'new source assertions, loci or editorial qualification drift')
  require(checkpoint['independent_review_complete'] is False and checkpoint['physical_inscription_population'] is None,'unsupported scientific promotion')

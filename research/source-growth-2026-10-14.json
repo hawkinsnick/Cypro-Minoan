@@ -1,0 +1,174 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-14",
+  "source_pdf_url": "https://diposit.ub.edu/server/api/core/bitstreams/1419cfea-e25f-44dd-9a8c-74e9836ae05e/content",
+  "source_pdf_sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+  "inspection": "DIRECT_RENDERED_PDF_PAGE_IMAGES",
+  "printed_pages": [
+    458,
+    459
+  ],
+  "pdf_ordinals": [
+    464,
+    465
+  ],
+  "historical_baseline_sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b",
+  "historical_baseline_semantic_sha256": "12b6a14dbd50324f83087f245ca65812509f8585474c1027e13b07b061aa0e92",
+  "baseline_occurrences": 16,
+  "expected_additions": [
+    {
+      "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-1",
+      "record_id": "CMOC-0028",
+      "zone_id": "source-sequence",
+      "position": 1,
+      "published_sign_label": "110",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##028",
+      "certainty": "certain",
+      "notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-2",
+      "record_id": "CMOC-0028",
+      "zone_id": "source-sequence",
+      "position": 2,
+      "published_sign_label": "96",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##028",
+      "certainty": "certain",
+      "notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-3",
+      "record_id": "CMOC-0028",
+      "zone_id": "source-sequence",
+      "position": 3,
+      "published_sign_label": "34",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##028",
+      "certainty": "certain",
+      "notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-1",
+      "record_id": "CMOC-0032",
+      "zone_id": "source-sequence",
+      "position": 1,
+      "published_sign_label": "102",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##032",
+      "certainty": "certain",
+      "notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-2",
+      "record_id": "CMOC-0032",
+      "zone_id": "source-sequence",
+      "position": 2,
+      "published_sign_label": "27",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##032",
+      "certainty": "certain",
+      "notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-3",
+      "record_id": "CMOC-0032",
+      "zone_id": "source-sequence",
+      "position": 3,
+      "published_sign_label": "70",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##032",
+      "certainty": "certain",
+      "notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-4",
+      "record_id": "CMOC-0032",
+      "zone_id": "source-sequence",
+      "position": 4,
+      "published_sign_label": "86",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##032",
+      "certainty": "certain",
+      "notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-1",
+      "record_id": "CMOC-0033",
+      "zone_id": "source-sequence",
+      "position": 1,
+      "published_sign_label": "87",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 459 (PDF 465), ##033",
+      "certainty": "certain",
+      "notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-2",
+      "record_id": "CMOC-0033",
+      "zone_id": "source-sequence",
+      "position": 2,
+      "published_sign_label": "82",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 459 (PDF 465), ##033",
+      "certainty": "certain",
+      "notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-3",
+      "record_id": "CMOC-0033",
+      "zone_id": "source-sequence",
+      "position": 3,
+      "published_sign_label": "24",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 459 (PDF 465), ##033",
+      "certainty": "certain",
+      "notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ]
+    }
+  ],
+  "primary_edition_collated": false,
+  "independent_review_complete": false,
+  "bulk_republication_authorized": false,
+  "rights_boundary": "Ten limited attributed numerical assertions from three catalogue entries only; no thesis PDF, drawings, photographs or prose reproduced. Source retains its rights. No general corpus redistribution licence inferred."
+}

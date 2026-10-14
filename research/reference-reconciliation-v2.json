@@ -1,23 +1,26 @@
 {
   "schema_version": "2.0",
-  "checked": "2026-10-11",
+  "checked": "2026-10-14",
   "frozen_inventory": {
     "path": "occurrences/occurrences.json",
-    "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b",
+    "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133",
     "unit": "source_occurrence_assertion",
-    "count": 16,
+    "count": 26,
     "record_ids": [
       "CMOC-0025",
       "CMOC-0026",
       "CMOC-0027",
+      "CMOC-0028",
       "CMOC-0029",
       "CMOC-0030",
       "CMOC-0031",
+      "CMOC-0032",
+      "CMOC-0033",
       "CMOC-TIRY-ADD244",
       "CMOC-TIRY-ADD245",
       "CMOC-TIRY-ADD246"
     ],
-    "scope": "Existing content frozen; no reading or sign-occurrence expansion or replacement authorized."
+    "scope": "Current 26-assertion snapshot after authorized finite source growth; prior 16 assertions preserved unchanged. No primary certification or expert acceptance."
   },
   "existing_occurrence_dispositions": [
     {
@@ -260,6 +263,166 @@
       "independent_review_complete": false,
       "canonical_label_replaced": false,
       "primary_comparison_gate": "No additional primary-object collation granted; reported Olivier labels remain reported."
+    },
+    {
+      "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-1",
+      "record_id": "CMOC-0028",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##028",
+      "literal_published_label": "110",
+      "editorial_notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ],
+      "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+    },
+    {
+      "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-2",
+      "record_id": "CMOC-0028",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##028",
+      "literal_published_label": "96",
+      "editorial_notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ],
+      "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+    },
+    {
+      "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-3",
+      "record_id": "CMOC-0028",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##028",
+      "literal_published_label": "34",
+      "editorial_notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ],
+      "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+    },
+    {
+      "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-1",
+      "record_id": "CMOC-0032",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##032",
+      "literal_published_label": "102",
+      "editorial_notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ],
+      "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+    },
+    {
+      "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-2",
+      "record_id": "CMOC-0032",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##032",
+      "literal_published_label": "27",
+      "editorial_notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ],
+      "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+    },
+    {
+      "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-3",
+      "record_id": "CMOC-0032",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##032",
+      "literal_published_label": "70",
+      "editorial_notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ],
+      "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+    },
+    {
+      "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-4",
+      "record_id": "CMOC-0032",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 458 (PDF 464), ##032",
+      "literal_published_label": "86",
+      "editorial_notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ],
+      "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+    },
+    {
+      "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-1",
+      "record_id": "CMOC-0033",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 459 (PDF 465), ##033",
+      "literal_published_label": "87",
+      "editorial_notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ],
+      "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+    },
+    {
+      "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-2",
+      "record_id": "CMOC-0033",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 459 (PDF 465), ##033",
+      "literal_published_label": "82",
+      "editorial_notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ],
+      "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+    },
+    {
+      "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-3",
+      "record_id": "CMOC-0033",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed p. 459 (PDF 465), ##033",
+      "literal_published_label": "24",
+      "editorial_notes": [
+        "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+        "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+      ],
+      "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
     }
   ],
   "reported_disagreements": "research/source-reconciliation.json",
@@ -288,5 +451,24 @@
   "independent_review_complete": false,
   "metadata_assertion_checks": [
     "research/donnelly-existing-assertion-check.json"
-  ]
+  ],
+  "growth_checkpoint": "research/source-growth-2026-10-14.json",
+  "historical_inventory_before_growth": {
+    "path": "occurrences/occurrences.json",
+    "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b",
+    "unit": "source_occurrence_assertion",
+    "count": 16,
+    "record_ids": [
+      "CMOC-0025",
+      "CMOC-0026",
+      "CMOC-0027",
+      "CMOC-0029",
+      "CMOC-0030",
+      "CMOC-0031",
+      "CMOC-TIRY-ADD244",
+      "CMOC-TIRY-ADD245",
+      "CMOC-TIRY-ADD246"
+    ],
+    "scope": "Existing content frozen; no reading or sign-occurrence expansion or replacement authorized."
+  }
 }

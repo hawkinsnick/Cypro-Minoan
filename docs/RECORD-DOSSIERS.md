@@ -107,7 +107,7 @@ Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 Native evidence: [corpus/inscriptions/CMOC-0028.json](../corpus/inscriptions/CMOC-0028.json)
 
-Encoded occurrences: 0; a complete transcription is not inferred.
+Encoded occurrences: 3; a complete transcription is not inferred.
 
 | Field | Value | Status | Evidence |
 |---|---|---|---|
@@ -118,9 +118,33 @@ Encoded occurrences: 0; a complete transcription is not inferred.
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-28"} | source_reported | corpus/inscriptions/CMOC-0028.json |
 | museum_date_range | {"label": "Late Cypriot", "start_bce": 1600, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-28', 'locator': 'museum record, Date'}] |
 
-Missing evidence: ENCODED_OCCURRENCES_ABSENT, INDEPENDENT_REVIEW_PENDING.
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-0028-VALERIO2016-20261014-1; literal source: 110.
+  Source: valerio2016thesis / printed p. 458 (PDF 464), ##028.
+  Comparison: DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Certainty concerns faithful encoding of the source label, not independent sign identification.
+  Editorial note: Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.
+
+- Assertion: CMOCC-0028-VALERIO2016-20261014-2; literal source: 96.
+  Source: valerio2016thesis / printed p. 458 (PDF 464), ##028.
+  Comparison: DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Certainty concerns faithful encoding of the source label, not independent sign identification.
+  Editorial note: Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.
+
+- Assertion: CMOCC-0028-VALERIO2016-20261014-3; literal source: 34.
+  Source: valerio2016thesis / printed p. 458 (PDF 464), ##028.
+  Comparison: DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Certainty concerns faithful encoding of the source label, not independent sign identification.
+  Editorial note: Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.
+
+Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - [louvre-cm-28](https://collections.louvre.fr/ark:/53355/cl010131603): Louvre Collections: inscribed Cypro-Minoan clay ball (catalogue 28)
+- [valerio2016thesis](https://hdl.handle.net/2445/99521): Investigating the Signs and Sounds of Cypro-Minoan
 
 ## CMOC-0029
 
@@ -213,7 +237,7 @@ Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 Native evidence: [corpus/inscriptions/CMOC-0032.json](../corpus/inscriptions/CMOC-0032.json)
 
-Encoded occurrences: 0; a complete transcription is not inferred.
+Encoded occurrences: 4; a complete transcription is not inferred.
 
 | Field | Value | Status | Evidence |
 |---|---|---|---|
@@ -224,15 +248,46 @@ Encoded occurrences: 0; a complete transcription is not inferred.
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-32"} | source_reported | corpus/inscriptions/CMOC-0032.json |
 | museum_date_range | {"label": "Late Cypriot", "start_bce": 1600, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-32', 'locator': 'Places and dates'}] |
 
-Missing evidence: ENCODED_OCCURRENCES_ABSENT, INDEPENDENT_REVIEW_PENDING.
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-0032-VALERIO2016-20261014-1; literal source: 102.
+  Source: valerio2016thesis / printed p. 458 (PDF 464), ##032.
+  Comparison: DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Certainty concerns faithful encoding of the source label, not independent sign identification.
+  Editorial note: Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.
+
+- Assertion: CMOCC-0032-VALERIO2016-20261014-2; literal source: 27.
+  Source: valerio2016thesis / printed p. 458 (PDF 464), ##032.
+  Comparison: DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Certainty concerns faithful encoding of the source label, not independent sign identification.
+  Editorial note: Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.
+
+- Assertion: CMOCC-0032-VALERIO2016-20261014-3; literal source: 70.
+  Source: valerio2016thesis / printed p. 458 (PDF 464), ##032.
+  Comparison: DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Certainty concerns faithful encoding of the source label, not independent sign identification.
+  Editorial note: Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.
+
+- Assertion: CMOCC-0032-VALERIO2016-20261014-4; literal source: 86.
+  Source: valerio2016thesis / printed p. 458 (PDF 464), ##032.
+  Comparison: DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Certainty concerns faithful encoding of the source label, not independent sign identification.
+  Editorial note: Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.
+
+Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - [louvre-cm-32](https://collections.louvre.fr/ark:/53355/cl010131607): Musée du Louvre Collections: inscribed Cypro-Minoan clay ball AM 2235
+- [valerio2016thesis](https://hdl.handle.net/2445/99521): Investigating the Signs and Sounds of Cypro-Minoan
 
 ## CMOC-0033
 
 Native evidence: [corpus/inscriptions/CMOC-0033.json](../corpus/inscriptions/CMOC-0033.json)
 
-Encoded occurrences: 0; a complete transcription is not inferred.
+Encoded occurrences: 3; a complete transcription is not inferred.
 
 | Field | Value | Status | Evidence |
 |---|---|---|---|
@@ -243,9 +298,33 @@ Encoded occurrences: 0; a complete transcription is not inferred.
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-33"} | source_reported | corpus/inscriptions/CMOC-0033.json |
 | museum_date_range | {"label": "Late Cypriot", "start_bce": 1600, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-33', 'locator': 'Places and dates'}] |
 
-Missing evidence: ENCODED_OCCURRENCES_ABSENT, INDEPENDENT_REVIEW_PENDING.
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-0033-VALERIO2016-20261014-1; literal source: 87.
+  Source: valerio2016thesis / printed p. 459 (PDF 465), ##033.
+  Comparison: DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Certainty concerns faithful encoding of the source label, not independent sign identification.
+  Editorial note: Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.
+
+- Assertion: CMOCC-0033-VALERIO2016-20261014-2; literal source: 82.
+  Source: valerio2016thesis / printed p. 459 (PDF 465), ##033.
+  Comparison: DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Certainty concerns faithful encoding of the source label, not independent sign identification.
+  Editorial note: Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.
+
+- Assertion: CMOCC-0033-VALERIO2016-20261014-3; literal source: 24.
+  Source: valerio2016thesis / printed p. 459 (PDF 465), ##033.
+  Comparison: DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Editorial note: Certainty concerns faithful encoding of the source label, not independent sign identification.
+  Editorial note: Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.
+
+Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - [louvre-cm-33](https://collections.louvre.fr/ark:/53355/cl010131606): Musée du Louvre Collections: inscribed Cypro-Minoan clay ball AM 2234
+- [valerio2016thesis](https://hdl.handle.net/2445/99521): Investigating the Signs and Sounds of Cypro-Minoan
 
 ## CMOC-0209
 

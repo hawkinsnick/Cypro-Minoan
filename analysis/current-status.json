@@ -5,7 +5,7 @@
   "milestone": "CONTEXT_AND_REVIEW_DOSSIERS_V1",
   "committed_evidence_counts": {
     "rich_records": 21,
-    "source_checked_occurrences": 16,
+    "source_checked_occurrences": 26,
     "review_dossiers": 21,
     "records_with_dating": 14,
     "new_date_period_assertions": 8,
@@ -22,7 +22,7 @@
     },
     {
       "path": "occurrences/occurrences.json",
-      "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b"
+      "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133"
     },
     {
       "path": "analysis/5.2.3_tiryns-clay-ball-primary-check.json",
@@ -30,7 +30,7 @@
     },
     {
       "path": "analysis/occurrence-coverage-v1.json",
-      "sha256": "00539e7362042e52b8c6891b347bf12954efc628e853bd53631b04df2628f943"
+      "sha256": "a860184eb6c8e92582ca44bc5b273178dda7f85317a3b701d13a995af4498ad4"
     },
     {
       "path": "scripts/occurrence_coverage.py",
@@ -38,23 +38,23 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "6b81301d679b8d0894e206f653c7feb77b78421f31630a53835e46e4eef9a90f"
+      "sha256": "70cd2662e7e7b17552dd47fd483c2fdb954b7636813fc737573e6398878b8d23"
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "e342addac0c26789ed2cd202743aea4b88a3b7d85698d4d266733c7c5f486039"
+      "sha256": "6aa5184d136eac5f73e29bd582f19190c2466e77e20301292446c4ec73b57883"
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "cccc631f69f5ff61fe2d9ae12d62926174c1362e4c1d24f889636ceec058bb05"
+      "sha256": "ea7f5507f24a17d624eb97d92e80191fc57c5dde3cf392748bc18876dd7679a5"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "2a6d26738945b97af98956e8a0e434d9756d3e25dc3b5d0b09d34f3170874968"
+      "sha256": "ce87dd4845d4dd7e2d34589fe451ff3dbc7f80b83cde7073ff7a3b5656f26b47"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "7316430bc4100b585a245231058d9b90fc0920eb520b450f8f3f060e0ea3c7cc"
+      "sha256": "68486661b7cf91bd2f63a8b707fb1c92ecefff71ceb85af8a1ebddb580ec3c6f"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -106,19 +106,19 @@
     },
     {
       "path": "scripts/test_occurrence_coverage.py",
-      "sha256": "dfe8bb2476b29c5ce45f7ac60a5ae1b5115ef56265728b37c4bf14fd29473c92"
+      "sha256": "349ed088c69292f792fe6f51ce3080aa47cb2a979d1493ec4c16c79f69d3ce17"
     },
     {
       "path": "research/pre-expert-maximum.json",
-      "sha256": "70fcddc918c67ea0e9f6b19fbf41f384febe9c4692f2de472f2a62841c9c7452"
+      "sha256": "e2b5f96ab372532ce8ff1cefca48c742d51efbd941ae5bcdbb14c108ea6be586"
     },
     {
       "path": "research/record-dossiers.json",
-      "sha256": "34fbe418a3fff188747c07aa4c422fd34b0e31ee49929a07e48ee0f58b6308b9"
+      "sha256": "f48b77866e96eaba087094cf051a2f09853b03412ba7ba051dbd41158b4d0a19"
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "658b22020d94256f9e1b24c63c450de45d3072682a1c76165a7c5b543748f396"
+      "sha256": "2c3090f9cfd53a1d35394c6afe527c57baf766b4f6aef11da41f04f96aa1514d"
     },
     {
       "path": "scripts/research_dossiers.py",
@@ -138,7 +138,7 @@
     },
     {
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "b408ea762160404b3cbef2bc2547ea4129252a7b7078b282a075a640eb593e42"
+      "sha256": "ddd9523a2343bd1108a3e8a1c932ce3ef8913b063f2610475637fe0a61032e36"
     },
     {
       "path": "catalogues/source-located-concordance.json",
@@ -154,7 +154,7 @@
     },
     {
       "path": "analysis/catalogue-mapping-audit.json",
-      "sha256": "69c0e65bd594ca04b587f4fbd15d67bca85d274580023300c486719c5fd8a372"
+      "sha256": "a6be63ece904abb87e35349fe61cd4e8683889faad064a1c260a2db5d2af9173"
     },
     {
       "path": "scripts/catalogue_concordance.py",
@@ -170,7 +170,7 @@
     },
     {
       "path": "research/uncovered-record-review-controls.json",
-      "sha256": "fcc80d939562f699b7a0928559bcb6787d7eb4f8f20a5f122d0a262d9cc28817"
+      "sha256": "db25b5bdda3af951a27be65cee2a997488d7c3b0ee5deec02597193ee464abc2"
     },
     {
       "path": "research/met-open-image-controls.json",
@@ -182,7 +182,7 @@
     },
     {
       "path": "scripts/validate_uncovered_review.py",
-      "sha256": "e8170d06bac548b789db6fd72d1ed22c610d88934c5979730851e0423ec188c0"
+      "sha256": "067c608b886aa1a3f427f2c0aec0b110d1d4f87adf2fef9ae145dfeaf67a1d40"
     },
     {
       "path": "scripts/test_uncovered_review.py",
@@ -198,11 +198,11 @@
     },
     {
       "path": "research/coverage-denominators.json",
-      "sha256": "acfa218857b5d2ce313485a568f182ee60e11b6718eac77b8c46dde3537ab02d"
+      "sha256": "6de0666d841afb2b9adda5676fb3ce0a597eef32b060c6db88f360d9e5c6dc97"
     },
     {
       "path": "research/reference-reconciliation-v2.json",
-      "sha256": "ca89a3c3cdfa3cae006298c8d117c573e2000312fcaf5a947b0097b43048acfe"
+      "sha256": "337db7b1a9dda2ce6afc49f8735a89ab09be1fa35991b8f812bc7cfb68603fc8"
     },
     {
       "path": "research/identity-reconciliation-v2.json",
@@ -210,7 +210,7 @@
     },
     {
       "path": "scripts/validate_reconciliation.py",
-      "sha256": "8977ef6792c572d0ad0bb66357c657c4d94c09cfb2a6726b9ffc63c2231c35a6"
+      "sha256": "dde23978702cb18499c2096986a4779dd95b10a206619222ade2b8ecc38bd194"
     },
     {
       "path": "scripts/test_reconciliation.py",
@@ -242,11 +242,19 @@
     },
     {
       "path": "research/qualified-assertion-views.json",
-      "sha256": "b019937e64282c81978b3df2cff528a8b1f42c0c93fcdb1897ab5a5040ea578a"
+      "sha256": "a288b0e99c2467db478ae0b9e2ae7a280b58f1c9d96dc49e930bcf3dc4189969"
     },
     {
       "path": "exports/qualified-assertions.csv",
-      "sha256": "f5950dc9b323eddcc57e4d8d2d0af3b4e35ef749d7b83a451382d93ce7344268"
+      "sha256": "c9b67242ffde4f69290147d991606898676967d096d2599af629a2a93b42c366"
+    },
+    {
+      "path": "research/source-growth-2026-10-14.json",
+      "sha256": "14199e03a61e1a56b144c7739e77377bd394abe467c8f34c23648c9556e039a2"
+    },
+    {
+      "path": "scripts/validate_growth_20261014.py",
+      "sha256": "8eb5075a22216f2204c421d9f9fea5d8b09f5ce4486ed8d0556733d6ef47f60e"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
@@ -268,7 +276,7 @@
   },
   "external_verification": {
     "tiryns_primary_open_publication": {
-      "source": "Davis, Maran, Prillwitz & Wirghov\u00e1, Kadmos 2023",
+      "source": "Davis, Maran, Prillwitz & Wirghová, Kadmos 2023",
       "record": "CMOC-TIRY-ADD245",
       "published_transnumeration": {
         "inscription": [
@@ -287,7 +295,7 @@
       "status": "MATCHES_PROJECT_ENCODING"
     },
     "tiryns_clay_ball": {
-      "source": "Vetters, Arch\u00e4ologischer Anzeiger 2011/2",
+      "source": "Vetters, Archäologischer Anzeiger 2011/2",
       "record": "CMOC-TIRY-ADD244",
       "project_occurrences": [
         "CMOCC-TIRY244-1",
@@ -302,5 +310,6 @@
     "dossiers": "research/record-dossiers.json",
     "independent_reviews_added": 0,
     "source_only": true
-  }
+  },
+  "source_growth_20261014": "research/source-growth-2026-10-14.json"
 }

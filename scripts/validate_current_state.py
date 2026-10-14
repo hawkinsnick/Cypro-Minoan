@@ -60,6 +60,8 @@ def validate():
         require(smoke["phonetic_eligibility"]["eligible"]==5890 and smoke["phonetic_eligibility"]["excluded_missing_transcription"]==42,"phonetic completeness exclusions drift")
         require(smoke["input_unique_documents"]==5890 and smoke["realized"]["document_count"]==802 and smoke["repeat_run_identical"] is True,"corrected smoke counts/repeatability")
         require(smoke["gold_revealed"] is False and smoke["calibration_executed"] is False and smoke["scientific_matched_environment_claim_allowed"] is False,"software smoke promoted to scientific result")
+    from validate_growth_20261014 import validate as validate_growth
+    validate_growth(R)
     from validate_reconciliation import validate as reconcile
     reconcile(R)
     from assertion_views import validate as validate_delivery

@@ -167,7 +167,8 @@
       },
       "question": "Check all positions, orientation and complete object coverage against the cited primary edition.",
       "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness.",
-      "source_occurrences_added_since_checkpoint": 0
+      "source_occurrences_added_since_checkpoint": 3,
+      "latest_source_checkpoint": "research/source-growth-2026-10-14.json"
     },
     {
       "record_id": "CMOC-0032",
@@ -208,7 +209,8 @@
       },
       "question": "Check all positions, orientation and complete object coverage against the cited primary edition.",
       "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness.",
-      "source_occurrences_added_since_checkpoint": 0
+      "source_occurrences_added_since_checkpoint": 4,
+      "latest_source_checkpoint": "research/source-growth-2026-10-14.json"
     },
     {
       "record_id": "CMOC-0033",
@@ -249,7 +251,8 @@
       },
       "question": "Check all positions, orientation and complete object coverage against the cited primary edition.",
       "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness.",
-      "source_occurrences_added_since_checkpoint": 0
+      "source_occurrences_added_since_checkpoint": 3,
+      "latest_source_checkpoint": "research/source-growth-2026-10-14.json"
     },
     {
       "record_id": "CMOC-0209",
@@ -508,9 +511,9 @@
     "expert_reviews_completed": 0,
     "canonical_readings_added": 0,
     "baseline_uncovered_rich_records": 15,
-    "current_uncovered_rich_records": 12,
-    "partially_source_encoded_since_checkpoint": 3,
-    "source_occurrences_added": 4
+    "current_uncovered_rich_records": 9,
+    "partially_source_encoded_since_checkpoint": 6,
+    "source_occurrences_added": 14
   },
   "expert_validation_granted": false,
   "boundary": "Source accessibility and engineering replay do not adjudicate sign identities, source dependence, reading direction or script membership. Human review remains blank.",

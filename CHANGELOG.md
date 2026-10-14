@@ -82,3 +82,6 @@ Require checked native dependency projections, preserve corpus-native bundle sch
 ### Source coverage and reconciliation — 2026-10-12
 
 Replayed nine exact Louvre inventory/edition joins and inspected primary context for the Tiryns clay ball, preserving damaged-sign and database-identifier qualifications. No new reading or independent review. See [scope, rights and verification](docs/SOURCE-GROWTH-2026-10-12.md).
+
+## 2026-10-14 — ten finite dependent source assertions
+Added source-located numerical positions on CMOC-0028, CMOC-0032 and CMOC-0033. Prior sixteen assertions preserved; coverage is 26 assertions on 12/21 records, with nine unencoded. No primary certification, source independence or expert acceptance. Regenerated dossiers, qualified views, coverage and interchange controls.

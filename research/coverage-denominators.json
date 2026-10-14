@@ -564,17 +564,17 @@
         "CMOC-0025",
         "CMOC-0026",
         "CMOC-0027",
+        "CMOC-0028",
         "CMOC-0029",
         "CMOC-0030",
         "CMOC-0031",
+        "CMOC-0032",
+        "CMOC-0033",
         "CMOC-TIRY-ADD244",
         "CMOC-TIRY-ADD245",
         "CMOC-TIRY-ADD246"
       ],
       "records_without_encoded_occurrences": [
-        "CMOC-0028",
-        "CMOC-0032",
-        "CMOC-0033",
         "CMOC-0209",
         "CMOC-0216",
         "CMOC-BM-1898.1201.204",
@@ -610,10 +610,10 @@
         "CMOC-MET-74.51.4316",
         "CMOC-MET-74.51.5057A"
       ],
-      "source_occurrence_assertions": 16,
+      "source_occurrence_assertions": 26,
       "full_transcription_coverage_established": false,
       "primary_occurrences": 6,
-      "dependent_secondary_occurrences": 10
+      "dependent_secondary_occurrences": 20
     }
   ],
   "object_concordance": [
@@ -861,7 +861,7 @@
     },
     {
       "path": "occurrences/occurrences.json",
-      "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b"
+      "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133"
     },
     {
       "path": "catalogues/source-located-concordance.json",

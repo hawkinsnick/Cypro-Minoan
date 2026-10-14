@@ -49,6 +49,23 @@
         <note type="source-editorial-note" corresp="#CMOCC-0027-VALERIO2016-source-first-sequence-3">Partial assertion inspected in Valério 2016; no full transcription, reading direction or independent sign identification inferred.</note>
         <note type="source-editorial-note" corresp="#CMOCC-0027-VALERIO2016-source-first-sequence-3">Valério proposes 13 against reported Olivier label 08; Olivier was not directly inspected. Both labels remain source-qualified, disagreement unresolved.</note>
       </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0028-source-sequence">
+        <head>CMOC-0028 / source-sequence</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="1" ref="urn:cypro-minoan:published-sign:valerio2016thesis:110" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0028-VALERIO2016-20261014-1">110</g>
+          <g n="2" ref="urn:cypro-minoan:published-sign:valerio2016thesis:96" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0028-VALERIO2016-20261014-2">96</g>
+          <g n="3" ref="urn:cypro-minoan:published-sign:valerio2016thesis:34" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0028-VALERIO2016-20261014-3">34</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-0028-VALERIO2016-20261014-1">printed p. 458 (PDF 464), ##028</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0028-VALERIO2016-20261014-1">Certainty concerns faithful encoding of the source label, not independent sign identification.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0028-VALERIO2016-20261014-1">Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.</note>
+        <note type="source-locator" corresp="#CMOCC-0028-VALERIO2016-20261014-2">printed p. 458 (PDF 464), ##028</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0028-VALERIO2016-20261014-2">Certainty concerns faithful encoding of the source label, not independent sign identification.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0028-VALERIO2016-20261014-2">Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.</note>
+        <note type="source-locator" corresp="#CMOCC-0028-VALERIO2016-20261014-3">printed p. 458 (PDF 464), ##028</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0028-VALERIO2016-20261014-3">Certainty concerns faithful encoding of the source label, not independent sign identification.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0028-VALERIO2016-20261014-3">Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.</note>
+      </div>
       <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0029-source-numbered-sequence">
         <head>CMOC-0029 / source-numbered-sequence</head>
         <ab type="occurrence-sequence" ana="#partial-coverage">
@@ -75,6 +92,44 @@
         <note type="source-locator" corresp="#CMOCC-ENK031-VETTERS2011-3">p. 16, footnote 126, Olivier 2007 no. 031 (3rd sign)</note>
         <note type="source-editorial-note" corresp="#CMOCC-ENK031-VETTERS2011-3">Partial source assertion citing Olivier 2007; other positions are not encoded.</note>
         <note type="source-editorial-note" corresp="#CMOCC-ENK031-VETTERS2011-3">Catalogue identity join follows the existing Louvre-attributed Olivier identifier; no independent image collation or physical reading direction established.</note>
+      </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0032-source-sequence">
+        <head>CMOC-0032 / source-sequence</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="1" ref="urn:cypro-minoan:published-sign:valerio2016thesis:102" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0032-VALERIO2016-20261014-1">102</g>
+          <g n="2" ref="urn:cypro-minoan:published-sign:valerio2016thesis:27" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0032-VALERIO2016-20261014-2">27</g>
+          <g n="3" ref="urn:cypro-minoan:published-sign:valerio2016thesis:70" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0032-VALERIO2016-20261014-3">70</g>
+          <g n="4" ref="urn:cypro-minoan:published-sign:valerio2016thesis:86" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0032-VALERIO2016-20261014-4">86</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-0032-VALERIO2016-20261014-1">printed p. 458 (PDF 464), ##032</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0032-VALERIO2016-20261014-1">Certainty concerns faithful encoding of the source label, not independent sign identification.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0032-VALERIO2016-20261014-1">Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.</note>
+        <note type="source-locator" corresp="#CMOCC-0032-VALERIO2016-20261014-2">printed p. 458 (PDF 464), ##032</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0032-VALERIO2016-20261014-2">Certainty concerns faithful encoding of the source label, not independent sign identification.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0032-VALERIO2016-20261014-2">Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.</note>
+        <note type="source-locator" corresp="#CMOCC-0032-VALERIO2016-20261014-3">printed p. 458 (PDF 464), ##032</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0032-VALERIO2016-20261014-3">Certainty concerns faithful encoding of the source label, not independent sign identification.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0032-VALERIO2016-20261014-3">Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.</note>
+        <note type="source-locator" corresp="#CMOCC-0032-VALERIO2016-20261014-4">printed p. 458 (PDF 464), ##032</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0032-VALERIO2016-20261014-4">Certainty concerns faithful encoding of the source label, not independent sign identification.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0032-VALERIO2016-20261014-4">Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.</note>
+      </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0033-source-sequence">
+        <head>CMOC-0033 / source-sequence</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="1" ref="urn:cypro-minoan:published-sign:valerio2016thesis:87" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0033-VALERIO2016-20261014-1">87</g>
+          <g n="2" ref="urn:cypro-minoan:published-sign:valerio2016thesis:82" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0033-VALERIO2016-20261014-2">82</g>
+          <g n="3" ref="urn:cypro-minoan:published-sign:valerio2016thesis:24" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0033-VALERIO2016-20261014-3">24</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-0033-VALERIO2016-20261014-1">printed p. 459 (PDF 465), ##033</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0033-VALERIO2016-20261014-1">Certainty concerns faithful encoding of the source label, not independent sign identification.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0033-VALERIO2016-20261014-1">Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.</note>
+        <note type="source-locator" corresp="#CMOCC-0033-VALERIO2016-20261014-2">printed p. 459 (PDF 465), ##033</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0033-VALERIO2016-20261014-2">Certainty concerns faithful encoding of the source label, not independent sign identification.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0033-VALERIO2016-20261014-2">Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.</note>
+        <note type="source-locator" corresp="#CMOCC-0033-VALERIO2016-20261014-3">printed p. 459 (PDF 465), ##033</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0033-VALERIO2016-20261014-3">Certainty concerns faithful encoding of the source label, not independent sign identification.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0033-VALERIO2016-20261014-3">Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.</note>
       </div>
       <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-TIRY-ADD244-clay-ball-inscription">
         <head>CMOC-TIRY-ADD244 / clay-ball-inscription</head>

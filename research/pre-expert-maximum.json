@@ -95,5 +95,12 @@
     "audit": "analysis/source-growth-2026-10-12.json",
     "source_leads_are_not_reading_coverage": true,
     "independent_review_complete": false
+  },
+  "source_growth_20261014": {
+    "guide": "docs/SOURCE-GROWTH-2026-10-14.md",
+    "occurrences": 26,
+    "covered_rich_records": 12,
+    "uncovered_rich_records": 9,
+    "expert_acceptance": false
   }
 }

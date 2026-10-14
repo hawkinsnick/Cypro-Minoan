@@ -1418,17 +1418,493 @@
           ]
         }
       ],
-      "source_occurrences": [],
-      "qualified_assertions": [],
+      "source_occurrences": [
+        {
+          "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-1",
+          "record_id": "CMOC-0028",
+          "zone_id": "source-sequence",
+          "position": 1,
+          "published_sign_label": "110",
+          "source_id": "valerio2016thesis",
+          "source_role": "dependent_secondary",
+          "locator": "printed p. 458 (PDF 464), ##028",
+          "certainty": "certain",
+          "notes": [
+            "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+            "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0028-VALERIO2016-20261014-1",
+            "record_id": "CMOC-0028",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-1",
+              "record_id": "CMOC-0028",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 458 (PDF 464), ##028",
+              "literal_published_label": "110",
+              "editorial_notes": [
+                "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+                "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+              ],
+              "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0028",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2231",
+                  "source_id": "louvre-cm-28",
+                  "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk. 49 4034",
+                  "source_id": "louvre-cm-28",
+                  "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "28",
+                  "source_id": "louvre-cm-28",
+                  "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "28",
+                  "source_id": "louvre-cm-28",
+                  "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                28
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        },
+        {
+          "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-2",
+          "record_id": "CMOC-0028",
+          "zone_id": "source-sequence",
+          "position": 2,
+          "published_sign_label": "96",
+          "source_id": "valerio2016thesis",
+          "source_role": "dependent_secondary",
+          "locator": "printed p. 458 (PDF 464), ##028",
+          "certainty": "certain",
+          "notes": [
+            "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+            "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0028-VALERIO2016-20261014-2",
+            "record_id": "CMOC-0028",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-2",
+              "record_id": "CMOC-0028",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 458 (PDF 464), ##028",
+              "literal_published_label": "96",
+              "editorial_notes": [
+                "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+                "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+              ],
+              "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0028",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2231",
+                  "source_id": "louvre-cm-28",
+                  "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk. 49 4034",
+                  "source_id": "louvre-cm-28",
+                  "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "28",
+                  "source_id": "louvre-cm-28",
+                  "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "28",
+                  "source_id": "louvre-cm-28",
+                  "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                28
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        },
+        {
+          "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-3",
+          "record_id": "CMOC-0028",
+          "zone_id": "source-sequence",
+          "position": 3,
+          "published_sign_label": "34",
+          "source_id": "valerio2016thesis",
+          "source_role": "dependent_secondary",
+          "locator": "printed p. 458 (PDF 464), ##028",
+          "certainty": "certain",
+          "notes": [
+            "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+            "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0028-VALERIO2016-20261014-3",
+            "record_id": "CMOC-0028",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-3",
+              "record_id": "CMOC-0028",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 458 (PDF 464), ##028",
+              "literal_published_label": "34",
+              "editorial_notes": [
+                "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+                "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+              ],
+              "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0028",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2231",
+                  "source_id": "louvre-cm-28",
+                  "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk. 49 4034",
+                  "source_id": "louvre-cm-28",
+                  "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "28",
+                  "source_id": "louvre-cm-28",
+                  "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "28",
+                  "source_id": "louvre-cm-28",
+                  "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                28
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        }
+      ],
+      "qualified_assertions": [
+        {
+          "assertion_id": "CMOCC-0028-VALERIO2016-20261014-1",
+          "record_id": "CMOC-0028",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-1",
+            "record_id": "CMOC-0028",
+            "zone_id": "source-sequence",
+            "position": 1,
+            "published_sign_label": "110",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##028",
+            "certainty": "certain",
+            "notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-1",
+            "record_id": "CMOC-0028",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##028",
+            "literal_published_label": "110",
+            "editorial_notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ],
+            "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0028",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2231",
+                "source_id": "louvre-cm-28",
+                "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk. 49 4034",
+                "source_id": "louvre-cm-28",
+                "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "28",
+                "source_id": "louvre-cm-28",
+                "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "28",
+                "source_id": "louvre-cm-28",
+                "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              28
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-0028-VALERIO2016-20261014-2",
+          "record_id": "CMOC-0028",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-2",
+            "record_id": "CMOC-0028",
+            "zone_id": "source-sequence",
+            "position": 2,
+            "published_sign_label": "96",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##028",
+            "certainty": "certain",
+            "notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-2",
+            "record_id": "CMOC-0028",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##028",
+            "literal_published_label": "96",
+            "editorial_notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ],
+            "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0028",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2231",
+                "source_id": "louvre-cm-28",
+                "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk. 49 4034",
+                "source_id": "louvre-cm-28",
+                "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "28",
+                "source_id": "louvre-cm-28",
+                "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "28",
+                "source_id": "louvre-cm-28",
+                "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              28
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-0028-VALERIO2016-20261014-3",
+          "record_id": "CMOC-0028",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-3",
+            "record_id": "CMOC-0028",
+            "zone_id": "source-sequence",
+            "position": 3,
+            "published_sign_label": "34",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##028",
+            "certainty": "certain",
+            "notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0028-VALERIO2016-20261014-3",
+            "record_id": "CMOC-0028",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##028",
+            "literal_published_label": "34",
+            "editorial_notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ],
+            "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0028",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2231",
+                "source_id": "louvre-cm-28",
+                "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk. 49 4034",
+                "source_id": "louvre-cm-28",
+                "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "28",
+                "source_id": "louvre-cm-28",
+                "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "28",
+                "source_id": "louvre-cm-28",
+                "locator": "corpus/inscriptions/CMOC-0028.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              28
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        }
+      ],
       "source_ids": [
-        "louvre-cm-28"
+        "louvre-cm-28",
+        "valerio2016thesis"
       ],
       "rights": {
         "record_license": "Project-original structured metadata; third-party assertions retain attribution",
         "third_party_material": []
       },
       "missing_evidence": [
-        "ENCODED_OCCURRENCES_ABSENT",
         "INDEPENDENT_REVIEW_PENDING"
       ],
       "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
@@ -1443,6 +1919,17 @@
           "year": 2025,
           "url": "https://collections.louvre.fr/ark:/53355/cl010131603",
           "rights_note": "Museum catalogue metadata used as an attributed source. No Louvre images redistributed."
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "type": "thesis",
+          "title": "Investigating the Signs and Sounds of Cypro-Minoan",
+          "authors": [
+            "Miguel Valério"
+          ],
+          "year": 2016,
+          "url": "https://hdl.handle.net/2445/99521",
+          "rights_note": "Bibliographic and research reference; no blanket redistribution rights assumed."
         }
       ]
     },
@@ -2592,10 +3079,645 @@
           ]
         }
       ],
-      "source_occurrences": [],
-      "qualified_assertions": [],
+      "source_occurrences": [
+        {
+          "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-1",
+          "record_id": "CMOC-0032",
+          "zone_id": "source-sequence",
+          "position": 1,
+          "published_sign_label": "102",
+          "source_id": "valerio2016thesis",
+          "source_role": "dependent_secondary",
+          "locator": "printed p. 458 (PDF 464), ##032",
+          "certainty": "certain",
+          "notes": [
+            "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+            "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0032-VALERIO2016-20261014-1",
+            "record_id": "CMOC-0032",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-1",
+              "record_id": "CMOC-0032",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 458 (PDF 464), ##032",
+              "literal_published_label": "102",
+              "editorial_notes": [
+                "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+                "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+              ],
+              "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0032",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2235",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk 1955-54",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "32",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "32",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                32
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        },
+        {
+          "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-2",
+          "record_id": "CMOC-0032",
+          "zone_id": "source-sequence",
+          "position": 2,
+          "published_sign_label": "27",
+          "source_id": "valerio2016thesis",
+          "source_role": "dependent_secondary",
+          "locator": "printed p. 458 (PDF 464), ##032",
+          "certainty": "certain",
+          "notes": [
+            "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+            "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0032-VALERIO2016-20261014-2",
+            "record_id": "CMOC-0032",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-2",
+              "record_id": "CMOC-0032",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 458 (PDF 464), ##032",
+              "literal_published_label": "27",
+              "editorial_notes": [
+                "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+                "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+              ],
+              "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0032",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2235",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk 1955-54",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "32",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "32",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                32
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        },
+        {
+          "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-3",
+          "record_id": "CMOC-0032",
+          "zone_id": "source-sequence",
+          "position": 3,
+          "published_sign_label": "70",
+          "source_id": "valerio2016thesis",
+          "source_role": "dependent_secondary",
+          "locator": "printed p. 458 (PDF 464), ##032",
+          "certainty": "certain",
+          "notes": [
+            "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+            "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0032-VALERIO2016-20261014-3",
+            "record_id": "CMOC-0032",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-3",
+              "record_id": "CMOC-0032",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 458 (PDF 464), ##032",
+              "literal_published_label": "70",
+              "editorial_notes": [
+                "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+                "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+              ],
+              "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0032",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2235",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk 1955-54",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "32",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "32",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                32
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        },
+        {
+          "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-4",
+          "record_id": "CMOC-0032",
+          "zone_id": "source-sequence",
+          "position": 4,
+          "published_sign_label": "86",
+          "source_id": "valerio2016thesis",
+          "source_role": "dependent_secondary",
+          "locator": "printed p. 458 (PDF 464), ##032",
+          "certainty": "certain",
+          "notes": [
+            "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+            "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0032-VALERIO2016-20261014-4",
+            "record_id": "CMOC-0032",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-4",
+              "record_id": "CMOC-0032",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 458 (PDF 464), ##032",
+              "literal_published_label": "86",
+              "editorial_notes": [
+                "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+                "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+              ],
+              "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0032",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2235",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk 1955-54",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "32",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "32",
+                  "source_id": "louvre-cm-32",
+                  "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                32
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        }
+      ],
+      "qualified_assertions": [
+        {
+          "assertion_id": "CMOCC-0032-VALERIO2016-20261014-1",
+          "record_id": "CMOC-0032",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-1",
+            "record_id": "CMOC-0032",
+            "zone_id": "source-sequence",
+            "position": 1,
+            "published_sign_label": "102",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##032",
+            "certainty": "certain",
+            "notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-1",
+            "record_id": "CMOC-0032",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##032",
+            "literal_published_label": "102",
+            "editorial_notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ],
+            "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0032",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2235",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk 1955-54",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "32",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "32",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              32
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-0032-VALERIO2016-20261014-2",
+          "record_id": "CMOC-0032",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-2",
+            "record_id": "CMOC-0032",
+            "zone_id": "source-sequence",
+            "position": 2,
+            "published_sign_label": "27",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##032",
+            "certainty": "certain",
+            "notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-2",
+            "record_id": "CMOC-0032",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##032",
+            "literal_published_label": "27",
+            "editorial_notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ],
+            "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0032",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2235",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk 1955-54",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "32",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "32",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              32
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-0032-VALERIO2016-20261014-3",
+          "record_id": "CMOC-0032",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-3",
+            "record_id": "CMOC-0032",
+            "zone_id": "source-sequence",
+            "position": 3,
+            "published_sign_label": "70",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##032",
+            "certainty": "certain",
+            "notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-3",
+            "record_id": "CMOC-0032",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##032",
+            "literal_published_label": "70",
+            "editorial_notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ],
+            "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0032",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2235",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk 1955-54",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "32",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "32",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              32
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-0032-VALERIO2016-20261014-4",
+          "record_id": "CMOC-0032",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-4",
+            "record_id": "CMOC-0032",
+            "zone_id": "source-sequence",
+            "position": 4,
+            "published_sign_label": "86",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##032",
+            "certainty": "certain",
+            "notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0032-VALERIO2016-20261014-4",
+            "record_id": "CMOC-0032",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 458 (PDF 464), ##032",
+            "literal_published_label": "86",
+            "editorial_notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ],
+            "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0032",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2235",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk 1955-54",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "32",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "32",
+                "source_id": "louvre-cm-32",
+                "locator": "corpus/inscriptions/CMOC-0032.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              32
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        }
+      ],
       "source_ids": [
-        "louvre-cm-32"
+        "louvre-cm-32",
+        "valerio2016thesis"
       ],
       "rights": {
         "record_license": "Project-original structure; Louvre textual source data reused under Licence Ouverte / Open Licence Etalab with attribution.",
@@ -2616,7 +3738,6 @@
         ]
       },
       "missing_evidence": [
-        "ENCODED_OCCURRENCES_ABSENT",
         "INDEPENDENT_REVIEW_PENDING"
       ],
       "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
@@ -2632,6 +3753,17 @@
           "url": "https://collections.louvre.fr/ark:/53355/cl010131607",
           "rights_note": "Textual entry reused under Licence Ouverte / Open Licence Etalab; Louvre entry last updated 2025-12-08. No Louvre images redistributed.",
           "notes": "Attribution: Musée du Louvre. Museum entry warns that its contents may not reflect the latest state of knowledge."
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "type": "thesis",
+          "title": "Investigating the Signs and Sounds of Cypro-Minoan",
+          "authors": [
+            "Miguel Valério"
+          ],
+          "year": 2016,
+          "url": "https://hdl.handle.net/2445/99521",
+          "rights_note": "Bibliographic and research reference; no blanket redistribution rights assumed."
         }
       ]
     },
@@ -2785,10 +3917,487 @@
           ]
         }
       ],
-      "source_occurrences": [],
-      "qualified_assertions": [],
+      "source_occurrences": [
+        {
+          "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-1",
+          "record_id": "CMOC-0033",
+          "zone_id": "source-sequence",
+          "position": 1,
+          "published_sign_label": "87",
+          "source_id": "valerio2016thesis",
+          "source_role": "dependent_secondary",
+          "locator": "printed p. 459 (PDF 465), ##033",
+          "certainty": "certain",
+          "notes": [
+            "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+            "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0033-VALERIO2016-20261014-1",
+            "record_id": "CMOC-0033",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-1",
+              "record_id": "CMOC-0033",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 459 (PDF 465), ##033",
+              "literal_published_label": "87",
+              "editorial_notes": [
+                "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+                "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+              ],
+              "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0033",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2234",
+                  "source_id": "louvre-cm-33",
+                  "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk 1955-63",
+                  "source_id": "louvre-cm-33",
+                  "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "33",
+                  "source_id": "louvre-cm-33",
+                  "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "33",
+                  "source_id": "louvre-cm-33",
+                  "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                33
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        },
+        {
+          "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-2",
+          "record_id": "CMOC-0033",
+          "zone_id": "source-sequence",
+          "position": 2,
+          "published_sign_label": "82",
+          "source_id": "valerio2016thesis",
+          "source_role": "dependent_secondary",
+          "locator": "printed p. 459 (PDF 465), ##033",
+          "certainty": "certain",
+          "notes": [
+            "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+            "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0033-VALERIO2016-20261014-2",
+            "record_id": "CMOC-0033",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-2",
+              "record_id": "CMOC-0033",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 459 (PDF 465), ##033",
+              "literal_published_label": "82",
+              "editorial_notes": [
+                "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+                "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+              ],
+              "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0033",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2234",
+                  "source_id": "louvre-cm-33",
+                  "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk 1955-63",
+                  "source_id": "louvre-cm-33",
+                  "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "33",
+                  "source_id": "louvre-cm-33",
+                  "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "33",
+                  "source_id": "louvre-cm-33",
+                  "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                33
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        },
+        {
+          "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-3",
+          "record_id": "CMOC-0033",
+          "zone_id": "source-sequence",
+          "position": 3,
+          "published_sign_label": "24",
+          "source_id": "valerio2016thesis",
+          "source_role": "dependent_secondary",
+          "locator": "printed p. 459 (PDF 465), ##033",
+          "certainty": "certain",
+          "notes": [
+            "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+            "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+          ],
+          "evidence_context": {
+            "assertion_id": "CMOCC-0033-VALERIO2016-20261014-3",
+            "record_id": "CMOC-0033",
+            "reconciliation_context": {
+              "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-3",
+              "record_id": "CMOC-0033",
+              "source_id": "valerio2016thesis",
+              "source_role": "dependent_secondary",
+              "locator": "printed p. 459 (PDF 465), ##033",
+              "literal_published_label": "24",
+              "editorial_notes": [
+                "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+                "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+              ],
+              "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+              "independent_review_complete": false,
+              "canonical_label_replaced": false,
+              "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+            },
+            "source_disagreements": [],
+            "identity_context": {
+              "record_id": "CMOC-0033",
+              "unit": "rich_record",
+              "membership": "core",
+              "identifier_assertions": [
+                {
+                  "namespace": "Louvre inventory",
+                  "literal": "AM 2234",
+                  "source_id": "louvre-cm-33",
+                  "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "excavation inventory",
+                  "literal": "Enk 1955-63",
+                  "source_id": "louvre-cm-33",
+                  "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Ferrara 2013 catalogue",
+                  "literal": "33",
+                  "source_id": "louvre-cm-33",
+                  "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                },
+                {
+                  "namespace": "Olivier 2007 catalogue",
+                  "literal": "33",
+                  "source_id": "louvre-cm-33",
+                  "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                  "physical_equivalence_adjudicated": false
+                }
+              ],
+              "catalogue_slots": [
+                33
+              ],
+              "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+              "physical_identity_adjudicated": false
+            },
+            "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+            "full_transcription_inferred": false,
+            "independent_review_complete": false
+          }
+        }
+      ],
+      "qualified_assertions": [
+        {
+          "assertion_id": "CMOCC-0033-VALERIO2016-20261014-1",
+          "record_id": "CMOC-0033",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-1",
+            "record_id": "CMOC-0033",
+            "zone_id": "source-sequence",
+            "position": 1,
+            "published_sign_label": "87",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 459 (PDF 465), ##033",
+            "certainty": "certain",
+            "notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-1",
+            "record_id": "CMOC-0033",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 459 (PDF 465), ##033",
+            "literal_published_label": "87",
+            "editorial_notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ],
+            "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0033",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2234",
+                "source_id": "louvre-cm-33",
+                "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk 1955-63",
+                "source_id": "louvre-cm-33",
+                "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "33",
+                "source_id": "louvre-cm-33",
+                "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "33",
+                "source_id": "louvre-cm-33",
+                "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              33
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-0033-VALERIO2016-20261014-2",
+          "record_id": "CMOC-0033",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-2",
+            "record_id": "CMOC-0033",
+            "zone_id": "source-sequence",
+            "position": 2,
+            "published_sign_label": "82",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 459 (PDF 465), ##033",
+            "certainty": "certain",
+            "notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-2",
+            "record_id": "CMOC-0033",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 459 (PDF 465), ##033",
+            "literal_published_label": "82",
+            "editorial_notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ],
+            "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0033",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2234",
+                "source_id": "louvre-cm-33",
+                "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk 1955-63",
+                "source_id": "louvre-cm-33",
+                "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "33",
+                "source_id": "louvre-cm-33",
+                "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "33",
+                "source_id": "louvre-cm-33",
+                "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              33
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        },
+        {
+          "assertion_id": "CMOCC-0033-VALERIO2016-20261014-3",
+          "record_id": "CMOC-0033",
+          "source_assertion": {
+            "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-3",
+            "record_id": "CMOC-0033",
+            "zone_id": "source-sequence",
+            "position": 3,
+            "published_sign_label": "24",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 459 (PDF 465), ##033",
+            "certainty": "certain",
+            "notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ]
+          },
+          "reconciliation_context": {
+            "occurrence_id": "CMOCC-0033-VALERIO2016-20261014-3",
+            "record_id": "CMOC-0033",
+            "source_id": "valerio2016thesis",
+            "source_role": "dependent_secondary",
+            "locator": "printed p. 459 (PDF 465), ##033",
+            "literal_published_label": "24",
+            "editorial_notes": [
+              "Certainty concerns faithful encoding of the source label, not independent sign identification.",
+              "Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed."
+            ],
+            "status": "DIRECT_DEPENDENT_SOURCE_NUMERICAL_ASSERTION_20261014",
+            "independent_review_complete": false,
+            "canonical_label_replaced": false,
+            "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+          },
+          "source_disagreements": [],
+          "identity_context": {
+            "record_id": "CMOC-0033",
+            "unit": "rich_record",
+            "membership": "core",
+            "identifier_assertions": [
+              {
+                "namespace": "Louvre inventory",
+                "literal": "AM 2234",
+                "source_id": "louvre-cm-33",
+                "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "excavation inventory",
+                "literal": "Enk 1955-63",
+                "source_id": "louvre-cm-33",
+                "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Ferrara 2013 catalogue",
+                "literal": "33",
+                "source_id": "louvre-cm-33",
+                "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              },
+              {
+                "namespace": "Olivier 2007 catalogue",
+                "literal": "33",
+                "source_id": "louvre-cm-33",
+                "locator": "corpus/inscriptions/CMOC-0033.json#identifiers",
+                "physical_equivalence_adjudicated": false
+              }
+            ],
+            "catalogue_slots": [
+              33
+            ],
+            "identity_status": "EXPLICIT_NATIVE_CATALOGUE_CROSS_REFERENCE",
+            "physical_identity_adjudicated": false
+          },
+          "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+          "full_transcription_inferred": false,
+          "independent_review_complete": false
+        }
+      ],
       "source_ids": [
-        "louvre-cm-33"
+        "louvre-cm-33",
+        "valerio2016thesis"
       ],
       "rights": {
         "record_license": "Project-original structure; Louvre textual source data reused under Licence Ouverte / Open Licence Etalab with attribution.",
@@ -2809,7 +4418,6 @@
         ]
       },
       "missing_evidence": [
-        "ENCODED_OCCURRENCES_ABSENT",
         "INDEPENDENT_REVIEW_PENDING"
       ],
       "occurrence_scope": "Partial source-attributed occurrence subset; no complete transcription inferred.",
@@ -2825,6 +4433,17 @@
           "url": "https://collections.louvre.fr/ark:/53355/cl010131606",
           "rights_note": "Textual entry reused under Licence Ouverte / Open Licence Etalab; Louvre entry last updated 2025-12-08. No Louvre images redistributed.",
           "notes": "Attribution: Musée du Louvre. Museum entry warns that its contents may not reflect the latest state of knowledge."
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "type": "thesis",
+          "title": "Investigating the Signs and Sounds of Cypro-Minoan",
+          "authors": [
+            "Miguel Valério"
+          ],
+          "year": 2016,
+          "url": "https://hdl.handle.net/2445/99521",
+          "rights_note": "Bibliographic and research reference; no blanket redistribution rights assumed."
         }
       ]
     },

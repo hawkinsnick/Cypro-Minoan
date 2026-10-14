@@ -13,8 +13,8 @@
     },
     {
       "path": "occurrences/occurrences.json",
-      "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b",
-      "bytes": 8806,
+      "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133",
+      "bytes": 16048,
       "category": "occurrences",
       "summary": {
         "reading_warning": "Original source literals may omit primary apparatus. Use the qualified assertion view before analysis.",
@@ -30,8 +30,8 @@
     },
     {
       "path": "analysis/occurrence-coverage-v1.json",
-      "sha256": "00539e7362042e52b8c6891b347bf12954efc628e853bd53631b04df2628f943",
-      "bytes": 2191,
+      "sha256": "a860184eb6c8e92582ca44bc5b273178dda7f85317a3b701d13a995af4498ad4",
+      "bytes": 2377,
       "category": "analysis",
       "summary": {
         "scope": "Committed rich-record subset only; catalogue placeholders are outside this denominator."
@@ -46,15 +46,15 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "6b81301d679b8d0894e206f653c7feb77b78421f31630a53835e46e4eef9a90f",
-      "bytes": 8776,
+      "sha256": "70cd2662e7e7b17552dd47fd483c2fdb954b7636813fc737573e6398878b8d23",
+      "bytes": 8868,
       "category": "scripts",
       "summary": {}
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "e342addac0c26789ed2cd202743aea4b88a3b7d85698d4d266733c7c5f486039",
-      "bytes": 14099,
+      "sha256": "6aa5184d136eac5f73e29bd582f19190c2466e77e20301292446c4ec73b57883",
+      "bytes": 14113,
       "category": "research",
       "summary": {
         "scope": "Comparison readiness and software/governance alignment, not permission for cross-script inference. Exact snapshot commits pin native evidence; target versions describe the coordinated rollout. Snapshot versions may precede report-only maintenance."
@@ -113,29 +113,29 @@
     },
     {
       "path": "scripts/test_occurrence_coverage.py",
-      "sha256": "dfe8bb2476b29c5ce45f7ac60a5ae1b5115ef56265728b37c4bf14fd29473c92",
-      "bytes": 1937,
+      "sha256": "349ed088c69292f792fe6f51ce3080aa47cb2a979d1493ec4c16c79f69d3ce17",
+      "bytes": 1938,
       "category": "scripts",
       "summary": {}
     },
     {
       "path": "research/pre-expert-maximum.json",
-      "sha256": "70fcddc918c67ea0e9f6b19fbf41f384febe9c4692f2de472f2a62841c9c7452",
-      "bytes": 4315,
+      "sha256": "e2b5f96ab372532ce8ff1cefca48c742d51efbd941ae5bcdbb14c108ea6be586",
+      "bytes": 4518,
       "category": "research",
       "summary": {}
     },
     {
       "path": "research/record-dossiers.json",
-      "sha256": "34fbe418a3fff188747c07aa4c422fd34b0e31ee49929a07e48ee0f58b6308b9",
-      "bytes": 203208,
+      "sha256": "f48b77866e96eaba087094cf051a2f09853b03412ba7ba051dbd41158b4d0a19",
+      "bytes": 284322,
       "category": "research",
       "summary": {}
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "658b22020d94256f9e1b24c63c450de45d3072682a1c76165a7c5b543748f396",
-      "bytes": 74510,
+      "sha256": "2c3090f9cfd53a1d35394c6afe527c57baf766b4f6aef11da41f04f96aa1514d",
+      "bytes": 74511,
       "category": "analysis",
       "summary": {
         "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."
@@ -171,8 +171,8 @@
     },
     {
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "b408ea762160404b3cbef2bc2547ea4129252a7b7078b282a075a640eb593e42",
-      "bytes": 35050,
+      "sha256": "ddd9523a2343bd1108a3e8a1c932ce3ef8913b063f2610475637fe0a61032e36",
+      "bytes": 42411,
       "category": "docs",
       "summary": {}
     },
@@ -207,8 +207,8 @@
     },
     {
       "path": "analysis/catalogue-mapping-audit.json",
-      "sha256": "69c0e65bd594ca04b587f4fbd15d67bca85d274580023300c486719c5fd8a372",
-      "bytes": 883,
+      "sha256": "a6be63ece904abb87e35349fe61cd4e8683889faad064a1c260a2db5d2af9173",
+      "bytes": 882,
       "category": "analysis",
       "summary": {
         "boundary": "Factual namespace mappings only. Source editorial markers and uncertain site labels remain attributed; no readings or broader corpus-completeness claim.",
@@ -238,8 +238,8 @@
     },
     {
       "path": "research/uncovered-record-review-controls.json",
-      "sha256": "fcc80d939562f699b7a0928559bcb6787d7eb4f8f20a5f122d0a262d9cc28817",
-      "bytes": 21586,
+      "sha256": "db25b5bdda3af951a27be65cee2a997488d7c3b0ee5deec02597193ee464abc2",
+      "bytes": 21814,
       "category": "research",
       "summary": {
         "scope": "Exactly the 15 currently uncovered rich records; locators and questions, no new transcriptions.",
@@ -262,8 +262,8 @@
     },
     {
       "path": "scripts/validate_uncovered_review.py",
-      "sha256": "e8170d06bac548b789db6fd72d1ed22c610d88934c5979730851e0423ec188c0",
-      "bytes": 5495,
+      "sha256": "067c608b886aa1a3f427f2c0aec0b110d1d4f87adf2fef9ae145dfeaf67a1d40",
+      "bytes": 5559,
       "category": "scripts",
       "summary": {}
     },
@@ -290,7 +290,7 @@
     },
     {
       "path": "research/coverage-denominators.json",
-      "sha256": "acfa218857b5d2ce313485a568f182ee60e11b6718eac77b8c46dde3537ab02d",
+      "sha256": "6de0666d841afb2b9adda5676fb3ce0a597eef32b060c6db88f360d9e5c6dc97",
       "bytes": 19351,
       "category": "research",
       "summary": {
@@ -299,8 +299,8 @@
     },
     {
       "path": "research/reference-reconciliation-v2.json",
-      "sha256": "ca89a3c3cdfa3cae006298c8d117c573e2000312fcaf5a947b0097b43048acfe",
-      "bytes": 13899,
+      "sha256": "337db7b1a9dda2ce6afc49f8735a89ab09be1fa35991b8f812bc7cfb68603fc8",
+      "bytes": 24156,
       "category": "research",
       "summary": {}
     },
@@ -313,7 +313,7 @@
     },
     {
       "path": "scripts/validate_reconciliation.py",
-      "sha256": "8977ef6792c572d0ad0bb66357c657c4d94c09cfb2a6726b9ffc63c2231c35a6",
+      "sha256": "dde23978702cb18499c2096986a4779dd95b10a206619222ade2b8ecc38bd194",
       "bytes": 5414,
       "category": "scripts",
       "summary": {}
@@ -373,8 +373,8 @@
     },
     {
       "path": "research/qualified-assertion-views.json",
-      "sha256": "b019937e64282c81978b3df2cff528a8b1f42c0c93fcdb1897ab5a5040ea578a",
-      "bytes": 50458,
+      "sha256": "a288b0e99c2467db478ae0b9e2ae7a280b58f1c9d96dc49e930bcf3dc4189969",
+      "bytes": 86735,
       "category": "research",
       "summary": {
         "scope": "Existing assertions joined to full encoded reconciliation and identity context; no new readings or occurrences."
@@ -382,9 +382,23 @@
     },
     {
       "path": "exports/qualified-assertions.csv",
-      "sha256": "f5950dc9b323eddcc57e4d8d2d0af3b4e35ef749d7b83a451382d93ce7344268",
-      "bytes": 38917,
+      "sha256": "c9b67242ffde4f69290147d991606898676967d096d2599af629a2a93b42c366",
+      "bytes": 67564,
       "category": "exports",
+      "summary": {}
+    },
+    {
+      "path": "research/source-growth-2026-10-14.json",
+      "sha256": "14199e03a61e1a56b144c7739e77377bd394abe467c8f34c23648c9556e039a2",
+      "bytes": 8271,
+      "category": "research",
+      "summary": {}
+    },
+    {
+      "path": "scripts/validate_growth_20261014.py",
+      "sha256": "8eb5075a22216f2204c421d9f9fea5d8b09f5ce4486ed8d0556733d6ef47f60e",
+      "bytes": 2563,
+      "category": "scripts",
       "summary": {}
     }
   ],
@@ -404,20 +418,20 @@
       "status": "measured"
     },
     "encoded_occurrences": {
-      "value": 16,
+      "value": 26,
       "unit": "encoded_source_occurrence_assertions",
-      "definition": "Six primary-publication and six dependent-secondary occurrence assertions; no independent witness count.",
+      "definition": "Six primary-publication and twenty dependent-secondary occurrence assertions; no independent witness count.",
       "status": "measured"
     },
     "records_with_encoded_occurrences": {
-      "value": 9,
+      "value": 12,
       "unit": "rich_record_ids",
-      "definition": "Partial or complete occurrence coverage on six of 21 rich records; not six complete sign sequences.",
+      "definition": "Some encoded source positions on twelve of 21 rich records; no complete physical-sign sequence certification.",
       "status": "measured"
     }
   },
-  "family_report_sha256": "e342addac0c26789ed2cd202743aea4b88a3b7d85698d4d266733c7c5f486039",
+  "family_report_sha256": "6aa5184d136eac5f73e29bd582f19190c2466e77e20301292446c4ec73b57883",
   "implementation_sha256": "71ceb7d7107428014ae9f43ca10d402805fb999428cb67549214d6b2b8bbc406",
-  "assertion_view_sha256": "b019937e64282c81978b3df2cff528a8b1f42c0c93fcdb1897ab5a5040ea578a",
+  "assertion_view_sha256": "a288b0e99c2467db478ae0b9e2ae7a280b58f1c9d96dc49e930bcf3dc4189969",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."
 }
