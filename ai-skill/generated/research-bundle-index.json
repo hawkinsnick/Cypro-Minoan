@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "cacf1eb9724297163b6f2c9814afd802cf510764",
-  "generated_at_utc": "2026-10-12T20:23:33+00:00",
+  "source_commit": "7e0afdddd9547e2fc6cd11129ba03b7bcbc05835",
+  "generated_at_utc": "2026-10-14T15:02:36+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -13,6 +13,24 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "finite_source_growth",
+      "path": "research/source-growth-2026-10-14.json",
+      "sha256": "14199e03a61e1a56b144c7739e77377bd394abe467c8f34c23648c9556e039a2",
+      "bytes": 8271
+    },
+    {
+      "role": "finite_source_growth",
+      "path": "docs/SOURCE-GROWTH-2026-10-14.md",
+      "sha256": "4fdc441a848c4fa8da67f8dc3da2c5fb761c92d7f47d37cf6c434b23a5803e5f",
+      "bytes": 2854
+    },
+    {
+      "role": "finite_source_growth",
+      "path": "scripts/validate_growth_20261014.py",
+      "sha256": "8eb5075a22216f2204c421d9f9fea5d8b09f5ce4486ed8d0556733d6ef47f60e",
+      "bytes": 2563
+    },
     {
       "role": "source_growth",
       "path": "research/louvre-object-concordance.json",
@@ -64,8 +82,8 @@
     {
       "role": "qualified_assertions",
       "path": "research/qualified-assertion-views.json",
-      "sha256": "b019937e64282c81978b3df2cff528a8b1f42c0c93fcdb1897ab5a5040ea578a",
-      "bytes": 50458
+      "sha256": "a288b0e99c2467db478ae0b9e2ae7a280b58f1c9d96dc49e930bcf3dc4189969",
+      "bytes": 86735
     },
     {
       "role": "existing_assertion_check",
@@ -76,8 +94,8 @@
     {
       "role": "reference_reconciliation",
       "path": "research/reference-reconciliation-v2.json",
-      "sha256": "ca89a3c3cdfa3cae006298c8d117c573e2000312fcaf5a947b0097b43048acfe",
-      "bytes": 13899
+      "sha256": "337db7b1a9dda2ce6afc49f8735a89ab09be1fa35991b8f812bc7cfb68603fc8",
+      "bytes": 24156
     },
     {
       "role": "identity_reconciliation",
@@ -100,7 +118,7 @@
     {
       "role": "coverage_denominators",
       "path": "research/coverage-denominators.json",
-      "sha256": "acfa218857b5d2ce313485a568f182ee60e11b6718eac77b8c46dde3537ab02d",
+      "sha256": "6de0666d841afb2b9adda5676fb3ce0a597eef32b060c6db88f360d9e5c6dc97",
       "bytes": 19351
     },
     {
@@ -130,8 +148,8 @@
     {
       "role": "uncovered_record_controls",
       "path": "research/uncovered-record-review-controls.json",
-      "sha256": "fcc80d939562f699b7a0928559bcb6787d7eb4f8f20a5f122d0a262d9cc28817",
-      "bytes": 21586
+      "sha256": "db25b5bdda3af951a27be65cee2a997488d7c3b0ee5deec02597193ee464abc2",
+      "bytes": 21814
     },
     {
       "role": "met_open_image_controls",
@@ -160,8 +178,8 @@
     {
       "role": "catalogue_mapping_audit",
       "path": "analysis/catalogue-mapping-audit.json",
-      "sha256": "69c0e65bd594ca04b587f4fbd15d67bca85d274580023300c486719c5fd8a372",
-      "bytes": 883
+      "sha256": "a6be63ece904abb87e35349fe61cd4e8683889faad064a1c260a2db5d2af9173",
+      "bytes": 882
     },
     {
       "role": "catalogue_mapping_guide",
@@ -172,7 +190,7 @@
     {
       "role": "upstream_epidoc_validation",
       "path": "analysis/upstream-epidoc-validation.json",
-      "sha256": "ece3eec9998145738bbbc26982f0d5b3fe82eea94904020ad09adc80b8e2e159",
+      "sha256": "4ee66f221ecd80a2527c6b6f5a8146eaa5ac45062054d3e7dcaf447d42f637fc",
       "bytes": 541
     },
     {
@@ -196,20 +214,20 @@
     {
       "role": "readable_dossiers",
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "b408ea762160404b3cbef2bc2547ea4129252a7b7078b282a075a640eb593e42",
-      "bytes": 35050
+      "sha256": "ddd9523a2343bd1108a3e8a1c932ce3ef8913b063f2610475637fe0a61032e36",
+      "bytes": 42411
     },
     {
       "role": "record_dossiers",
       "path": "research/record-dossiers.json",
-      "sha256": "34fbe418a3fff188747c07aa4c422fd34b0e31ee49929a07e48ee0f58b6308b9",
-      "bytes": 203208
+      "sha256": "f48b77866e96eaba087094cf051a2f09853b03412ba7ba051dbd41158b4d0a19",
+      "bytes": 284322
     },
     {
       "role": "context_coverage",
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "658b22020d94256f9e1b24c63c450de45d3072682a1c76165a7c5b543748f396",
-      "bytes": 74510
+      "sha256": "2c3090f9cfd53a1d35394c6afe527c57baf766b4f6aef11da41f04f96aa1514d",
+      "bytes": 74511
     },
     {
       "role": "bibliography",
@@ -226,8 +244,8 @@
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "8d051ee0e6daa3b6f70dac06cc8d69d006b35476b358ed1f4422eadc39ab0dcb",
-      "bytes": 11431
+      "sha256": "67b1c97dd879250f7ff4e82af294347efa88af2339332ed3cff142c23cd5dadd",
+      "bytes": 11794
     },
     {
       "role": "source_inspection",
@@ -244,8 +262,8 @@
     {
       "role": "occurrence_coverage",
       "path": "analysis/occurrence-coverage-v1.json",
-      "sha256": "00539e7362042e52b8c6891b347bf12954efc628e853bd53631b04df2628f943",
-      "bytes": 2191
+      "sha256": "a860184eb6c8e92582ca44bc5b273178dda7f85317a3b701d13a995af4498ad4",
+      "bytes": 2377
     },
     {
       "role": "coverage_delta",
@@ -256,8 +274,8 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "70fcddc918c67ea0e9f6b19fbf41f384febe9c4692f2de472f2a62841c9c7452",
-      "bytes": 4315
+      "sha256": "e2b5f96ab372532ce8ff1cefca48c742d51efbd941ae5bcdbb14c108ea6be586",
+      "bytes": 4518
     },
     {
       "role": "pre_expert_source_exhaustion",
@@ -268,8 +286,8 @@
     {
       "role": "occurrences",
       "path": "occurrences/occurrences.json",
-      "sha256": "2fc84ae1d10c1519329106e5c87d1bb8b1a15cc12b12fa00509a912d2143d90b",
-      "bytes": 8806
+      "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133",
+      "bytes": 16048
     },
     {
       "role": "notice",
