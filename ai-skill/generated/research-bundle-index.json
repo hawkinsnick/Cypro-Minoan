@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "7e0afdddd9547e2fc6cd11129ba03b7bcbc05835",
-  "generated_at_utc": "2026-10-14T15:02:36+00:00",
+  "source_commit": "9d18779a8f9da3c5b2adf772ad42554d890089e9",
+  "generated_at_utc": "2026-10-14T16:00:55+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -13,6 +13,24 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "CM209_source_check",
+      "path": "research/source-check-CMOC-0209-2026-10-14.json",
+      "sha256": "ebdbf37edd2240fdf32108607cee6b8d9de77903893be6e10c83058d0c77fcb7",
+      "bytes": 3518
+    },
+    {
+      "role": "CM209_source_check",
+      "path": "docs/CMOC-0209-SOURCE-CHECK.md",
+      "sha256": "75dab569e77965b05403bba6e1044be5e3b345b7e9c98a76e7ed156c0152731e",
+      "bytes": 2532
+    },
+    {
+      "role": "CM209_source_check",
+      "path": "scripts/validate_CM209_20261014.py",
+      "sha256": "1f82f48d48495d97e047632ed0a004fd96173d2732d1363f24d39eed20e3a916",
+      "bytes": 1915
+    },
     {
       "role": "finite_source_growth",
       "path": "research/source-growth-2026-10-14.json",
@@ -28,8 +46,8 @@
     {
       "role": "finite_source_growth",
       "path": "scripts/validate_growth_20261014.py",
-      "sha256": "8eb5075a22216f2204c421d9f9fea5d8b09f5ce4486ed8d0556733d6ef47f60e",
-      "bytes": 2563
+      "sha256": "3df975078f5765053450b182c3fc52030618ddcee7f80414610c9501d3089e60",
+      "bytes": 2570
     },
     {
       "role": "source_growth",
@@ -82,8 +100,8 @@
     {
       "role": "qualified_assertions",
       "path": "research/qualified-assertion-views.json",
-      "sha256": "a288b0e99c2467db478ae0b9e2ae7a280b58f1c9d96dc49e930bcf3dc4189969",
-      "bytes": 86735
+      "sha256": "9812d2353c9b93304e2c0296a20558ca8b1221269c56b42f940e3ff72d1e56f4",
+      "bytes": 97835
     },
     {
       "role": "existing_assertion_check",
@@ -94,8 +112,8 @@
     {
       "role": "reference_reconciliation",
       "path": "research/reference-reconciliation-v2.json",
-      "sha256": "337db7b1a9dda2ce6afc49f8735a89ab09be1fa35991b8f812bc7cfb68603fc8",
-      "bytes": 24156
+      "sha256": "a7b1d042c904263998c55713142e1162daa624c6853dbea8516373b6ed3c064f",
+      "bytes": 26938
     },
     {
       "role": "identity_reconciliation",
@@ -112,14 +130,14 @@
     {
       "role": "source_reconciliation",
       "path": "research/source-reconciliation.json",
-      "sha256": "8150ba4afc5428632b6bd7d8cf2167490d128ed5a59de394a8e0653f8c15a161",
-      "bytes": 2876
+      "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e",
+      "bytes": 5226
     },
     {
       "role": "coverage_denominators",
       "path": "research/coverage-denominators.json",
-      "sha256": "6de0666d841afb2b9adda5676fb3ce0a597eef32b060c6db88f360d9e5c6dc97",
-      "bytes": 19351
+      "sha256": "e88852bfeb97449190464ab91feee648a4e0e3b049a9ce9166c349f2b634116a",
+      "bytes": 19368
     },
     {
       "role": "met_api_331665",
@@ -148,8 +166,8 @@
     {
       "role": "uncovered_record_controls",
       "path": "research/uncovered-record-review-controls.json",
-      "sha256": "db25b5bdda3af951a27be65cee2a997488d7c3b0ee5deec02597193ee464abc2",
-      "bytes": 21814
+      "sha256": "54e74b04b0acc6605d878992d4bb88a7b7cc3ed873e007556f02998fc868689f",
+      "bytes": 21899
     },
     {
       "role": "met_open_image_controls",
@@ -178,7 +196,7 @@
     {
       "role": "catalogue_mapping_audit",
       "path": "analysis/catalogue-mapping-audit.json",
-      "sha256": "a6be63ece904abb87e35349fe61cd4e8683889faad064a1c260a2db5d2af9173",
+      "sha256": "7ece8f7b49d274f6ecd07b103404ab41da1d3651391e5c2bd7217bb2e7411d39",
       "bytes": 882
     },
     {
@@ -190,7 +208,7 @@
     {
       "role": "upstream_epidoc_validation",
       "path": "analysis/upstream-epidoc-validation.json",
-      "sha256": "4ee66f221ecd80a2527c6b6f5a8146eaa5ac45062054d3e7dcaf447d42f637fc",
+      "sha256": "8c90743fbde3f2457df615f9c3799394844c6352b7e37998981e98e0b6dfa908",
       "bytes": 541
     },
     {
@@ -214,19 +232,19 @@
     {
       "role": "readable_dossiers",
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "ddd9523a2343bd1108a3e8a1c932ce3ef8913b063f2610475637fe0a61032e36",
-      "bytes": 42411
+      "sha256": "0501d661d1a7386d55770f2372df36be2f34c851f179e1e1d2ab38a5d24f84be",
+      "bytes": 46661
     },
     {
       "role": "record_dossiers",
       "path": "research/record-dossiers.json",
-      "sha256": "f48b77866e96eaba087094cf051a2f09853b03412ba7ba051dbd41158b4d0a19",
-      "bytes": 284322
+      "sha256": "b0fd6f1c0c03699d1219d7654287d64a973f54295f0293c7eee3e058fcc1d640",
+      "bytes": 309837
     },
     {
       "role": "context_coverage",
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "2c3090f9cfd53a1d35394c6afe527c57baf766b4f6aef11da41f04f96aa1514d",
+      "sha256": "1ac9c484fe188138e542b4c8c515028e93c2a93ed08e6ba0d613a76839623bbd",
       "bytes": 74511
     },
     {
@@ -244,8 +262,8 @@
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "67b1c97dd879250f7ff4e82af294347efa88af2339332ed3cff142c23cd5dadd",
-      "bytes": 11794
+      "sha256": "b40ecb611a2d2b9eec3a7469969b173ac2a436b453c10c0c9ff399e88bce674d",
+      "bytes": 12247
     },
     {
       "role": "source_inspection",
@@ -262,8 +280,8 @@
     {
       "role": "occurrence_coverage",
       "path": "analysis/occurrence-coverage-v1.json",
-      "sha256": "a860184eb6c8e92582ca44bc5b273178dda7f85317a3b701d13a995af4498ad4",
-      "bytes": 2377
+      "sha256": "eb1b101c7c995808b856a941ca2b75425e9932911573884fd225f1862d03deac",
+      "bytes": 2415
     },
     {
       "role": "coverage_delta",
@@ -274,8 +292,8 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "e2b5f96ab372532ce8ff1cefca48c742d51efbd941ae5bcdbb14c108ea6be586",
-      "bytes": 4518
+      "sha256": "bc8a88b09e6ebcea8c2c7384972856d448e7c1c42c38e3404a9079b046083d00",
+      "bytes": 4760
     },
     {
       "role": "pre_expert_source_exhaustion",
@@ -286,8 +304,8 @@
     {
       "role": "occurrences",
       "path": "occurrences/occurrences.json",
-      "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133",
-      "bytes": 16048
+      "sha256": "d020ba8a3630e234b9ee33c59eb8c8631f1dfd78e8284907532f2cd5a8041dcb",
+      "bytes": 17650
     },
     {
       "role": "notice",
