@@ -3,7 +3,7 @@ import collections,hashlib,json
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 IS_CH=False
-PINS={'research/reference-reconciliation-v2.json': 'b08a4a4bb13f32814604990b3baa6ead21d24f4c2632dc48c86603cfbbdf5f10', 'research/identity-reconciliation-v2.json': 'f1800080d2e0d3b28998f179f478b69315e02f04d52ebb2598a3db8fce3ead66', 'research/donnelly-existing-assertion-check.json': 'e6d193dfee40d65b0fbfacbc96ff007992193019ab65d8b532ea70edf9963948'}
+PINS={'research/reference-reconciliation-v2.json': 'd1920d866d406154f5c08bcdbb4dd10ea29239033e26747240dd36a4d39ca53c', 'research/identity-reconciliation-v2.json': 'f1800080d2e0d3b28998f179f478b69315e02f04d52ebb2598a3db8fce3ead66', 'research/donnelly-existing-assertion-check.json': 'e6d193dfee40d65b0fbfacbc96ff007992193019ab65d8b532ea70edf9963948'}
 SYSTEMS={'Olivier 2007 catalogue','Ferrara 2013 catalogue','Ferrara/addendum catalogue'}
 def load(root,p):return json.loads((root/p).read_text())
 def digest(x):return hashlib.sha256(json.dumps(x,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()

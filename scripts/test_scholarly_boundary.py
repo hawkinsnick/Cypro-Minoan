@@ -14,9 +14,9 @@ completeness = load("coverage/completeness-matrix.json")
 exhaustion = load("research/pre-expert-source-exhaustion.json")
 
 assert state["committed_evidence_counts"]["rich_records"] == coverage["rich_records"] == 21
-assert state["committed_evidence_counts"]["source_checked_occurrences"] == coverage["encoded_occurrences"] == 26
+assert state["committed_evidence_counts"]["source_checked_occurrences"] == coverage["encoded_occurrences"] == 28
 occ_dim = next(d for d in completeness["dimensions"] if d["dimension"] == "source_verified_occurrences")
-assert occ_dim["covered"] == 26
+assert occ_dim["covered"] == 28
 assert exhaustion["claim_boundary"]["independent_witness_claims"] == "BLOCKED"
 assert exhaustion["latest_source_inspection"] == "research/source-inspection-2026-10-02.json"
 assert coverage["records_with_encoded_occurrences"] + len(coverage["records_without_encoded_occurrences"]) == coverage["rich_records"]
@@ -29,4 +29,4 @@ assert all(g["claim_allowed"] is False for g in gates if g["state"] == "BLOCKED"
 assert queue["items"]
 assert "frequency" in queue["admission_rule"].lower()
 assert "phonetic" in queue["admission_rule"].lower()
-print(json.dumps({"status":"PASS","rich_records":21,"encoded_occurrences":26,"blocked_claims_preserved":True}))
+print(json.dumps({"status":"PASS","rich_records":21,"encoded_occurrences":28,"blocked_claims_preserved":True}))

@@ -19,7 +19,7 @@ def additions(root=ROOT):
 def validate(root=ROOT):
  rows=additions(root);x=json.loads((root/'research/source-growth-2026-10-14.json').read_text());native=json.loads((root/'occurrences/occurrences.json').read_text());old={**native,'occurrences':native['occurrences'][:16]}
  if digest(old)!=HISTORICAL_BASELINE_SEMANTIC_SHA256 or x['historical_baseline_semantic_sha256']!=HISTORICAL_BASELINE_SEMANTIC_SHA256:raise ValueError('historical occurrence altered')
- if native['occurrences'][16:]!=rows:raise ValueError('unexpected source extension')
- if len({r['record_id'] for r in native['occurrences']})!=12:raise ValueError('coverage drift')
+ if native['occurrences'][16:26]!=rows:raise ValueError('unexpected source extension')
+ if len({r['record_id'] for r in native['occurrences'][:26]})!=12:raise ValueError('coverage drift')
  return {'status':'PASS_FINITE_SOURCE_GROWTH','added_source_occurrences':10,'newly_source_encoded_records':3,'total_occurrences':26,'records_with_occurrences':12,'remaining_uncovered_rich_records':9,'independent_reviews_added':0}
 if __name__=='__main__':print(json.dumps(validate()))

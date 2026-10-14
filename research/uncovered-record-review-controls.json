@@ -298,7 +298,8 @@
       },
       "question": "Collate the top edge and A.I, A.II and B zones separately; preserve damage, restorations and proposed corrections.",
       "source_dependency": "Valério discusses and revises Olivier; not an independent ancient witness.",
-      "source_occurrences_added_since_checkpoint": 0
+      "source_occurrences_added_since_checkpoint": 2,
+      "latest_source_checkpoint": "research/source-check-CMOC-0209-2026-10-14.json"
     },
     {
       "record_id": "CMOC-0216",
@@ -511,9 +512,9 @@
     "expert_reviews_completed": 0,
     "canonical_readings_added": 0,
     "baseline_uncovered_rich_records": 15,
-    "current_uncovered_rich_records": 9,
-    "partially_source_encoded_since_checkpoint": 6,
-    "source_occurrences_added": 14
+    "current_uncovered_rich_records": 8,
+    "partially_source_encoded_since_checkpoint": 7,
+    "source_occurrences_added": 16
   },
   "expert_validation_granted": false,
   "boundary": "Source accessibility and engineering replay do not adjudicate sign identities, source dependence, reading direction or script membership. Human review remains blank.",

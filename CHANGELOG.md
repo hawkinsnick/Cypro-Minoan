@@ -85,3 +85,7 @@ Replayed nine exact Louvre inventory/edition joins and inspected primary context
 
 ## 2026-10-14 — ten finite dependent source assertions
 Added source-located numerical positions on CMOC-0028, CMOC-0032 and CMOC-0033. Prior sixteen assertions preserved; coverage is 26 assertions on 12/21 records, with nine unencoded. No primary certification, source independence or expert acceptance. Regenerated dossiers, qualified views, coverage and interchange controls.
+
+## CMOC-0209 source checkpoint — 14 October 2026
+
+See [CMOC-0209 source check](docs/CMOC-0209-SOURCE-CHECK.md). Current coverage is 28 source assertions on 13/21 rich records, with eight lacking encoded positions. Only two CMOC-0209 positions are added; one remains uncertain. Preserve reported originals and the unresolved internal 09/10 disagreement; do not select either internally conflicting label, infer full-tablet coverage, or claim primary collation/expert acceptance. Earlier dated checkpoints remain historical.

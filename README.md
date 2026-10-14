@@ -16,7 +16,7 @@ The external validation target is pinned to **EpiDoc 9.8** (upstream tag `v9.8`,
 
 ## Current status — 5.3.0
 
-Current source checkpoint (2026-10-14): 26 source-attributed occurrence assertions on 12 of 21 rich records; nine remain unencoded. Ten newly checked dependent assertions preserve source order and qualifications. All 21 rich records have dossiers; 254 catalogue slots remain a separate layer. No independent review or complete physical transcription is certified.
+Current source checkpoint (CMOC-0209, 2026-10-14): 28 source-attributed assertions on 13 of 21 rich records; eight remain unencoded. The two latest isolated positions preserve source doubt and disagreements. All 21 rich records have dossiers; 254 catalogue slots remain a separate layer. No independent review or complete physical transcription is certified.
 
 Family contract 1.2 aligns all five projects with [Phaistos Disc 1.6.0](https://github.com/hawkinsnick/Phaistos-Disc/releases/tag/v1.6.0). The shared readiness report preserves native sampling units, source rights and blocked linguistic controls. It authorizes no pooling or linguistic relationship claim. See [`research/family-readiness-v1.json`](research/family-readiness-v1.json).
 
@@ -37,7 +37,7 @@ The corpus records evidence; it does not encode a decipherment.
 
 5.0 links the mature 4.x reproducibility platform to an auditable evidence graph, immutable release-scoped dataset snapshots, question-specific readiness profiles, explicit witness-independence rules, representation-level rights controls, and positive/negative conformance tests.
 
-Current evidence remains deliberately bounded: 254 controlled catalogue slots; 254 source-attributed sigla; 21 rich records; 26 encoded source-attributed occurrences; 2 explicit witness assertions; 99 Unicode interoperability characters; no project-populated palaeographic variants. These are separate dimensions, not one completeness score.
+Current evidence remains deliberately bounded: 254 controlled catalogue slots; 254 source-attributed sigla; 21 rich records; 28 encoded source-attributed occurrences; 2 explicit witness assertions; 99 Unicode interoperability characters; no project-populated palaeographic variants. These are separate dimensions, not one completeness score.
 
 Catalogue-structure research is READY. Descriptions of the explicitly encoded occurrence subset are READY_SCOPED. Corpus-wide sign-frequency inference and cross-script phonetic inference remain BLOCKED.
 
@@ -60,7 +60,7 @@ Download the [research workbench 1.1 package](https://github.com/hawkinsnick/Cyp
 
 ## Context and review dossiers — 5.3.0
 
-Current source checkpoint (2026-10-14): 26 source-attributed occurrence assertions on 12 of 21 rich records; nine remain unencoded. Ten newly checked dependent assertions preserve source order and qualifications. All 21 rich records have dossiers; 254 catalogue slots remain a separate layer. No independent review or complete physical transcription is certified.
+Current source checkpoint (CMOC-0209, 2026-10-14): 28 source-attributed assertions on 13 of 21 rich records; eight remain unencoded. The two latest isolated positions preserve source doubt and disagreements. All 21 rich records have dossiers; 254 catalogue slots remain a separate layer. No independent review or complete physical transcription is certified.
 
 Read [the researcher guide](docs/CONTEXT-AND-DOSSIERS.md), [the coverage audit](analysis/context-coverage-v1.json) and [record dossiers](research/record-dossiers.json). Run `python scripts/research_dossiers.py` to check deterministic replay. Metadata coverage does not imply reading coverage or representative sampling.
 
@@ -91,4 +91,8 @@ Replayed nine exact Louvre inventory/edition joins and inspected primary context
 
 ## Finite source growth — 2026-10-14
 
-[Ten inspected numerical assertions](docs/SOURCE-GROWTH-2026-10-14.md) add source encoding on three Louvre records. Current coverage is 26 assertions on 12/21 rich records; source dependence, physical-coverage limits and zero independent acceptance remain explicit.
+[Ten inspected numerical assertions](docs/SOURCE-GROWTH-2026-10-14.md) add source encoding on three Louvre records. At this earlier checkpoint coverage was 26 assertions on 12/21 rich records; source dependence, physical-coverage limits and zero independent acceptance remain explicit.
+
+## CMOC-0209 source checkpoint — 14 October 2026
+
+See [CMOC-0209 source check](docs/CMOC-0209-SOURCE-CHECK.md). Current coverage is 28 source assertions on 13/21 rich records, with eight lacking encoded positions. Only two CMOC-0209 positions are added; one remains uncertain. Preserve reported originals and the unresolved internal 09/10 disagreement; do not select either internally conflicting label, infer full-tablet coverage, or claim primary collation/expert acceptance. Earlier dated checkpoints remain historical.

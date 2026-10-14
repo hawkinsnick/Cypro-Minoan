@@ -3,9 +3,9 @@
   "checked": "2026-10-14",
   "frozen_inventory": {
     "path": "occurrences/occurrences.json",
-    "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133",
+    "sha256": "d020ba8a3630e234b9ee33c59eb8c8631f1dfd78e8284907532f2cd5a8041dcb",
     "unit": "source_occurrence_assertion",
-    "count": 26,
+    "count": 28,
     "record_ids": [
       "CMOC-0025",
       "CMOC-0026",
@@ -16,11 +16,12 @@
       "CMOC-0031",
       "CMOC-0032",
       "CMOC-0033",
+      "CMOC-0209",
       "CMOC-TIRY-ADD244",
       "CMOC-TIRY-ADD245",
       "CMOC-TIRY-ADD246"
     ],
-    "scope": "Current 26-assertion snapshot after authorized finite source growth; prior 16 assertions preserved unchanged. No primary certification or expert acceptance."
+    "scope": "Current 28 source assertions; prior 26 preserved. CM209 is only partially source-encoded, not a completed tablet transcription."
   },
   "existing_occurrence_dispositions": [
     {
@@ -423,6 +424,38 @@
       "independent_review_complete": false,
       "canonical_label_replaced": false,
       "primary_comparison_gate": "Primary edition and object images not independently collated; source certainty is not graphical acceptance."
+    },
+    {
+      "occurrence_id": "CMOCC-0209-VALERIO2016-20261014-TOP-3",
+      "record_id": "CMOC-0209",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed pp. 527, 531 (PDF 533, 537), ##209.A.I, lat. sup.",
+      "literal_published_label": "08",
+      "editorial_notes": [
+        "Reported original label 13; Valério correction 08 agrees with his critical re-edition. Certainty describes faithful attribution only.",
+        "Position is relative to the named source group, not a physical tablet ordinal. Limited numerical attribution only; primary edition and object not directly collated; no expert acceptance."
+      ],
+      "status": "DIRECT_DEPENDENT_SOURCE_PARTIAL_CM209_CHECK",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "Reported original labels are retained in source-reconciliation; no direct primary collation or expert acceptance."
+    },
+    {
+      "occurrence_id": "CMOCC-0209-VALERIO2016-20261014-AI201-2",
+      "record_id": "CMOC-0209",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed pp. 527–528, 531 (PDF 533–534, 537), ##209.A.I.2.01, last group",
+      "literal_published_label": "10",
+      "editorial_notes": [
+        "Reported original label 27; Valério proposes 10. Underlining and adjacent lacuna are retained in this note: the source identification remains doubtful; no whole-line reconstruction.",
+        "Position is relative to the named source group, not a physical tablet ordinal. Limited numerical attribution only; primary edition and object not directly collated; no expert acceptance."
+      ],
+      "status": "DIRECT_DEPENDENT_SOURCE_PARTIAL_CM209_CHECK",
+      "independent_review_complete": false,
+      "canonical_label_replaced": false,
+      "primary_comparison_gate": "Reported original labels are retained in source-reconciliation; no direct primary collation or expert acceptance."
     }
   ],
   "reported_disagreements": "research/source-reconciliation.json",
@@ -470,5 +503,27 @@
       "CMOC-TIRY-ADD246"
     ],
     "scope": "Existing content frozen; no reading or sign-occurrence expansion or replacement authorized."
-  }
+  },
+  "historical_inventory_before_CM209": {
+    "path": "occurrences/occurrences.json",
+    "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133",
+    "unit": "source_occurrence_assertion",
+    "count": 26,
+    "record_ids": [
+      "CMOC-0025",
+      "CMOC-0026",
+      "CMOC-0027",
+      "CMOC-0028",
+      "CMOC-0029",
+      "CMOC-0030",
+      "CMOC-0031",
+      "CMOC-0032",
+      "CMOC-0033",
+      "CMOC-TIRY-ADD244",
+      "CMOC-TIRY-ADD245",
+      "CMOC-TIRY-ADD246"
+    ],
+    "scope": "Current 26-assertion snapshot after authorized finite source growth; prior 16 assertions preserved unchanged. No primary certification or expert acceptance."
+  },
+  "CM209_checkpoint": "research/source-check-CMOC-0209-2026-10-14.json"
 }

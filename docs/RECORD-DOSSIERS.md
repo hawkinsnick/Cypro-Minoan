@@ -330,7 +330,7 @@ Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 Native evidence: [corpus/inscriptions/CMOC-0209.json](../corpus/inscriptions/CMOC-0209.json)
 
-Encoded occurrences: 0; a complete transcription is not inferred.
+Encoded occurrences: 2; a complete transcription is not inferred.
 
 | Field | Value | Status | Evidence |
 |---|---|---|---|
@@ -341,9 +341,31 @@ Encoded occurrences: 0; a complete transcription is not inferred.
 | find_context | {"findplace": "Enkomi", "source_id": "louvre-cm-209"} | source_reported | corpus/inscriptions/CMOC-0209.json |
 | museum_date_range | {"label": "Late Cypriot III", "start_bce": 1230, "end_bce": 1050} | certain | [{'source_id': 'louvre-cm-209', 'locator': 'Places and dates'}] |
 
-Missing evidence: ENCODED_OCCURRENCES_ABSENT, INDEPENDENT_REVIEW_PENDING.
+### Source assertions with required qualifications
+
+- Assertion: CMOCC-0209-VALERIO2016-20261014-TOP-3; literal source: 08.
+  Source: valerio2016thesis / printed pp. 527, 531 (PDF 533, 537), ##209.A.I, lat. sup..
+  Comparison: DIRECT_DEPENDENT_SOURCE_PARTIAL_CM209_CHECK.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Unresolved source disagreement: {"comparison_id": "CM209-top-comparison", "record_id": "CMOC-0209", "field": "published_sign_label", "zone_id": "lat-sup-first-group", "position": 3, "assertions": [{"source_id": "olivier2007", "value": "13", "locator": "HoChyMin 496; as reported by Valério 2016, printed pp. 527, 531 (PDF 533, 537)", "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"}, {"source_id": "valerio2016thesis", "value": "08", "locator": "printed pp. 527, 531 (PDF 533, 537)", "inspection": "DIRECT_SECONDARY_PDF"}], "status": "UNRESOLVED_PUBLISHED_REASSESSMENT", "interventions": []}
+  Unresolved source disagreement: {"comparison_id": "CM209-aii501-internal-comparison", "record_id": "CMOC-0209", "field": "internal_source_apparatus", "zone_id": "A.II.5.01-first-group", "position": 2, "assertions": [{"source_id": "valerio2016thesis", "value": "09", "locator": "printed pp. 532–533 (PDF 538–539): table and commentary", "inspection": "DIRECT_SECONDARY_PDF"}, {"source_id": "valerio2016thesis", "value": "10", "locator": "printed p. 534 (PDF 540): critical re-edition", "inspection": "DIRECT_SECONDARY_PDF"}], "status": "UNRESOLVED_INTERNAL_SOURCE_INCONSISTENCY", "interventions": [], "encoded_occurrence_added": false}
+  Editorial note: Reported original label 13; Valério correction 08 agrees with his critical re-edition. Certainty describes faithful attribution only.
+  Editorial note: Position is relative to the named source group, not a physical tablet ordinal. Limited numerical attribution only; primary edition and object not directly collated; no expert acceptance.
+
+- Assertion: CMOCC-0209-VALERIO2016-20261014-AI201-2; literal source: 10.
+  Source: valerio2016thesis / printed pp. 527–528, 531 (PDF 533–534, 537), ##209.A.I.2.01, last group.
+  Comparison: DIRECT_DEPENDENT_SOURCE_PARTIAL_CM209_CHECK.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Unresolved source disagreement: {"comparison_id": "CM209-ai201-comparison", "record_id": "CMOC-0209", "field": "published_sign_label", "zone_id": "A.I.2.01-last-group", "position": 2, "assertions": [{"source_id": "olivier2007", "value": "27", "locator": "HoChyMin 496; as reported by Valério 2016, printed pp. 527–528, 531 (PDF 533–534, 537)", "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"}, {"source_id": "valerio2016thesis", "value": "10", "locator": "printed pp. 527–528, 531 (PDF 533–534, 537)", "inspection": "DIRECT_SECONDARY_PDF"}], "status": "UNRESOLVED_PUBLISHED_REASSESSMENT", "interventions": []}
+  Unresolved source disagreement: {"comparison_id": "CM209-aii501-internal-comparison", "record_id": "CMOC-0209", "field": "internal_source_apparatus", "zone_id": "A.II.5.01-first-group", "position": 2, "assertions": [{"source_id": "valerio2016thesis", "value": "09", "locator": "printed pp. 532–533 (PDF 538–539): table and commentary", "inspection": "DIRECT_SECONDARY_PDF"}, {"source_id": "valerio2016thesis", "value": "10", "locator": "printed p. 534 (PDF 540): critical re-edition", "inspection": "DIRECT_SECONDARY_PDF"}], "status": "UNRESOLVED_INTERNAL_SOURCE_INCONSISTENCY", "interventions": [], "encoded_occurrence_added": false}
+  Editorial note: Reported original label 27; Valério proposes 10. Underlining and adjacent lacuna are retained in this note: the source identification remains doubtful; no whole-line reconstruction.
+  Editorial note: Position is relative to the named source group, not a physical tablet ordinal. Limited numerical attribution only; primary edition and object not directly collated; no expert acceptance.
+
+Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - [louvre-cm-209](https://collections.louvre.fr/ark:/53355/cl010131738): Musée du Louvre Collections: Cypro-Minoan object AM 2336
+- olivier2007: Édition holistique des textes chypro-minoens
+- [valerio2016thesis](https://hdl.handle.net/2445/99521): Investigating the Signs and Sounds of Cypro-Minoan
 
 ## CMOC-0216
 

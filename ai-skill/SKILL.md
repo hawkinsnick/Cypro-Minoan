@@ -78,3 +78,7 @@ The Tiryns appendix’s `3 (?) signs` qualifier and VB/VC coordinate difference 
 
 ## Current finite source growth — 2026-10-14
 Read `docs/SOURCE-GROWTH-2026-10-14.md` and `research/source-growth-2026-10-14.json`. Prefer current 26 source assertions on 12/21 rich records (six primary, twenty dependent) over the historical 16-on-nine checkpoint. Keep nine unencoded records explicit. Ten additions on CMOC-0028/0032/0033 preserve numerical source order and the prior sixteen assertions unchanged. Source-encoding certainty is not independent graphical acceptance, full physical coverage or reading direction. Olivier locators are reported through Valério, not direct primary collation. Retain all historical disagreements and blank reviewer decisions; do not treat source growth as a redistribution licence, independent witnesses, corpus-wide frequency readiness or expert-only completion.
+
+## CMOC-0209 source checkpoint — 14 October 2026
+
+See [CMOC-0209 source check](../docs/CMOC-0209-SOURCE-CHECK.md). Current coverage is 28 source assertions on 13/21 rich records, with eight lacking encoded positions. Only two CMOC-0209 positions are added; one remains uncertain. Preserve reported originals and the unresolved internal 09/10 disagreement; do not select either internally conflicting label, infer full-tablet coverage, or claim primary collation/expert acceptance. Earlier dated checkpoints remain historical.

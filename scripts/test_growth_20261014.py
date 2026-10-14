@@ -15,7 +15,7 @@ class GrowthTests(unittest.TestCase):
      with self.assertRaises(ValueError):validate(root)
     finally:f.write_bytes(b)
    reject('occurrences/occurrences.json',lambda x:x['occurrences'][0].update(published_sign_label='999'))
-   reject('occurrences/occurrences.json',lambda x:x['occurrences'].pop())
+   reject('occurrences/occurrences.json',lambda x:x['occurrences'].pop(25))
    reject('research/source-growth-2026-10-14.json',lambda x:x.update(independent_review_complete=True))
    reject('research/source-growth-2026-10-14.json',lambda x:x['expected_additions'][0].update(source_role='primary_publication'))
    reject('research/source-growth-2026-10-14.json',lambda x:x['expected_additions'][0].update(published_sign_label='999'))

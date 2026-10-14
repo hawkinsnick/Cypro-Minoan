@@ -74,6 +74,76 @@
       ],
       "status": "UNRESOLVED_PUBLISHED_REASSESSMENT",
       "interventions": []
+    },
+    {
+      "comparison_id": "CM209-top-comparison",
+      "record_id": "CMOC-0209",
+      "field": "published_sign_label",
+      "zone_id": "lat-sup-first-group",
+      "position": 3,
+      "assertions": [
+        {
+          "source_id": "olivier2007",
+          "value": "13",
+          "locator": "HoChyMin 496; as reported by Valério 2016, printed pp. 527, 531 (PDF 533, 537)",
+          "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "value": "08",
+          "locator": "printed pp. 527, 531 (PDF 533, 537)",
+          "inspection": "DIRECT_SECONDARY_PDF"
+        }
+      ],
+      "status": "UNRESOLVED_PUBLISHED_REASSESSMENT",
+      "interventions": []
+    },
+    {
+      "comparison_id": "CM209-ai201-comparison",
+      "record_id": "CMOC-0209",
+      "field": "published_sign_label",
+      "zone_id": "A.I.2.01-last-group",
+      "position": 2,
+      "assertions": [
+        {
+          "source_id": "olivier2007",
+          "value": "27",
+          "locator": "HoChyMin 496; as reported by Valério 2016, printed pp. 527–528, 531 (PDF 533–534, 537)",
+          "inspection": "REPORTED_BY_DEPENDENT_SOURCE_NOT_DIRECTLY_INSPECTED"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "value": "10",
+          "locator": "printed pp. 527–528, 531 (PDF 533–534, 537)",
+          "inspection": "DIRECT_SECONDARY_PDF"
+        }
+      ],
+      "status": "UNRESOLVED_PUBLISHED_REASSESSMENT",
+      "interventions": []
+    },
+    {
+      "comparison_id": "CM209-aii501-internal-comparison",
+      "record_id": "CMOC-0209",
+      "field": "internal_source_apparatus",
+      "zone_id": "A.II.5.01-first-group",
+      "position": 2,
+      "assertions": [
+        {
+          "source_id": "valerio2016thesis",
+          "value": "09",
+          "locator": "printed pp. 532–533 (PDF 538–539): table and commentary",
+          "inspection": "DIRECT_SECONDARY_PDF"
+        },
+        {
+          "source_id": "valerio2016thesis",
+          "value": "10",
+          "locator": "printed p. 534 (PDF 540): critical re-edition",
+          "inspection": "DIRECT_SECONDARY_PDF"
+        }
+      ],
+      "status": "UNRESOLVED_INTERNAL_SOURCE_INCONSISTENCY",
+      "interventions": [],
+      "encoded_occurrence_added": false
     }
   ],
   "primary_reading_agreement_certified": false

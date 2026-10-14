@@ -7,7 +7,8 @@
   "independent_review_complete": false,
   "disputed_records": [
     "CMOC-0026",
-    "CMOC-0027"
+    "CMOC-0027",
+    "CMOC-0209"
   ],
   "views": [
     {
@@ -570,12 +571,12 @@
         "CMOC-0031",
         "CMOC-0032",
         "CMOC-0033",
+        "CMOC-0209",
         "CMOC-TIRY-ADD244",
         "CMOC-TIRY-ADD245",
         "CMOC-TIRY-ADD246"
       ],
       "records_without_encoded_occurrences": [
-        "CMOC-0209",
         "CMOC-0216",
         "CMOC-BM-1898.1201.204",
         "CMOC-LVR-AM1639",
@@ -610,10 +611,10 @@
         "CMOC-MET-74.51.4316",
         "CMOC-MET-74.51.5057A"
       ],
-      "source_occurrence_assertions": 26,
+      "source_occurrence_assertions": 28,
       "full_transcription_coverage_established": false,
       "primary_occurrences": 6,
-      "dependent_secondary_occurrences": 20
+      "dependent_secondary_occurrences": 22
     }
   ],
   "object_concordance": [
@@ -849,7 +850,7 @@
     },
     {
       "path": "research/source-reconciliation.json",
-      "sha256": "8150ba4afc5428632b6bd7d8cf2167490d128ed5a59de394a8e0653f8c15a161"
+      "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e"
     },
     {
       "path": "catalogues/master.json",
@@ -861,7 +862,7 @@
     },
     {
       "path": "occurrences/occurrences.json",
-      "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133"
+      "sha256": "d020ba8a3630e234b9ee33c59eb8c8631f1dfd78e8284907532f2cd5a8041dcb"
     },
     {
       "path": "catalogues/source-located-concordance.json",

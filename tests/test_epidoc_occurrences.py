@@ -25,3 +25,8 @@ ns={'t':'http://www.tei-c.org/ns/1.0'}
 for occurrence in json.loads((ROOT/'occurrences/occurrences.json').read_text())['occurrences']:
     notes=[n.text for n in root.findall('.//t:note',ns) if n.get('type')=='source-editorial-note' and n.get('corresp')=='#'+occurrence['occurrence_id']]
     assert notes==occurrence.get('notes',[]), 'editorial alternatives lost on export'
+
+# CM209 source doubt must survive both the native category and EpiDoc certainty.
+node=root.find(".//*[@{http://www.w3.org/XML/1998/namespace}id='CMOCC-0209-VALERIO2016-20261014-AI201-2']")
+assert node is not None and node.get('cert')=='low'
+assert 'certainty-uncertain' in node.get('ana','')

@@ -110,12 +110,12 @@
       "native_evidence": [
         {
           "path": "occurrences/occurrences.json",
-          "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133",
+          "sha256": "d020ba8a3630e234b9ee33c59eb8c8631f1dfd78e8284907532f2cd5a8041dcb",
           "url": null
         },
         {
           "path": "analysis/occurrence-coverage-v1.json",
-          "sha256": "a860184eb6c8e92582ca44bc5b273178dda7f85317a3b701d13a995af4498ad4",
+          "sha256": "eb1b101c7c995808b856a941ca2b75425e9932911573884fd225f1862d03deac",
           "url": null
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "path": "analysis/context-coverage-v1.json",
-          "sha256": "2c3090f9cfd53a1d35394c6afe527c57baf766b4f6aef11da41f04f96aa1514d",
+          "sha256": "1ac9c484fe188138e542b4c8c515028e93c2a93ed08e6ba0d613a76839623bbd",
           "url": null
         }
       ],
@@ -137,15 +137,15 @@
           "status": "measured"
         },
         "encoded_occurrences": {
-          "value": 26,
+          "value": 28,
           "unit": "encoded_source_occurrence_assertions",
-          "definition": "Six primary-publication and twenty dependent-secondary occurrence assertions; no independent witness count.",
+          "definition": "Six primary-publication and twenty-two dependent-secondary assertions; source proposals retain uncertainty; no independent witness count.",
           "status": "measured"
         },
         "records_with_encoded_occurrences": {
-          "value": 12,
+          "value": 13,
           "unit": "rich_record_ids",
-          "definition": "Some encoded source positions on twelve of 21 rich records; no complete physical-sign sequence certification.",
+          "definition": "Partial source positions on thirteen of 21 rich records; CM209 has two positions only, with no complete transcription certification.",
           "status": "measured"
         }
       },

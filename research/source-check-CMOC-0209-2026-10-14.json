@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-14",
+  "record_id": "CMOC-0209",
+  "source_pdf_url": "https://diposit.ub.edu/server/api/core/bitstreams/1419cfea-e25f-44dd-9a8c-74e9836ae05e/content",
+  "source_pdf_sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+  "inspection": "DIRECT_RENDERED_PDF_PAGE_IMAGES",
+  "printed_pages": [
+    527,
+    528,
+    529,
+    531,
+    532,
+    533,
+    534,
+    535
+  ],
+  "pdf_ordinals": [
+    533,
+    534,
+    535,
+    537,
+    538,
+    539,
+    540,
+    541
+  ],
+  "baseline_occurrences": 26,
+  "baseline_semantic_sha256": "6b6240ca66c70ec01a8c33b48499985de894ea575344119122f18049fbbd521a",
+  "expected_additions": [
+    {
+      "occurrence_id": "CMOCC-0209-VALERIO2016-20261014-TOP-3",
+      "record_id": "CMOC-0209",
+      "zone_id": "lat-sup-first-group",
+      "position": 3,
+      "published_sign_label": "08",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed pp. 527, 531 (PDF 533, 537), ##209.A.I, lat. sup.",
+      "certainty": "certain",
+      "notes": [
+        "Reported original label 13; Valério correction 08 agrees with his critical re-edition. Certainty describes faithful attribution only.",
+        "Position is relative to the named source group, not a physical tablet ordinal. Limited numerical attribution only; primary edition and object not directly collated; no expert acceptance."
+      ]
+    },
+    {
+      "occurrence_id": "CMOCC-0209-VALERIO2016-20261014-AI201-2",
+      "record_id": "CMOC-0209",
+      "zone_id": "A.I.2.01-last-group",
+      "position": 2,
+      "published_sign_label": "10",
+      "source_id": "valerio2016thesis",
+      "source_role": "dependent_secondary",
+      "locator": "printed pp. 527–528, 531 (PDF 533–534, 537), ##209.A.I.2.01, last group",
+      "certainty": "uncertain",
+      "notes": [
+        "Reported original label 27; Valério proposes 10. Underlining and adjacent lacuna are retained in this note: the source identification remains doubtful; no whole-line reconstruction.",
+        "Position is relative to the named source group, not a physical tablet ordinal. Limited numerical attribution only; primary edition and object not directly collated; no expert acceptance."
+      ]
+    }
+  ],
+  "primary_edition_collated": false,
+  "independent_review_complete": false,
+  "full_transcription_coverage_established": false,
+  "bulk_republication_authorized": false,
+  "rights_boundary": "Two limited attributed numerical assertions and three apparatus comparisons only. No PDF, source images, drawings or protected prose redistributed; no general corpus redistribution licence inferred.",
+  "deferred_loci": [
+    {
+      "zone_id": "A.I.4.01-first-group",
+      "position": 2,
+      "labels": [
+        "09",
+        "10"
+      ],
+      "locator": "printed p. 529 (PDF 535)",
+      "reason": "Source commentary leaves the damaged second sign ambiguous; final table does not remove that qualification."
+    },
+    {
+      "zone_id": "A.II.5.01-first-group",
+      "position": 2,
+      "labels": [
+        "09",
+        "10"
+      ],
+      "locators": [
+        "printed pp. 532–533 (PDF 538–539): 09",
+        "printed p. 534 (PDF 540): 10"
+      ],
+      "status": "UNRESOLVED_INTERNAL_SOURCE_INCONSISTENCY",
+      "encoded_occurrence_added": false
+    }
+  ],
+  "next_gate": "Direct Olivier 2007 collation and independent epigraphic assessment; remaining tablet positions are outside this finite checkpoint."
+}

@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
   "repository_version": "5.3.0",
-  "checked": "2026-10-11",
+  "checked": "2026-10-14",
   "milestone": "CONTEXT_AND_REVIEW_DOSSIERS_V1",
   "committed_evidence_counts": {
     "rich_records": 21,
-    "source_checked_occurrences": 26,
+    "source_checked_occurrences": 28,
     "review_dossiers": 21,
     "records_with_dating": 14,
     "new_date_period_assertions": 8,
@@ -22,7 +22,7 @@
     },
     {
       "path": "occurrences/occurrences.json",
-      "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133"
+      "sha256": "d020ba8a3630e234b9ee33c59eb8c8631f1dfd78e8284907532f2cd5a8041dcb"
     },
     {
       "path": "analysis/5.2.3_tiryns-clay-ball-primary-check.json",
@@ -30,7 +30,7 @@
     },
     {
       "path": "analysis/occurrence-coverage-v1.json",
-      "sha256": "a860184eb6c8e92582ca44bc5b273178dda7f85317a3b701d13a995af4498ad4"
+      "sha256": "eb1b101c7c995808b856a941ca2b75425e9932911573884fd225f1862d03deac"
     },
     {
       "path": "scripts/occurrence_coverage.py",
@@ -38,23 +38,23 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "70cd2662e7e7b17552dd47fd483c2fdb954b7636813fc737573e6398878b8d23"
+      "sha256": "1564413c3f251841d322c9b3e6312eb9632634167d397d3a0164b10ab129bccb"
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "6aa5184d136eac5f73e29bd582f19190c2466e77e20301292446c4ec73b57883"
+      "sha256": "95965e6529fc62ee110b5ad5a2cfb758cba338cfd942c6009f4b9aa82f3fe7dc"
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "ea7f5507f24a17d624eb97d92e80191fc57c5dde3cf392748bc18876dd7679a5"
+      "sha256": "4e875bdd8018cbfc23407932583d301de56b97e845b49c5b02d35cb3c0bf462d"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "ce87dd4845d4dd7e2d34589fe451ff3dbc7f80b83cde7073ff7a3b5656f26b47"
+      "sha256": "b291116df014928b1d4879430af6d7e9ab9efa9b28277899c75d7f8cbc94a427"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "68486661b7cf91bd2f63a8b707fb1c92ecefff71ceb85af8a1ebddb580ec3c6f"
+      "sha256": "5915356afa32bf6012d015face3c527127ebc3ec2858d2e63afa5bd7ede48b07"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -106,19 +106,19 @@
     },
     {
       "path": "scripts/test_occurrence_coverage.py",
-      "sha256": "349ed088c69292f792fe6f51ce3080aa47cb2a979d1493ec4c16c79f69d3ce17"
+      "sha256": "b0b44c656ce2a9dce3fc80566c08388b0336eb73bfe5c84d2f050d3c7fdd8a1b"
     },
     {
       "path": "research/pre-expert-maximum.json",
-      "sha256": "e2b5f96ab372532ce8ff1cefca48c742d51efbd941ae5bcdbb14c108ea6be586"
+      "sha256": "bc8a88b09e6ebcea8c2c7384972856d448e7c1c42c38e3404a9079b046083d00"
     },
     {
       "path": "research/record-dossiers.json",
-      "sha256": "f48b77866e96eaba087094cf051a2f09853b03412ba7ba051dbd41158b4d0a19"
+      "sha256": "b0fd6f1c0c03699d1219d7654287d64a973f54295f0293c7eee3e058fcc1d640"
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "2c3090f9cfd53a1d35394c6afe527c57baf766b4f6aef11da41f04f96aa1514d"
+      "sha256": "1ac9c484fe188138e542b4c8c515028e93c2a93ed08e6ba0d613a76839623bbd"
     },
     {
       "path": "scripts/research_dossiers.py",
@@ -138,7 +138,7 @@
     },
     {
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "ddd9523a2343bd1108a3e8a1c932ce3ef8913b063f2610475637fe0a61032e36"
+      "sha256": "0501d661d1a7386d55770f2372df36be2f34c851f179e1e1d2ab38a5d24f84be"
     },
     {
       "path": "catalogues/source-located-concordance.json",
@@ -154,7 +154,7 @@
     },
     {
       "path": "analysis/catalogue-mapping-audit.json",
-      "sha256": "a6be63ece904abb87e35349fe61cd4e8683889faad064a1c260a2db5d2af9173"
+      "sha256": "7ece8f7b49d274f6ecd07b103404ab41da1d3651391e5c2bd7217bb2e7411d39"
     },
     {
       "path": "scripts/catalogue_concordance.py",
@@ -170,7 +170,7 @@
     },
     {
       "path": "research/uncovered-record-review-controls.json",
-      "sha256": "db25b5bdda3af951a27be65cee2a997488d7c3b0ee5deec02597193ee464abc2"
+      "sha256": "54e74b04b0acc6605d878992d4bb88a7b7cc3ed873e007556f02998fc868689f"
     },
     {
       "path": "research/met-open-image-controls.json",
@@ -182,7 +182,7 @@
     },
     {
       "path": "scripts/validate_uncovered_review.py",
-      "sha256": "067c608b886aa1a3f427f2c0aec0b110d1d4f87adf2fef9ae145dfeaf67a1d40"
+      "sha256": "d8bdb0964da23c8421b5dfc609ea9a0a49f06d370e80f466f42ea0faa0ad569b"
     },
     {
       "path": "scripts/test_uncovered_review.py",
@@ -194,15 +194,15 @@
     },
     {
       "path": "research/source-reconciliation.json",
-      "sha256": "8150ba4afc5428632b6bd7d8cf2167490d128ed5a59de394a8e0653f8c15a161"
+      "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e"
     },
     {
       "path": "research/coverage-denominators.json",
-      "sha256": "6de0666d841afb2b9adda5676fb3ce0a597eef32b060c6db88f360d9e5c6dc97"
+      "sha256": "e88852bfeb97449190464ab91feee648a4e0e3b049a9ce9166c349f2b634116a"
     },
     {
       "path": "research/reference-reconciliation-v2.json",
-      "sha256": "337db7b1a9dda2ce6afc49f8735a89ab09be1fa35991b8f812bc7cfb68603fc8"
+      "sha256": "a7b1d042c904263998c55713142e1162daa624c6853dbea8516373b6ed3c064f"
     },
     {
       "path": "research/identity-reconciliation-v2.json",
@@ -210,7 +210,7 @@
     },
     {
       "path": "scripts/validate_reconciliation.py",
-      "sha256": "dde23978702cb18499c2096986a4779dd95b10a206619222ade2b8ecc38bd194"
+      "sha256": "0d327e73cc419edec8fc9cd52d1cbef5967409ab1cd1e48bf7ddd988afe5bc46"
     },
     {
       "path": "scripts/test_reconciliation.py",
@@ -230,7 +230,7 @@
     },
     {
       "path": "scripts/test_assertion_views.py",
-      "sha256": "dd7cbbe7aeb7b1b201f922d09fdb8abe87493e27d00ed1dd145a0e02c6b5c0ec"
+      "sha256": "c91662b52c31b78a0e70d2e8fa9d29e4c70c8152be7444a98b2a70c5879da18a"
     },
     {
       "path": "research/cross-corpus-dependencies.json",
@@ -242,11 +242,11 @@
     },
     {
       "path": "research/qualified-assertion-views.json",
-      "sha256": "a288b0e99c2467db478ae0b9e2ae7a280b58f1c9d96dc49e930bcf3dc4189969"
+      "sha256": "9812d2353c9b93304e2c0296a20558ca8b1221269c56b42f940e3ff72d1e56f4"
     },
     {
       "path": "exports/qualified-assertions.csv",
-      "sha256": "c9b67242ffde4f69290147d991606898676967d096d2599af629a2a93b42c366"
+      "sha256": "27b9e4b1ec8e320d420c4f523f11af51871920e3fcaf0b4e21a34dad59433936"
     },
     {
       "path": "research/source-growth-2026-10-14.json",
@@ -254,7 +254,19 @@
     },
     {
       "path": "scripts/validate_growth_20261014.py",
-      "sha256": "8eb5075a22216f2204c421d9f9fea5d8b09f5ce4486ed8d0556733d6ef47f60e"
+      "sha256": "3df975078f5765053450b182c3fc52030618ddcee7f80414610c9501d3089e60"
+    },
+    {
+      "path": "research/source-check-CMOC-0209-2026-10-14.json",
+      "sha256": "ebdbf37edd2240fdf32108607cee6b8d9de77903893be6e10c83058d0c77fcb7"
+    },
+    {
+      "path": "scripts/validate_CM209_20261014.py",
+      "sha256": "1f82f48d48495d97e047632ed0a004fd96173d2732d1363f24d39eed20e3a916"
+    },
+    {
+      "path": "docs/CMOC-0209-SOURCE-CHECK.md",
+      "sha256": "75dab569e77965b05403bba6e1044be5e3b345b7e9c98a76e7ed156c0152731e"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",

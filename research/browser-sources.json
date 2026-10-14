@@ -6,7 +6,9 @@
     "occurrences/occurrences.json",
     "research/louvre-object-concordance.json",
     "research/tiryns-clay-ball-primary-context.json",
-    "research/source-growth-2026-10-14.json"
+    "research/source-growth-2026-10-14.json",
+    "research/source-check-CMOC-0209-2026-10-14.json",
+    "research/source-reconciliation.json"
   ],
   "boundary": "Only explicitly allowlisted, committed repository data are embedded. Browser display does not upgrade source authority, resolve disagreements, establish decipherment, or override record/source licensing."
 }

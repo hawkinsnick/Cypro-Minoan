@@ -1,13 +1,13 @@
 {
   "status": "PASS_PARTIAL_OCCURRENCE_PILOT_ONLY",
   "schema_sha256": "8fae80ec418cd235455380252fb74a1ad7c37806a79e3fb7b93d05264aa08cd3",
-  "xml_sha256": "0145c2ec39decf50f8219ea3624002d362790ea6277bd1facb92abbaeb71b068",
+  "xml_sha256": "4d4ace13a2d2075c3dd8609c8abfafbeaa4e6252191d985a5045513bf79aa483",
   "embedded_patterns": 57,
   "embedded_rules": 57,
   "active_patterns": 57,
-  "fired_rules": 42,
+  "fired_rules": 48,
   "failed_asserts": 0,
   "successful_reports": 0,
-  "scope": "26 source-qualified occurrence assertions; not complete corpus coverage or independent expert acceptance",
+  "scope": "28 source-qualified occurrence assertions; not complete corpus coverage or independent expert acceptance",
   "all_schematron_reports_block_acceptance": true
 }

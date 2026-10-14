@@ -62,6 +62,8 @@ def validate():
         require(smoke["gold_revealed"] is False and smoke["calibration_executed"] is False and smoke["scientific_matched_environment_claim_allowed"] is False,"software smoke promoted to scientific result")
     from validate_growth_20261014 import validate as validate_growth
     validate_growth(R)
+    from validate_CM209_20261014 import validate as validate_cm209
+    validate_cm209(R)
     from validate_reconciliation import validate as reconcile
     reconcile(R)
     from assertion_views import validate as validate_delivery

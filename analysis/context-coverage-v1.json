@@ -7,8 +7,8 @@
   "controlled_catalogue_slots": 254,
   "dossier_count": 21,
   "rich_records": 21,
-  "records_with_occurrences": 12,
-  "encoded_occurrences": 26,
+  "records_with_occurrences": 13,
+  "encoded_occurrences": 28,
   "records_with_dating": 14,
   "catalogue_slot_accounting": [
     {
@@ -2289,7 +2289,7 @@
     },
     {
       "path": "occurrences/occurrences.json",
-      "sha256": "d42c03c48dde2aa04db6d7effc0b68ada37a8f7b5c6e77b4ebcae6e28d598133"
+      "sha256": "d020ba8a3630e234b9ee33c59eb8c8631f1dfd78e8284907532f2cd5a8041dcb"
     },
     {
       "path": "research/identity-reconciliation-v2.json",
@@ -2297,11 +2297,11 @@
     },
     {
       "path": "research/reference-reconciliation-v2.json",
-      "sha256": "337db7b1a9dda2ce6afc49f8735a89ab09be1fa35991b8f812bc7cfb68603fc8"
+      "sha256": "a7b1d042c904263998c55713142e1162daa624c6853dbea8516373b6ed3c064f"
     },
     {
       "path": "research/source-reconciliation.json",
-      "sha256": "8150ba4afc5428632b6bd7d8cf2167490d128ed5a59de394a8e0653f8c15a161"
+      "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e"
     },
     {
       "path": "scripts/assertion_views.py",

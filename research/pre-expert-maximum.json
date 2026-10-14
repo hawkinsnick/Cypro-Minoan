@@ -102,5 +102,13 @@
     "covered_rich_records": 12,
     "uncovered_rich_records": 9,
     "expert_acceptance": false
+  },
+  "CM209_source_checkpoint": {
+    "guide": "docs/CMOC-0209-SOURCE-CHECK.md",
+    "occurrences": 28,
+    "covered_rich_records": 13,
+    "uncovered_rich_records": 8,
+    "full_tablet_transcription": false,
+    "expert_acceptance": false
   }
 }

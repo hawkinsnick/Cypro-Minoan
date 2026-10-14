@@ -26,9 +26,9 @@
     {
       "dimension": "source_verified_occurrences",
       "known": null,
-      "covered": 26,
+      "covered": 28,
       "unit": "occurrences",
-      "interpretation": "26 source-attributed occurrence assertions on 12 of 21 rich records; six primary-publication and twenty dependent-secondary assertions. No complete-object or independent-witness certification."
+      "interpretation": "28 source-attributed occurrence assertions on 13 of 21 rich records; six primary-publication and twenty-two dependent-secondary assertions. No complete-object or independent-witness certification."
     },
     {
       "dimension": "explicit_witness_assertions",

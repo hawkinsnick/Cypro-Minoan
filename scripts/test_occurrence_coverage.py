@@ -6,7 +6,7 @@ class CoverageTests(unittest.TestCase):
     def test_replay_known_scope(self):
         r=coverage(self.records,self.occ)
         self.assertEqual(r,json.loads((R/'analysis/occurrence-coverage-v1.json').read_text()))
-        self.assertEqual((r['rich_records'],r['records_with_encoded_occurrences'],r['encoded_occurrences']),(21,12,26))
+        self.assertEqual((r['rich_records'],r['records_with_encoded_occurrences'],r['encoded_occurrences']),(21,13,28))
         self.assertEqual(sum(s['occurrences'] for s in r['source_strata'] if s['source_role']=='primary_publication'),6)
         self.assertFalse(r['sign_labels_merged']);self.assertFalse(r['corpus_wide_frequency_allowed'])
     def test_comparative_citations_cannot_be_promoted(self):

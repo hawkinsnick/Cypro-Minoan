@@ -15,7 +15,8 @@ def validate_new(rows,root=ROOT):
  expected=checkpoint[KEY]
  if not IS_CH:
   from validate_growth_20261014 import additions
-  growth=additions(root)
+  from validate_CM209_20261014 import additions as cm209_additions
+  growth=additions(root)+cm209_additions(root)
   require([r for r in rows if r not in growth]==expected,'historical source assertions changed')
   require([r for r in rows if r in growth]==growth,'finite source addition drift')
   rows=[r for r in rows if r not in growth]
@@ -71,7 +72,8 @@ def build(root=ROOT):
 def validate(root=ROOT):
  expected=build(root);require(load(root,'research/coverage-denominators.json')==expected,'bounded denominator or source receipt drift')
  comparisons=load(root,'research/source-reconciliation.json')
- require(digest(comparisons['comparisons'])=='76a34c6571cc53bece9ae8ad0b63f2b12724895065e1a7cae9b13f2002ffed09','inspected competing source assertions drift')
+ require(digest(comparisons['comparisons'][:3])=='76a34c6571cc53bece9ae8ad0b63f2b12724895065e1a7cae9b13f2002ffed09','historical competing assertions changed')
+ require(digest(comparisons['comparisons'])=='5aeb01ac7d68ea113f709099ff5988f0df51fb96463be37735dfe43f1ab90c2a','inspected competing source assertions drift')
  require(comparisons['independent_review_complete'] is False and comparisons['primary_reading_agreement_certified'] is False,'unsupported reconciliation promotion')
  for c in comparisons['comparisons']:
   require(len(c['assertions'])==2 and all(a['locator'] and a['source_id'] and a['inspection'] for a in c['assertions']),'disagreement provenance lost')

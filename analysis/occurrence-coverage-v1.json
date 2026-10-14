@@ -1,9 +1,8 @@
 {
   "scope": "Committed rich-record subset only; catalogue placeholders are outside this denominator.",
   "rich_records": 21,
-  "records_with_encoded_occurrences": 12,
+  "records_with_encoded_occurrences": 13,
   "records_without_encoded_occurrences": [
-    "CMOC-0209",
     "CMOC-0216",
     "CMOC-BM-1898.1201.204",
     "CMOC-LVR-AM1639",
@@ -13,7 +12,7 @@
     "CMOC-MET-74.51.4316",
     "CMOC-MET-74.51.5057A"
   ],
-  "encoded_occurrences": 26,
+  "encoded_occurrences": 28,
   "source_strata": [
     {
       "source_id": "bourogiannis2024",
@@ -50,11 +49,14 @@
         "CMOC-0027",
         "CMOC-0028",
         "CMOC-0032",
-        "CMOC-0033"
+        "CMOC-0033",
+        "CMOC-0209"
       ],
-      "occurrences": 14,
+      "occurrences": 16,
       "published_labels": {
+        "08": 1,
         "09": 1,
+        "10": 1,
         "102": 1,
         "110": 1,
         "13": 1,

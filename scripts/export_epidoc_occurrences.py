@@ -28,9 +28,11 @@ def epidoc_cert(value: str) -> str:
     'certain' is the corpus's categorical source assertion, not a probability.
     EpiDoc's closest allowed qualitative encoding is 'high'; retain the original
     category in @ana to avoid pretending the two are identical.
+    Doubtful source identification maps uncertain to low; @ana and notes retain
+    the native uncertainty without assigning a numerical probability.
     """
     mapping = {"certain": "high", "high": "high", "medium": "medium",
-               "low": "low", "unknown": "unknown"}
+               "low": "low", "uncertain": "low", "unknown": "unknown"}
     if value not in mapping:
         raise ValueError(f"Unmapped canonical certainty: {value!r}")
     return mapping[value]

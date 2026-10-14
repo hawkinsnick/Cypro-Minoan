@@ -219,6 +219,21 @@
       "role": "finite_source_growth",
       "path": "scripts/validate_growth_20261014.py",
       "required": true
+    },
+    {
+      "role": "CM209_source_check",
+      "path": "research/source-check-CMOC-0209-2026-10-14.json",
+      "required": true
+    },
+    {
+      "role": "CM209_source_check",
+      "path": "docs/CMOC-0209-SOURCE-CHECK.md",
+      "required": true
+    },
+    {
+      "role": "CM209_source_check",
+      "path": "scripts/validate_CM209_20261014.py",
+      "required": true
     }
   ],
   "behavioral_gates": [

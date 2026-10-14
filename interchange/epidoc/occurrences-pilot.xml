@@ -131,6 +131,24 @@
         <note type="source-editorial-note" corresp="#CMOCC-0033-VALERIO2016-20261014-3">Certainty concerns faithful encoding of the source label, not independent sign identification.</note>
         <note type="source-editorial-note" corresp="#CMOCC-0033-VALERIO2016-20261014-3">Finite attributed numerical assertion; source ordering is not independently verified physical orientation. Olivier 2007 is reported through the thesis, not directly collated; no images or protected prose redistributed.</note>
       </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0209-A.I.2.01-last-group">
+        <head>CMOC-0209 / A.I.2.01-last-group</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="2" ref="urn:cypro-minoan:published-sign:valerio2016thesis:10" cert="low" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-uncertain" xml:id="CMOCC-0209-VALERIO2016-20261014-AI201-2">10</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-0209-VALERIO2016-20261014-AI201-2">printed pp. 527–528, 531 (PDF 533–534, 537), ##209.A.I.2.01, last group</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0209-VALERIO2016-20261014-AI201-2">Reported original label 27; Valério proposes 10. Underlining and adjacent lacuna are retained in this note: the source identification remains doubtful; no whole-line reconstruction.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0209-VALERIO2016-20261014-AI201-2">Position is relative to the named source group, not a physical tablet ordinal. Limited numerical attribution only; primary edition and object not directly collated; no expert acceptance.</note>
+      </div>
+      <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-0209-lat-sup-first-group">
+        <head>CMOC-0209 / lat-sup-first-group</head>
+        <ab type="occurrence-sequence" ana="#partial-coverage">
+          <g n="3" ref="urn:cypro-minoan:published-sign:valerio2016thesis:08" cert="high" resp="#source-valerio2016thesis" ana="#source-role-dependent_secondary #canonical-certainty-certain" xml:id="CMOCC-0209-VALERIO2016-20261014-TOP-3">08</g>
+        </ab>
+        <note type="source-locator" corresp="#CMOCC-0209-VALERIO2016-20261014-TOP-3">printed pp. 527, 531 (PDF 533, 537), ##209.A.I, lat. sup.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0209-VALERIO2016-20261014-TOP-3">Reported original label 13; Valério correction 08 agrees with his critical re-edition. Certainty describes faithful attribution only.</note>
+        <note type="source-editorial-note" corresp="#CMOCC-0209-VALERIO2016-20261014-TOP-3">Position is relative to the named source group, not a physical tablet ordinal. Limited numerical attribution only; primary edition and object not directly collated; no expert acceptance.</note>
+      </div>
       <div type="edition" subtype="partial-source-assertions" xml:id="CMOC-TIRY-ADD244-clay-ball-inscription">
         <head>CMOC-TIRY-ADD244 / clay-ball-inscription</head>
         <ab type="occurrence-sequence" ana="#partial-coverage">
