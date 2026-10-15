@@ -96,3 +96,7 @@ Replayed nine exact Louvre inventory/edition joins and inspected primary context
 ## CMOC-0209 source checkpoint — 14 October 2026
 
 See [CMOC-0209 source check](docs/CMOC-0209-SOURCE-CHECK.md). Current coverage is 28 source assertions on 13/21 rich records, with eight lacking encoded positions. Only two CMOC-0209 positions are added; one remains uncertain. Preserve reported originals and the unresolved internal 09/10 disagreement; do not select either internally conflicting label, infer full-tablet coverage, or claim primary collation/expert acceptance. Earlier dated checkpoints remain historical.
+
+## Evidence and alternative-reading queries
+
+[Query source evidence and unresolved alternatives](docs/EVIDENCE-AND-ALTERNATIVES.md) using exact native IDs, full source records, pinned artifact locators and explicit corpus-specific scope. [Coverage by native view](analysis/evidence-query-coverage.json) keeps catalogue entries, reading versions, assertions and research issues distinct. This interface adds no source collation, canonical reading or expert acceptance.

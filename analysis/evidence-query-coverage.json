@@ -1,0 +1,172 @@
+{
+  "format": "corpus-native-evidence-query-coverage-v1",
+  "repository": "hawkinsnick/Cypro-Minoan",
+  "profile_sha256": "caec9466e31f5d94d9b4bfd50d739ccf5ce0f244fb22b432ab4cad710a38b61b",
+  "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
+  "collections": [
+    {
+      "name": "rich-dossiers",
+      "native_unit": "rich-record dossier",
+      "record_count": 21,
+      "scope": "21 selected rich records; not the full catalogue-slot population.",
+      "example_ids": [
+        "CMOC-0025",
+        "CMOC-0026",
+        "CMOC-0027"
+      ],
+      "provenance": {
+        "path": "research/record-dossiers.json",
+        "sha256": "b0fd6f1c0c03699d1219d7654287d64a973f54295f0293c7eee3e058fcc1d640",
+        "pointer": "/dossiers",
+        "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+        "role": "rich-dossiers",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "qualified-assertions",
+      "native_unit": "source occurrence assertion",
+      "record_count": 28,
+      "scope": "Partial positions only; reported Olivier labels remain reported.",
+      "example_ids": [
+        "CMOCC-TIRY245-H1-1",
+        "CMOCC-TIRY245-H1-2",
+        "CMOCC-TIRY245-H2-M1"
+      ],
+      "provenance": {
+        "path": "research/qualified-assertion-views.json",
+        "sha256": "9812d2353c9b93304e2c0296a20558ca8b1221269c56b42f940e3ff72d1e56f4",
+        "pointer": "/assertions",
+        "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+        "role": "qualified-assertions",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "source-comparisons",
+      "native_unit": "qualified source comparison",
+      "record_count": 6,
+      "scope": "Direct and indirectly reported readings remain distinguished.",
+      "example_ids": [
+        "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
+        "CMOCC-0026-VALERIO2016-source-sequence-5-comparison",
+        "CMOCC-0027-VALERIO2016-source-first-sequence-3-comparison"
+      ],
+      "provenance": {
+        "path": "research/source-reconciliation.json",
+        "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e",
+        "pointer": "/comparisons",
+        "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+        "role": "source-comparisons",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "catalogue-mappings",
+      "native_unit": "source catalogue-number mapping",
+      "record_count": 253,
+      "scope": "253 thesis mappings; not 253 encoded readings or verified objects.",
+      "example_ids": [
+        "1",
+        "2",
+        "3"
+      ],
+      "provenance": {
+        "path": "catalogues/source-located-concordance.json",
+        "sha256": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66",
+        "pointer": "/rows",
+        "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+        "role": "catalogue-mappings",
+        "encoding": "json"
+      }
+    }
+  ],
+  "context_resources": [
+    {
+      "path": "research/record-dossiers.json",
+      "sha256": "b0fd6f1c0c03699d1219d7654287d64a973f54295f0293c7eee3e058fcc1d640",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "role": "rich-dossiers",
+      "encoding": "json"
+    },
+    {
+      "path": "research/qualified-assertion-views.json",
+      "sha256": "9812d2353c9b93304e2c0296a20558ca8b1221269c56b42f940e3ff72d1e56f4",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "role": "qualified-assertions",
+      "encoding": "json"
+    },
+    {
+      "path": "research/source-reconciliation.json",
+      "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "role": "source-comparisons",
+      "encoding": "json"
+    },
+    {
+      "path": "catalogues/source-located-concordance.json",
+      "sha256": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "role": "catalogue-mappings",
+      "encoding": "json"
+    },
+    {
+      "path": "research/source-check-CMOC-0209-2026-10-14.json",
+      "sha256": "ebdbf37edd2240fdf32108607cee6b8d9de77903893be6e10c83058d0c77fcb7",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "research/reference-reconciliation-v2.json",
+      "sha256": "a7b1d042c904263998c55713142e1162daa624c6853dbea8516373b6ed3c064f",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "research/identity-reconciliation-v2.json",
+      "sha256": "04bd47c9aaccd3fb382fb5c09daf1f69c1e79e27fbdb2c28387faf1715fe7380",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "docs/UNCOVERED-RECORD-REVIEW.md",
+      "sha256": "b1af5c314d7ec395f9359aa850bfee7f0328a7286ce815fa566d8ef039dc626e",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "text"
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "29d8d224a0edadb87345f77f4635b57d73771e330d428ba633bfbed244f9570b",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "text"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "e5cae5cefcaaaf0f491598b3793beb874def98c83b544b1be6726145196efe54",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "text"
+    }
+  ],
+  "scholarly_limits": [
+    "Catalogue mappings and rich records overlap. Dependent secondary assertions do not supply independent confirmation. Internal source discrepancies remain unresolved."
+  ],
+  "alternative_pair_count": null,
+  "independent_witness_count": null,
+  "boundary": "These are views of existing source records, not new witnesses or adjudications. Counts retain their declared native units and must not be summed as unique objects. Registers may contain project hypotheses or untraced alternatives. Only explicitly attributed, aligned readings can support an editorial comparison; no alternative-pair or independent-witness count is inferred by this tool."
+}

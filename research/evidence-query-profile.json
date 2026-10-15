@@ -1,0 +1,120 @@
+{
+  "format": "corpus-native-evidence-query-v1",
+  "repository": "hawkinsnick/Cypro-Minoan",
+  "collections": [
+    {
+      "name": "rich-dossiers",
+      "path": "research/record-dossiers.json",
+      "pointer": "/dossiers",
+      "id_pointer": "/record_id",
+      "unit": "rich-record dossier",
+      "scope": "21 selected rich records; not the full catalogue-slot population."
+    },
+    {
+      "name": "qualified-assertions",
+      "path": "research/qualified-assertion-views.json",
+      "pointer": "/assertions",
+      "id_pointer": "/assertion_id",
+      "unit": "source occurrence assertion",
+      "scope": "Partial positions only; reported Olivier labels remain reported."
+    },
+    {
+      "name": "source-comparisons",
+      "path": "research/source-reconciliation.json",
+      "pointer": "/comparisons",
+      "id_pointer": "/comparison_id",
+      "unit": "qualified source comparison",
+      "scope": "Direct and indirectly reported readings remain distinguished."
+    },
+    {
+      "name": "catalogue-mappings",
+      "path": "catalogues/source-located-concordance.json",
+      "pointer": "/rows",
+      "id_pointer": "/catalogue_number",
+      "unit": "source catalogue-number mapping",
+      "scope": "253 thesis mappings; not 253 encoded readings or verified objects."
+    }
+  ],
+  "relations": [
+    {
+      "from": "rich-dossiers",
+      "to": "qualified-assertions",
+      "from_pointer": "/record_id",
+      "to_pointer": "/record_id",
+      "label": "EXACT_DECLARED_ID_MATCH_NOT_PHYSICAL_CERTIFICATION_OR_INDEPENDENCE"
+    },
+    {
+      "from": "rich-dossiers",
+      "to": "source-comparisons",
+      "from_pointer": "/record_id",
+      "to_pointer": "/record_id",
+      "label": "EXACT_DECLARED_ID_MATCH_NOT_PHYSICAL_CERTIFICATION_OR_INDEPENDENCE"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "research/record-dossiers.json",
+      "sha256": "b0fd6f1c0c03699d1219d7654287d64a973f54295f0293c7eee3e058fcc1d640",
+      "encoding": "json",
+      "role": "rich-dossiers"
+    },
+    {
+      "path": "research/qualified-assertion-views.json",
+      "sha256": "9812d2353c9b93304e2c0296a20558ca8b1221269c56b42f940e3ff72d1e56f4",
+      "encoding": "json",
+      "role": "qualified-assertions"
+    },
+    {
+      "path": "research/source-reconciliation.json",
+      "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e",
+      "encoding": "json",
+      "role": "source-comparisons"
+    },
+    {
+      "path": "catalogues/source-located-concordance.json",
+      "sha256": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66",
+      "encoding": "json",
+      "role": "catalogue-mappings"
+    },
+    {
+      "path": "research/source-check-CMOC-0209-2026-10-14.json",
+      "sha256": "ebdbf37edd2240fdf32108607cee6b8d9de77903893be6e10c83058d0c77fcb7",
+      "encoding": "json",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "research/reference-reconciliation-v2.json",
+      "sha256": "a7b1d042c904263998c55713142e1162daa624c6853dbea8516373b6ed3c064f",
+      "encoding": "json",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "research/identity-reconciliation-v2.json",
+      "sha256": "04bd47c9aaccd3fb382fb5c09daf1f69c1e79e27fbdb2c28387faf1715fe7380",
+      "encoding": "json",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "docs/UNCOVERED-RECORD-REVIEW.md",
+      "sha256": "b1af5c314d7ec395f9359aa850bfee7f0328a7286ce815fa566d8ef039dc626e",
+      "encoding": "text",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "29d8d224a0edadb87345f77f4635b57d73771e330d428ba633bfbed244f9570b",
+      "encoding": "text",
+      "role": "corpus-level source/rights/context register"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "e5cae5cefcaaaf0f491598b3793beb874def98c83b544b1be6726145196efe54",
+      "encoding": "text",
+      "role": "corpus-level source/rights/context register"
+    }
+  ],
+  "scholarly_limits": [
+    "Catalogue mappings and rich records overlap. Dependent secondary assertions do not supply independent confirmation. Internal source discrepancies remain unresolved."
+  ],
+  "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21"
+}
