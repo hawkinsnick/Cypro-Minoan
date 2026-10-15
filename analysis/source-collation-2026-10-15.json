@@ -1,0 +1,21 @@
+{
+  "format": "corpus-source-collation-audit-v1",
+  "repository": "hawkinsnick/Cypro-Minoan",
+  "status": "PASS_PACKET_INTEGRITY_NOT_EPIGRAPHIC_ADJUDICATION",
+  "packet_sha256": "061110c15f0611cda3bcd12bed95012c79e91fa1facc1f5dd066b585c7c80a57",
+  "implementation_sha256": "7b050980c9c807dd37070878e1b1e9f34bcec866861ba40bdec6d8d3c3ed4714",
+  "comparison_tasks": 6,
+  "source_consultation_modes": {
+    "BIBLIOGRAPHIC_ROUTE_ONLY": 1,
+    "DIRECT_RENDERED_PDF_PAGE_IMAGES": 1
+  },
+  "rendered_page_inspections": 8,
+  "project_representation_corrections": 0,
+  "frozen_readings_changed": false,
+  "accepted_readings_added": 0,
+  "independent_reviews_added": 0,
+  "source_files_redistributed": false,
+  "alternative_pair_total": null,
+  "independent_witness_total": null,
+  "literature_exhaustive": false
+}

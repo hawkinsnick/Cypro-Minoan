@@ -93,3 +93,7 @@ See [CMOC-0209 source check](docs/CMOC-0209-SOURCE-CHECK.md). Current coverage i
 ## 2026-10-15 — Native evidence and alternative-reading queries
 
 Added pinned native evidence profiles, exact-ID/JSON-pointer queries, coverage replay, loss/corruption/identity/path tests and CI. Updated researcher documentation, AI instructions and evidence bundle indexing. Existing source data and scientific acceptance states are unchanged.
+
+## 2026-10-15 — Selected source collation
+
+Six selected comparisons rechecked against Valério’s rendered pages. Five original Olivier readings remain indirect because the needed2007 book pages were not acquired. The09/10 discrepancy remains real within Valério; its nearby commentary addresses the fourth sign59, not the second sign. Neither disputed label is admitted. Frozen readings and independent-review status remain unchanged.

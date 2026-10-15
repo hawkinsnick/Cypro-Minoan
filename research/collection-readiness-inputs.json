@@ -65,6 +65,7 @@
     "research/source-reconciliation.json",
     "research/tiryns-clay-ball-primary-context.json",
     "research/uncovered-record-review-controls.json",
-    "scripts/source_growth.py"
+    "scripts/source_growth.py",
+    "research/source-collation-2026-10-15.json"
   ]
 }

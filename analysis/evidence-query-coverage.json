@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Cypro-Minoan",
-  "profile_sha256": "611b92db077738ee0bc81fbcd11c1054312c0ffaf6f4f72aefb8ff7bdd3c0a9a",
+  "profile_sha256": "643e00e243b8add6ca9dbdaf3eb13da5ebe4deebdcb82ff506a5dd2c43895689",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -92,10 +92,29 @@
       ],
       "provenance": {
         "path": "research/attribution-review.json",
-        "sha256": "9e98390e940f25de59922414d196fba61dd35b737a747f583f319e6a11a3a7e3",
+        "sha256": "b812c900449840a989c4ab278c40bbcdaa7cf81700f33f354e3119020f920a0a",
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "source-collation-2026-10-15",
+      "native_unit": "selected source collation task",
+      "record_count": 6,
+      "scope": "Six selected comparisons rechecked against Valério’s rendered pages. Five original Olivier readings remain indirect because the needed2007 book pages were not acquired. The09/10 discrepancy remains real within Valério; its nearby commentary addresses the fourth sign59, not the second sign. Neither disputed label is admitted.",
+      "example_ids": [
+        "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
+        "CMOCC-0026-VALERIO2016-source-sequence-5-comparison",
+        "CMOCC-0027-VALERIO2016-source-first-sequence-3-comparison"
+      ],
+      "provenance": {
+        "path": "research/source-collation-2026-10-15.json",
+        "sha256": "061110c15f0611cda3bcd12bed95012c79e91fa1facc1f5dd066b585c7c80a57",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "fresh bounded source collation; consultation modes differ by source",
         "encoding": "json"
       }
     }
@@ -183,7 +202,7 @@
     },
     {
       "path": "research/attribution-review.json",
-      "sha256": "9e98390e940f25de59922414d196fba61dd35b737a747f583f319e6a11a3a7e3",
+      "sha256": "b812c900449840a989c4ab278c40bbcdaa7cf81700f33f354e3119020f920a0a",
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "bounded attribution review",
@@ -196,11 +215,20 @@
       "native_artifacts_snapshot_commit": null,
       "role": "exact-pointer attribution metadata; applicability declared per case",
       "encoding": "json"
+    },
+    {
+      "path": "research/source-collation-2026-10-15.json",
+      "sha256": "061110c15f0611cda3bcd12bed95012c79e91fa1facc1f5dd066b585c7c80a57",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "fresh bounded source collation; consultation modes differ by source",
+      "encoding": "json"
     }
   ],
   "scholarly_limits": [
     "Catalogue mappings and rich records overlap. Dependent secondary assertions do not supply independent confirmation. Internal source discrepancies remain unresolved.",
-    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total.",
+    "Six selected comparisons rechecked against Valério’s rendered pages. Five original Olivier readings remain indirect because the needed2007 book pages were not acquired. The09/10 discrepancy remains real within Valério; its nearby commentary addresses the fourth sign59, not the second sign. Neither disputed label is admitted."
   ],
   "alternative_pair_count": null,
   "independent_witness_count": null,
