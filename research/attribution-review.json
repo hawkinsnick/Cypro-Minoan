@@ -1,0 +1,170 @@
+{
+  "format": "corpus-attribution-review-v1",
+  "repository": "hawkinsnick/Cypro-Minoan",
+  "checked": "2026-10-15",
+  "scope": "All six comparisons: five reassessments have an indirect Olivier side; one is an internal Valério inconsistency. Direct consultation and independence are separate questions.",
+  "consultation_this_pass": "PINNED_REPOSITORY_EVIDENCE_ONLY",
+  "consultation_boundary": "Existing source consultation receipts and limits are inherited exactly from the referenced native packets. This pass inspects those packets, not the underlying publications afresh. No exhaustive literature search, new autopsy or independent review is claimed.",
+  "rights": "Original project review and bibliographic/source pointers only. Native attribution and rights remain attached to evidence; no new source files, figures or full protected editions are redistributed. Linear A GORILA refusal is not relaxed.",
+  "inputs": [
+    {
+      "path": "bibliography/sources.json",
+      "sha256": "9f6127c1fa835472103ce297917419026d0c2cce438f0a1ed4aef877950d48a7",
+      "source_snapshot_commit": "8dd9efd573c2fa2bb8208cacfa61502883643996"
+    },
+    {
+      "path": "research/source-reconciliation.json",
+      "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e",
+      "source_snapshot_commit": "8dd9efd573c2fa2bb8208cacfa61502883643996"
+    }
+  ],
+  "complete_selections": [
+    {
+      "path": "research/source-reconciliation.json",
+      "pointer": "/comparisons",
+      "expected_rows": 6
+    }
+  ],
+  "cases": [
+    {
+      "review_id": "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
+      "case_class": "READING_COMPARISON",
+      "finding": "The comparison names both source positions, but the Olivier side is reported through Valério rather than directly consulted. The two assertions are not independent confirmations.",
+      "remaining_gap": "Inspect the exact Olivier edition locus directly and assess the same physical position; published reassessment remains unadjudicated.",
+      "evidence": [
+        {
+          "path": "research/source-reconciliation.json",
+          "pointer": "/comparisons/0"
+        },
+        {
+          "path": "bibliography/sources.json",
+          "pointer": "/0"
+        },
+        {
+          "path": "bibliography/sources.json",
+          "pointer": "/27"
+        }
+      ],
+      "pair_attribution": "FIRST_SIDE_INDIRECT",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "CMOCC-0026-VALERIO2016-source-sequence-5-comparison",
+      "case_class": "READING_COMPARISON",
+      "finding": "The comparison names both source positions, but the Olivier side is reported through Valério rather than directly consulted. The two assertions are not independent confirmations.",
+      "remaining_gap": "Inspect the exact Olivier edition locus directly and assess the same physical position; published reassessment remains unadjudicated.",
+      "evidence": [
+        {
+          "path": "research/source-reconciliation.json",
+          "pointer": "/comparisons/1"
+        },
+        {
+          "path": "bibliography/sources.json",
+          "pointer": "/0"
+        },
+        {
+          "path": "bibliography/sources.json",
+          "pointer": "/27"
+        }
+      ],
+      "pair_attribution": "FIRST_SIDE_INDIRECT",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3-comparison",
+      "case_class": "READING_COMPARISON",
+      "finding": "The comparison names both source positions, but the Olivier side is reported through Valério rather than directly consulted. The two assertions are not independent confirmations.",
+      "remaining_gap": "Inspect the exact Olivier edition locus directly and assess the same physical position; published reassessment remains unadjudicated.",
+      "evidence": [
+        {
+          "path": "research/source-reconciliation.json",
+          "pointer": "/comparisons/2"
+        },
+        {
+          "path": "bibliography/sources.json",
+          "pointer": "/0"
+        },
+        {
+          "path": "bibliography/sources.json",
+          "pointer": "/27"
+        }
+      ],
+      "pair_attribution": "FIRST_SIDE_INDIRECT",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "CM209-top-comparison",
+      "case_class": "READING_COMPARISON",
+      "finding": "The comparison names both source positions, but the Olivier side is reported through Valério rather than directly consulted. The two assertions are not independent confirmations.",
+      "remaining_gap": "Inspect the exact Olivier edition locus directly and assess the same physical position; published reassessment remains unadjudicated.",
+      "evidence": [
+        {
+          "path": "research/source-reconciliation.json",
+          "pointer": "/comparisons/3"
+        },
+        {
+          "path": "bibliography/sources.json",
+          "pointer": "/0"
+        },
+        {
+          "path": "bibliography/sources.json",
+          "pointer": "/27"
+        }
+      ],
+      "pair_attribution": "FIRST_SIDE_INDIRECT",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "CM209-ai201-comparison",
+      "case_class": "READING_COMPARISON",
+      "finding": "The comparison names both source positions, but the Olivier side is reported through Valério rather than directly consulted. The two assertions are not independent confirmations.",
+      "remaining_gap": "Inspect the exact Olivier edition locus directly and assess the same physical position; published reassessment remains unadjudicated.",
+      "evidence": [
+        {
+          "path": "research/source-reconciliation.json",
+          "pointer": "/comparisons/4"
+        },
+        {
+          "path": "bibliography/sources.json",
+          "pointer": "/0"
+        },
+        {
+          "path": "bibliography/sources.json",
+          "pointer": "/27"
+        }
+      ],
+      "pair_attribution": "FIRST_SIDE_INDIRECT",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "CM209-aii501-internal-comparison",
+      "case_class": "READING_COMPARISON",
+      "finding": "Two incompatible labels occur within Valério’s own apparatus; neither is admitted at this position.",
+      "remaining_gap": "Reconcile table/commentary and critical re-edition at the exact cited pages before encoding this position.",
+      "evidence": [
+        {
+          "path": "research/source-reconciliation.json",
+          "pointer": "/comparisons/5"
+        },
+        {
+          "path": "bibliography/sources.json",
+          "pointer": "/0"
+        },
+        {
+          "path": "bibliography/sources.json",
+          "pointer": "/27"
+        }
+      ],
+      "pair_attribution": "SAME_SOURCE_INTERNAL",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    }
+  ],
+  "new_readings_admitted": 0,
+  "independent_reviews_added": 0
+}

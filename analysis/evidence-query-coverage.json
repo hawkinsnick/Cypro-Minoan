@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Cypro-Minoan",
-  "profile_sha256": "caec9466e31f5d94d9b4bfd50d739ccf5ce0f244fb22b432ab4cad710a38b61b",
+  "profile_sha256": "611b92db077738ee0bc81fbcd11c1054312c0ffaf6f4f72aefb8ff7bdd3c0a9a",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -18,7 +18,7 @@
         "path": "research/record-dossiers.json",
         "sha256": "b0fd6f1c0c03699d1219d7654287d64a973f54295f0293c7eee3e058fcc1d640",
         "pointer": "/dossiers",
-        "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+        "native_artifacts_snapshot_commit": null,
         "role": "rich-dossiers",
         "encoding": "json"
       }
@@ -37,7 +37,7 @@
         "path": "research/qualified-assertion-views.json",
         "sha256": "9812d2353c9b93304e2c0296a20558ca8b1221269c56b42f940e3ff72d1e56f4",
         "pointer": "/assertions",
-        "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+        "native_artifacts_snapshot_commit": null,
         "role": "qualified-assertions",
         "encoding": "json"
       }
@@ -56,7 +56,7 @@
         "path": "research/source-reconciliation.json",
         "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e",
         "pointer": "/comparisons",
-        "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+        "native_artifacts_snapshot_commit": null,
         "role": "source-comparisons",
         "encoding": "json"
       }
@@ -75,8 +75,27 @@
         "path": "catalogues/source-located-concordance.json",
         "sha256": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66",
         "pointer": "/rows",
-        "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+        "native_artifacts_snapshot_commit": null,
         "role": "catalogue-mappings",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "attribution-review",
+      "native_unit": "bounded documentary attribution review task",
+      "record_count": 6,
+      "scope": "All six comparisons: five reassessments have an indirect Olivier side; one is an internal Valério inconsistency. Direct consultation and independence are separate questions.",
+      "example_ids": [
+        "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
+        "CMOCC-0026-VALERIO2016-source-sequence-5-comparison",
+        "CMOCC-0027-VALERIO2016-source-first-sequence-3-comparison"
+      ],
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "9e98390e940f25de59922414d196fba61dd35b737a747f583f319e6a11a3a7e3",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
         "encoding": "json"
       }
     }
@@ -86,7 +105,7 @@
       "path": "research/record-dossiers.json",
       "sha256": "b0fd6f1c0c03699d1219d7654287d64a973f54295f0293c7eee3e058fcc1d640",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "native_artifacts_snapshot_commit": null,
       "role": "rich-dossiers",
       "encoding": "json"
     },
@@ -94,7 +113,7 @@
       "path": "research/qualified-assertion-views.json",
       "sha256": "9812d2353c9b93304e2c0296a20558ca8b1221269c56b42f940e3ff72d1e56f4",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "native_artifacts_snapshot_commit": null,
       "role": "qualified-assertions",
       "encoding": "json"
     },
@@ -102,7 +121,7 @@
       "path": "research/source-reconciliation.json",
       "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "native_artifacts_snapshot_commit": null,
       "role": "source-comparisons",
       "encoding": "json"
     },
@@ -110,7 +129,7 @@
       "path": "catalogues/source-located-concordance.json",
       "sha256": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "native_artifacts_snapshot_commit": null,
       "role": "catalogue-mappings",
       "encoding": "json"
     },
@@ -118,7 +137,7 @@
       "path": "research/source-check-CMOC-0209-2026-10-14.json",
       "sha256": "ebdbf37edd2240fdf32108607cee6b8d9de77903893be6e10c83058d0c77fcb7",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -126,7 +145,7 @@
       "path": "research/reference-reconciliation-v2.json",
       "sha256": "a7b1d042c904263998c55713142e1162daa624c6853dbea8516373b6ed3c064f",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -134,7 +153,7 @@
       "path": "research/identity-reconciliation-v2.json",
       "sha256": "04bd47c9aaccd3fb382fb5c09daf1f69c1e79e27fbdb2c28387faf1715fe7380",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -142,7 +161,7 @@
       "path": "docs/UNCOVERED-RECORD-REVIEW.md",
       "sha256": "b1af5c314d7ec395f9359aa850bfee7f0328a7286ce815fa566d8ef039dc626e",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "text"
     },
@@ -150,7 +169,7 @@
       "path": "LICENSE-CONTENT.md",
       "sha256": "29d8d224a0edadb87345f77f4635b57d73771e330d428ba633bfbed244f9570b",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "text"
     },
@@ -158,13 +177,30 @@
       "path": "NOTICE",
       "sha256": "e5cae5cefcaaaf0f491598b3793beb874def98c83b544b1be6726145196efe54",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "c8e9133d2397c38f6c61124ee363f9826e6ffe21",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "text"
+    },
+    {
+      "path": "research/attribution-review.json",
+      "sha256": "9e98390e940f25de59922414d196fba61dd35b737a747f583f319e6a11a3a7e3",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "bounded attribution review",
+      "encoding": "json"
+    },
+    {
+      "path": "bibliography/sources.json",
+      "sha256": "9f6127c1fa835472103ce297917419026d0c2cce438f0a1ed4aef877950d48a7",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "exact-pointer attribution metadata; applicability declared per case",
+      "encoding": "json"
     }
   ],
   "scholarly_limits": [
-    "Catalogue mappings and rich records overlap. Dependent secondary assertions do not supply independent confirmation. Internal source discrepancies remain unresolved."
+    "Catalogue mappings and rich records overlap. Dependent secondary assertions do not supply independent confirmation. Internal source discrepancies remain unresolved.",
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
   ],
   "alternative_pair_count": null,
   "independent_witness_count": null,
