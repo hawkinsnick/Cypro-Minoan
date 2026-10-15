@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "0ba0949eb5ddac8bd40652f0a0d0bcce07c43479",
-  "generated_at_utc": "2026-10-15T02:37:00+00:00",
+  "source_commit": "cd588fb0f3996a25172c4e3f110ccd11c5a9937a",
+  "generated_at_utc": "2026-10-15T14:39:19+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -14,22 +14,52 @@
   },
   "artifacts": [
     {
+      "role": "selected_source_collation",
+      "path": "research/source-collation-2026-10-15.json",
+      "sha256": "061110c15f0611cda3bcd12bed95012c79e91fa1facc1f5dd066b585c7c80a57",
+      "bytes": 11779
+    },
+    {
+      "role": "selected_source_collation",
+      "path": "analysis/source-collation-2026-10-15.json",
+      "sha256": "b379ed42550ea0fb0d8a57b372961683eb20703af3dc5f48d3cd1b6176bbe1c7",
+      "bytes": 804
+    },
+    {
+      "role": "selected_source_collation",
+      "path": "docs/SOURCE-COLLATION-2026-10-15.md",
+      "sha256": "0185e206c845062de62971cbb7ee5bfb2792c73bd7b3dccfdd1e4329929fbaff",
+      "bytes": 5124
+    },
+    {
+      "role": "selected_source_collation",
+      "path": "scripts/source_collation.py",
+      "sha256": "7b050980c9c807dd37070878e1b1e9f34bcec866861ba40bdec6d8d3c3ed4714",
+      "bytes": 6630
+    },
+    {
+      "role": "selected_source_collation",
+      "path": "scripts/test_source_collation.py",
+      "sha256": "6d025a022bc85a292a6b73bb00b044db4cc57224f2e9353993de681d0cea46c9",
+      "bytes": 4580
+    },
+    {
       "role": "attribution_review",
       "path": "research/attribution-review.json",
-      "sha256": "9e98390e940f25de59922414d196fba61dd35b737a747f583f319e6a11a3a7e3",
-      "bytes": 7119
+      "sha256": "b812c900449840a989c4ab278c40bbcdaa7cf81700f33f354e3119020f920a0a",
+      "bytes": 7856
     },
     {
       "role": "attribution_review",
       "path": "analysis/attribution-review-audit.json",
-      "sha256": "f5f0e92318f14605b5f822668234efec24d9487f805d67fbc8a9928a01430200",
+      "sha256": "8fab2e68b2980c81ea8a47ee92f7868e030a70a9022b1339ea12ecc288c9f1cf",
       "bytes": 934
     },
     {
       "role": "attribution_review",
       "path": "docs/ATTRIBUTION-REVIEW.md",
-      "sha256": "323e0d70df5ca500a3725c4e676c3083e3a3e0da5fb497f8074f5934a646c282",
-      "bytes": 4264
+      "sha256": "8758549ea8d04665e02e5bd284b2234d2d58c2cb4c2c39bdfe91ca2a7b743f59",
+      "bytes": 4682
     },
     {
       "role": "attribution_review",
@@ -46,14 +76,14 @@
     {
       "role": "native_evidence_profile",
       "path": "research/evidence-query-profile.json",
-      "sha256": "611b92db077738ee0bc81fbcd11c1054312c0ffaf6f4f72aefb8ff7bdd3c0a9a",
-      "bytes": 6428
+      "sha256": "643e00e243b8add6ca9dbdaf3eb13da5ebe4deebdcb82ff506a5dd2c43895689",
+      "bytes": 7890
     },
     {
       "role": "native_evidence_coverage",
       "path": "analysis/evidence-query-coverage.json",
-      "sha256": "d766499ee18cb4ca828ee242042a67b53b77af32a131c393646247e569451561",
-      "bytes": 8223
+      "sha256": "8720108d358fa339c7fd49445452aae9aab7828b1d180666343b8ea5602a4946",
+      "bytes": 9979
     },
     {
       "role": "native_evidence_query",
@@ -70,8 +100,8 @@
     {
       "role": "native_evidence_guide",
       "path": "docs/EVIDENCE-AND-ALTERNATIVES.md",
-      "sha256": "0a186b595bcdc19ddf2c7cbd3f7eeee2dd4982a41c5a7b85affe038c71faea8e",
-      "bytes": 5036
+      "sha256": "abb1e7f323c7292d919ed006277a35c91b8fa1854e9c3d94abefb732f7feb9cc",
+      "bytes": 5454
     },
     {
       "role": "CM209_source_check",
