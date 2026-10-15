@@ -1,0 +1,286 @@
+{
+  "format": "corpus-source-collation-v1",
+  "repository": "hawkinsnick/Cypro-Minoan",
+  "checked_local_date": "2026-10-15",
+  "date_basis": "America/Chicago user date",
+  "scope": "Selected source-located comparison tasks, not the whole corpus or an exhaustive literature review. Fresh source modalities are recorded individually; publication inspection does not establish epigraphic truth.",
+  "inputs": [
+    {
+      "path": "research/source-reconciliation.json",
+      "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e",
+      "source_snapshot_commit": "f7e2c965c0ce1e7d733aa55eca62c170ef6677e4"
+    },
+    {
+      "path": "occurrences/occurrences.json",
+      "sha256": "d020ba8a3630e234b9ee33c59eb8c8631f1dfd78e8284907532f2cd5a8041dcb",
+      "source_snapshot_commit": "f7e2c965c0ce1e7d733aa55eca62c170ef6677e4"
+    }
+  ],
+  "frozen_readings_input": "occurrences/occurrences.json",
+  "frozen_readings_changed": false,
+  "sources": [
+    {
+      "source_id": "olivier2007",
+      "citation": "Jean-Pierre Olivier, with Frieda Vandenabeele (2007), Édition holistique des textes chypro-minoens, Biblioteca di Pasiphae6, Fabrizio Serra.",
+      "doi": null,
+      "url": "https://www.libraweb.net/index.php?chiave=2291&dettagliononpdf=1&h=436&name=Olivier.jpg&valore=sku&w=300",
+      "consultation": "BIBLIOGRAPHIC_ROUTE_ONLY",
+      "source_pdf_sha256": null,
+      "source_pdf_bytes": null,
+      "access_receipt": {},
+      "limits": "Publisher web catalogue inspected via web retrieval: print editions/ISBNs and contents; no needed book pages acquired. Ordinary local HTTP returned403. No direct reading confirmation.",
+      "source_file_redistributed": false,
+      "page_inspections": [],
+      "acquisition_target": {
+        "locators": [
+          "p.76, ##026",
+          "p.77, ##027",
+          "p.496, ##209"
+        ],
+        "paperback_isbn": "9788862270311",
+        "hardback_isbn": "9788862270304",
+        "lawful_next_step": "Consult a purchased/borrowed copy or obtain authorized page access; no protected bulk republication is proposed.",
+        "search_boundary": "Bounded publisher/institutional source search; failure to locate a lawful digital copy is not proof none exists."
+      }
+    },
+    {
+      "source_id": "valerio2016",
+      "citation": "Miguel Filipe Grandão Valério (2016), Investigating the Signs and Sounds of Cypro-Minoan, Universitat de Barcelona doctoral thesis.",
+      "doi": null,
+      "url": "https://diposit.ub.edu/server/api/core/bitstreams/1419cfea-e25f-44dd-9a8c-74e9836ae05e/content",
+      "consultation": "DIRECT_RENDERED_PDF_PAGE_IMAGES",
+      "source_pdf_sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+      "source_pdf_bytes": 16322562,
+      "access_receipt": {
+        "id": "valerio2016",
+        "url": "https://diposit.ub.edu/bitstreams/1419cfea-e25f-44dd-9a8c-74e9836ae05e/download",
+        "resolved_url": "https://diposit.ub.edu/server/api/core/bitstreams/1419cfea-e25f-44dd-9a8c-74e9836ae05e/content",
+        "status": 200,
+        "bytes": 16322562,
+        "sha256": "747418cbc4d81b2c2198c5f4eae9ef51028a86a4aee5413d12315659b7099e57",
+        "pdf_magic": true
+      },
+      "limits": "Direct inspection of Valério, not direct Olivier2007 consultation. Published images were inspected as page context; no independent sign adjudication.",
+      "source_file_redistributed": false,
+      "page_inspections": [
+        {
+          "pdf_ordinal": 463,
+          "printed_locator": "p.457, ##026–027",
+          "render_sha256": "dddb7140585825b188ed37c3c9be89dd9bab167e80dbee2e3842f90917d0b1e3",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 464,
+          "printed_locator": "p.458, continuation of ##027",
+          "render_sha256": "563e62873619414534b59a4af3812a1f2f734f99fec461d41790f9c07c9325a1",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 533,
+          "printed_locator": "p.527, ##209.A.I",
+          "render_sha256": "4544e55b812cc1204f0d7853e43ca7470266133983716c98796061f38f9c82a0",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 534,
+          "printed_locator": "p.528, A.I.2.01 commentary",
+          "render_sha256": "3763f99c342e2efa4264d48033b492b58779af9e60aed2a3825251b915e8a667",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 537,
+          "printed_locator": "p.531, critical re-edition A.I",
+          "render_sha256": "75e5af06e4f1731f1de0febd842f0bf8289b3cea39da96b8ece930a8035b3d31",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 538,
+          "printed_locator": "p.532, ##209.A.II",
+          "render_sha256": "c6d24ac41f5178be5e6162a7a1fb7af35fff58cc090978313e61b2c8c00c5305",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 539,
+          "printed_locator": "p.533, A.II.5.01 commentary",
+          "render_sha256": "fbb01e974534282f08d5091b8bfb13610438ac92371810346af24db35eaa7836",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 540,
+          "printed_locator": "p.534, critical re-edition A.II",
+          "render_sha256": "faca3efd86feb58a17e44e09d4529cbf93215c844740c62db78436ef81d0d31d",
+          "render_redistributed": false
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "review_id": "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
+      "comparison_class": "INDIRECT_ORIGINAL_SIDE",
+      "source_ids": [
+        "valerio2016",
+        "olivier2007"
+      ],
+      "observations": [
+        "Valério p.457 ##026 explicitly proposes75→73 at source-sequence position2. The original-side label is still reported through this secondary reassessment."
+      ],
+      "remaining_work": [
+        "Consult Olivier p.76 directly; compare the exact source position and its uncertainty before any promotion."
+      ],
+      "details": {
+        "freshly_inspected_authority": "Valério2016",
+        "olivier_directly_consulted": false,
+        "native_comparison_id": "CMOCC-0026-VALERIO2016-source-sequence-2-comparison"
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-reconciliation.json",
+        "pointer": "/comparisons/0"
+      }
+    },
+    {
+      "review_id": "CMOCC-0026-VALERIO2016-source-sequence-5-comparison",
+      "comparison_class": "INDIRECT_ORIGINAL_SIDE",
+      "source_ids": [
+        "valerio2016",
+        "olivier2007"
+      ],
+      "observations": [
+        "Valério p.457 ##026 explicitly proposes75→73 at source-sequence position5. The original-side label is still reported through this secondary reassessment."
+      ],
+      "remaining_work": [
+        "Consult Olivier p.76 directly; compare the exact source position and its uncertainty before any promotion."
+      ],
+      "details": {
+        "freshly_inspected_authority": "Valério2016",
+        "olivier_directly_consulted": false,
+        "native_comparison_id": "CMOCC-0026-VALERIO2016-source-sequence-5-comparison"
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-reconciliation.json",
+        "pointer": "/comparisons/1"
+      }
+    },
+    {
+      "review_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3-comparison",
+      "comparison_class": "INDIRECT_ORIGINAL_SIDE",
+      "source_ids": [
+        "valerio2016",
+        "olivier2007"
+      ],
+      "observations": [
+        "Valério p.457 prints08→13 at ##027 third position; p.458 attributes the earlier08 to Olivier. No direct Olivier page was inspected."
+      ],
+      "remaining_work": [
+        "Consult Olivier p.77; retain the original attribution as indirect until then."
+      ],
+      "details": {
+        "freshly_inspected_authority": "Valério2016",
+        "olivier_directly_consulted": false,
+        "native_comparison_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3-comparison"
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-reconciliation.json",
+        "pointer": "/comparisons/2"
+      }
+    },
+    {
+      "review_id": "CM209-top-comparison",
+      "comparison_class": "INDIRECT_ORIGINAL_SIDE",
+      "source_ids": [
+        "valerio2016",
+        "olivier2007"
+      ],
+      "observations": [
+        "The p.527 top-group correction13→08 agrees with the critical re-edition p.531 at the declared third position."
+      ],
+      "remaining_work": [
+        "Olivier p.496 and exact physical-position collation remain unacquired/unadjudicated."
+      ],
+      "details": {
+        "freshly_inspected_authority": "Valério2016",
+        "olivier_directly_consulted": false,
+        "native_comparison_id": "CM209-top-comparison"
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-reconciliation.json",
+        "pointer": "/comparisons/3"
+      }
+    },
+    {
+      "review_id": "CM209-ai201-comparison",
+      "comparison_class": "INDIRECT_ORIGINAL_SIDE",
+      "source_ids": [
+        "valerio2016",
+        "olivier2007"
+      ],
+      "observations": [
+        "The p.528 A.I.2.01 correction27→10 is qualified by underlining and an adjacent lacuna; p.531 repeats the proposed10."
+      ],
+      "remaining_work": [
+        "Retain source doubt and lacuna. Direct Olivier and damaged-sign assessment remain open."
+      ],
+      "details": {
+        "freshly_inspected_authority": "Valério2016",
+        "olivier_directly_consulted": false,
+        "native_comparison_id": "CM209-ai201-comparison"
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-reconciliation.json",
+        "pointer": "/comparisons/4"
+      }
+    },
+    {
+      "review_id": "CM209-aii501-internal-comparison",
+      "comparison_class": "INTERNAL_APPARATUS",
+      "source_ids": [
+        "valerio2016"
+      ],
+      "observations": [
+        "At A.II.5.01 second position, pp.532–533 print09; the p.534 critical re-edition prints10. The p.533 paragraph discusses confirmation of the fourth-position59 and does not explain this second-position change."
+      ],
+      "remaining_work": [
+        "Neither second-position label is admitted. An authorial correction or qualified sign-level assessment is required; the last-sign discussion cannot settle09/10."
+      ],
+      "details": {
+        "freshly_inspected_authority": "Valério2016",
+        "olivier_directly_consulted": false,
+        "native_comparison_id": "CM209-aii501-internal-comparison",
+        "location": "A.II.5.01-first-group",
+        "position": 2,
+        "table_label": "09",
+        "commentary_label": "09",
+        "critical_reedition_label": "10",
+        "nearby_discussion_position": 4,
+        "nearby_discussion_label": "59",
+        "encoded_occurrence_added": false
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-reconciliation.json",
+        "pointer": "/comparisons/5"
+      }
+    }
+  ],
+  "accepted_readings_added": 0,
+  "independent_reviews_added": 0,
+  "source_files_redistributed": false,
+  "project_representation_corrections": 0
+}

@@ -16,6 +16,11 @@
       "path": "research/source-reconciliation.json",
       "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e",
       "source_snapshot_commit": "8dd9efd573c2fa2bb8208cacfa61502883643996"
+    },
+    {
+      "path": "research/source-collation-2026-10-15.json",
+      "sha256": "061110c15f0611cda3bcd12bed95012c79e91fa1facc1f5dd066b585c7c80a57",
+      "source_snapshot_commit": null
     }
   ],
   "complete_selections": [
@@ -30,7 +35,7 @@
       "review_id": "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
       "case_class": "READING_COMPARISON",
       "finding": "The comparison names both source positions, but the Olivier side is reported through Valério rather than directly consulted. The two assertions are not independent confirmations.",
-      "remaining_gap": "Inspect the exact Olivier edition locus directly and assess the same physical position; published reassessment remains unadjudicated.",
+      "remaining_gap": "Consult Olivier p.76 directly; compare the exact source position and its uncertainty before any promotion.",
       "evidence": [
         {
           "path": "research/source-reconciliation.json",
@@ -43,6 +48,10 @@
         {
           "path": "bibliography/sources.json",
           "pointer": "/27"
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/0"
         }
       ],
       "pair_attribution": "FIRST_SIDE_INDIRECT",
@@ -53,7 +62,7 @@
       "review_id": "CMOCC-0026-VALERIO2016-source-sequence-5-comparison",
       "case_class": "READING_COMPARISON",
       "finding": "The comparison names both source positions, but the Olivier side is reported through Valério rather than directly consulted. The two assertions are not independent confirmations.",
-      "remaining_gap": "Inspect the exact Olivier edition locus directly and assess the same physical position; published reassessment remains unadjudicated.",
+      "remaining_gap": "Consult Olivier p.76 directly; compare the exact source position and its uncertainty before any promotion.",
       "evidence": [
         {
           "path": "research/source-reconciliation.json",
@@ -66,6 +75,10 @@
         {
           "path": "bibliography/sources.json",
           "pointer": "/27"
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/1"
         }
       ],
       "pair_attribution": "FIRST_SIDE_INDIRECT",
@@ -76,7 +89,7 @@
       "review_id": "CMOCC-0027-VALERIO2016-source-first-sequence-3-comparison",
       "case_class": "READING_COMPARISON",
       "finding": "The comparison names both source positions, but the Olivier side is reported through Valério rather than directly consulted. The two assertions are not independent confirmations.",
-      "remaining_gap": "Inspect the exact Olivier edition locus directly and assess the same physical position; published reassessment remains unadjudicated.",
+      "remaining_gap": "Consult Olivier p.77; retain the original attribution as indirect until then.",
       "evidence": [
         {
           "path": "research/source-reconciliation.json",
@@ -89,6 +102,10 @@
         {
           "path": "bibliography/sources.json",
           "pointer": "/27"
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/2"
         }
       ],
       "pair_attribution": "FIRST_SIDE_INDIRECT",
@@ -99,7 +116,7 @@
       "review_id": "CM209-top-comparison",
       "case_class": "READING_COMPARISON",
       "finding": "The comparison names both source positions, but the Olivier side is reported through Valério rather than directly consulted. The two assertions are not independent confirmations.",
-      "remaining_gap": "Inspect the exact Olivier edition locus directly and assess the same physical position; published reassessment remains unadjudicated.",
+      "remaining_gap": "Olivier p.496 and exact physical-position collation remain unacquired/unadjudicated.",
       "evidence": [
         {
           "path": "research/source-reconciliation.json",
@@ -112,6 +129,10 @@
         {
           "path": "bibliography/sources.json",
           "pointer": "/27"
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/3"
         }
       ],
       "pair_attribution": "FIRST_SIDE_INDIRECT",
@@ -122,7 +143,7 @@
       "review_id": "CM209-ai201-comparison",
       "case_class": "READING_COMPARISON",
       "finding": "The comparison names both source positions, but the Olivier side is reported through Valério rather than directly consulted. The two assertions are not independent confirmations.",
-      "remaining_gap": "Inspect the exact Olivier edition locus directly and assess the same physical position; published reassessment remains unadjudicated.",
+      "remaining_gap": "Retain source doubt and lacuna. Direct Olivier and damaged-sign assessment remain open.",
       "evidence": [
         {
           "path": "research/source-reconciliation.json",
@@ -135,6 +156,10 @@
         {
           "path": "bibliography/sources.json",
           "pointer": "/27"
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/4"
         }
       ],
       "pair_attribution": "FIRST_SIDE_INDIRECT",
@@ -145,7 +170,7 @@
       "review_id": "CM209-aii501-internal-comparison",
       "case_class": "READING_COMPARISON",
       "finding": "Two incompatible labels occur within Valério’s own apparatus; neither is admitted at this position.",
-      "remaining_gap": "Reconcile table/commentary and critical re-edition at the exact cited pages before encoding this position.",
+      "remaining_gap": "Neither second-position label is admitted. An authorial correction or qualified sign-level assessment is required; the last-sign discussion cannot settle09/10.",
       "evidence": [
         {
           "path": "research/source-reconciliation.json",
@@ -158,6 +183,10 @@
         {
           "path": "bibliography/sources.json",
           "pointer": "/27"
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/5"
         }
       ],
       "pair_attribution": "SAME_SOURCE_INTERNAL",
