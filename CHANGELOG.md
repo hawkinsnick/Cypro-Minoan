@@ -89,3 +89,7 @@ Added source-located numerical positions on CMOC-0028, CMOC-0032 and CMOC-0033. 
 ## CMOC-0209 source checkpoint — 14 October 2026
 
 See [CMOC-0209 source check](docs/CMOC-0209-SOURCE-CHECK.md). Current coverage is 28 source assertions on 13/21 rich records, with eight lacking encoded positions. Only two CMOC-0209 positions are added; one remains uncertain. Preserve reported originals and the unresolved internal 09/10 disagreement; do not select either internally conflicting label, infer full-tablet coverage, or claim primary collation/expert acceptance. Earlier dated checkpoints remain historical.
+
+## 2026-10-15 — Native evidence and alternative-reading queries
+
+Added pinned native evidence profiles, exact-ID/JSON-pointer queries, coverage replay, loss/corruption/identity/path tests and CI. Updated researcher documentation, AI instructions and evidence bundle indexing. Existing source data and scientific acceptance states are unchanged.
