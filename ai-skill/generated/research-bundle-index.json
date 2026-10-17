@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "cd588fb0f3996a25172c4e3f110ccd11c5a9937a",
-  "generated_at_utc": "2026-10-15T14:39:19+00:00",
+  "source_commit": "5f03ed32b4731bcb58e23bf5babe146d59434413",
+  "generated_at_utc": "2026-10-17T01:06:59+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -402,6 +402,30 @@
       "path": "NOTICE",
       "sha256": "e5cae5cefcaaaf0f491598b3793beb874def98c83b544b1be6726145196efe54",
       "bytes": 1605
+    },
+    {
+      "role": "research_delivery",
+      "path": "scripts/research_delivery.py",
+      "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
+      "bytes": 10075
+    },
+    {
+      "role": "research_delivery",
+      "path": "scripts/test_research_delivery.py",
+      "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
+      "bytes": 5678
+    },
+    {
+      "role": "research_delivery",
+      "path": "docs/RESEARCH-DELIVERY.md",
+      "sha256": "e745c98907a4134dc4c1e7b7b89aa584215482be81ceccd835495e84aa889189",
+      "bytes": 4065
+    },
+    {
+      "role": "research_delivery",
+      "path": "analysis/research-delivery.json",
+      "sha256": "d68fe4c8cacd0978db7a2ddf1c7d2a83ae550e8e9b5e34684c80af1df009b397",
+      "bytes": 9969
     }
   ]
 }
