@@ -97,3 +97,10 @@ Added pinned native evidence profiles, exact-ID/JSON-pointer queries, coverage r
 ## 2026-10-15 — Selected source collation
 
 Six selected comparisons rechecked against Valério’s rendered pages. Five original Olivier readings remain indirect because the needed2007 book pages were not acquired. The09/10 discrepancy remains real within Valério; its nearby commentary addresses the fourth sign59, not the second sign. Neither disputed label is admitted. Frozen readings and independent-review status remain unchanged.
+
+## 2026-10-17 — Research delivery controls
+
+Add checksum-bound native search/evidence responses, deterministic local research
+packaging and offline replay, revision-bound review submission forms and rejection
+tests. Update individual AI instructions and documentation. No source record,
+reading, expert acceptance or redistribution permission is added by this change.

@@ -21,6 +21,7 @@ CANDIDATES=[('selected_source_collation', 'research/source-collation-2026-10-15.
  ("rights_matrix","DATA-LICENSE-MATRIX.md"),("rights","docs/RIGHTS.md"),
  ("rights_and_licensing","docs/RIGHTS-AND-LICENSING.md"),("notice","NOTICE"),("third_party","THIRD-PARTY-NOTICES.md")
 ]
+CANDIDATES += [("research_delivery", p) for p in ['scripts/research_delivery.py','scripts/test_research_delivery.py','docs/RESEARCH-DELIVERY.md','analysis/research-delivery.json']]
 artifacts=[]
 for role,rel in CANDIDATES:
  p=ROOT/rel

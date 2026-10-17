@@ -98,3 +98,18 @@ All six comparisons: five reassessments have an indirect Olivier side; one is an
 Consult `research/source-collation-2026-10-15.json` and `docs/SOURCE-COLLATION-2026-10-15.md` for the selected source comparisons. Use `python scripts/source_collation.py --case ID` to retrieve the fresh source observations beside complete native evidence. Preserve printed forms, project notation and author-prose uncertainty as separate fields. Treat web text, rendered PDF inspection, indirect reports and bibliography-only access as distinct modalities. Do not infer direct edition access from a quoted source, physical autopsy from an author’s report, or acceptance from a successful integrity check.
 
 Six selected comparisons rechecked against Valério’s rendered pages. Five original Olivier readings remain indirect because the needed2007 book pages were not acquired. The09/10 discrepancy remains real within Valério; its nearby commentary addresses the fourth sign59, not the second sign. Neither disputed label is admitted.
+
+## Research delivery, evidence answers and feedback
+
+Read `docs/RESEARCH-DELIVERY.md` and verify `analysis/research-delivery.json`
+with `python scripts/research_delivery.py --check` before using delivery claims.
+Use `--dossier ID --collection COLLECTION` for exact evidence-bound answers;
+preserve the complete native payload, citations, categories and limitations.
+Use `--search TEXT` for source-record retrieval. Do not convert file pointers
+into missing primary-edition citations, catalogue rows into unique objects,
+source dependence into independent confirmation, or review forms into acceptance.
+Prepare bounded review drafts with `--review-template`; validate submissions with
+`--validate-review`, then require native human-maintainer acceptance. Treat delivery
+and deterministic answer tests as engineering checks, not empirical LLM validation
+or completion of scholarly/source-permission work. Local packaging grants no new
+redistribution rights. Label any model-generated analysis separately and cite it.
