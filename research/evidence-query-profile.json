@@ -49,6 +49,14 @@
       "id_pointer": "/review_id",
       "unit": "selected source collation task",
       "scope": "Six selected comparisons rechecked against Valério’s rendered pages. Five original Olivier readings remain indirect because the needed2007 book pages were not acquired. The09/10 discrepancy remains real within Valério; its nearby commentary addresses the fourth sign59, not the second sign. Neither disputed label is admitted."
+    },
+    {
+      "name": "source-intake-2026-10-18",
+      "path": "research/source-intake-2026-10-18.json",
+      "pointer": "/cases",
+      "id_pointer": "/case_id",
+      "unit": "source acquisition/identity follow-up task, not an inscription or independent witness",
+      "scope": "Current partial progress and unacquired originals; do not add these tasks to historical selected-comparison counts."
     }
   ],
   "relations": [
@@ -164,6 +172,13 @@
       "sha256": "061110c15f0611cda3bcd12bed95012c79e91fa1facc1f5dd066b585c7c80a57",
       "encoding": "json",
       "role": "fresh bounded source collation; consultation modes differ by source",
+      "source_snapshot_commit": null
+    },
+    {
+      "path": "research/source-intake-2026-10-18.json",
+      "sha256": "176cc01584403aab901149f4149a55184bea67f4c8089778a536e02a6857fc2d",
+      "encoding": "json",
+      "role": "bounded source intake and bibliographic identity",
       "source_snapshot_commit": null
     }
   ],

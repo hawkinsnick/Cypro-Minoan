@@ -1,0 +1,72 @@
+{
+  "format": "corpus-source-intake-v1",
+  "repository": "hawkinsnick/Cypro-Minoan",
+  "checked_local_date": "2026-10-18",
+  "date_basis": "America/Chicago",
+  "scope": "Bounded source acquisition, identity and consultation follow-up. Not completed primary typography collation. Existing dated source-collation receipts remain historical and are not overwritten.",
+  "cases": [
+    {
+      "case_id": "CM-OLIVIER2007-INTAKE",
+      "source_title": "Édition holistique des textes chypro-minoens",
+      "authors": [
+        "Jean-Pierre Olivier",
+        "with Frieda Vandenabeele"
+      ],
+      "year": 2007,
+      "isbn_paperback": "9788862270311",
+      "consultation": "PUBLISHER_AND_MUSEUM_BIBLIOGRAPHIC_WEB_RECORDS_ONLY",
+      "status": "REQUEST_SCOPE_RECONCILED_EDITION_PAGES_UNACQUIRED",
+      "url": "https://www.libraweb.net/index.php?chiave=2291&dettagliononpdf=1&valore=sku",
+      "pdf_acquired": false,
+      "pdf_sha256": null,
+      "page_images_inspected": 0,
+      "access_attempts": [
+        {
+          "id": "olivier-publisher",
+          "url": "https://www.libraweb.net/index.php?chiave=2291&dettagliononpdf=1&valore=sku",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "legacy_requested_pages": [
+        76,
+        77,
+        496
+      ],
+      "legacy_p496_role": "Retained project locator; its function is not verified without the page. Do not silently call it the full209 entry.",
+      "museum_bibliographic_assertion": {
+        "url": "https://collections.louvre.fr/ark:/53355/cl010131738",
+        "consultation": "MUSEUM_CATALOGUE_WEB_TEXT",
+        "source_reported_inventory": [
+          "AM2336",
+          "Enk.53 5"
+        ],
+        "bibliography": "Olivier2007, pp.344–383, no.209",
+        "source_notice_updated": "2025-12-30",
+        "meaning": "Museum attribution of a bibliography/entry link, not this project’s direct consultation of those pages or physical certification."
+      },
+      "related_native_tasks": [
+        "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
+        "CMOCC-0026-VALERIO2016-source-sequence-5-comparison",
+        "CMOCC-0027-VALERIO2016-source-first-sequence-3-comparison",
+        "CM209-top-comparison",
+        "CM209-ai201-comparison"
+      ],
+      "remaining_work": [
+        "Obtain pp.76–77 for entries026–027, and confirm the role of496 in a lawful copy.",
+        "For209 request the relevant portion of the catalogue entry cited by the Louvre at344–383, including the compared sign loci and page496 as needed. No new source reading is confirmed.",
+        "Keep Valério’s separate09/10 inconsistency unresolved; a museum bibliography cannot adjudicate a sign."
+      ],
+      "request_text": "Please locate Jean-Pierre Olivier, avec Frieda Vandenabeele, Édition holistique des textes chypro-minoens, Biblioteca di Pasiphae6,2007, ISBN9788862270311. Needed for private scholarly comparison: pp.76–77 (entries026–027); entry209, cited by the Louvre as pp.344–383, particularly the relevant reading/figure loci; and p.496 to verify an existing project locator. Please advise which limited scans can lawfully be supplied. No request for a full-book scan or redistribution."
+    }
+  ],
+  "limits": {
+    "frozen_readings_changed": false,
+    "accepted_readings_added": 0,
+    "independent_reviews_added": 0,
+    "physical_identities_certified": 0,
+    "source_files_redistributed": false,
+    "global_source_exhaustion_claimed": false
+  },
+  "requests_sent": false,
+  "purchases_made": false
+}
