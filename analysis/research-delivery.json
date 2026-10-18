@@ -121,6 +121,23 @@
         "role": "fresh bounded source collation; consultation modes differ by source",
         "encoding": "json"
       }
+    },
+    {
+      "name": "source-intake-2026-10-18",
+      "native_unit": "source acquisition/identity follow-up task, not an inscription or independent witness",
+      "record_count": 1,
+      "scope": "Current partial progress and unacquired originals; do not add these tasks to historical selected-comparison counts.",
+      "example_ids": [
+        "CM-OLIVIER2007-INTAKE"
+      ],
+      "provenance": {
+        "path": "research/source-intake-2026-10-18.json",
+        "sha256": "176cc01584403aab901149f4149a55184bea67f4c8089778a536e02a6857fc2d",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded source intake and bibliographic identity",
+        "encoding": "json"
+      }
     }
   ],
   "scholarly_limits": [
@@ -156,8 +173,8 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "16a3803a212e1ed2161bcf46d1bf90144c04e33743c8d12b4883a742226b2a85",
-      "bytes": 15056
+      "sha256": "0b8bdaab35b4db1c0dd19692b4773dca03be2160a3dcec3b714305d162f35a61",
+      "bytes": 15491
     },
     {
       "path": "bibliography/sources.json",
@@ -186,13 +203,13 @@
     },
     {
       "path": "research/collection-work-ledger.json",
-      "sha256": "8a0657cae0601822ffe3d3e8473d203d9e7607c632f2f1e290c6687a1abd36d7",
-      "bytes": 579493
+      "sha256": "7a2b093935eb88c8012ea734862dfe75c9222c97e3398298d2c5ed166da6ec1d",
+      "bytes": 580593
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "643e00e243b8add6ca9dbdaf3eb13da5ebe4deebdcb82ff506a5dd2c43895689",
-      "bytes": 7890
+      "sha256": "9995c9e11151bafb7b58fa45e07a1415b279e418e88f32a2ec3ebb3045d16fba",
+      "bytes": 8578
     },
     {
       "path": "research/identity-reconciliation-v2.json",
@@ -225,13 +242,18 @@
       "bytes": 11779
     },
     {
+      "path": "research/source-intake-2026-10-18.json",
+      "sha256": "176cc01584403aab901149f4149a55184bea67f4c8089778a536e02a6857fc2d",
+      "bytes": 3535
+    },
+    {
       "path": "research/source-reconciliation.json",
       "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e",
       "bytes": 5226
     },
     {
       "path": "review/collection-packet.json",
-      "sha256": "84d7be68639e7c2a93e435b5ec3abbe02ec349938e088c0b9fab102ef03b0687",
+      "sha256": "8cb52f433788a287493597df194c4eb0a327931344e2ef63f4ed5e2e77ace70c",
       "bytes": 1815
     },
     {
