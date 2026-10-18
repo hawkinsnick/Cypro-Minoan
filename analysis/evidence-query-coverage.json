@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Cypro-Minoan",
-  "profile_sha256": "643e00e243b8add6ca9dbdaf3eb13da5ebe4deebdcb82ff506a5dd2c43895689",
+  "profile_sha256": "9995c9e11151bafb7b58fa45e07a1415b279e418e88f32a2ec3ebb3045d16fba",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -117,6 +117,23 @@
         "role": "fresh bounded source collation; consultation modes differ by source",
         "encoding": "json"
       }
+    },
+    {
+      "name": "source-intake-2026-10-18",
+      "native_unit": "source acquisition/identity follow-up task, not an inscription or independent witness",
+      "record_count": 1,
+      "scope": "Current partial progress and unacquired originals; do not add these tasks to historical selected-comparison counts.",
+      "example_ids": [
+        "CM-OLIVIER2007-INTAKE"
+      ],
+      "provenance": {
+        "path": "research/source-intake-2026-10-18.json",
+        "sha256": "176cc01584403aab901149f4149a55184bea67f4c8089778a536e02a6857fc2d",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded source intake and bibliographic identity",
+        "encoding": "json"
+      }
     }
   ],
   "context_resources": [
@@ -222,6 +239,14 @@
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "fresh bounded source collation; consultation modes differ by source",
+      "encoding": "json"
+    },
+    {
+      "path": "research/source-intake-2026-10-18.json",
+      "sha256": "176cc01584403aab901149f4149a55184bea67f4c8089778a536e02a6857fc2d",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "bounded source intake and bibliographic identity",
       "encoding": "json"
     }
   ],
