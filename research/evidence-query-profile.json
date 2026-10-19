@@ -176,7 +176,7 @@
     },
     {
       "path": "research/source-intake-2026-10-18.json",
-      "sha256": "176cc01584403aab901149f4149a55184bea67f4c8089778a536e02a6857fc2d",
+      "sha256": "21ce36e8ea07ffe2231d933802a51dd0c525938f8cb9a25539c5f75f92ba6886",
       "encoding": "json",
       "role": "bounded source intake and bibliographic identity",
       "source_snapshot_commit": null

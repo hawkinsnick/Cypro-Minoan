@@ -132,7 +132,7 @@
       ],
       "provenance": {
         "path": "research/source-intake-2026-10-18.json",
-        "sha256": "176cc01584403aab901149f4149a55184bea67f4c8089778a536e02a6857fc2d",
+        "sha256": "21ce36e8ea07ffe2231d933802a51dd0c525938f8cb9a25539c5f75f92ba6886",
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "bounded source intake and bibliographic identity",
@@ -173,8 +173,8 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "0b8bdaab35b4db1c0dd19692b4773dca03be2160a3dcec3b714305d162f35a61",
-      "bytes": 15491
+      "sha256": "07fbdfd7cc2fe93da883d4104b227074b58ead0c6f8565e61f4c1a27c2a49b81",
+      "bytes": 15943
     },
     {
       "path": "bibliography/sources.json",
@@ -203,12 +203,12 @@
     },
     {
       "path": "research/collection-work-ledger.json",
-      "sha256": "7a2b093935eb88c8012ea734862dfe75c9222c97e3398298d2c5ed166da6ec1d",
-      "bytes": 580593
+      "sha256": "f51bbccbe82157988cabed5250712851da41cdc4fe21eecd8697aa9e79d59d3a",
+      "bytes": 580846
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "9995c9e11151bafb7b58fa45e07a1415b279e418e88f32a2ec3ebb3045d16fba",
+      "sha256": "4c5f1ad9ba8d3e7f8656f6d5f701d4d42e9aad9ce64f39dd2fd7dd035e342bef",
       "bytes": 8578
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "path": "research/source-intake-2026-10-18.json",
-      "sha256": "176cc01584403aab901149f4149a55184bea67f4c8089778a536e02a6857fc2d",
-      "bytes": 3535
+      "sha256": "21ce36e8ea07ffe2231d933802a51dd0c525938f8cb9a25539c5f75f92ba6886",
+      "bytes": 4402
     },
     {
       "path": "research/source-reconciliation.json",
@@ -253,7 +253,7 @@
     },
     {
       "path": "review/collection-packet.json",
-      "sha256": "8cb52f433788a287493597df194c4eb0a327931344e2ef63f4ed5e2e77ace70c",
+      "sha256": "343e40e7cf0e12ee84387dc0b82b7d916822d04a0188047feab92d1a267deb02",
       "bytes": 1815
     },
     {
