@@ -15,3 +15,7 @@ python scripts/evidence_query.py --list source-intake-2026-10-18
 python scripts/evidence_query.py --record CM-OLIVIER2007-INTAKE --collection source-intake-2026-10-18
 python scripts/evidence_query.py --check
 ```
+
+## Verified physical-volume locator (2026-10-18)
+
+The BnF catalogue reports Olivier2007 under FRBNF41246930, hardback ISBN9788862270304, shelfmark487.1 OLIV e (Tolbiac, Salle L). The native intake packet retains the exact catalogue and reproduction-service links. This is a delivery lead, not acquired edition pages, verified service eligibility or a sign reading. No request was submitted; the five indirect Olivier comparison sides remain indirect.

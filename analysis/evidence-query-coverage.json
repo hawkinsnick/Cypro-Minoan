@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Cypro-Minoan",
-  "profile_sha256": "9995c9e11151bafb7b58fa45e07a1415b279e418e88f32a2ec3ebb3045d16fba",
+  "profile_sha256": "4c5f1ad9ba8d3e7f8656f6d5f701d4d42e9aad9ce64f39dd2fd7dd035e342bef",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -128,7 +128,7 @@
       ],
       "provenance": {
         "path": "research/source-intake-2026-10-18.json",
-        "sha256": "176cc01584403aab901149f4149a55184bea67f4c8089778a536e02a6857fc2d",
+        "sha256": "21ce36e8ea07ffe2231d933802a51dd0c525938f8cb9a25539c5f75f92ba6886",
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "bounded source intake and bibliographic identity",
@@ -243,7 +243,7 @@
     },
     {
       "path": "research/source-intake-2026-10-18.json",
-      "sha256": "176cc01584403aab901149f4149a55184bea67f4c8089778a536e02a6857fc2d",
+      "sha256": "21ce36e8ea07ffe2231d933802a51dd0c525938f8cb9a25539c5f75f92ba6886",
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "bounded source intake and bibliographic identity",

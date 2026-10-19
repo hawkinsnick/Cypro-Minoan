@@ -109,3 +109,7 @@ reading, expert acceptance or redistribution permission is added by this change.
 ### 2026-10-18 source acquisition follow-up
 
 Pursued the requested sources and recorded bounded consultation/access results, source-identity checks and unsent delivery requests. New source-intake tasks are queryable and included in collection/AI routing. Original-page typography work remains open; frozen readings unchanged.
+
+## Verified physical-volume locator (2026-10-18)
+
+The BnF catalogue reports Olivier2007 under FRBNF41246930, hardback ISBN9788862270304, shelfmark487.1 OLIV e (Tolbiac, Salle L). The native intake packet retains the exact catalogue and reproduction-service links. This is a delivery lead, not acquired edition pages, verified service eligibility or a sign reading. No request was submitted; the five indirect Olivier comparison sides remain indirect.

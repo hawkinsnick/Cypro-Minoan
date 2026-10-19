@@ -118,3 +118,7 @@ redistribution rights. Label any model-generated analysis separately and cite it
 ## Source intake status — 2026-10-18
 
 Read `docs/SOURCE-INTAKE-2026-10-18.md` and `research/source-intake-2026-10-18.json` before reporting source completion. Preserve partial consultation versus unacquired original-page checks, corrected bibliographic identities, source-specific conventions and unchanged historical receipts. Request drafts are unsent; no purchase, accepted reading, extra witness or independent review follows.
+
+## Verified physical-volume locator (2026-10-18)
+
+The BnF catalogue reports Olivier2007 under FRBNF41246930, hardback ISBN9788862270304, shelfmark487.1 OLIV e (Tolbiac, Salle L). The native intake packet retains the exact catalogue and reproduction-service links. This is a delivery lead, not acquired edition pages, verified service eligibility or a sign reading. No request was submitted; the five indirect Olivier comparison sides remain indirect.

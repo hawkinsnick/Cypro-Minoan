@@ -14,7 +14,7 @@
       ],
       "year": 2007,
       "isbn_paperback": "9788862270311",
-      "consultation": "PUBLISHER_AND_MUSEUM_BIBLIOGRAPHIC_WEB_RECORDS_ONLY",
+      "consultation": "PUBLISHER_MUSEUM_AND_LIBRARY_BIBLIOGRAPHIC_WEB_RECORDS_ONLY",
       "status": "REQUEST_SCOPE_RECONCILED_EDITION_PAGES_UNACQUIRED",
       "url": "https://www.libraweb.net/index.php?chiave=2291&dettagliononpdf=1&valore=sku",
       "pdf_acquired": false,
@@ -56,7 +56,20 @@
         "For209 request the relevant portion of the catalogue entry cited by the Louvre at344–383, including the compared sign loci and page496 as needed. No new source reading is confirmed.",
         "Keep Valério’s separate09/10 inconsistency unresolved; a museum bibliography cannot adjudicate a sign."
       ],
-      "request_text": "Please locate Jean-Pierre Olivier, avec Frieda Vandenabeele, Édition holistique des textes chypro-minoens, Biblioteca di Pasiphae6,2007, ISBN9788862270311. Needed for private scholarly comparison: pp.76–77 (entries026–027); entry209, cited by the Louvre as pp.344–383, particularly the relevant reading/figure loci; and p.496 to verify an existing project locator. Please advise which limited scans can lawfully be supplied. No request for a full-book scan or redistribution."
+      "request_text": "Please locate Jean-Pierre Olivier, avec Frieda Vandenabeele, Édition holistique des textes chypro-minoens, Biblioteca di Pasiphae6,2007, ISBN9788862270311. Needed for private scholarly comparison: pp.76–77 (entries026–027); entry209, cited by the Louvre as pp.344–383, particularly the relevant reading/figure loci; and p.496 to verify an existing project locator. Please advise which limited scans can lawfully be supplied. No request for a full-book scan or redistribution. A verified physical-volume locator is BnF FRBNF41246930, shelfmark487.1 OLIV e, hardback ISBN9788862270304. The catalogue is not the book; no scans or reproduction eligibility have been confirmed.",
+      "institutional_delivery_locator": {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb41246930n",
+        "institution": "Bibliothèque nationale de France",
+        "notice": "FRBNF41246930",
+        "isbn_hardback": "9788862270304",
+        "source_reported_shelfmark": "487.1 OLIV e",
+        "source_reported_location": "Tolbiac, Rez-de-jardin, Salle L",
+        "consultation": "INSTITUTIONAL_CATALOGUE_WEB_TEXT_ONLY",
+        "source_reports_physical_volume": true,
+        "scans_supplied": false,
+        "reproduction_service_link": "https://achatsreproduction.bnf.fr/",
+        "service_eligibility_or_fulfilment_not_verified": true
+      }
     }
   ],
   "limits": {
