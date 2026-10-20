@@ -1,0 +1,110 @@
+{
+  "format": "corpus-ai-skill-function-check-v1",
+  "repository": "hawkinsnick/Cypro-Minoan",
+  "status": "PASS_SCOPED_FUNCTIONAL_CHECKS",
+  "scope": "NATIVE_EVIDENCE_RETRIEVAL",
+  "skill_name": "cypro-minoan-research",
+  "skill_version": "0.3.1",
+  "skill_sha256": "b002f5dcfdab675a7dc87ebf0daa2459656753c190114f8c14e02e163617c671",
+  "bundle_source_commit": "50f95a3907dc21f3dab315028eded603b237d007",
+  "bundle_sha256": "569ab54f31830ac6267dce70f03c4279117265a9195f58efd0989c19eee64317",
+  "indexed_artifact_entries_checked": 80,
+  "unique_indexed_paths_checked": 80,
+  "lookups": [
+    {
+      "collection": "rich-dossiers",
+      "id": "CMOC-0025",
+      "native_unit": "rich-record dossier",
+      "provenance": {
+        "path": "research/record-dossiers.json",
+        "sha256": "b0fd6f1c0c03699d1219d7654287d64a973f54295f0293c7eee3e058fcc1d640",
+        "pointer": "/dossiers/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "rich-dossiers",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "qualified-assertions",
+      "id": "CMOCC-TIRY245-H1-1",
+      "native_unit": "source occurrence assertion",
+      "provenance": {
+        "path": "research/qualified-assertion-views.json",
+        "sha256": "9812d2353c9b93304e2c0296a20558ca8b1221269c56b42f940e3ff72d1e56f4",
+        "pointer": "/assertions/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "qualified-assertions",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "source-comparisons",
+      "id": "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
+      "native_unit": "qualified source comparison",
+      "provenance": {
+        "path": "research/source-reconciliation.json",
+        "sha256": "857d6bcb7232073fbbf4dfddf07b9c5b4a3329b388fe467a9e1e08d6a5903e4e",
+        "pointer": "/comparisons/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "source-comparisons",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "catalogue-mappings",
+      "id": "1",
+      "native_unit": "source catalogue-number mapping",
+      "provenance": {
+        "path": "catalogues/source-located-concordance.json",
+        "sha256": "a17030df57896320b3c2a9e7882ea5f6e5b7c2c6d018fe83f3f4c2f9cf3fae66",
+        "pointer": "/rows/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "catalogue-mappings",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "attribution-review",
+      "id": "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
+      "native_unit": "bounded documentary attribution review task",
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "b812c900449840a989c4ab278c40bbcdaa7cf81700f33f354e3119020f920a0a",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "source-collation-2026-10-15",
+      "id": "CMOCC-0026-VALERIO2016-source-sequence-2-comparison",
+      "native_unit": "selected source collation task",
+      "provenance": {
+        "path": "research/source-collation-2026-10-15.json",
+        "sha256": "061110c15f0611cda3bcd12bed95012c79e91fa1facc1f5dd066b585c7c80a57",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "fresh bounded source collation; consultation modes differ by source",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "source-intake-2026-10-18",
+      "id": "CM-OLIVIER2007-INTAKE",
+      "native_unit": "source acquisition/identity follow-up task, not an inscription or independent witness",
+      "provenance": {
+        "path": "research/source-intake-2026-10-18.json",
+        "sha256": "21ce36e8ea07ffe2231d933802a51dd0c525938f8cb9a25539c5f75f92ba6886",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded source intake and bibliographic identity",
+        "encoding": "json"
+      }
+    }
+  ],
+  "missing_id_rejected": true,
+  "scholarly_acceptance_granted": false,
+  "empirical_model_accuracy_established": false,
+  "limits": "Deterministic workflow checks only. Independent model usage exercises are recorded separately; no cross-platform accuracy or scholarly acceptance is inferred."
+}
