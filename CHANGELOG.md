@@ -1,3 +1,9 @@
+## AI skill validation — 2026-10-20 (contract remains 0.3.1)
+
+- Add executable skill checks, exact native lookup examples and a GitHub check receipt.
+- Fingerprint operational skill files and retain source-specific evidence limits.
+- Return a structured rejection for invalid/missing evidence requests.
+
 ## Unreleased — EpiDoc occurrence interoperability pilot (2026-10-07)
 
 - Added a loss-aware exporter for the 12 source-checked occurrence assertions; partial coverage must not be read as a complete transcription.
