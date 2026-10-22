@@ -234,6 +234,21 @@
       "role": "CM209_source_check",
       "path": "scripts/validate_CM209_20261014.py",
       "required": true
+    },
+    {
+      "path": "research/source-recheck-2026-10-21.json",
+      "role": "bounded_printed_source_recheck",
+      "required": true
+    },
+    {
+      "path": "docs/SOURCE-RECHECK-2026-10-21.md",
+      "role": "bounded_printed_source_recheck",
+      "required": true
+    },
+    {
+      "path": "scripts/validate_source_recheck_20261021.py",
+      "role": "bounded_printed_source_recheck",
+      "required": true
     }
   ],
   "behavioral_gates": [

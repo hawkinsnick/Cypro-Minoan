@@ -1,5 +1,7 @@
 # Cypro-Minoan Open Corpus
 
+[Bounded Tiryns publication recheck](docs/SOURCE-RECHECK-2026-10-21.md): documentary agreement with three existing source assertions; independent epigraphic review remains open.
+
 
 ## Use the AI research skill
 

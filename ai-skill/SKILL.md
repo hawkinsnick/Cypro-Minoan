@@ -144,3 +144,11 @@ Read `docs/SOURCE-INTAKE-2026-10-18.md` and `research/source-intake-2026-10-18.j
 ## Verified physical-volume locator (2026-10-18)
 
 The BnF catalogue reports Olivier2007 under FRBNF41246930, hardback ISBN9788862270304, shelfmark487.1 OLIV e (Tolbiac, Salle L). The native intake packet retains the exact catalogue and reproduction-service links. This is a delivery lead, not acquired edition pages, verified service eligibility or a sign reading. No request was submitted; the five indirect Olivier comparison sides remain indirect.
+
+## Bounded printed-publication recheck
+
+Read `docs/SOURCE-RECHECK-2026-10-21.md` and its receipt before reporting the
+latest documentary check on CMOC-TIRY-ADD244. The three source catalogue labels
+were compared with the rendered publication pages; no glyph, phonetic value,
+independent witness or expert gate was certified. Run
+`python scripts/validate_source_recheck_20261021.py` to replay the native match.

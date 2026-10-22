@@ -1,0 +1,64 @@
+{
+  "format": "bounded-printed-publication-recheck-v1",
+  "record_id": "CMOC-TIRY-ADD244",
+  "source_id": "vetters2011",
+  "native_repository": "hawkinsnick/Cypro-Minoan",
+  "native_input_commit": "185ef0a44222281fbde53589185f8b647ad85313",
+  "native_path": "occurrences/occurrences.json",
+  "native_path_sha256": "d020ba8a3630e234b9ee33c59eb8c8631f1dfd78e8284907532f2cd5a8041dcb",
+  "publication": {
+    "author": "Melissa Vetters",
+    "title": "A Clay Ball with a Cypro-Minoan Inscription from Tiryns",
+    "issue": "Archäologischer Anzeiger 2011/2",
+    "printed_pages": "1–49",
+    "publisher_route": "https://publications.dainst.org/journals/aa/article/download/99/4770",
+    "acquired_copy": "https://d-nb.info/1266074589/34",
+    "transport": "Ordinary unauthenticated German National Library delivery; publisher route readable in web retrieval but ordinary download returned HTTP 503",
+    "pdf_bytes": 587527,
+    "pdf_sha256": "d303242bba1e547c4da5688c033758d55747d162042b2bf82f974effd3c99132",
+    "pdf_page_count": 50,
+    "cover_page_before_article": true,
+    "printed_pages_inspected": [
+      16,
+      17
+    ],
+    "one_based_pdf_pages_inspected": [
+      17,
+      18
+    ],
+    "inspection": "Pages rendered locally and visually inspected by the authoring assistant; source reading checked against publication wording. No independent specialist or object inspection."
+  },
+  "assertions": [
+    {
+      "occurrence_id": "CMOCC-TIRY244-1",
+      "position": 1,
+      "recorded_source_label": "41",
+      "source_documentary_comparison": "MATCH",
+      "source_locus": "Printed p.16, Interpretation of the Signs, concluding paragraph; printed p.17 corroborating discussion and notes 129/139.",
+      "meaning": "Source catalogue identifier only, not a phonetic value or new glyph adjudication."
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY244-2",
+      "position": 2,
+      "recorded_source_label": "41",
+      "source_documentary_comparison": "MATCH",
+      "source_locus": "Printed p.16, Interpretation of the Signs, concluding paragraph; printed p.17 corroborating discussion and notes 129/139.",
+      "meaning": "Source catalogue identifier only, not a phonetic value or new glyph adjudication."
+    },
+    {
+      "occurrence_id": "CMOCC-TIRY244-3",
+      "position": 3,
+      "recorded_source_label": "97",
+      "source_documentary_comparison": "MATCH",
+      "source_locus": "Printed p.16, Interpretation of the Signs, concluding paragraph; printed p.17 corroborating discussion and notes 129/139.",
+      "meaning": "Source catalogue identifier only, not a phonetic value or new glyph adjudication."
+    }
+  ],
+  "finding": "The publication describes two instances of label 41 followed by label 97. The three existing attributed occurrence labels match that publication statement.",
+  "corrections_to_native_readings": 0,
+  "new_independent_witnesses": 0,
+  "primary_object_inspected": false,
+  "external_specialist_review": false,
+  "rights": "Publisher copy retains copyright and restrictive reproduction terms; only bibliographic metadata, numerical catalogue facts and original analytical notes are published. No PDF, source images, figures or extended source text redistributed. Access to the library copy does not grant new reuse rights.",
+  "remaining": "Independent epigraphic adjudication, broader corpus collation and graphical certification remain open."
+}
