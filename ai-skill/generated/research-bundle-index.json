@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "6f15f3bee81a21d2514d33e7baf8fcb11ae66829",
-  "generated_at_utc": "2026-10-20T16:52:07+00:00",
+  "source_commit": "b690e2200f73b736e5d7209fa35e035759bb93b7",
+  "generated_at_utc": "2026-10-22T01:55:06+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -436,14 +436,14 @@
     {
       "role": "research_delivery",
       "path": "analysis/research-delivery.json",
-      "sha256": "8ec192605e9da59a2e5c9aca1a48de433e6d059c84a461016d69803e58eacde3",
+      "sha256": "b9c5a80a5071609f4a7264dcc7af650dddfc2238110a7464101ad8cadcae3452",
       "bytes": 10878
     },
     {
       "role": "skill_function_validation",
       "path": "ai-skill/SKILL.md",
-      "sha256": "b002f5dcfdab675a7dc87ebf0daa2459656753c190114f8c14e02e163617c671",
-      "bytes": 17307
+      "sha256": "b47fb584636d284faf1551a382ccadfe69aa9c49542ddb24074b0819fa4596e2",
+      "bytes": 17718
     },
     {
       "role": "skill_function_validation",
@@ -478,8 +478,8 @@
     {
       "role": "skill_validator_code",
       "path": "ai-skill/scripts/build_bundle.py",
-      "sha256": "fccb006e16bac2eaeeec386aa4f3a816d2b373ac91b34d907d8c9cee2cdb72b1",
-      "bytes": 6773
+      "sha256": "90f006782ed33c620a849a09e994568045cef5d416e19d59ba3e67205ac809e0",
+      "bytes": 7006
     },
     {
       "role": "skill_validator_code",
@@ -492,6 +492,30 @@
       "path": "ai-skill/scripts/sync_skill.py",
       "sha256": "a4afd4e907a41ecc923ccf73c72a1a229f0b98c78f9eea51b06f06d3f359a30e",
       "bytes": 232
+    },
+    {
+      "role": "bounded_printed_source_recheck",
+      "path": "research/source-recheck-2026-10-21.json",
+      "sha256": "9cd43d2e01ede7a567bbdd6332c691cad76a432d8be1f38d8ddbe8f57ece3009",
+      "bytes": 3403
+    },
+    {
+      "role": "bounded_printed_source_recheck",
+      "path": "docs/SOURCE-RECHECK-2026-10-21.md",
+      "sha256": "f6277b748a52d133dc2408fa42edcf7372ad12a08456a91950a436432edf24a3",
+      "bytes": 1205
+    },
+    {
+      "role": "bounded_printed_source_recheck",
+      "path": "scripts/validate_source_recheck_20261021.py",
+      "sha256": "1ef47366ceba011a73a64140597f5b5eb459768d9cd44e4f41f33ad4b8622639",
+      "bytes": 1157
+    },
+    {
+      "role": "bounded_printed_source_recheck",
+      "path": "ai-skill/references/authority-profile.json",
+      "sha256": "bc8f10de2b0cde90813973d20e62dcb423ca653713ce3bd65061a57fed690ede",
+      "bytes": 7452
     }
   ]
 }
