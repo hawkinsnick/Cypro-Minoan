@@ -152,3 +152,12 @@ latest documentary check on CMOC-TIRY-ADD244. The three source catalogue labels
 were compared with the rendered publication pages; no glyph, phonetic value,
 independent witness or expert gate was certified. Run
 `python scripts/validate_source_recheck_20261021.py` to replay the native match.
+
+## Preserve review provenance
+
+Reject malformed JSON-pointer escapes and negative or leading-zero array indices
+when verifying source citations; literal object keys retain their own spelling.
+Read the [master hostile-review report](https://github.com/hawkinsnick/Master-Corpus-AI-Skill/blob/main/references/hostile-review-2026-10-25.md)
+for this member's pinned retrieval scope and the limits of the source-fidelity
+and development checks. Complete retrieval-view traversal does not certify
+corpus completeness, accepted readings, independent witnesses or expert review.
