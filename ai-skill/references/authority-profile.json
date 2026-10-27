@@ -249,6 +249,11 @@
       "path": "scripts/validate_source_recheck_20261021.py",
       "role": "bounded_printed_source_recheck",
       "required": true
+    },
+    {
+      "role": "nonreview_workflow",
+      "path": "docs/NONREVIEW-WORK.md",
+      "required": true
     }
   ],
   "behavioral_gates": [
